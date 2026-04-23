@@ -1,0 +1,1465 @@
+
+[2026-04-04 07:26:15] keyword_filter - INPUT: 40条
+============================================================
+  - [] 犹他州试点项目：AI续订15种精神科药物处方
+  - [] AI制药领域迎来万亿独角兽，投资人获38513%回报
+  - [] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [] 苹果高价收购移动DRAM，阻止竞争对手获取内存芯片
+  - [] 清华长庚团队首创机器人辅助膝关节韧带重建术
+  - [] 宇树科技一种移动机器人专利获授权
+  - [] 新型纳米制造方法实现发光材料“精准印刷”
+  - [] Anthropic以近4亿美元收购AI生物技术公司Coefficient Bio
+  - [] DayOne将在马来西亚投资69亿美元于数据中心运营
+  - [] 2026款小鹏MONA M03正式上市
+  - [] OpenAI以数亿美元的价格收购了TBPN
+  - [] ChatGPT 已集成至苹果 CarPlay，支持车载使用
+  - [] 英伟达加速 Gemma 4 模型，赋能本地化智能体 AI
+  - [] 阿里云联合近百家伙伴打造金融行业通用智能体
+  - [] 市场消息：微软计划在2027年前创建大型前沿AI模型
+  - [] StairMed获得阿里巴巴领投、腾讯跟投的5亿元人民币融资
+  - [] “无界方舟”连续完成数亿元融资
+  - [] 马斯克发起人类史上最大融资：一切为了 AI！一切为了火星！
+  - [] 机器人OQrimo实现无压迫视网膜观察
+  - [] Google AI Pro订阅存储扩至5TB，月费仍为19.99美元
+  - [] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+  - [] Hugging Face发布Diffusers库扩散管道性能分析指南
+  - [] 创业者 @vchennai2 以个人身份入选 Y Combinator
+  - [] PyTorch宣布将于2026年5月举办Docathon活动
+  - [] a16z：货运承运商繁忙度与拒单率创近年新高，AI对SaaS影响呈选择性
+  - [] a16z分析AI与SaaS关系：整合能力决定成败，AI正获取增量技术支出
+  - [] 经合组织发布最新动态，关注AI欺诈风险与全球增长前景
+
+[2026-04-04 07:26:15] keyword_filter - OUTPUT: 26条 | 移除14条
+============================================================
+  - [] 犹他州试点项目：AI续订15种精神科药物处方
+  - [] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [] 宇树科技一种移动机器人专利获授权
+  - [] 新型纳米制造方法实现发光材料“精准印刷”
+  - [] ChatGPT 已集成至苹果 CarPlay，支持车载使用
+  - [] 英伟达加速 Gemma 4 模型，赋能本地化智能体 AI
+  - [] 阿里云联合近百家伙伴打造金融行业通用智能体
+  - [] 机器人OQrimo实现无压迫视网膜观察
+  - [] Google AI Pro订阅存储扩至5TB，月费仍为19.99美元
+  - [] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+  - [] Hugging Face发布Diffusers库扩散管道性能分析指南
+  - [] a16z：货运承运商繁忙度与拒单率创近年新高，AI对SaaS影响呈选择性
+  - [] a16z分析AI与SaaS关系：整合能力决定成败，AI正获取增量技术支出
+
+[2026-04-04 07:26:15] bge_dedup - INPUT: 26条
+============================================================
+  - [] 犹他州试点项目：AI续订15种精神科药物处方
+  - [] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [] 宇树科技一种移动机器人专利获授权
+  - [] 新型纳米制造方法实现发光材料“精准印刷”
+  - [] ChatGPT 已集成至苹果 CarPlay，支持车载使用
+  - [] 英伟达加速 Gemma 4 模型，赋能本地化智能体 AI
+  - [] 阿里云联合近百家伙伴打造金融行业通用智能体
+  - [] 机器人OQrimo实现无压迫视网膜观察
+  - [] Google AI Pro订阅存储扩至5TB，月费仍为19.99美元
+  - [] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+  - [] Hugging Face发布Diffusers库扩散管道性能分析指南
+  - [] a16z：货运承运商繁忙度与拒单率创近年新高，AI对SaaS影响呈选择性
+  - [] a16z分析AI与SaaS关系：整合能力决定成败，AI正获取增量技术支出
+
+[2026-04-04 07:26:53] bge_dedup - OUTPUT: 26条 | 移除0条
+============================================================
+  - [] 犹他州试点项目：AI续订15种精神科药物处方
+  - [] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [] 宇树科技一种移动机器人专利获授权
+  - [] 新型纳米制造方法实现发光材料“精准印刷”
+  - [] ChatGPT 已集成至苹果 CarPlay，支持车载使用
+  - [] 英伟达加速 Gemma 4 模型，赋能本地化智能体 AI
+  - [] 阿里云联合近百家伙伴打造金融行业通用智能体
+  - [] 机器人OQrimo实现无压迫视网膜观察
+  - [] Google AI Pro订阅存储扩至5TB，月费仍为19.99美元
+  - [] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+  - [] Hugging Face发布Diffusers库扩散管道性能分析指南
+  - [] a16z：货运承运商繁忙度与拒单率创近年新高，AI对SaaS影响呈选择性
+  - [] a16z分析AI与SaaS关系：整合能力决定成败，AI正获取增量技术支出
+
+[2026-04-04 07:26:53] llm_classify - INPUT: 26条
+============================================================
+  - [] 犹他州试点项目：AI续订15种精神科药物处方
+  - [] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [] 宇树科技一种移动机器人专利获授权
+  - [] 新型纳米制造方法实现发光材料“精准印刷”
+  - [] ChatGPT 已集成至苹果 CarPlay，支持车载使用
+  - [] 英伟达加速 Gemma 4 模型，赋能本地化智能体 AI
+  - [] 阿里云联合近百家伙伴打造金融行业通用智能体
+  - [] 机器人OQrimo实现无压迫视网膜观察
+  - [] Google AI Pro订阅存储扩至5TB，月费仍为19.99美元
+  - [] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+  - [] Hugging Face发布Diffusers库扩散管道性能分析指南
+  - [] a16z：货运承运商繁忙度与拒单率创近年新高，AI对SaaS影响呈选择性
+  - [] a16z分析AI与SaaS关系：整合能力决定成败，AI正获取增量技术支出
+
+[2026-04-04 07:27:03] llm_classify - OUTPUT: 26条 | 保留26条
+============================================================
+  - [国外AI资讯] 犹他州试点项目：AI续订15种精神科药物处方
+  - [国外AI资讯] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [智能硬件] 宇树科技一种移动机器人专利获授权
+  - [其它科技资讯] 新型纳米制造方法实现发光材料“精准印刷”
+  - [国外AI资讯] ChatGPT 已集成至苹果 CarPlay，支持车载使用
+  - [国外AI资讯] 英伟达加速 Gemma 4 模型，赋能本地化智能体 AI
+  - [国内AI资讯] 阿里云联合近百家伙伴打造金融行业通用智能体
+  - [智能硬件] 机器人OQrimo实现无压迫视网膜观察
+  - [国外AI资讯] Google AI Pro订阅存储扩至5TB，月费仍为19.99美元
+  - [国外AI资讯] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [国外AI资讯] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [国外AI资讯] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [国外AI资讯] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [国外AI资讯] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [其它科技资讯] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [其它科技资讯] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [国外AI资讯] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [智能硬件] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [国外AI资讯] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [其它科技资讯] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [国外AI资讯] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [国外AI资讯] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [国外AI资讯] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+  - [国外AI资讯] Hugging Face发布Diffusers库扩散管道性能分析指南
+  - [国外AI资讯] a16z：货运承运商繁忙度与拒单率创近年新高，AI对SaaS影响呈选择性
+  - [国外AI资讯] a16z分析AI与SaaS关系：整合能力决定成败，AI正获取增量技术支出
+
+[2026-04-04 07:27:03] llm_summary - INPUT: 26条
+============================================================
+  - [国外AI资讯] 犹他州试点项目：AI续订15种精神科药物处方
+  - [国外AI资讯] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [智能硬件] 宇树科技一种移动机器人专利获授权
+  - [其它科技资讯] 新型纳米制造方法实现发光材料“精准印刷”
+  - [国外AI资讯] ChatGPT 已集成至苹果 CarPlay，支持车载使用
+  - [国外AI资讯] 英伟达加速 Gemma 4 模型，赋能本地化智能体 AI
+  - [国内AI资讯] 阿里云联合近百家伙伴打造金融行业通用智能体
+  - [智能硬件] 机器人OQrimo实现无压迫视网膜观察
+  - [国外AI资讯] Google AI Pro订阅存储扩至5TB，月费仍为19.99美元
+  - [国外AI资讯] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [国外AI资讯] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [国外AI资讯] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [国外AI资讯] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [国外AI资讯] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [其它科技资讯] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [其它科技资讯] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [国外AI资讯] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [智能硬件] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [国外AI资讯] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [其它科技资讯] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [国外AI资讯] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [国外AI资讯] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [国外AI资讯] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+  - [国外AI资讯] Hugging Face发布Diffusers库扩散管道性能分析指南
+  - [国外AI资讯] a16z：货运承运商繁忙度与拒单率创近年新高，AI对SaaS影响呈选择性
+  - [国外AI资讯] a16z分析AI与SaaS关系：整合能力决定成败，AI正获取增量技术支出
+
+[2026-04-04 07:28:38] keyword_filter - INPUT: 40条
+============================================================
+  - [] 犹他州试点项目：AI续订15种精神科药物处方
+  - [] AI制药领域迎来万亿独角兽，投资人获38513%回报
+  - [] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [] 苹果高价收购移动DRAM，阻止竞争对手获取内存芯片
+  - [] 清华长庚团队首创机器人辅助膝关节韧带重建术
+  - [] 宇树科技一种移动机器人专利获授权
+  - [] 新型纳米制造方法实现发光材料“精准印刷”
+  - [] Anthropic以近4亿美元收购AI生物技术公司Coefficient Bio
+  - [] DayOne将在马来西亚投资69亿美元于数据中心运营
+  - [] 2026款小鹏MONA M03正式上市
+  - [] OpenAI以数亿美元的价格收购了TBPN
+  - [] ChatGPT 已集成至苹果 CarPlay，支持车载使用
+  - [] 英伟达加速 Gemma 4 模型，赋能本地化智能体 AI
+  - [] 阿里云联合近百家伙伴打造金融行业通用智能体
+  - [] 市场消息：微软计划在2027年前创建大型前沿AI模型
+  - [] StairMed获得阿里巴巴领投、腾讯跟投的5亿元人民币融资
+  - [] “无界方舟”连续完成数亿元融资
+  - [] 马斯克发起人类史上最大融资：一切为了 AI！一切为了火星！
+  - [] 机器人OQrimo实现无压迫视网膜观察
+  - [] Google AI Pro订阅存储扩至5TB，月费仍为19.99美元
+  - [] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+  - [] Hugging Face发布Diffusers库扩散管道性能分析指南
+  - [] 创业者 @vchennai2 以个人身份入选 Y Combinator
+  - [] PyTorch宣布将于2026年5月举办Docathon活动
+  - [] a16z：货运承运商繁忙度与拒单率创近年新高，AI对SaaS影响呈选择性
+  - [] a16z分析AI与SaaS关系：整合能力决定成败，AI正获取增量技术支出
+  - [] 经合组织发布最新动态，关注AI欺诈风险与全球增长前景
+
+[2026-04-04 07:28:38] keyword_filter - OUTPUT: 26条 | 移除14条
+============================================================
+  - [] 犹他州试点项目：AI续订15种精神科药物处方
+  - [] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [] 宇树科技一种移动机器人专利获授权
+  - [] 新型纳米制造方法实现发光材料“精准印刷”
+  - [] ChatGPT 已集成至苹果 CarPlay，支持车载使用
+  - [] 英伟达加速 Gemma 4 模型，赋能本地化智能体 AI
+  - [] 阿里云联合近百家伙伴打造金融行业通用智能体
+  - [] 机器人OQrimo实现无压迫视网膜观察
+  - [] Google AI Pro订阅存储扩至5TB，月费仍为19.99美元
+  - [] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+  - [] Hugging Face发布Diffusers库扩散管道性能分析指南
+  - [] a16z：货运承运商繁忙度与拒单率创近年新高，AI对SaaS影响呈选择性
+  - [] a16z分析AI与SaaS关系：整合能力决定成败，AI正获取增量技术支出
+
+[2026-04-04 07:28:38] bge_dedup - INPUT: 26条
+============================================================
+  - [] 犹他州试点项目：AI续订15种精神科药物处方
+  - [] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [] 宇树科技一种移动机器人专利获授权
+  - [] 新型纳米制造方法实现发光材料“精准印刷”
+  - [] ChatGPT 已集成至苹果 CarPlay，支持车载使用
+  - [] 英伟达加速 Gemma 4 模型，赋能本地化智能体 AI
+  - [] 阿里云联合近百家伙伴打造金融行业通用智能体
+  - [] 机器人OQrimo实现无压迫视网膜观察
+  - [] Google AI Pro订阅存储扩至5TB，月费仍为19.99美元
+  - [] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+  - [] Hugging Face发布Diffusers库扩散管道性能分析指南
+  - [] a16z：货运承运商繁忙度与拒单率创近年新高，AI对SaaS影响呈选择性
+  - [] a16z分析AI与SaaS关系：整合能力决定成败，AI正获取增量技术支出
+
+[2026-04-04 07:28:50] bge_dedup - OUTPUT: 26条 | 移除0条
+============================================================
+  - [] 犹他州试点项目：AI续订15种精神科药物处方
+  - [] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [] 宇树科技一种移动机器人专利获授权
+  - [] 新型纳米制造方法实现发光材料“精准印刷”
+  - [] ChatGPT 已集成至苹果 CarPlay，支持车载使用
+  - [] 英伟达加速 Gemma 4 模型，赋能本地化智能体 AI
+  - [] 阿里云联合近百家伙伴打造金融行业通用智能体
+  - [] 机器人OQrimo实现无压迫视网膜观察
+  - [] Google AI Pro订阅存储扩至5TB，月费仍为19.99美元
+  - [] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+  - [] Hugging Face发布Diffusers库扩散管道性能分析指南
+  - [] a16z：货运承运商繁忙度与拒单率创近年新高，AI对SaaS影响呈选择性
+  - [] a16z分析AI与SaaS关系：整合能力决定成败，AI正获取增量技术支出
+
+[2026-04-04 07:28:50] llm_classify - INPUT: 26条
+============================================================
+  - [] 犹他州试点项目：AI续订15种精神科药物处方
+  - [] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [] 宇树科技一种移动机器人专利获授权
+  - [] 新型纳米制造方法实现发光材料“精准印刷”
+  - [] ChatGPT 已集成至苹果 CarPlay，支持车载使用
+  - [] 英伟达加速 Gemma 4 模型，赋能本地化智能体 AI
+  - [] 阿里云联合近百家伙伴打造金融行业通用智能体
+  - [] 机器人OQrimo实现无压迫视网膜观察
+  - [] Google AI Pro订阅存储扩至5TB，月费仍为19.99美元
+  - [] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+  - [] Hugging Face发布Diffusers库扩散管道性能分析指南
+  - [] a16z：货运承运商繁忙度与拒单率创近年新高，AI对SaaS影响呈选择性
+  - [] a16z分析AI与SaaS关系：整合能力决定成败，AI正获取增量技术支出
+
+[2026-04-04 07:29:08] llm_classify - OUTPUT: 26条 | 保留26条
+============================================================
+  - [国外AI资讯] 犹他州试点项目：AI续订15种精神科药物处方
+  - [国外AI资讯] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [智能硬件] 宇树科技一种移动机器人专利获授权
+  - [其它科技资讯] 新型纳米制造方法实现发光材料“精准印刷”
+  - [国外AI资讯] ChatGPT 已集成至苹果 CarPlay，支持车载使用
+  - [国外AI资讯] 英伟达加速 Gemma 4 模型，赋能本地化智能体 AI
+  - [国内AI资讯] 阿里云联合近百家伙伴打造金融行业通用智能体
+  - [智能硬件] 机器人OQrimo实现无压迫视网膜观察
+  - [国外AI资讯] Google AI Pro订阅存储扩至5TB，月费仍为19.99美元
+  - [国外AI资讯] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [国外AI资讯] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [国外AI资讯] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [国外AI资讯] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [国外AI资讯] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [其它科技资讯] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [其它科技资讯] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [国外AI资讯] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [国外AI资讯] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [国外AI资讯] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [其它科技资讯] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [国外AI资讯] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [国外AI资讯] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [国外AI资讯] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+  - [国外AI资讯] Hugging Face发布Diffusers库扩散管道性能分析指南
+  - [其它科技资讯] a16z：货运承运商繁忙度与拒单率创近年新高，AI对SaaS影响呈选择性
+  - [国外AI资讯] a16z分析AI与SaaS关系：整合能力决定成败，AI正获取增量技术支出
+
+[2026-04-04 07:29:08] llm_summary - INPUT: 26条
+============================================================
+  - [国外AI资讯] 犹他州试点项目：AI续订15种精神科药物处方
+  - [国外AI资讯] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [智能硬件] 宇树科技一种移动机器人专利获授权
+  - [其它科技资讯] 新型纳米制造方法实现发光材料“精准印刷”
+  - [国外AI资讯] ChatGPT 已集成至苹果 CarPlay，支持车载使用
+  - [国外AI资讯] 英伟达加速 Gemma 4 模型，赋能本地化智能体 AI
+  - [国内AI资讯] 阿里云联合近百家伙伴打造金融行业通用智能体
+  - [智能硬件] 机器人OQrimo实现无压迫视网膜观察
+  - [国外AI资讯] Google AI Pro订阅存储扩至5TB，月费仍为19.99美元
+  - [国外AI资讯] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [国外AI资讯] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [国外AI资讯] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [国外AI资讯] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [国外AI资讯] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [其它科技资讯] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [其它科技资讯] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [国外AI资讯] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [国外AI资讯] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [国外AI资讯] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [其它科技资讯] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [国外AI资讯] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [国外AI资讯] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [国外AI资讯] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+  - [国外AI资讯] Hugging Face发布Diffusers库扩散管道性能分析指南
+  - [其它科技资讯] a16z：货运承运商繁忙度与拒单率创近年新高，AI对SaaS影响呈选择性
+  - [国外AI资讯] a16z分析AI与SaaS关系：整合能力决定成败，AI正获取增量技术支出
+
+[2026-04-04 07:29:14] llm_summary - OUTPUT: 26条 | 成功0条
+============================================================
+  - [国外AI资讯] 犹他州试点项目：AI续订15种精神科药物处方
+  - [国外AI资讯] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [智能硬件] 宇树科技一种移动机器人专利获授权
+  - [其它科技资讯] 新型纳米制造方法实现发光材料“精准印刷”
+  - [国外AI资讯] ChatGPT 已集成至苹果 CarPlay，支持车载使用
+  - [国外AI资讯] 英伟达加速 Gemma 4 模型，赋能本地化智能体 AI
+  - [国内AI资讯] 阿里云联合近百家伙伴打造金融行业通用智能体
+  - [智能硬件] 机器人OQrimo实现无压迫视网膜观察
+  - [国外AI资讯] Google AI Pro订阅存储扩至5TB，月费仍为19.99美元
+  - [国外AI资讯] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [国外AI资讯] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [国外AI资讯] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [国外AI资讯] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [国外AI资讯] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [其它科技资讯] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [其它科技资讯] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [国外AI资讯] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [智能硬件] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [国外AI资讯] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [其它科技资讯] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [国外AI资讯] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [国外AI资讯] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [国外AI资讯] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+  - [国外AI资讯] Hugging Face发布Diffusers库扩散管道性能分析指南
+  - [国外AI资讯] a16z：货运承运商繁忙度与拒单率创近年新高，AI对SaaS影响呈选择性
+  - [国外AI资讯] a16z分析AI与SaaS关系：整合能力决定成败，AI正获取增量技术支出
+
+[2026-04-04 07:31:18] llm_summary - OUTPUT: 26条 | 成功0条
+============================================================
+  - [国外AI资讯] 犹他州试点项目：AI续订15种精神科药物处方
+  - [国外AI资讯] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [智能硬件] 宇树科技一种移动机器人专利获授权
+  - [其它科技资讯] 新型纳米制造方法实现发光材料“精准印刷”
+  - [国外AI资讯] ChatGPT 已集成至苹果 CarPlay，支持车载使用
+  - [国外AI资讯] 英伟达加速 Gemma 4 模型，赋能本地化智能体 AI
+  - [国内AI资讯] 阿里云联合近百家伙伴打造金融行业通用智能体
+  - [智能硬件] 机器人OQrimo实现无压迫视网膜观察
+  - [国外AI资讯] Google AI Pro订阅存储扩至5TB，月费仍为19.99美元
+  - [国外AI资讯] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [国外AI资讯] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [国外AI资讯] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [国外AI资讯] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [国外AI资讯] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [其它科技资讯] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [其它科技资讯] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [国外AI资讯] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [国外AI资讯] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [国外AI资讯] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [其它科技资讯] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [国外AI资讯] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [国外AI资讯] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [国外AI资讯] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+  - [国外AI资讯] Hugging Face发布Diffusers库扩散管道性能分析指南
+  - [其它科技资讯] a16z：货运承运商繁忙度与拒单率创近年新高，AI对SaaS影响呈选择性
+  - [国外AI资讯] a16z分析AI与SaaS关系：整合能力决定成败，AI正获取增量技术支出
+
+[2026-04-04 08:57:48] keyword_filter - INPUT: 40条
+============================================================
+  - [] OpenAI奥尔特曼:希望孩子玩泥巴,不愿过早接触AI
+  - [] Meta组建独立硬件团队，开发多形态智能体
+  - [] 犹他州试点项目：AI续订15种精神科药物处方
+  - [] AI制药领域迎来万亿独角兽，投资人获38513%回报
+  - [] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [] 苹果高价收购移动DRAM，阻止竞争对手获取内存芯片
+  - [] 清华长庚团队首创机器人辅助膝关节韧带重建术
+  - [] 宇树科技一种移动机器人专利获授权
+  - [] 新型纳米制造方法实现发光材料“精准印刷”
+  - [] Anthropic以近4亿美元收购AI生物技术公司Coefficient Bio
+  - [] DayOne将在马来西亚投资69亿美元于数据中心运营
+  - [] 2026款小鹏MONA M03正式上市
+  - [] OpenAI以数亿美元的价格收购了TBPN
+  - [] ChatGPT 已集成至苹果 CarPlay，支持车载使用
+  - [] 英伟达加速 Gemma 4 模型，赋能本地化智能体 AI
+  - [] 阿里云联合近百家伙伴打造金融行业通用智能体
+  - [] 市场消息：微软计划在2027年前创建大型前沿AI模型
+  - [] StairMed获得阿里巴巴领投、腾讯跟投的5亿元人民币融资
+  - [] “无界方舟”连续完成数亿元融资
+  - [] 马斯克发起人类史上最大融资：一切为了 AI！一切为了火星！
+  - [] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+  - [] Gemma 4 模型登陆 MLX 框架，发布者上传全部量化版本
+  - [] Anthropic提出评估AI安全与行为的‘模型差异比较’方法
+  - [] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+
+[2026-04-04 08:57:48] keyword_filter - OUTPUT: 27条 | 移除13条
+============================================================
+  - [] 犹他州试点项目：AI续订15种精神科药物处方
+  - [] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [] 宇树科技一种移动机器人专利获授权
+  - [] 新型纳米制造方法实现发光材料“精准印刷”
+  - [] ChatGPT 已集成至苹果 CarPlay，支持车载使用
+  - [] 英伟达加速 Gemma 4 模型，赋能本地化智能体 AI
+  - [] 阿里云联合近百家伙伴打造金融行业通用智能体
+  - [] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+  - [] Gemma 4 模型登陆 MLX 框架，发布者上传全部量化版本
+  - [] Anthropic提出评估AI安全与行为的‘模型差异比较’方法
+  - [] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+
+[2026-04-04 08:57:48] bge_dedup - INPUT: 27条
+============================================================
+  - [] 犹他州试点项目：AI续订15种精神科药物处方
+  - [] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [] 宇树科技一种移动机器人专利获授权
+  - [] 新型纳米制造方法实现发光材料“精准印刷”
+  - [] ChatGPT 已集成至苹果 CarPlay，支持车载使用
+  - [] 英伟达加速 Gemma 4 模型，赋能本地化智能体 AI
+  - [] 阿里云联合近百家伙伴打造金融行业通用智能体
+  - [] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+  - [] Gemma 4 模型登陆 MLX 框架，发布者上传全部量化版本
+  - [] Anthropic提出评估AI安全与行为的‘模型差异比较’方法
+  - [] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+
+[2026-04-04 08:58:02] bge_dedup - OUTPUT: 27条 | 移除0条
+============================================================
+  - [] 犹他州试点项目：AI续订15种精神科药物处方
+  - [] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [] 宇树科技一种移动机器人专利获授权
+  - [] 新型纳米制造方法实现发光材料“精准印刷”
+  - [] ChatGPT 已集成至苹果 CarPlay，支持车载使用
+  - [] 英伟达加速 Gemma 4 模型，赋能本地化智能体 AI
+  - [] 阿里云联合近百家伙伴打造金融行业通用智能体
+  - [] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+  - [] Gemma 4 模型登陆 MLX 框架，发布者上传全部量化版本
+  - [] Anthropic提出评估AI安全与行为的‘模型差异比较’方法
+  - [] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+
+[2026-04-04 08:58:02] llm_classify - INPUT: 27条
+============================================================
+  - [] 犹他州试点项目：AI续订15种精神科药物处方
+  - [] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [] 宇树科技一种移动机器人专利获授权
+  - [] 新型纳米制造方法实现发光材料“精准印刷”
+  - [] ChatGPT 已集成至苹果 CarPlay，支持车载使用
+  - [] 英伟达加速 Gemma 4 模型，赋能本地化智能体 AI
+  - [] 阿里云联合近百家伙伴打造金融行业通用智能体
+  - [] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+  - [] Gemma 4 模型登陆 MLX 框架，发布者上传全部量化版本
+  - [] Anthropic提出评估AI安全与行为的‘模型差异比较’方法
+  - [] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+
+[2026-04-04 08:58:14] llm_classify - OUTPUT: 27条 | 保留27条
+============================================================
+  - [国外AI资讯] 犹他州试点项目：AI续订15种精神科药物处方
+  - [国外AI资讯] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [智能硬件] 宇树科技一种移动机器人专利获授权
+  - [其它科技资讯] 新型纳米制造方法实现发光材料“精准印刷”
+  - [国外AI资讯] ChatGPT 已集成至苹果 CarPlay，支持车载使用
+  - [国外AI资讯] 英伟达加速 Gemma 4 模型，赋能本地化智能体 AI
+  - [国内AI资讯] 阿里云联合近百家伙伴打造金融行业通用智能体
+  - [国外AI资讯] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [国外AI资讯] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [国外AI资讯] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [国外AI资讯] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+  - [国外AI资讯] Gemma 4 模型登陆 MLX 框架，发布者上传全部量化版本
+  - [国外AI资讯] Anthropic提出评估AI安全与行为的‘模型差异比较’方法
+  - [国外AI资讯] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [其它科技资讯] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [国外AI资讯] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [国外AI资讯] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [国外AI资讯] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [国外AI资讯] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [其它科技资讯] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [国外AI资讯] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [智能硬件] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [国外AI资讯] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [其它科技资讯] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [国外AI资讯] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [国外AI资讯] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [国外AI资讯] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+
+[2026-04-04 08:58:14] llm_summary - INPUT: 27条
+============================================================
+  - [国外AI资讯] 犹他州试点项目：AI续订15种精神科药物处方
+  - [国外AI资讯] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [智能硬件] 宇树科技一种移动机器人专利获授权
+  - [其它科技资讯] 新型纳米制造方法实现发光材料“精准印刷”
+  - [国外AI资讯] ChatGPT 已集成至苹果 CarPlay，支持车载使用
+  - [国外AI资讯] 英伟达加速 Gemma 4 模型，赋能本地化智能体 AI
+  - [国内AI资讯] 阿里云联合近百家伙伴打造金融行业通用智能体
+  - [国外AI资讯] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [国外AI资讯] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [国外AI资讯] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [国外AI资讯] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+  - [国外AI资讯] Gemma 4 模型登陆 MLX 框架，发布者上传全部量化版本
+  - [国外AI资讯] Anthropic提出评估AI安全与行为的‘模型差异比较’方法
+  - [国外AI资讯] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [其它科技资讯] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [国外AI资讯] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [国外AI资讯] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [国外AI资讯] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [国外AI资讯] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [其它科技资讯] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [国外AI资讯] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [智能硬件] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [国外AI资讯] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [其它科技资讯] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [国外AI资讯] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [国外AI资讯] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [国外AI资讯] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+
+[2026-04-04 08:59:46] keyword_filter - INPUT: 40条
+============================================================
+  - [] OpenAI奥尔特曼:希望孩子玩泥巴,不愿过早接触AI
+  - [] Meta组建独立硬件团队，开发多形态智能体
+  - [] 犹他州试点项目：AI续订15种精神科药物处方
+  - [] AI制药领域迎来万亿独角兽，投资人获38513%回报
+  - [] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [] 苹果高价收购移动DRAM，阻止竞争对手获取内存芯片
+  - [] 清华长庚团队首创机器人辅助膝关节韧带重建术
+  - [] 宇树科技一种移动机器人专利获授权
+  - [] 新型纳米制造方法实现发光材料“精准印刷”
+  - [] Anthropic以近4亿美元收购AI生物技术公司Coefficient Bio
+  - [] DayOne将在马来西亚投资69亿美元于数据中心运营
+  - [] 2026款小鹏MONA M03正式上市
+  - [] OpenAI以数亿美元的价格收购了TBPN
+  - [] ChatGPT 已集成至苹果 CarPlay，支持车载使用
+  - [] 英伟达加速 Gemma 4 模型，赋能本地化智能体 AI
+  - [] 阿里云联合近百家伙伴打造金融行业通用智能体
+  - [] 市场消息：微软计划在2027年前创建大型前沿AI模型
+  - [] StairMed获得阿里巴巴领投、腾讯跟投的5亿元人民币融资
+  - [] “无界方舟”连续完成数亿元融资
+  - [] 马斯克发起人类史上最大融资：一切为了 AI！一切为了火星！
+  - [] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+  - [] Gemma 4 模型登陆 MLX 框架，发布者上传全部量化版本
+  - [] Anthropic提出评估AI安全与行为的‘模型差异比较’方法
+  - [] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+
+[2026-04-04 08:59:46] keyword_filter - OUTPUT: 27条 | 移除13条
+============================================================
+  - [] 犹他州试点项目：AI续订15种精神科药物处方
+  - [] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [] 宇树科技一种移动机器人专利获授权
+  - [] 新型纳米制造方法实现发光材料“精准印刷”
+  - [] ChatGPT 已集成至苹果 CarPlay，支持车载使用
+  - [] 英伟达加速 Gemma 4 模型，赋能本地化智能体 AI
+  - [] 阿里云联合近百家伙伴打造金融行业通用智能体
+  - [] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+  - [] Gemma 4 模型登陆 MLX 框架，发布者上传全部量化版本
+  - [] Anthropic提出评估AI安全与行为的‘模型差异比较’方法
+  - [] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+
+[2026-04-04 08:59:46] bge_dedup - INPUT: 27条
+============================================================
+  - [] 犹他州试点项目：AI续订15种精神科药物处方
+  - [] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [] 宇树科技一种移动机器人专利获授权
+  - [] 新型纳米制造方法实现发光材料“精准印刷”
+  - [] ChatGPT 已集成至苹果 CarPlay，支持车载使用
+  - [] 英伟达加速 Gemma 4 模型，赋能本地化智能体 AI
+  - [] 阿里云联合近百家伙伴打造金融行业通用智能体
+  - [] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+  - [] Gemma 4 模型登陆 MLX 框架，发布者上传全部量化版本
+  - [] Anthropic提出评估AI安全与行为的‘模型差异比较’方法
+  - [] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+
+[2026-04-04 08:59:55] llm_summary - OUTPUT: 27条 | 成功0条
+============================================================
+  - [国外AI资讯] 犹他州试点项目：AI续订15种精神科药物处方
+  - [国外AI资讯] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [智能硬件] 宇树科技一种移动机器人专利获授权
+  - [其它科技资讯] 新型纳米制造方法实现发光材料“精准印刷”
+  - [国外AI资讯] ChatGPT 已集成至苹果 CarPlay，支持车载使用
+  - [国外AI资讯] 英伟达加速 Gemma 4 模型，赋能本地化智能体 AI
+  - [国内AI资讯] 阿里云联合近百家伙伴打造金融行业通用智能体
+  - [国外AI资讯] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [国外AI资讯] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [国外AI资讯] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [国外AI资讯] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+  - [国外AI资讯] Gemma 4 模型登陆 MLX 框架，发布者上传全部量化版本
+  - [国外AI资讯] Anthropic提出评估AI安全与行为的‘模型差异比较’方法
+  - [国外AI资讯] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [其它科技资讯] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [国外AI资讯] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [国外AI资讯] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [国外AI资讯] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [国外AI资讯] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [其它科技资讯] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [国外AI资讯] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [智能硬件] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [国外AI资讯] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [其它科技资讯] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [国外AI资讯] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [国外AI资讯] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [国外AI资讯] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+
+[2026-04-04 09:00:03] bge_dedup - OUTPUT: 27条 | 移除0条
+============================================================
+  - [] 犹他州试点项目：AI续订15种精神科药物处方
+  - [] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [] 宇树科技一种移动机器人专利获授权
+  - [] 新型纳米制造方法实现发光材料“精准印刷”
+  - [] ChatGPT 已集成至苹果 CarPlay，支持车载使用
+  - [] 英伟达加速 Gemma 4 模型，赋能本地化智能体 AI
+  - [] 阿里云联合近百家伙伴打造金融行业通用智能体
+  - [] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+  - [] Gemma 4 模型登陆 MLX 框架，发布者上传全部量化版本
+  - [] Anthropic提出评估AI安全与行为的‘模型差异比较’方法
+  - [] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+
+[2026-04-04 09:00:03] llm_classify - INPUT: 27条
+============================================================
+  - [] 犹他州试点项目：AI续订15种精神科药物处方
+  - [] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [] 宇树科技一种移动机器人专利获授权
+  - [] 新型纳米制造方法实现发光材料“精准印刷”
+  - [] ChatGPT 已集成至苹果 CarPlay，支持车载使用
+  - [] 英伟达加速 Gemma 4 模型，赋能本地化智能体 AI
+  - [] 阿里云联合近百家伙伴打造金融行业通用智能体
+  - [] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+  - [] Gemma 4 模型登陆 MLX 框架，发布者上传全部量化版本
+  - [] Anthropic提出评估AI安全与行为的‘模型差异比较’方法
+  - [] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+
+[2026-04-04 09:00:18] llm_classify - OUTPUT: 27条 | 保留27条
+============================================================
+  - [国内AI资讯] 犹他州试点项目：AI续订15种精神科药物处方
+  - [国外AI资讯] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [智能硬件] 宇树科技一种移动机器人专利获授权
+  - [其它科技资讯] 新型纳米制造方法实现发光材料“精准印刷”
+  - [国外AI资讯] ChatGPT 已集成至苹果 CarPlay，支持车载使用
+  - [国外AI资讯] 英伟达加速 Gemma 4 模型，赋能本地化智能体 AI
+  - [国内AI资讯] 阿里云联合近百家伙伴打造金融行业通用智能体
+  - [国外AI资讯] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [国外AI资讯] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [国外AI资讯] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [国外AI资讯] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+  - [国外AI资讯] Gemma 4 模型登陆 MLX 框架，发布者上传全部量化版本
+  - [国外AI资讯] Anthropic提出评估AI安全与行为的‘模型差异比较’方法
+  - [国外AI资讯] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [其它科技资讯] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [国外AI资讯] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [国外AI资讯] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [国外AI资讯] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [国外AI资讯] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [其它科技资讯] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [国外AI资讯] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [智能硬件] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [国外AI资讯] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [其它科技资讯] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [国外AI资讯] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [国外AI资讯] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [国外AI资讯] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+
+[2026-04-04 09:00:18] llm_summary - INPUT: 27条
+============================================================
+  - [国内AI资讯] 犹他州试点项目：AI续订15种精神科药物处方
+  - [国外AI资讯] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [智能硬件] 宇树科技一种移动机器人专利获授权
+  - [其它科技资讯] 新型纳米制造方法实现发光材料“精准印刷”
+  - [国外AI资讯] ChatGPT 已集成至苹果 CarPlay，支持车载使用
+  - [国外AI资讯] 英伟达加速 Gemma 4 模型，赋能本地化智能体 AI
+  - [国内AI资讯] 阿里云联合近百家伙伴打造金融行业通用智能体
+  - [国外AI资讯] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [国外AI资讯] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [国外AI资讯] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [国外AI资讯] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+  - [国外AI资讯] Gemma 4 模型登陆 MLX 框架，发布者上传全部量化版本
+  - [国外AI资讯] Anthropic提出评估AI安全与行为的‘模型差异比较’方法
+  - [国外AI资讯] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [其它科技资讯] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [国外AI资讯] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [国外AI资讯] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [国外AI资讯] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [国外AI资讯] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [其它科技资讯] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [国外AI资讯] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [智能硬件] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [国外AI资讯] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [其它科技资讯] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [国外AI资讯] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [国外AI资讯] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [国外AI资讯] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+
+[2026-04-04 09:02:02] keyword_filter - INPUT: 40条
+============================================================
+  - [] OpenAI奥尔特曼:希望孩子玩泥巴,不愿过早接触AI
+  - [] Meta组建独立硬件团队，开发多形态智能体
+  - [] 犹他州试点项目：AI续订15种精神科药物处方
+  - [] AI制药领域迎来万亿独角兽，投资人获38513%回报
+  - [] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [] 苹果高价收购移动DRAM，阻止竞争对手获取内存芯片
+  - [] 清华长庚团队首创机器人辅助膝关节韧带重建术
+  - [] 宇树科技一种移动机器人专利获授权
+  - [] 新型纳米制造方法实现发光材料“精准印刷”
+  - [] Anthropic以近4亿美元收购AI生物技术公司Coefficient Bio
+  - [] DayOne将在马来西亚投资69亿美元于数据中心运营
+  - [] 2026款小鹏MONA M03正式上市
+  - [] OpenAI以数亿美元的价格收购了TBPN
+  - [] ChatGPT 已集成至苹果 CarPlay，支持车载使用
+  - [] 英伟达加速 Gemma 4 模型，赋能本地化智能体 AI
+  - [] 阿里云联合近百家伙伴打造金融行业通用智能体
+  - [] 市场消息：微软计划在2027年前创建大型前沿AI模型
+  - [] StairMed获得阿里巴巴领投、腾讯跟投的5亿元人民币融资
+  - [] “无界方舟”连续完成数亿元融资
+  - [] 马斯克发起人类史上最大融资：一切为了 AI！一切为了火星！
+  - [] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+  - [] Gemma 4 模型登陆 MLX 框架，发布者上传全部量化版本
+  - [] Anthropic提出评估AI安全与行为的‘模型差异比较’方法
+  - [] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+
+[2026-04-04 09:02:02] keyword_filter - OUTPUT: 27条 | 移除13条
+============================================================
+  - [] 犹他州试点项目：AI续订15种精神科药物处方
+  - [] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [] 宇树科技一种移动机器人专利获授权
+  - [] 新型纳米制造方法实现发光材料“精准印刷”
+  - [] ChatGPT 已集成至苹果 CarPlay，支持车载使用
+  - [] 英伟达加速 Gemma 4 模型，赋能本地化智能体 AI
+  - [] 阿里云联合近百家伙伴打造金融行业通用智能体
+  - [] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+  - [] Gemma 4 模型登陆 MLX 框架，发布者上传全部量化版本
+  - [] Anthropic提出评估AI安全与行为的‘模型差异比较’方法
+  - [] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+
+[2026-04-04 09:02:02] bge_dedup - INPUT: 27条
+============================================================
+  - [] 犹他州试点项目：AI续订15种精神科药物处方
+  - [] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [] 宇树科技一种移动机器人专利获授权
+  - [] 新型纳米制造方法实现发光材料“精准印刷”
+  - [] ChatGPT 已集成至苹果 CarPlay，支持车载使用
+  - [] 英伟达加速 Gemma 4 模型，赋能本地化智能体 AI
+  - [] 阿里云联合近百家伙伴打造金融行业通用智能体
+  - [] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+  - [] Gemma 4 模型登陆 MLX 框架，发布者上传全部量化版本
+  - [] Anthropic提出评估AI安全与行为的‘模型差异比较’方法
+  - [] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+
+[2026-04-04 09:02:08] llm_summary - OUTPUT: 27条 | 成功0条
+============================================================
+  - [国内AI资讯] 犹他州试点项目：AI续订15种精神科药物处方
+  - [国外AI资讯] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [智能硬件] 宇树科技一种移动机器人专利获授权
+  - [其它科技资讯] 新型纳米制造方法实现发光材料“精准印刷”
+  - [国外AI资讯] ChatGPT 已集成至苹果 CarPlay，支持车载使用
+  - [国外AI资讯] 英伟达加速 Gemma 4 模型，赋能本地化智能体 AI
+  - [国内AI资讯] 阿里云联合近百家伙伴打造金融行业通用智能体
+  - [国外AI资讯] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [国外AI资讯] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [国外AI资讯] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [国外AI资讯] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+  - [国外AI资讯] Gemma 4 模型登陆 MLX 框架，发布者上传全部量化版本
+  - [国外AI资讯] Anthropic提出评估AI安全与行为的‘模型差异比较’方法
+  - [国外AI资讯] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [其它科技资讯] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [国外AI资讯] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [国外AI资讯] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [国外AI资讯] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [国外AI资讯] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [其它科技资讯] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [国外AI资讯] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [智能硬件] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [国外AI资讯] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [其它科技资讯] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [国外AI资讯] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [国外AI资讯] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [国外AI资讯] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+
+[2026-04-04 09:02:16] bge_dedup - OUTPUT: 27条 | 移除0条
+============================================================
+  - [] 犹他州试点项目：AI续订15种精神科药物处方
+  - [] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [] 宇树科技一种移动机器人专利获授权
+  - [] 新型纳米制造方法实现发光材料“精准印刷”
+  - [] ChatGPT 已集成至苹果 CarPlay，支持车载使用
+  - [] 英伟达加速 Gemma 4 模型，赋能本地化智能体 AI
+  - [] 阿里云联合近百家伙伴打造金融行业通用智能体
+  - [] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+  - [] Gemma 4 模型登陆 MLX 框架，发布者上传全部量化版本
+  - [] Anthropic提出评估AI安全与行为的‘模型差异比较’方法
+  - [] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+
+[2026-04-04 09:02:16] llm_classify - INPUT: 27条
+============================================================
+  - [] 犹他州试点项目：AI续订15种精神科药物处方
+  - [] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [] 宇树科技一种移动机器人专利获授权
+  - [] 新型纳米制造方法实现发光材料“精准印刷”
+  - [] ChatGPT 已集成至苹果 CarPlay，支持车载使用
+  - [] 英伟达加速 Gemma 4 模型，赋能本地化智能体 AI
+  - [] 阿里云联合近百家伙伴打造金融行业通用智能体
+  - [] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+  - [] Gemma 4 模型登陆 MLX 框架，发布者上传全部量化版本
+  - [] Anthropic提出评估AI安全与行为的‘模型差异比较’方法
+  - [] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+
+[2026-04-04 09:02:33] llm_classify - OUTPUT: 27条 | 保留27条
+============================================================
+  - [国内AI资讯] 犹他州试点项目：AI续订15种精神科药物处方
+  - [国外AI资讯] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [智能硬件] 宇树科技一种移动机器人专利获授权
+  - [其它科技资讯] 新型纳米制造方法实现发光材料“精准印刷”
+  - [国外AI资讯] ChatGPT 已集成至苹果 CarPlay，支持车载使用
+  - [国外AI资讯] 英伟达加速 Gemma 4 模型，赋能本地化智能体 AI
+  - [国内AI资讯] 阿里云联合近百家伙伴打造金融行业通用智能体
+  - [国外AI资讯] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [国外AI资讯] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [国外AI资讯] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [国外AI资讯] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+  - [国外AI资讯] Gemma 4 模型登陆 MLX 框架，发布者上传全部量化版本
+  - [国外AI资讯] Anthropic提出评估AI安全与行为的‘模型差异比较’方法
+  - [国外AI资讯] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [其它科技资讯] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [国外AI资讯] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [国外AI资讯] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [国外AI资讯] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [国外AI资讯] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [其它科技资讯] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [国外AI资讯] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [智能硬件] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [国外AI资讯] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [其它科技资讯] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [国外AI资讯] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [国外AI资讯] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [国外AI资讯] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+
+[2026-04-04 09:02:33] llm_summary - INPUT: 27条
+============================================================
+  - [国内AI资讯] 犹他州试点项目：AI续订15种精神科药物处方
+  - [国外AI资讯] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [智能硬件] 宇树科技一种移动机器人专利获授权
+  - [其它科技资讯] 新型纳米制造方法实现发光材料“精准印刷”
+  - [国外AI资讯] ChatGPT 已集成至苹果 CarPlay，支持车载使用
+  - [国外AI资讯] 英伟达加速 Gemma 4 模型，赋能本地化智能体 AI
+  - [国内AI资讯] 阿里云联合近百家伙伴打造金融行业通用智能体
+  - [国外AI资讯] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [国外AI资讯] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [国外AI资讯] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [国外AI资讯] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+  - [国外AI资讯] Gemma 4 模型登陆 MLX 框架，发布者上传全部量化版本
+  - [国外AI资讯] Anthropic提出评估AI安全与行为的‘模型差异比较’方法
+  - [国外AI资讯] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [其它科技资讯] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [国外AI资讯] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [国外AI资讯] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [国外AI资讯] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [国外AI资讯] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [其它科技资讯] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [国外AI资讯] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [智能硬件] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [国外AI资讯] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [其它科技资讯] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [国外AI资讯] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [国外AI资讯] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [国外AI资讯] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+
+[2026-04-04 09:04:14] llm_summary - OUTPUT: 27条 | 成功0条
+============================================================
+  - [国内AI资讯] 犹他州试点项目：AI续订15种精神科药物处方
+  - [国外AI资讯] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [智能硬件] 宇树科技一种移动机器人专利获授权
+  - [其它科技资讯] 新型纳米制造方法实现发光材料“精准印刷”
+  - [国外AI资讯] ChatGPT 已集成至苹果 CarPlay，支持车载使用
+  - [国外AI资讯] 英伟达加速 Gemma 4 模型，赋能本地化智能体 AI
+  - [国内AI资讯] 阿里云联合近百家伙伴打造金融行业通用智能体
+  - [国外AI资讯] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [国外AI资讯] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [国外AI资讯] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [国外AI资讯] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+  - [国外AI资讯] Gemma 4 模型登陆 MLX 框架，发布者上传全部量化版本
+  - [国外AI资讯] Anthropic提出评估AI安全与行为的‘模型差异比较’方法
+  - [国外AI资讯] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [其它科技资讯] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [国外AI资讯] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [国外AI资讯] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [国外AI资讯] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [国外AI资讯] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [其它科技资讯] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [国外AI资讯] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [智能硬件] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [国外AI资讯] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [其它科技资讯] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [国外AI资讯] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [国外AI资讯] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [国外AI资讯] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+
+[2026-04-04 09:10:36] keyword_filter - INPUT: 29条
+============================================================
+  - [] OpenAI奥尔特曼:希望孩子玩泥巴,不愿过早接触AI
+  - [] Meta组建独立硬件团队，开发多形态智能体
+  - [] 犹他州试点项目：AI续订15种精神科药物处方
+  - [] AI制药领域迎来万亿独角兽，投资人获38513%回报
+  - [] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [] 苹果高价收购移动DRAM，阻止竞争对手获取内存芯片
+  - [] 清华长庚团队首创机器人辅助膝关节韧带重建术
+  - [] 宇树科技一种移动机器人专利获授权
+  - [] 新型纳米制造方法实现发光材料“精准印刷”
+  - [] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+  - [] Gemma 4 模型登陆 MLX 框架，发布者上传全部量化版本
+  - [] Anthropic提出评估AI安全与行为的‘模型差异比较’方法
+  - [] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+
+[2026-04-04 09:10:36] keyword_filter - OUTPUT: 23条 | 移除6条
+============================================================
+  - [] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [] 宇树科技一种移动机器人专利获授权
+  - [] 新型纳米制造方法实现发光材料“精准印刷”
+  - [] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+  - [] Gemma 4 模型登陆 MLX 框架，发布者上传全部量化版本
+  - [] Anthropic提出评估AI安全与行为的‘模型差异比较’方法
+  - [] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+
+[2026-04-04 09:10:36] bge_dedup - INPUT: 23条
+============================================================
+  - [] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [] 宇树科技一种移动机器人专利获授权
+  - [] 新型纳米制造方法实现发光材料“精准印刷”
+  - [] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+  - [] Gemma 4 模型登陆 MLX 框架，发布者上传全部量化版本
+  - [] Anthropic提出评估AI安全与行为的‘模型差异比较’方法
+  - [] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+
+[2026-04-04 09:10:50] bge_dedup - OUTPUT: 23条 | 移除0条
+============================================================
+  - [] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [] 宇树科技一种移动机器人专利获授权
+  - [] 新型纳米制造方法实现发光材料“精准印刷”
+  - [] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+  - [] Gemma 4 模型登陆 MLX 框架，发布者上传全部量化版本
+  - [] Anthropic提出评估AI安全与行为的‘模型差异比较’方法
+  - [] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+
+[2026-04-04 09:10:50] llm_classify - INPUT: 23条
+============================================================
+  - [] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [] 宇树科技一种移动机器人专利获授权
+  - [] 新型纳米制造方法实现发光材料“精准印刷”
+  - [] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+  - [] Gemma 4 模型登陆 MLX 框架，发布者上传全部量化版本
+  - [] Anthropic提出评估AI安全与行为的‘模型差异比较’方法
+  - [] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+
+[2026-04-04 09:11:07] llm_classify - OUTPUT: 23条 | 保留23条
+============================================================
+  - [国外AI资讯] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [智能硬件] 宇树科技一种移动机器人专利获授权
+  - [其它科技资讯] 新型纳米制造方法实现发光材料“精准印刷”
+  - [国外AI资讯] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [国外AI资讯] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [国外AI资讯] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [国外AI资讯] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+  - [国外AI资讯] Gemma 4 模型登陆 MLX 框架，发布者上传全部量化版本
+  - [国外AI资讯] Anthropic提出评估AI安全与行为的‘模型差异比较’方法
+  - [国外AI资讯] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [国外AI资讯] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [国外AI资讯] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [国外AI资讯] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [国外AI资讯] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [国外AI资讯] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [其它科技资讯] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [国外AI资讯] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [智能硬件] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [国外AI资讯] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [其它科技资讯] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [国外AI资讯] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [国外AI资讯] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [国外AI资讯] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+
+[2026-04-04 09:11:07] llm_summary - INPUT: 23条
+============================================================
+  - [国外AI资讯] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [智能硬件] 宇树科技一种移动机器人专利获授权
+  - [其它科技资讯] 新型纳米制造方法实现发光材料“精准印刷”
+  - [国外AI资讯] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [国外AI资讯] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [国外AI资讯] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [国外AI资讯] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+  - [国外AI资讯] Gemma 4 模型登陆 MLX 框架，发布者上传全部量化版本
+  - [国外AI资讯] Anthropic提出评估AI安全与行为的‘模型差异比较’方法
+  - [国外AI资讯] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [国外AI资讯] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [国外AI资讯] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [国外AI资讯] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [国外AI资讯] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [国外AI资讯] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [其它科技资讯] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [国外AI资讯] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [智能硬件] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [国外AI资讯] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [其它科技资讯] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [国外AI资讯] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [国外AI资讯] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [国外AI资讯] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建
+
+[2026-04-04 09:11:55] llm_summary - OUTPUT: 23条 | 成功0条
+============================================================
+  - [国外AI资讯] 谷歌更新Gemini API定价，按推理使用分档计费
+  - [智能硬件] 宇树科技一种移动机器人专利获授权
+  - [其它科技资讯] 新型纳米制造方法实现发光材料“精准印刷”
+  - [国外AI资讯] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [国外AI资讯] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [国外AI资讯] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [国外AI资讯] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+  - [国外AI资讯] Gemma 4 模型登陆 MLX 框架，发布者上传全部量化版本
+  - [国外AI资讯] Anthropic提出评估AI安全与行为的‘模型差异比较’方法
+  - [国外AI资讯] Nous Research发布开源智能体框架Hermes Agent 0.7.0版本
+  - [国外AI资讯] IDC：AI数据定价机制尚未稳定，合同灵活性成关键
+  - [国外AI资讯] NousResearch 发布 Hermes Agent v0.6.0，支持多配置文件隔离运行
+  - [国外AI资讯] LlamaIndex 转发 LiteParse 演示，展示免费快速文档解析能力
+  - [国外AI资讯] Google提出持续评估工程方法，应对AI代理生产环境评估挑战
+  - [国外AI资讯] 红帽AI将亮相PyTorch欧洲开发者大会并分享多项开源项目
+  - [其它科技资讯] Azure Friday 探讨 SQL Server 迁移至 Azure SQL 托管实例
+  - [国外AI资讯] 黄仁勋称NVIDIA的每token生成成本为世界最低
+  - [智能硬件] NVIDIA宣布Physical AI已至，正通过完整软件栈驱动下一代智能机器
+  - [国外AI资讯] Cursor AI 计划本周末前将 Composer 2 使用量翻倍
+  - [其它科技资讯] Google Cloud发布BigQuery Connector for SAP 2.12版本，支持
+  - [国外AI资讯] LangChain 推出追踪 Claude Code 运行至 LangSmith 的新插件
+  - [国外AI资讯] a16z分析：AI预算流向加速，家庭付费率低但用户粘性高
+  - [国外AI资讯] Google Gemma 官方感谢关注，期待用户基于 Gemma 4 进行构建

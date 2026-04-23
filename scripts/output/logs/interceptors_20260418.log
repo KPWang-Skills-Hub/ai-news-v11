@@ -1,0 +1,1087 @@
+
+[2026-04-18 08:00:43] keyword_filter - INPUT: 54条
+============================================================
+  - [huxiu][] 市场消息：OpenAI 也将停用 Prism 网页应用
+  - [huxiu][] Cursor拟筹20亿美元融资，a16z领投，估值超500亿美元，Nvidia参与
+  - [huxiu][] xAI计划用数万GPU训练Composer2.5AI模型，提升AI领域竞争力
+  - [huxiu][] 股东质疑萨姆·阿尔特曼的领导力，建议布雷特·泰勒接任OpenAI
+  - [huxiu][] DeepSeek V4参数量达1.6万亿，超预期60%
+  - [huxiu][] 三星电子加速研发下一代高带宽内存，首批HBM4E将于5月生产
+  - [huxiu][] OpenAI斥资超200亿美元购Cerebras芯片，寻找英伟达替代方案
+  - [huxiu][] 黄仁勋：DeepSeek优先适配华为对美国不利
+  - [huxiu][] 新增海外工作地，字节跳动面向全球招募技术人才
+  - [huxiu][] 我国科研人员研制出超强高导耐热铜箔
+  - [huxiu][] 小马智行CTO楼天城：AI自我审视提升世界模型精度是竞争核心
+  - [huxiu][] 依托AI技术，国内医药CXO企业将加速新药研发、提升服务效率
+  - [huxiu][] 字节回应亿元年薪挖DeepSeek员工
+  - [infoq][] NVIDIA与Cadence合作推进AI工程流程、物理AI与数字孪生技术
+  - [infoq][] 微软演示将本地Oracle数据库迁移至Oracle AI Database@Azure
+  - [infoq][] 经合组织：成员国研发投资稳定，政府预算向国防领域倾斜
+  - [infoq][] NVIDIA发布基于NemoClaw构建本地沙盒化AI助手教程
+  - [infoq][] 微软宣布威斯康星州Fairwater AI数据中心提前上线
+  - [infoq][] NVIDIA 推荐 Google Cloud Next 会议物理 AI 议程
+  - [infoq][] IDC宣布推出新产品IDC Quanta，市场反响热烈
+  - [infoq][] 思科团队基于LangSmith与LangGraph构建多智能体协调框架
+  - [infoq][] Google Cloud 提醒用户关注即将举行的 Google Cloud Next LIVE 活动
+  - [infoq][] NVIDIA发布半导体行业技术讲座，探讨AI与加速计算如何重塑芯片设计制造
+  - [infoq][] Percy Liang转发：本周启动1290亿参数MoE模型训练
+  - [infoq][] 微软CEO宣布威斯康星州Fairwater数据中心提前上线
+  - [infoq][] AWS Nitro隔离引擎成为首个形式化验证的云管理程序
+  - [infoq][] 经合组织发布“长寿准备度工具”，助力应对老龄化对工作的影响
+  - [infoq][] NeurIPS 2026 公开征集竞赛赛道提案，聚焦LLM评估与社会影响
+  - [infoq][] Canva与Anthropic深化合作，设计引擎集成至Claude Design平台
+  - [infoq][] Y Combinator 将举办探讨AI如何变革销售团队工作方式的晚间活动
+  - [infoq][] Y Combinator CEO Garry Tan 开源个人知识库工具 GBrain
+  - [infoq][] 微软Azure在App Advisor中推出快速启动开发工具包
+  - [infoq][] Google Cloud为BigQuery对话式分析新增AI功能
+  - [量子位][] 18家具身顶尖势力集结，RoboChallenge 打造全球最大具身模型竞技场
+  - [aibase][] 联想开天发布天禧AI Pro：专为政企打造的"可信AI搭档"
+  - [aibase][] 名创优品成立AI创新部：聚焦智能体研发与全球选址算法优化
+  - [aibase][] ChatGPT 用户突破 10 亿，女性用户占比首次超过 50%
+  - [aibase][] ​Cerebras 与 OpenAI 签署 200 亿美元芯片协议计划 IPO
+  - [aibase][] 科大讯飞发布AstronClaw升级版:推出9项新品及软硬一体AI Agent架构
+  - [aibase][] ChatGPT用户结构历史性逆转：女性占比首超50%，总用户规模逼近 10 亿
+  - [aibase][] OpenAI 发布 GPT-Rosalind 模型，深度跨界制药与生命科学领域
+  - [aibase][] ​星巴克引入 ChatGPT，根据心情推荐饮品
+  - [aibase][] 谷歌Gemini接入个人相册，AI生成图像迈向真正个性化
+  - [aibase][] ​Claude 强制实名验证引发争议：用户担心封号风险
+  - [aibase][] 英伟达发布 Lyra2.0:单照生成90米3D 环境，多项指标超越竞争对手
+  - [aibase][] Meta持续挖角AI初创公司，Thinking Machines再失核心成员
+  - [aibase][] OpenAI斥资逾 200 亿美元押注Cerebras，或获高达10%股权
+  - [aibase][] 字节跳动启动前沿技术人才校招，面向全球博士生开放多个AI方向
+  - [aibase][] ​男子用 AI 技术制造假自杀照片，惹来警方介入
+  - [aibase][] 通义千问关联公司注册资本翻倍，阿里云与杭州通义实验室共同持股
+  - [aibase][] 阿里开源 Qwen3.6-35B-A3B:30亿激活参数实现编程能力跨越式升级
+  - [aibase][] ​Gucci 联手谷歌，时尚智能眼镜将于 2027 年亮相
+  - [aibase][] Opera 推出浏览器连接器功能 让 AI 聊天机器人无缝集成
+  - [aibase][] ​Anthropic 发布全新 Claude Opus 4.7，功能显著提升
+
+[2026-04-18 08:00:43] keyword_filter - OUTPUT: 36条 | 移除18条
+============================================================
+  - [huxiu][] 市场消息：OpenAI 也将停用 Prism 网页应用
+  - [huxiu][] xAI计划用数万GPU训练Composer2.5AI模型，提升AI领域竞争力
+  - [huxiu][] DeepSeek V4参数量达1.6万亿，超预期60%
+  - [huxiu][] 三星电子加速研发下一代高带宽内存，首批HBM4E将于5月生产
+  - [huxiu][] 黄仁勋：DeepSeek优先适配华为对美国不利
+  - [huxiu][] 新增海外工作地，字节跳动面向全球招募技术人才
+  - [huxiu][] 小马智行CTO楼天城：AI自我审视提升世界模型精度是竞争核心
+  - [huxiu][] 字节回应亿元年薪挖DeepSeek员工
+  - [infoq][] NVIDIA发布基于NemoClaw构建本地沙盒化AI助手教程
+  - [infoq][] 微软宣布威斯康星州Fairwater AI数据中心提前上线
+  - [infoq][] NVIDIA 推荐 Google Cloud Next 会议物理 AI 议程
+  - [infoq][] IDC宣布推出新产品IDC Quanta，市场反响热烈
+  - [infoq][] 思科团队基于LangSmith与LangGraph构建多智能体协调框架
+  - [infoq][] NVIDIA发布半导体行业技术讲座，探讨AI与加速计算如何重塑芯片设计制造
+  - [infoq][] Percy Liang转发：本周启动1290亿参数MoE模型训练
+  - [infoq][] 微软CEO宣布威斯康星州Fairwater数据中心提前上线
+  - [infoq][] AWS Nitro隔离引擎成为首个形式化验证的云管理程序
+  - [infoq][] NeurIPS 2026 公开征集竞赛赛道提案，聚焦LLM评估与社会影响
+  - [infoq][] Canva与Anthropic深化合作，设计引擎集成至Claude Design平台
+  - [infoq][] Y Combinator CEO Garry Tan 开源个人知识库工具 GBrain
+  - [infoq][] 微软Azure在App Advisor中推出快速启动开发工具包
+  - [量子位][] 18家具身顶尖势力集结，RoboChallenge 打造全球最大具身模型竞技场
+  - [aibase][] 联想开天发布天禧AI Pro：专为政企打造的"可信AI搭档"
+  - [aibase][] 名创优品成立AI创新部：聚焦智能体研发与全球选址算法优化
+  - [aibase][] ChatGPT 用户突破 10 亿，女性用户占比首次超过 50%
+  - [aibase][] 科大讯飞发布AstronClaw升级版:推出9项新品及软硬一体AI Agent架构
+  - [aibase][] ChatGPT用户结构历史性逆转：女性占比首超50%，总用户规模逼近 10 亿
+  - [aibase][] ​星巴克引入 ChatGPT，根据心情推荐饮品
+  - [aibase][] 谷歌Gemini接入个人相册，AI生成图像迈向真正个性化
+  - [aibase][] 英伟达发布 Lyra2.0:单照生成90米3D 环境，多项指标超越竞争对手
+  - [aibase][] Meta持续挖角AI初创公司，Thinking Machines再失核心成员
+  - [aibase][] ​男子用 AI 技术制造假自杀照片，惹来警方介入
+  - [aibase][] 通义千问关联公司注册资本翻倍，阿里云与杭州通义实验室共同持股
+  - [aibase][] 阿里开源 Qwen3.6-35B-A3B:30亿激活参数实现编程能力跨越式升级
+  - [aibase][] Opera 推出浏览器连接器功能 让 AI 聊天机器人无缝集成
+  - [aibase][] ​Anthropic 发布全新 Claude Opus 4.7，功能显著提升
+
+[2026-04-18 08:00:43] bge_dedup - INPUT: 36条
+============================================================
+  - [huxiu][] 市场消息：OpenAI 也将停用 Prism 网页应用
+  - [huxiu][] xAI计划用数万GPU训练Composer2.5AI模型，提升AI领域竞争力
+  - [huxiu][] DeepSeek V4参数量达1.6万亿，超预期60%
+  - [huxiu][] 三星电子加速研发下一代高带宽内存，首批HBM4E将于5月生产
+  - [huxiu][] 黄仁勋：DeepSeek优先适配华为对美国不利
+  - [huxiu][] 新增海外工作地，字节跳动面向全球招募技术人才
+  - [huxiu][] 小马智行CTO楼天城：AI自我审视提升世界模型精度是竞争核心
+  - [huxiu][] 字节回应亿元年薪挖DeepSeek员工
+  - [infoq][] NVIDIA发布基于NemoClaw构建本地沙盒化AI助手教程
+  - [infoq][] 微软宣布威斯康星州Fairwater AI数据中心提前上线
+  - [infoq][] NVIDIA 推荐 Google Cloud Next 会议物理 AI 议程
+  - [infoq][] IDC宣布推出新产品IDC Quanta，市场反响热烈
+  - [infoq][] 思科团队基于LangSmith与LangGraph构建多智能体协调框架
+  - [infoq][] NVIDIA发布半导体行业技术讲座，探讨AI与加速计算如何重塑芯片设计制造
+  - [infoq][] Percy Liang转发：本周启动1290亿参数MoE模型训练
+  - [infoq][] 微软CEO宣布威斯康星州Fairwater数据中心提前上线
+  - [infoq][] AWS Nitro隔离引擎成为首个形式化验证的云管理程序
+  - [infoq][] NeurIPS 2026 公开征集竞赛赛道提案，聚焦LLM评估与社会影响
+  - [infoq][] Canva与Anthropic深化合作，设计引擎集成至Claude Design平台
+  - [infoq][] Y Combinator CEO Garry Tan 开源个人知识库工具 GBrain
+  - [infoq][] 微软Azure在App Advisor中推出快速启动开发工具包
+  - [量子位][] 18家具身顶尖势力集结，RoboChallenge 打造全球最大具身模型竞技场
+  - [aibase][] 联想开天发布天禧AI Pro：专为政企打造的"可信AI搭档"
+  - [aibase][] 名创优品成立AI创新部：聚焦智能体研发与全球选址算法优化
+  - [aibase][] ChatGPT 用户突破 10 亿，女性用户占比首次超过 50%
+  - [aibase][] 科大讯飞发布AstronClaw升级版:推出9项新品及软硬一体AI Agent架构
+  - [aibase][] ChatGPT用户结构历史性逆转：女性占比首超50%，总用户规模逼近 10 亿
+  - [aibase][] ​星巴克引入 ChatGPT，根据心情推荐饮品
+  - [aibase][] 谷歌Gemini接入个人相册，AI生成图像迈向真正个性化
+  - [aibase][] 英伟达发布 Lyra2.0:单照生成90米3D 环境，多项指标超越竞争对手
+  - [aibase][] Meta持续挖角AI初创公司，Thinking Machines再失核心成员
+  - [aibase][] ​男子用 AI 技术制造假自杀照片，惹来警方介入
+  - [aibase][] 通义千问关联公司注册资本翻倍，阿里云与杭州通义实验室共同持股
+  - [aibase][] 阿里开源 Qwen3.6-35B-A3B:30亿激活参数实现编程能力跨越式升级
+  - [aibase][] Opera 推出浏览器连接器功能 让 AI 聊天机器人无缝集成
+  - [aibase][] ​Anthropic 发布全新 Claude Opus 4.7，功能显著提升
+
+[2026-04-18 08:01:05] bge_dedup - OUTPUT: 34条 | 移除2条
+============================================================
+  - [huxiu][] 市场消息：OpenAI 也将停用 Prism 网页应用
+  - [huxiu][] xAI计划用数万GPU训练Composer2.5AI模型，提升AI领域竞争力
+  - [huxiu][] DeepSeek V4参数量达1.6万亿，超预期60%
+  - [huxiu][] 三星电子加速研发下一代高带宽内存，首批HBM4E将于5月生产
+  - [huxiu][] 黄仁勋：DeepSeek优先适配华为对美国不利
+  - [huxiu][] 新增海外工作地，字节跳动面向全球招募技术人才
+  - [huxiu][] 小马智行CTO楼天城：AI自我审视提升世界模型精度是竞争核心
+  - [huxiu][] 字节回应亿元年薪挖DeepSeek员工
+  - [infoq][] NVIDIA发布基于NemoClaw构建本地沙盒化AI助手教程
+  - [infoq][] 微软宣布威斯康星州Fairwater AI数据中心提前上线
+  - [infoq][] NVIDIA 推荐 Google Cloud Next 会议物理 AI 议程
+  - [infoq][] IDC宣布推出新产品IDC Quanta，市场反响热烈
+  - [infoq][] 思科团队基于LangSmith与LangGraph构建多智能体协调框架
+  - [infoq][] NVIDIA发布半导体行业技术讲座，探讨AI与加速计算如何重塑芯片设计制造
+  - [infoq][] Percy Liang转发：本周启动1290亿参数MoE模型训练
+  - [infoq][] AWS Nitro隔离引擎成为首个形式化验证的云管理程序
+  - [infoq][] NeurIPS 2026 公开征集竞赛赛道提案，聚焦LLM评估与社会影响
+  - [infoq][] Canva与Anthropic深化合作，设计引擎集成至Claude Design平台
+  - [infoq][] Y Combinator CEO Garry Tan 开源个人知识库工具 GBrain
+  - [infoq][] 微软Azure在App Advisor中推出快速启动开发工具包
+  - [量子位][] 18家具身顶尖势力集结，RoboChallenge 打造全球最大具身模型竞技场
+  - [aibase][] 联想开天发布天禧AI Pro：专为政企打造的"可信AI搭档"
+  - [aibase][] 名创优品成立AI创新部：聚焦智能体研发与全球选址算法优化
+  - [aibase][] ChatGPT 用户突破 10 亿，女性用户占比首次超过 50%
+  - [aibase][] 科大讯飞发布AstronClaw升级版:推出9项新品及软硬一体AI Agent架构
+  - [aibase][] ​星巴克引入 ChatGPT，根据心情推荐饮品
+  - [aibase][] 谷歌Gemini接入个人相册，AI生成图像迈向真正个性化
+  - [aibase][] 英伟达发布 Lyra2.0:单照生成90米3D 环境，多项指标超越竞争对手
+  - [aibase][] Meta持续挖角AI初创公司，Thinking Machines再失核心成员
+  - [aibase][] ​男子用 AI 技术制造假自杀照片，惹来警方介入
+  - [aibase][] 通义千问关联公司注册资本翻倍，阿里云与杭州通义实验室共同持股
+  - [aibase][] 阿里开源 Qwen3.6-35B-A3B:30亿激活参数实现编程能力跨越式升级
+  - [aibase][] Opera 推出浏览器连接器功能 让 AI 聊天机器人无缝集成
+  - [aibase][] ​Anthropic 发布全新 Claude Opus 4.7，功能显著提升
+
+[2026-04-18 08:01:05] llm_classify - INPUT: 34条
+============================================================
+  - [huxiu][] 市场消息：OpenAI 也将停用 Prism 网页应用
+  - [huxiu][] xAI计划用数万GPU训练Composer2.5AI模型，提升AI领域竞争力
+  - [huxiu][] DeepSeek V4参数量达1.6万亿，超预期60%
+  - [huxiu][] 三星电子加速研发下一代高带宽内存，首批HBM4E将于5月生产
+  - [huxiu][] 黄仁勋：DeepSeek优先适配华为对美国不利
+  - [huxiu][] 新增海外工作地，字节跳动面向全球招募技术人才
+  - [huxiu][] 小马智行CTO楼天城：AI自我审视提升世界模型精度是竞争核心
+  - [huxiu][] 字节回应亿元年薪挖DeepSeek员工
+  - [infoq][] NVIDIA发布基于NemoClaw构建本地沙盒化AI助手教程
+  - [infoq][] 微软宣布威斯康星州Fairwater AI数据中心提前上线
+  - [infoq][] NVIDIA 推荐 Google Cloud Next 会议物理 AI 议程
+  - [infoq][] IDC宣布推出新产品IDC Quanta，市场反响热烈
+  - [infoq][] 思科团队基于LangSmith与LangGraph构建多智能体协调框架
+  - [infoq][] NVIDIA发布半导体行业技术讲座，探讨AI与加速计算如何重塑芯片设计制造
+  - [infoq][] Percy Liang转发：本周启动1290亿参数MoE模型训练
+  - [infoq][] AWS Nitro隔离引擎成为首个形式化验证的云管理程序
+  - [infoq][] NeurIPS 2026 公开征集竞赛赛道提案，聚焦LLM评估与社会影响
+  - [infoq][] Canva与Anthropic深化合作，设计引擎集成至Claude Design平台
+  - [infoq][] Y Combinator CEO Garry Tan 开源个人知识库工具 GBrain
+  - [infoq][] 微软Azure在App Advisor中推出快速启动开发工具包
+  - [量子位][] 18家具身顶尖势力集结，RoboChallenge 打造全球最大具身模型竞技场
+  - [aibase][] 联想开天发布天禧AI Pro：专为政企打造的"可信AI搭档"
+  - [aibase][] 名创优品成立AI创新部：聚焦智能体研发与全球选址算法优化
+  - [aibase][] ChatGPT 用户突破 10 亿，女性用户占比首次超过 50%
+  - [aibase][] 科大讯飞发布AstronClaw升级版:推出9项新品及软硬一体AI Agent架构
+  - [aibase][] ​星巴克引入 ChatGPT，根据心情推荐饮品
+  - [aibase][] 谷歌Gemini接入个人相册，AI生成图像迈向真正个性化
+  - [aibase][] 英伟达发布 Lyra2.0:单照生成90米3D 环境，多项指标超越竞争对手
+  - [aibase][] Meta持续挖角AI初创公司，Thinking Machines再失核心成员
+  - [aibase][] ​男子用 AI 技术制造假自杀照片，惹来警方介入
+  - [aibase][] 通义千问关联公司注册资本翻倍，阿里云与杭州通义实验室共同持股
+  - [aibase][] 阿里开源 Qwen3.6-35B-A3B:30亿激活参数实现编程能力跨越式升级
+  - [aibase][] Opera 推出浏览器连接器功能 让 AI 聊天机器人无缝集成
+  - [aibase][] ​Anthropic 发布全新 Claude Opus 4.7，功能显著提升
+
+[2026-04-18 08:01:24] llm_classify - OUTPUT: 34条 | 保留34条
+============================================================
+  - [huxiu][国外AI资讯] 市场消息：OpenAI 也将停用 Prism 网页应用
+  - [huxiu][国外AI资讯] xAI计划用数万GPU训练Composer2.5AI模型，提升AI领域竞争力
+  - [huxiu][国内AI资讯] DeepSeek V4参数量达1.6万亿，超预期60%
+  - [huxiu][智能硬件] 三星电子加速研发下一代高带宽内存，首批HBM4E将于5月生产
+  - [huxiu][其它科技资讯] 黄仁勋：DeepSeek优先适配华为对美国不利
+  - [huxiu][其它科技资讯] 新增海外工作地，字节跳动面向全球招募技术人才
+  - [huxiu][国内AI资讯] 小马智行CTO楼天城：AI自我审视提升世界模型精度是竞争核心
+  - [huxiu][国内AI资讯] 字节回应亿元年薪挖DeepSeek员工
+  - [infoq][国外AI资讯] NVIDIA发布基于NemoClaw构建本地沙盒化AI助手教程
+  - [infoq][国外AI资讯] 微软宣布威斯康星州Fairwater AI数据中心提前上线
+  - [infoq][其它科技资讯] NVIDIA 推荐 Google Cloud Next 会议物理 AI 议程
+  - [infoq][其它科技资讯] IDC宣布推出新产品IDC Quanta，市场反响热烈
+  - [infoq][国外AI资讯] 思科团队基于LangSmith与LangGraph构建多智能体协调框架
+  - [infoq][其它科技资讯] NVIDIA发布半导体行业技术讲座，探讨AI与加速计算如何重塑芯片设计制造
+  - [infoq][国外AI资讯] Percy Liang转发：本周启动1290亿参数MoE模型训练
+  - [infoq][国外AI资讯] AWS Nitro隔离引擎成为首个形式化验证的云管理程序
+  - [infoq][其它科技资讯] NeurIPS 2026 公开征集竞赛赛道提案，聚焦LLM评估与社会影响
+  - [infoq][国外AI资讯] Canva与Anthropic深化合作，设计引擎集成至Claude Design平台
+  - [infoq][国外AI资讯] Y Combinator CEO Garry Tan 开源个人知识库工具 GBrain
+  - [infoq][国外AI资讯] 微软Azure在App Advisor中推出快速启动开发工具包
+  - [量子位][其它科技资讯] 18家具身顶尖势力集结，RoboChallenge 打造全球最大具身模型竞技场
+  - [aibase][智能硬件] 联想开天发布天禧AI Pro：专为政企打造的"可信AI搭档"
+  - [aibase][国内AI资讯] 名创优品成立AI创新部：聚焦智能体研发与全球选址算法优化
+  - [aibase][国外AI资讯] ChatGPT 用户突破 10 亿，女性用户占比首次超过 50%
+  - [aibase][国内AI资讯] 科大讯飞发布AstronClaw升级版:推出9项新品及软硬一体AI Agent架构
+  - [aibase][其它科技资讯] ​星巴克引入 ChatGPT，根据心情推荐饮品
+  - [aibase][国外AI资讯] 谷歌Gemini接入个人相册，AI生成图像迈向真正个性化
+  - [aibase][智能硬件] 英伟达发布 Lyra2.0:单照生成90米3D 环境，多项指标超越竞争对手
+  - [aibase][国外AI资讯] Meta持续挖角AI初创公司，Thinking Machines再失核心成员
+  - [aibase][其它科技资讯] ​男子用 AI 技术制造假自杀照片，惹来警方介入
+  - [aibase][国内AI资讯] 通义千问关联公司注册资本翻倍，阿里云与杭州通义实验室共同持股
+  - [aibase][国内AI资讯] 阿里开源 Qwen3.6-35B-A3B:30亿激活参数实现编程能力跨越式升级
+  - [aibase][其它科技资讯] Opera 推出浏览器连接器功能 让 AI 聊天机器人无缝集成
+  - [aibase][国外AI资讯] ​Anthropic 发布全新 Claude Opus 4.7，功能显著提升
+
+[2026-04-18 08:01:24] llm_summary - INPUT: 34条
+============================================================
+  - [huxiu][国外AI资讯] 市场消息：OpenAI 也将停用 Prism 网页应用
+  - [huxiu][国外AI资讯] xAI计划用数万GPU训练Composer2.5AI模型，提升AI领域竞争力
+  - [huxiu][国内AI资讯] DeepSeek V4参数量达1.6万亿，超预期60%
+  - [huxiu][智能硬件] 三星电子加速研发下一代高带宽内存，首批HBM4E将于5月生产
+  - [huxiu][其它科技资讯] 黄仁勋：DeepSeek优先适配华为对美国不利
+  - [huxiu][其它科技资讯] 新增海外工作地，字节跳动面向全球招募技术人才
+  - [huxiu][国内AI资讯] 小马智行CTO楼天城：AI自我审视提升世界模型精度是竞争核心
+  - [huxiu][国内AI资讯] 字节回应亿元年薪挖DeepSeek员工
+  - [infoq][国外AI资讯] NVIDIA发布基于NemoClaw构建本地沙盒化AI助手教程
+  - [infoq][国外AI资讯] 微软宣布威斯康星州Fairwater AI数据中心提前上线
+  - [infoq][其它科技资讯] NVIDIA 推荐 Google Cloud Next 会议物理 AI 议程
+  - [infoq][其它科技资讯] IDC宣布推出新产品IDC Quanta，市场反响热烈
+  - [infoq][国外AI资讯] 思科团队基于LangSmith与LangGraph构建多智能体协调框架
+  - [infoq][其它科技资讯] NVIDIA发布半导体行业技术讲座，探讨AI与加速计算如何重塑芯片设计制造
+  - [infoq][国外AI资讯] Percy Liang转发：本周启动1290亿参数MoE模型训练
+  - [infoq][国外AI资讯] AWS Nitro隔离引擎成为首个形式化验证的云管理程序
+  - [infoq][其它科技资讯] NeurIPS 2026 公开征集竞赛赛道提案，聚焦LLM评估与社会影响
+  - [infoq][国外AI资讯] Canva与Anthropic深化合作，设计引擎集成至Claude Design平台
+  - [infoq][国外AI资讯] Y Combinator CEO Garry Tan 开源个人知识库工具 GBrain
+  - [infoq][国外AI资讯] 微软Azure在App Advisor中推出快速启动开发工具包
+  - [量子位][其它科技资讯] 18家具身顶尖势力集结，RoboChallenge 打造全球最大具身模型竞技场
+  - [aibase][智能硬件] 联想开天发布天禧AI Pro：专为政企打造的"可信AI搭档"
+  - [aibase][国内AI资讯] 名创优品成立AI创新部：聚焦智能体研发与全球选址算法优化
+  - [aibase][国外AI资讯] ChatGPT 用户突破 10 亿，女性用户占比首次超过 50%
+  - [aibase][国内AI资讯] 科大讯飞发布AstronClaw升级版:推出9项新品及软硬一体AI Agent架构
+  - [aibase][其它科技资讯] ​星巴克引入 ChatGPT，根据心情推荐饮品
+  - [aibase][国外AI资讯] 谷歌Gemini接入个人相册，AI生成图像迈向真正个性化
+  - [aibase][智能硬件] 英伟达发布 Lyra2.0:单照生成90米3D 环境，多项指标超越竞争对手
+  - [aibase][国外AI资讯] Meta持续挖角AI初创公司，Thinking Machines再失核心成员
+  - [aibase][其它科技资讯] ​男子用 AI 技术制造假自杀照片，惹来警方介入
+  - [aibase][国内AI资讯] 通义千问关联公司注册资本翻倍，阿里云与杭州通义实验室共同持股
+  - [aibase][国内AI资讯] 阿里开源 Qwen3.6-35B-A3B:30亿激活参数实现编程能力跨越式升级
+  - [aibase][其它科技资讯] Opera 推出浏览器连接器功能 让 AI 聊天机器人无缝集成
+  - [aibase][国外AI资讯] ​Anthropic 发布全新 Claude Opus 4.7，功能显著提升
+
+[2026-04-18 08:01:27] llm_summary - OUTPUT: 34条 | 成功1条
+============================================================
+  - [huxiu][国外AI资讯] 市场消息：OpenAI 也将停用 Prism 网页应用
+  - [huxiu][国外AI资讯] xAI计划用数万GPU训练Composer2.5AI模型，提升AI领域竞争力
+  - [huxiu][国内AI资讯] DeepSeek V4参数量达1.6万亿，超预期60%
+  - [huxiu][智能硬件] 三星电子加速研发下一代高带宽内存，首批HBM4E将于5月生产
+  - [huxiu][其它科技资讯] 黄仁勋：DeepSeek优先适配华为对美国不利
+  - [huxiu][其它科技资讯] 新增海外工作地，字节跳动面向全球招募技术人才
+  - [huxiu][国内AI资讯] 小马智行CTO楼天城：AI自我审视提升世界模型精度是竞争核心
+  - [huxiu][国内AI资讯] 字节回应亿元年薪挖DeepSeek员工
+  - [infoq][国外AI资讯] NVIDIA发布基于NemoClaw构建本地沙盒化AI助手教程
+  - [infoq][国外AI资讯] 微软宣布威斯康星州Fairwater AI数据中心提前上线
+  - [infoq][其它科技资讯] NVIDIA 推荐 Google Cloud Next 会议物理 AI 议程
+  - [infoq][其它科技资讯] IDC宣布推出新产品IDC Quanta，市场反响热烈
+  - [infoq][国外AI资讯] 思科团队基于LangSmith与LangGraph构建多智能体协调框架
+  - [infoq][其它科技资讯] NVIDIA发布半导体行业技术讲座，探讨AI与加速计算如何重塑芯片设计制造
+  - [infoq][国外AI资讯] Percy Liang转发：本周启动1290亿参数MoE模型训练
+  - [infoq][国外AI资讯] AWS Nitro隔离引擎成为首个形式化验证的云管理程序
+  - [infoq][其它科技资讯] NeurIPS 2026 公开征集竞赛赛道提案，聚焦LLM评估与社会影响
+  - [infoq][国外AI资讯] Canva与Anthropic深化合作，设计引擎集成至Claude Design平台
+  - [infoq][国外AI资讯] Y Combinator CEO Garry Tan 开源个人知识库工具 GBrain
+  - [infoq][国外AI资讯] 微软Azure在App Advisor中推出快速启动开发工具包
+  - [量子位][其它科技资讯] 18家具身顶尖势力集结，RoboChallenge 打造全球最大具身模型竞技场
+  - [aibase][智能硬件] 联想开天发布天禧AI Pro：专为政企打造的"可信AI搭档"
+  - [aibase][国内AI资讯] 名创优品成立AI创新部：聚焦智能体研发与全球选址算法优化
+  - [aibase][国外AI资讯] ChatGPT 用户突破 10 亿，女性用户占比首次超过 50%
+  - [aibase][国内AI资讯] 科大讯飞发布AstronClaw升级版:推出9项新品及软硬一体AI Agent架构
+  - [aibase][其它科技资讯] ​星巴克引入 ChatGPT，根据心情推荐饮品
+  - [aibase][国外AI资讯] 谷歌Gemini接入个人相册，AI生成图像迈向真正个性化
+  - [aibase][智能硬件] 英伟达发布 Lyra2.0:单照生成90米3D 环境，多项指标超越竞争对手
+  - [aibase][国外AI资讯] Meta持续挖角AI初创公司，Thinking Machines再失核心成员
+  - [aibase][其它科技资讯] ​男子用 AI 技术制造假自杀照片，惹来警方介入
+  - [aibase][国内AI资讯] 通义千问关联公司注册资本翻倍，阿里云与杭州通义实验室共同持股
+  - [aibase][国内AI资讯] 阿里开源 Qwen3.6-35B-A3B:30亿激活参数实现编程能力跨越式升级
+  - [aibase][其它科技资讯] Opera 推出浏览器连接器功能 让 AI 聊天机器人无缝集成
+  - [aibase][国外AI资讯] ​Anthropic 发布全新 Claude Opus 4.7，功能显著提升
+
+[2026-04-18 08:24:29] keyword_filter - INPUT: 54条
+============================================================
+  - [huxiu][] 市场消息：OpenAI 也将停用 Prism 网页应用
+  - [huxiu][] Cursor拟筹20亿美元融资，a16z领投，估值超500亿美元，Nvidia参与
+  - [huxiu][] xAI计划用数万GPU训练Composer2.5AI模型，提升AI领域竞争力
+  - [huxiu][] 股东质疑萨姆·阿尔特曼的领导力，建议布雷特·泰勒接任OpenAI
+  - [huxiu][] DeepSeek V4参数量达1.6万亿，超预期60%
+  - [huxiu][] 三星电子加速研发下一代高带宽内存，首批HBM4E将于5月生产
+  - [huxiu][] OpenAI斥资超200亿美元购Cerebras芯片，寻找英伟达替代方案
+  - [huxiu][] 黄仁勋：DeepSeek优先适配华为对美国不利
+  - [huxiu][] 新增海外工作地，字节跳动面向全球招募技术人才
+  - [huxiu][] 我国科研人员研制出超强高导耐热铜箔
+  - [huxiu][] 小马智行CTO楼天城：AI自我审视提升世界模型精度是竞争核心
+  - [huxiu][] 依托AI技术，国内医药CXO企业将加速新药研发、提升服务效率
+  - [huxiu][] 字节回应亿元年薪挖DeepSeek员工
+  - [infoq][] NVIDIA与Cadence合作推进AI工程流程、物理AI与数字孪生技术
+  - [infoq][] 微软演示将本地Oracle数据库迁移至Oracle AI Database@Azure
+  - [infoq][] 经合组织：成员国研发投资稳定，政府预算向国防领域倾斜
+  - [infoq][] NVIDIA发布基于NemoClaw构建本地沙盒化AI助手教程
+  - [infoq][] 微软宣布威斯康星州Fairwater AI数据中心提前上线
+  - [infoq][] NVIDIA 推荐 Google Cloud Next 会议物理 AI 议程
+  - [infoq][] IDC宣布推出新产品IDC Quanta，市场反响热烈
+  - [infoq][] 思科团队基于LangSmith与LangGraph构建多智能体协调框架
+  - [infoq][] Google Cloud 提醒用户关注即将举行的 Google Cloud Next LIVE 活动
+  - [infoq][] NVIDIA发布半导体行业技术讲座，探讨AI与加速计算如何重塑芯片设计制造
+  - [infoq][] Percy Liang转发：本周启动1290亿参数MoE模型训练
+  - [infoq][] 微软CEO宣布威斯康星州Fairwater数据中心提前上线
+  - [infoq][] AWS Nitro隔离引擎成为首个形式化验证的云管理程序
+  - [infoq][] 经合组织发布“长寿准备度工具”，助力应对老龄化对工作的影响
+  - [infoq][] NeurIPS 2026 公开征集竞赛赛道提案，聚焦LLM评估与社会影响
+  - [infoq][] Canva与Anthropic深化合作，设计引擎集成至Claude Design平台
+  - [infoq][] Y Combinator 将举办探讨AI如何变革销售团队工作方式的晚间活动
+  - [infoq][] Y Combinator CEO Garry Tan 开源个人知识库工具 GBrain
+  - [infoq][] 微软Azure在App Advisor中推出快速启动开发工具包
+  - [infoq][] Google Cloud为BigQuery对话式分析新增AI功能
+  - [量子位][] 18家具身顶尖势力集结，RoboChallenge 打造全球最大具身模型竞技场
+  - [aibase][] 联想开天发布天禧AI Pro：专为政企打造的"可信AI搭档"
+  - [aibase][] 名创优品成立AI创新部：聚焦智能体研发与全球选址算法优化
+  - [aibase][] ChatGPT 用户突破 10 亿，女性用户占比首次超过 50%
+  - [aibase][] ​Cerebras 与 OpenAI 签署 200 亿美元芯片协议计划 IPO
+  - [aibase][] 科大讯飞发布AstronClaw升级版:推出9项新品及软硬一体AI Agent架构
+  - [aibase][] ChatGPT用户结构历史性逆转：女性占比首超50%，总用户规模逼近 10 亿
+  - [aibase][] OpenAI 发布 GPT-Rosalind 模型，深度跨界制药与生命科学领域
+  - [aibase][] ​星巴克引入 ChatGPT，根据心情推荐饮品
+  - [aibase][] 谷歌Gemini接入个人相册，AI生成图像迈向真正个性化
+  - [aibase][] ​Claude 强制实名验证引发争议：用户担心封号风险
+  - [aibase][] 英伟达发布 Lyra2.0:单照生成90米3D 环境，多项指标超越竞争对手
+  - [aibase][] Meta持续挖角AI初创公司，Thinking Machines再失核心成员
+  - [aibase][] OpenAI斥资逾 200 亿美元押注Cerebras，或获高达10%股权
+  - [aibase][] 字节跳动启动前沿技术人才校招，面向全球博士生开放多个AI方向
+  - [aibase][] ​男子用 AI 技术制造假自杀照片，惹来警方介入
+  - [aibase][] 通义千问关联公司注册资本翻倍，阿里云与杭州通义实验室共同持股
+  - [aibase][] 阿里开源 Qwen3.6-35B-A3B:30亿激活参数实现编程能力跨越式升级
+  - [aibase][] ​Gucci 联手谷歌，时尚智能眼镜将于 2027 年亮相
+  - [aibase][] Opera 推出浏览器连接器功能 让 AI 聊天机器人无缝集成
+  - [aibase][] ​Anthropic 发布全新 Claude Opus 4.7，功能显著提升
+
+[2026-04-18 08:24:29] keyword_filter - OUTPUT: 32条 | 移除22条
+============================================================
+  - [huxiu][] 市场消息：OpenAI 也将停用 Prism 网页应用
+  - [huxiu][] xAI计划用数万GPU训练Composer2.5AI模型，提升AI领域竞争力
+  - [huxiu][] DeepSeek V4参数量达1.6万亿，超预期60%
+  - [huxiu][] 三星电子加速研发下一代高带宽内存，首批HBM4E将于5月生产
+  - [huxiu][] 黄仁勋：DeepSeek优先适配华为对美国不利
+  - [huxiu][] 小马智行CTO楼天城：AI自我审视提升世界模型精度是竞争核心
+  - [infoq][] NVIDIA发布基于NemoClaw构建本地沙盒化AI助手教程
+  - [infoq][] 微软宣布威斯康星州Fairwater AI数据中心提前上线
+  - [infoq][] NVIDIA 推荐 Google Cloud Next 会议物理 AI 议程
+  - [infoq][] IDC宣布推出新产品IDC Quanta，市场反响热烈
+  - [infoq][] 思科团队基于LangSmith与LangGraph构建多智能体协调框架
+  - [infoq][] NVIDIA发布半导体行业技术讲座，探讨AI与加速计算如何重塑芯片设计制造
+  - [infoq][] Percy Liang转发：本周启动1290亿参数MoE模型训练
+  - [infoq][] 微软CEO宣布威斯康星州Fairwater数据中心提前上线
+  - [infoq][] AWS Nitro隔离引擎成为首个形式化验证的云管理程序
+  - [infoq][] NeurIPS 2026 公开征集竞赛赛道提案，聚焦LLM评估与社会影响
+  - [infoq][] Canva与Anthropic深化合作，设计引擎集成至Claude Design平台
+  - [infoq][] Y Combinator CEO Garry Tan 开源个人知识库工具 GBrain
+  - [infoq][] 微软Azure在App Advisor中推出快速启动开发工具包
+  - [量子位][] 18家具身顶尖势力集结，RoboChallenge 打造全球最大具身模型竞技场
+  - [aibase][] 联想开天发布天禧AI Pro：专为政企打造的"可信AI搭档"
+  - [aibase][] ChatGPT 用户突破 10 亿，女性用户占比首次超过 50%
+  - [aibase][] 科大讯飞发布AstronClaw升级版:推出9项新品及软硬一体AI Agent架构
+  - [aibase][] ChatGPT用户结构历史性逆转：女性占比首超50%，总用户规模逼近 10 亿
+  - [aibase][] ​星巴克引入 ChatGPT，根据心情推荐饮品
+  - [aibase][] 谷歌Gemini接入个人相册，AI生成图像迈向真正个性化
+  - [aibase][] 英伟达发布 Lyra2.0:单照生成90米3D 环境，多项指标超越竞争对手
+  - [aibase][] Meta持续挖角AI初创公司，Thinking Machines再失核心成员
+  - [aibase][] ​男子用 AI 技术制造假自杀照片，惹来警方介入
+  - [aibase][] 阿里开源 Qwen3.6-35B-A3B:30亿激活参数实现编程能力跨越式升级
+  - [aibase][] Opera 推出浏览器连接器功能 让 AI 聊天机器人无缝集成
+  - [aibase][] ​Anthropic 发布全新 Claude Opus 4.7，功能显著提升
+
+[2026-04-18 08:24:29] bge_dedup - INPUT: 32条
+============================================================
+  - [huxiu][] 市场消息：OpenAI 也将停用 Prism 网页应用
+  - [huxiu][] xAI计划用数万GPU训练Composer2.5AI模型，提升AI领域竞争力
+  - [huxiu][] DeepSeek V4参数量达1.6万亿，超预期60%
+  - [huxiu][] 三星电子加速研发下一代高带宽内存，首批HBM4E将于5月生产
+  - [huxiu][] 黄仁勋：DeepSeek优先适配华为对美国不利
+  - [huxiu][] 小马智行CTO楼天城：AI自我审视提升世界模型精度是竞争核心
+  - [infoq][] NVIDIA发布基于NemoClaw构建本地沙盒化AI助手教程
+  - [infoq][] 微软宣布威斯康星州Fairwater AI数据中心提前上线
+  - [infoq][] NVIDIA 推荐 Google Cloud Next 会议物理 AI 议程
+  - [infoq][] IDC宣布推出新产品IDC Quanta，市场反响热烈
+  - [infoq][] 思科团队基于LangSmith与LangGraph构建多智能体协调框架
+  - [infoq][] NVIDIA发布半导体行业技术讲座，探讨AI与加速计算如何重塑芯片设计制造
+  - [infoq][] Percy Liang转发：本周启动1290亿参数MoE模型训练
+  - [infoq][] 微软CEO宣布威斯康星州Fairwater数据中心提前上线
+  - [infoq][] AWS Nitro隔离引擎成为首个形式化验证的云管理程序
+  - [infoq][] NeurIPS 2026 公开征集竞赛赛道提案，聚焦LLM评估与社会影响
+  - [infoq][] Canva与Anthropic深化合作，设计引擎集成至Claude Design平台
+  - [infoq][] Y Combinator CEO Garry Tan 开源个人知识库工具 GBrain
+  - [infoq][] 微软Azure在App Advisor中推出快速启动开发工具包
+  - [量子位][] 18家具身顶尖势力集结，RoboChallenge 打造全球最大具身模型竞技场
+  - [aibase][] 联想开天发布天禧AI Pro：专为政企打造的"可信AI搭档"
+  - [aibase][] ChatGPT 用户突破 10 亿，女性用户占比首次超过 50%
+  - [aibase][] 科大讯飞发布AstronClaw升级版:推出9项新品及软硬一体AI Agent架构
+  - [aibase][] ChatGPT用户结构历史性逆转：女性占比首超50%，总用户规模逼近 10 亿
+  - [aibase][] ​星巴克引入 ChatGPT，根据心情推荐饮品
+  - [aibase][] 谷歌Gemini接入个人相册，AI生成图像迈向真正个性化
+  - [aibase][] 英伟达发布 Lyra2.0:单照生成90米3D 环境，多项指标超越竞争对手
+  - [aibase][] Meta持续挖角AI初创公司，Thinking Machines再失核心成员
+  - [aibase][] ​男子用 AI 技术制造假自杀照片，惹来警方介入
+  - [aibase][] 阿里开源 Qwen3.6-35B-A3B:30亿激活参数实现编程能力跨越式升级
+  - [aibase][] Opera 推出浏览器连接器功能 让 AI 聊天机器人无缝集成
+  - [aibase][] ​Anthropic 发布全新 Claude Opus 4.7，功能显著提升
+
+[2026-04-18 08:24:45] bge_dedup - OUTPUT: 30条 | 移除2条
+============================================================
+  - [huxiu][] 市场消息：OpenAI 也将停用 Prism 网页应用
+  - [huxiu][] xAI计划用数万GPU训练Composer2.5AI模型，提升AI领域竞争力
+  - [huxiu][] DeepSeek V4参数量达1.6万亿，超预期60%
+  - [huxiu][] 三星电子加速研发下一代高带宽内存，首批HBM4E将于5月生产
+  - [huxiu][] 黄仁勋：DeepSeek优先适配华为对美国不利
+  - [huxiu][] 小马智行CTO楼天城：AI自我审视提升世界模型精度是竞争核心
+  - [infoq][] NVIDIA发布基于NemoClaw构建本地沙盒化AI助手教程
+  - [infoq][] 微软宣布威斯康星州Fairwater AI数据中心提前上线
+  - [infoq][] NVIDIA 推荐 Google Cloud Next 会议物理 AI 议程
+  - [infoq][] IDC宣布推出新产品IDC Quanta，市场反响热烈
+  - [infoq][] 思科团队基于LangSmith与LangGraph构建多智能体协调框架
+  - [infoq][] NVIDIA发布半导体行业技术讲座，探讨AI与加速计算如何重塑芯片设计制造
+  - [infoq][] Percy Liang转发：本周启动1290亿参数MoE模型训练
+  - [infoq][] AWS Nitro隔离引擎成为首个形式化验证的云管理程序
+  - [infoq][] NeurIPS 2026 公开征集竞赛赛道提案，聚焦LLM评估与社会影响
+  - [infoq][] Canva与Anthropic深化合作，设计引擎集成至Claude Design平台
+  - [infoq][] Y Combinator CEO Garry Tan 开源个人知识库工具 GBrain
+  - [infoq][] 微软Azure在App Advisor中推出快速启动开发工具包
+  - [量子位][] 18家具身顶尖势力集结，RoboChallenge 打造全球最大具身模型竞技场
+  - [aibase][] 联想开天发布天禧AI Pro：专为政企打造的"可信AI搭档"
+  - [aibase][] ChatGPT 用户突破 10 亿，女性用户占比首次超过 50%
+  - [aibase][] 科大讯飞发布AstronClaw升级版:推出9项新品及软硬一体AI Agent架构
+  - [aibase][] ​星巴克引入 ChatGPT，根据心情推荐饮品
+  - [aibase][] 谷歌Gemini接入个人相册，AI生成图像迈向真正个性化
+  - [aibase][] 英伟达发布 Lyra2.0:单照生成90米3D 环境，多项指标超越竞争对手
+  - [aibase][] Meta持续挖角AI初创公司，Thinking Machines再失核心成员
+  - [aibase][] ​男子用 AI 技术制造假自杀照片，惹来警方介入
+  - [aibase][] 阿里开源 Qwen3.6-35B-A3B:30亿激活参数实现编程能力跨越式升级
+  - [aibase][] Opera 推出浏览器连接器功能 让 AI 聊天机器人无缝集成
+  - [aibase][] ​Anthropic 发布全新 Claude Opus 4.7，功能显著提升
+
+[2026-04-18 08:24:45] llm_classify - INPUT: 30条
+============================================================
+  - [huxiu][] 市场消息：OpenAI 也将停用 Prism 网页应用
+  - [huxiu][] xAI计划用数万GPU训练Composer2.5AI模型，提升AI领域竞争力
+  - [huxiu][] DeepSeek V4参数量达1.6万亿，超预期60%
+  - [huxiu][] 三星电子加速研发下一代高带宽内存，首批HBM4E将于5月生产
+  - [huxiu][] 黄仁勋：DeepSeek优先适配华为对美国不利
+  - [huxiu][] 小马智行CTO楼天城：AI自我审视提升世界模型精度是竞争核心
+  - [infoq][] NVIDIA发布基于NemoClaw构建本地沙盒化AI助手教程
+  - [infoq][] 微软宣布威斯康星州Fairwater AI数据中心提前上线
+  - [infoq][] NVIDIA 推荐 Google Cloud Next 会议物理 AI 议程
+  - [infoq][] IDC宣布推出新产品IDC Quanta，市场反响热烈
+  - [infoq][] 思科团队基于LangSmith与LangGraph构建多智能体协调框架
+  - [infoq][] NVIDIA发布半导体行业技术讲座，探讨AI与加速计算如何重塑芯片设计制造
+  - [infoq][] Percy Liang转发：本周启动1290亿参数MoE模型训练
+  - [infoq][] AWS Nitro隔离引擎成为首个形式化验证的云管理程序
+  - [infoq][] NeurIPS 2026 公开征集竞赛赛道提案，聚焦LLM评估与社会影响
+  - [infoq][] Canva与Anthropic深化合作，设计引擎集成至Claude Design平台
+  - [infoq][] Y Combinator CEO Garry Tan 开源个人知识库工具 GBrain
+  - [infoq][] 微软Azure在App Advisor中推出快速启动开发工具包
+  - [量子位][] 18家具身顶尖势力集结，RoboChallenge 打造全球最大具身模型竞技场
+  - [aibase][] 联想开天发布天禧AI Pro：专为政企打造的"可信AI搭档"
+  - [aibase][] ChatGPT 用户突破 10 亿，女性用户占比首次超过 50%
+  - [aibase][] 科大讯飞发布AstronClaw升级版:推出9项新品及软硬一体AI Agent架构
+  - [aibase][] ​星巴克引入 ChatGPT，根据心情推荐饮品
+  - [aibase][] 谷歌Gemini接入个人相册，AI生成图像迈向真正个性化
+  - [aibase][] 英伟达发布 Lyra2.0:单照生成90米3D 环境，多项指标超越竞争对手
+  - [aibase][] Meta持续挖角AI初创公司，Thinking Machines再失核心成员
+  - [aibase][] ​男子用 AI 技术制造假自杀照片，惹来警方介入
+  - [aibase][] 阿里开源 Qwen3.6-35B-A3B:30亿激活参数实现编程能力跨越式升级
+  - [aibase][] Opera 推出浏览器连接器功能 让 AI 聊天机器人无缝集成
+  - [aibase][] ​Anthropic 发布全新 Claude Opus 4.7，功能显著提升
+
+[2026-04-18 08:24:56] llm_classify - OUTPUT: 30条 | 保留30条
+============================================================
+  - [huxiu][国外AI资讯] 市场消息：OpenAI 也将停用 Prism 网页应用
+  - [huxiu][国外AI资讯] xAI计划用数万GPU训练Composer2.5AI模型，提升AI领域竞争力
+  - [huxiu][国外AI资讯] DeepSeek V4参数量达1.6万亿，超预期60%
+  - [huxiu][智能硬件] 三星电子加速研发下一代高带宽内存，首批HBM4E将于5月生产
+  - [huxiu][其它科技资讯] 黄仁勋：DeepSeek优先适配华为对美国不利
+  - [huxiu][国内AI资讯] 小马智行CTO楼天城：AI自我审视提升世界模型精度是竞争核心
+  - [infoq][国外AI资讯] NVIDIA发布基于NemoClaw构建本地沙盒化AI助手教程
+  - [infoq][国外AI资讯] 微软宣布威斯康星州Fairwater AI数据中心提前上线
+  - [infoq][其它科技资讯] NVIDIA 推荐 Google Cloud Next 会议物理 AI 议程
+  - [infoq][其它科技资讯] IDC宣布推出新产品IDC Quanta，市场反响热烈
+  - [infoq][国外AI资讯] 思科团队基于LangSmith与LangGraph构建多智能体协调框架
+  - [infoq][其它科技资讯] NVIDIA发布半导体行业技术讲座，探讨AI与加速计算如何重塑芯片设计制造
+  - [infoq][国外AI资讯] Percy Liang转发：本周启动1290亿参数MoE模型训练
+  - [infoq][国外AI资讯] AWS Nitro隔离引擎成为首个形式化验证的云管理程序
+  - [infoq][其它科技资讯] NeurIPS 2026 公开征集竞赛赛道提案，聚焦LLM评估与社会影响
+  - [infoq][国外AI资讯] Canva与Anthropic深化合作，设计引擎集成至Claude Design平台
+  - [infoq][国外AI资讯] Y Combinator CEO Garry Tan 开源个人知识库工具 GBrain
+  - [infoq][国外AI资讯] 微软Azure在App Advisor中推出快速启动开发工具包
+  - [量子位][智能硬件] 18家具身顶尖势力集结，RoboChallenge 打造全球最大具身模型竞技场
+  - [aibase][国内AI资讯] 联想开天发布天禧AI Pro：专为政企打造的"可信AI搭档"
+  - [aibase][国外AI资讯] ChatGPT 用户突破 10 亿，女性用户占比首次超过 50%
+  - [aibase][国内AI资讯] 科大讯飞发布AstronClaw升级版:推出9项新品及软硬一体AI Agent架构
+  - [aibase][其它科技资讯] ​星巴克引入 ChatGPT，根据心情推荐饮品
+  - [aibase][国外AI资讯] 谷歌Gemini接入个人相册，AI生成图像迈向真正个性化
+  - [aibase][智能硬件] 英伟达发布 Lyra2.0:单照生成90米3D 环境，多项指标超越竞争对手
+  - [aibase][国外AI资讯] Meta持续挖角AI初创公司，Thinking Machines再失核心成员
+  - [aibase][其它科技资讯] ​男子用 AI 技术制造假自杀照片，惹来警方介入
+  - [aibase][国内AI资讯] 阿里开源 Qwen3.6-35B-A3B:30亿激活参数实现编程能力跨越式升级
+  - [aibase][其它科技资讯] Opera 推出浏览器连接器功能 让 AI 聊天机器人无缝集成
+  - [aibase][国外AI资讯] ​Anthropic 发布全新 Claude Opus 4.7，功能显著提升
+
+[2026-04-18 08:24:56] llm_summary - INPUT: 30条
+============================================================
+  - [huxiu][国外AI资讯] 市场消息：OpenAI 也将停用 Prism 网页应用
+  - [huxiu][国外AI资讯] xAI计划用数万GPU训练Composer2.5AI模型，提升AI领域竞争力
+  - [huxiu][国外AI资讯] DeepSeek V4参数量达1.6万亿，超预期60%
+  - [huxiu][智能硬件] 三星电子加速研发下一代高带宽内存，首批HBM4E将于5月生产
+  - [huxiu][其它科技资讯] 黄仁勋：DeepSeek优先适配华为对美国不利
+  - [huxiu][国内AI资讯] 小马智行CTO楼天城：AI自我审视提升世界模型精度是竞争核心
+  - [infoq][国外AI资讯] NVIDIA发布基于NemoClaw构建本地沙盒化AI助手教程
+  - [infoq][国外AI资讯] 微软宣布威斯康星州Fairwater AI数据中心提前上线
+  - [infoq][其它科技资讯] NVIDIA 推荐 Google Cloud Next 会议物理 AI 议程
+  - [infoq][其它科技资讯] IDC宣布推出新产品IDC Quanta，市场反响热烈
+  - [infoq][国外AI资讯] 思科团队基于LangSmith与LangGraph构建多智能体协调框架
+  - [infoq][其它科技资讯] NVIDIA发布半导体行业技术讲座，探讨AI与加速计算如何重塑芯片设计制造
+  - [infoq][国外AI资讯] Percy Liang转发：本周启动1290亿参数MoE模型训练
+  - [infoq][国外AI资讯] AWS Nitro隔离引擎成为首个形式化验证的云管理程序
+  - [infoq][其它科技资讯] NeurIPS 2026 公开征集竞赛赛道提案，聚焦LLM评估与社会影响
+  - [infoq][国外AI资讯] Canva与Anthropic深化合作，设计引擎集成至Claude Design平台
+  - [infoq][国外AI资讯] Y Combinator CEO Garry Tan 开源个人知识库工具 GBrain
+  - [infoq][国外AI资讯] 微软Azure在App Advisor中推出快速启动开发工具包
+  - [量子位][智能硬件] 18家具身顶尖势力集结，RoboChallenge 打造全球最大具身模型竞技场
+  - [aibase][国内AI资讯] 联想开天发布天禧AI Pro：专为政企打造的"可信AI搭档"
+  - [aibase][国外AI资讯] ChatGPT 用户突破 10 亿，女性用户占比首次超过 50%
+  - [aibase][国内AI资讯] 科大讯飞发布AstronClaw升级版:推出9项新品及软硬一体AI Agent架构
+  - [aibase][其它科技资讯] ​星巴克引入 ChatGPT，根据心情推荐饮品
+  - [aibase][国外AI资讯] 谷歌Gemini接入个人相册，AI生成图像迈向真正个性化
+  - [aibase][智能硬件] 英伟达发布 Lyra2.0:单照生成90米3D 环境，多项指标超越竞争对手
+  - [aibase][国外AI资讯] Meta持续挖角AI初创公司，Thinking Machines再失核心成员
+  - [aibase][其它科技资讯] ​男子用 AI 技术制造假自杀照片，惹来警方介入
+  - [aibase][国内AI资讯] 阿里开源 Qwen3.6-35B-A3B:30亿激活参数实现编程能力跨越式升级
+  - [aibase][其它科技资讯] Opera 推出浏览器连接器功能 让 AI 聊天机器人无缝集成
+  - [aibase][国外AI资讯] ​Anthropic 发布全新 Claude Opus 4.7，功能显著提升
+
+[2026-04-18 08:24:59] llm_summary - OUTPUT: 30条 | 成功1条
+============================================================
+  - [huxiu][国外AI资讯] 市场消息：OpenAI 也将停用 Prism 网页应用
+  - [huxiu][国外AI资讯] xAI计划用数万GPU训练Composer2.5AI模型，提升AI领域竞争力
+  - [huxiu][国外AI资讯] DeepSeek V4参数量达1.6万亿，超预期60%
+  - [huxiu][智能硬件] 三星电子加速研发下一代高带宽内存，首批HBM4E将于5月生产
+  - [huxiu][其它科技资讯] 黄仁勋：DeepSeek优先适配华为对美国不利
+  - [huxiu][国内AI资讯] 小马智行CTO楼天城：AI自我审视提升世界模型精度是竞争核心
+  - [infoq][国外AI资讯] NVIDIA发布基于NemoClaw构建本地沙盒化AI助手教程
+  - [infoq][国外AI资讯] 微软宣布威斯康星州Fairwater AI数据中心提前上线
+  - [infoq][其它科技资讯] NVIDIA 推荐 Google Cloud Next 会议物理 AI 议程
+  - [infoq][其它科技资讯] IDC宣布推出新产品IDC Quanta，市场反响热烈
+  - [infoq][国外AI资讯] 思科团队基于LangSmith与LangGraph构建多智能体协调框架
+  - [infoq][其它科技资讯] NVIDIA发布半导体行业技术讲座，探讨AI与加速计算如何重塑芯片设计制造
+  - [infoq][国外AI资讯] Percy Liang转发：本周启动1290亿参数MoE模型训练
+  - [infoq][国外AI资讯] AWS Nitro隔离引擎成为首个形式化验证的云管理程序
+  - [infoq][其它科技资讯] NeurIPS 2026 公开征集竞赛赛道提案，聚焦LLM评估与社会影响
+  - [infoq][国外AI资讯] Canva与Anthropic深化合作，设计引擎集成至Claude Design平台
+  - [infoq][国外AI资讯] Y Combinator CEO Garry Tan 开源个人知识库工具 GBrain
+  - [infoq][国外AI资讯] 微软Azure在App Advisor中推出快速启动开发工具包
+  - [量子位][智能硬件] 18家具身顶尖势力集结，RoboChallenge 打造全球最大具身模型竞技场
+  - [aibase][国内AI资讯] 联想开天发布天禧AI Pro：专为政企打造的"可信AI搭档"
+  - [aibase][国外AI资讯] ChatGPT 用户突破 10 亿，女性用户占比首次超过 50%
+  - [aibase][国内AI资讯] 科大讯飞发布AstronClaw升级版:推出9项新品及软硬一体AI Agent架构
+  - [aibase][其它科技资讯] ​星巴克引入 ChatGPT，根据心情推荐饮品
+  - [aibase][国外AI资讯] 谷歌Gemini接入个人相册，AI生成图像迈向真正个性化
+  - [aibase][智能硬件] 英伟达发布 Lyra2.0:单照生成90米3D 环境，多项指标超越竞争对手
+  - [aibase][国外AI资讯] Meta持续挖角AI初创公司，Thinking Machines再失核心成员
+  - [aibase][其它科技资讯] ​男子用 AI 技术制造假自杀照片，惹来警方介入
+  - [aibase][国内AI资讯] 阿里开源 Qwen3.6-35B-A3B:30亿激活参数实现编程能力跨越式升级
+  - [aibase][其它科技资讯] Opera 推出浏览器连接器功能 让 AI 聊天机器人无缝集成
+  - [aibase][国外AI资讯] ​Anthropic 发布全新 Claude Opus 4.7，功能显著提升
+
+[2026-04-18 09:03:07] keyword_filter - INPUT: 32条
+============================================================
+  - [huxiu][] 市场消息：OpenAI 也将停用 Prism 网页应用
+  - [huxiu][] Cursor拟筹20亿美元融资，a16z领投，估值超500亿美元，Nvidia参与
+  - [huxiu][] xAI计划用数万GPU训练Composer2.5AI模型，提升AI领域竞争力
+  - [huxiu][] 股东质疑萨姆·阿尔特曼的领导力，建议布雷特·泰勒接任OpenAI
+  - [huxiu][] DeepSeek V4参数量达1.6万亿，超预期60%
+  - [huxiu][] 三星电子加速研发下一代高带宽内存，首批HBM4E将于5月生产
+  - [huxiu][] OpenAI斥资超200亿美元购Cerebras芯片，寻找英伟达替代方案
+  - [huxiu][] 黄仁勋：DeepSeek优先适配华为对美国不利
+  - [huxiu][] 新增海外工作地，字节跳动面向全球招募技术人才
+  - [huxiu][] 我国科研人员研制出超强高导耐热铜箔
+  - [huxiu][] 小马智行CTO楼天城：AI自我审视提升世界模型精度是竞争核心
+  - [huxiu][] 依托AI技术，国内医药CXO企业将加速新药研发、提升服务效率
+  - [aibase][] 联想开天发布天禧AI Pro：专为政企打造的"可信AI搭档"
+  - [aibase][] 名创优品成立AI创新部：聚焦智能体研发与全球选址算法优化
+  - [aibase][] ChatGPT 用户突破 10 亿，女性用户占比首次超过 50%
+  - [aibase][] ​Cerebras 与 OpenAI 签署 200 亿美元芯片协议计划 IPO
+  - [aibase][] 科大讯飞发布AstronClaw升级版:推出9项新品及软硬一体AI Agent架构
+  - [aibase][] ChatGPT用户结构历史性逆转：女性占比首超50%，总用户规模逼近 10 亿
+  - [aibase][] OpenAI 发布 GPT-Rosalind 模型，深度跨界制药与生命科学领域
+  - [aibase][] ​星巴克引入 ChatGPT，根据心情推荐饮品
+  - [aibase][] 谷歌Gemini接入个人相册，AI生成图像迈向真正个性化
+  - [aibase][] ​Claude 强制实名验证引发争议：用户担心封号风险
+  - [aibase][] 英伟达发布 Lyra2.0:单照生成90米3D 环境，多项指标超越竞争对手
+  - [aibase][] Meta持续挖角AI初创公司，Thinking Machines再失核心成员
+  - [aibase][] OpenAI斥资逾 200 亿美元押注Cerebras，或获高达10%股权
+  - [aibase][] 字节跳动启动前沿技术人才校招，面向全球博士生开放多个AI方向
+  - [aibase][] ​男子用 AI 技术制造假自杀照片，惹来警方介入
+  - [aibase][] 通义千问关联公司注册资本翻倍，阿里云与杭州通义实验室共同持股
+  - [aibase][] 阿里开源 Qwen3.6-35B-A3B:30亿激活参数实现编程能力跨越式升级
+  - [aibase][] ​Gucci 联手谷歌，时尚智能眼镜将于 2027 年亮相
+  - [aibase][] Opera 推出浏览器连接器功能 让 AI 聊天机器人无缝集成
+  - [aibase][] ​Anthropic 发布全新 Claude Opus 4.7，功能显著提升
+
+[2026-04-18 09:03:07] keyword_filter - OUTPUT: 18条 | 移除14条
+============================================================
+  - [huxiu][] 市场消息：OpenAI 也将停用 Prism 网页应用
+  - [huxiu][] xAI计划用数万GPU训练Composer2.5AI模型，提升AI领域竞争力
+  - [huxiu][] DeepSeek V4参数量达1.6万亿，超预期60%
+  - [huxiu][] 三星电子加速研发下一代高带宽内存，首批HBM4E将于5月生产
+  - [huxiu][] 黄仁勋：DeepSeek优先适配华为对美国不利
+  - [huxiu][] 小马智行CTO楼天城：AI自我审视提升世界模型精度是竞争核心
+  - [aibase][] 联想开天发布天禧AI Pro：专为政企打造的"可信AI搭档"
+  - [aibase][] ChatGPT 用户突破 10 亿，女性用户占比首次超过 50%
+  - [aibase][] 科大讯飞发布AstronClaw升级版:推出9项新品及软硬一体AI Agent架构
+  - [aibase][] ChatGPT用户结构历史性逆转：女性占比首超50%，总用户规模逼近 10 亿
+  - [aibase][] ​星巴克引入 ChatGPT，根据心情推荐饮品
+  - [aibase][] 谷歌Gemini接入个人相册，AI生成图像迈向真正个性化
+  - [aibase][] 英伟达发布 Lyra2.0:单照生成90米3D 环境，多项指标超越竞争对手
+  - [aibase][] Meta持续挖角AI初创公司，Thinking Machines再失核心成员
+  - [aibase][] ​男子用 AI 技术制造假自杀照片，惹来警方介入
+  - [aibase][] 阿里开源 Qwen3.6-35B-A3B:30亿激活参数实现编程能力跨越式升级
+  - [aibase][] Opera 推出浏览器连接器功能 让 AI 聊天机器人无缝集成
+  - [aibase][] ​Anthropic 发布全新 Claude Opus 4.7，功能显著提升
+
+[2026-04-18 09:03:07] bge_dedup - INPUT: 18条
+============================================================
+  - [huxiu][] 市场消息：OpenAI 也将停用 Prism 网页应用
+  - [huxiu][] xAI计划用数万GPU训练Composer2.5AI模型，提升AI领域竞争力
+  - [huxiu][] DeepSeek V4参数量达1.6万亿，超预期60%
+  - [huxiu][] 三星电子加速研发下一代高带宽内存，首批HBM4E将于5月生产
+  - [huxiu][] 黄仁勋：DeepSeek优先适配华为对美国不利
+  - [huxiu][] 小马智行CTO楼天城：AI自我审视提升世界模型精度是竞争核心
+  - [aibase][] 联想开天发布天禧AI Pro：专为政企打造的"可信AI搭档"
+  - [aibase][] ChatGPT 用户突破 10 亿，女性用户占比首次超过 50%
+  - [aibase][] 科大讯飞发布AstronClaw升级版:推出9项新品及软硬一体AI Agent架构
+  - [aibase][] ChatGPT用户结构历史性逆转：女性占比首超50%，总用户规模逼近 10 亿
+  - [aibase][] ​星巴克引入 ChatGPT，根据心情推荐饮品
+  - [aibase][] 谷歌Gemini接入个人相册，AI生成图像迈向真正个性化
+  - [aibase][] 英伟达发布 Lyra2.0:单照生成90米3D 环境，多项指标超越竞争对手
+  - [aibase][] Meta持续挖角AI初创公司，Thinking Machines再失核心成员
+  - [aibase][] ​男子用 AI 技术制造假自杀照片，惹来警方介入
+  - [aibase][] 阿里开源 Qwen3.6-35B-A3B:30亿激活参数实现编程能力跨越式升级
+  - [aibase][] Opera 推出浏览器连接器功能 让 AI 聊天机器人无缝集成
+  - [aibase][] ​Anthropic 发布全新 Claude Opus 4.7，功能显著提升
+
+[2026-04-18 09:03:24] bge_dedup - OUTPUT: 17条 | 移除1条
+============================================================
+  - [huxiu][] 市场消息：OpenAI 也将停用 Prism 网页应用
+  - [huxiu][] xAI计划用数万GPU训练Composer2.5AI模型，提升AI领域竞争力
+  - [huxiu][] DeepSeek V4参数量达1.6万亿，超预期60%
+  - [huxiu][] 三星电子加速研发下一代高带宽内存，首批HBM4E将于5月生产
+  - [huxiu][] 黄仁勋：DeepSeek优先适配华为对美国不利
+  - [huxiu][] 小马智行CTO楼天城：AI自我审视提升世界模型精度是竞争核心
+  - [aibase][] 联想开天发布天禧AI Pro：专为政企打造的"可信AI搭档"
+  - [aibase][] ChatGPT 用户突破 10 亿，女性用户占比首次超过 50%
+  - [aibase][] 科大讯飞发布AstronClaw升级版:推出9项新品及软硬一体AI Agent架构
+  - [aibase][] ​星巴克引入 ChatGPT，根据心情推荐饮品
+  - [aibase][] 谷歌Gemini接入个人相册，AI生成图像迈向真正个性化
+  - [aibase][] 英伟达发布 Lyra2.0:单照生成90米3D 环境，多项指标超越竞争对手
+  - [aibase][] Meta持续挖角AI初创公司，Thinking Machines再失核心成员
+  - [aibase][] ​男子用 AI 技术制造假自杀照片，惹来警方介入
+  - [aibase][] 阿里开源 Qwen3.6-35B-A3B:30亿激活参数实现编程能力跨越式升级
+  - [aibase][] Opera 推出浏览器连接器功能 让 AI 聊天机器人无缝集成
+  - [aibase][] ​Anthropic 发布全新 Claude Opus 4.7，功能显著提升
+
+[2026-04-18 09:03:24] llm_classify - INPUT: 17条
+============================================================
+  - [huxiu][] 市场消息：OpenAI 也将停用 Prism 网页应用
+  - [huxiu][] xAI计划用数万GPU训练Composer2.5AI模型，提升AI领域竞争力
+  - [huxiu][] DeepSeek V4参数量达1.6万亿，超预期60%
+  - [huxiu][] 三星电子加速研发下一代高带宽内存，首批HBM4E将于5月生产
+  - [huxiu][] 黄仁勋：DeepSeek优先适配华为对美国不利
+  - [huxiu][] 小马智行CTO楼天城：AI自我审视提升世界模型精度是竞争核心
+  - [aibase][] 联想开天发布天禧AI Pro：专为政企打造的"可信AI搭档"
+  - [aibase][] ChatGPT 用户突破 10 亿，女性用户占比首次超过 50%
+  - [aibase][] 科大讯飞发布AstronClaw升级版:推出9项新品及软硬一体AI Agent架构
+  - [aibase][] ​星巴克引入 ChatGPT，根据心情推荐饮品
+  - [aibase][] 谷歌Gemini接入个人相册，AI生成图像迈向真正个性化
+  - [aibase][] 英伟达发布 Lyra2.0:单照生成90米3D 环境，多项指标超越竞争对手
+  - [aibase][] Meta持续挖角AI初创公司，Thinking Machines再失核心成员
+  - [aibase][] ​男子用 AI 技术制造假自杀照片，惹来警方介入
+  - [aibase][] 阿里开源 Qwen3.6-35B-A3B:30亿激活参数实现编程能力跨越式升级
+  - [aibase][] Opera 推出浏览器连接器功能 让 AI 聊天机器人无缝集成
+  - [aibase][] ​Anthropic 发布全新 Claude Opus 4.7，功能显著提升
+
+[2026-04-18 09:03:38] llm_classify - OUTPUT: 17条 | 保留17条
+============================================================
+  - [huxiu][国外AI资讯] 市场消息：OpenAI 也将停用 Prism 网页应用
+  - [huxiu][国外AI资讯] xAI计划用数万GPU训练Composer2.5AI模型，提升AI领域竞争力
+  - [huxiu][国内AI资讯] DeepSeek V4参数量达1.6万亿，超预期60%
+  - [huxiu][智能硬件] 三星电子加速研发下一代高带宽内存，首批HBM4E将于5月生产
+  - [huxiu][其它科技资讯] 黄仁勋：DeepSeek优先适配华为对美国不利
+  - [huxiu][国内AI资讯] 小马智行CTO楼天城：AI自我审视提升世界模型精度是竞争核心
+  - [aibase][国内AI资讯] 联想开天发布天禧AI Pro：专为政企打造的"可信AI搭档"
+  - [aibase][国外AI资讯] ChatGPT 用户突破 10 亿，女性用户占比首次超过 50%
+  - [aibase][国内AI资讯] 科大讯飞发布AstronClaw升级版:推出9项新品及软硬一体AI Agent架构
+  - [aibase][国外AI资讯] ​星巴克引入 ChatGPT，根据心情推荐饮品
+  - [aibase][国外AI资讯] 谷歌Gemini接入个人相册，AI生成图像迈向真正个性化
+  - [aibase][智能硬件] 英伟达发布 Lyra2.0:单照生成90米3D 环境，多项指标超越竞争对手
+  - [aibase][国外AI资讯] Meta持续挖角AI初创公司，Thinking Machines再失核心成员
+  - [aibase][其它科技资讯] ​男子用 AI 技术制造假自杀照片，惹来警方介入
+  - [aibase][国内AI资讯] 阿里开源 Qwen3.6-35B-A3B:30亿激活参数实现编程能力跨越式升级
+  - [aibase][其它科技资讯] Opera 推出浏览器连接器功能 让 AI 聊天机器人无缝集成
+  - [aibase][国外AI资讯] ​Anthropic 发布全新 Claude Opus 4.7，功能显著提升
+
+[2026-04-18 09:03:38] llm_summary - INPUT: 17条
+============================================================
+  - [huxiu][国外AI资讯] 市场消息：OpenAI 也将停用 Prism 网页应用
+  - [huxiu][国外AI资讯] xAI计划用数万GPU训练Composer2.5AI模型，提升AI领域竞争力
+  - [huxiu][国内AI资讯] DeepSeek V4参数量达1.6万亿，超预期60%
+  - [huxiu][智能硬件] 三星电子加速研发下一代高带宽内存，首批HBM4E将于5月生产
+  - [huxiu][其它科技资讯] 黄仁勋：DeepSeek优先适配华为对美国不利
+  - [huxiu][国内AI资讯] 小马智行CTO楼天城：AI自我审视提升世界模型精度是竞争核心
+  - [aibase][国内AI资讯] 联想开天发布天禧AI Pro：专为政企打造的"可信AI搭档"
+  - [aibase][国外AI资讯] ChatGPT 用户突破 10 亿，女性用户占比首次超过 50%
+  - [aibase][国内AI资讯] 科大讯飞发布AstronClaw升级版:推出9项新品及软硬一体AI Agent架构
+  - [aibase][国外AI资讯] ​星巴克引入 ChatGPT，根据心情推荐饮品
+  - [aibase][国外AI资讯] 谷歌Gemini接入个人相册，AI生成图像迈向真正个性化
+  - [aibase][智能硬件] 英伟达发布 Lyra2.0:单照生成90米3D 环境，多项指标超越竞争对手
+  - [aibase][国外AI资讯] Meta持续挖角AI初创公司，Thinking Machines再失核心成员
+  - [aibase][其它科技资讯] ​男子用 AI 技术制造假自杀照片，惹来警方介入
+  - [aibase][国内AI资讯] 阿里开源 Qwen3.6-35B-A3B:30亿激活参数实现编程能力跨越式升级
+  - [aibase][其它科技资讯] Opera 推出浏览器连接器功能 让 AI 聊天机器人无缝集成
+  - [aibase][国外AI资讯] ​Anthropic 发布全新 Claude Opus 4.7，功能显著提升
+
+[2026-04-18 09:03:38] llm_summary - OUTPUT: 17条 | 成功0条
+============================================================
+  - [huxiu][国外AI资讯] 市场消息：OpenAI 也将停用 Prism 网页应用
+  - [huxiu][国外AI资讯] xAI计划用数万GPU训练Composer2.5AI模型，提升AI领域竞争力
+  - [huxiu][国内AI资讯] DeepSeek V4参数量达1.6万亿，超预期60%
+  - [huxiu][智能硬件] 三星电子加速研发下一代高带宽内存，首批HBM4E将于5月生产
+  - [huxiu][其它科技资讯] 黄仁勋：DeepSeek优先适配华为对美国不利
+  - [huxiu][国内AI资讯] 小马智行CTO楼天城：AI自我审视提升世界模型精度是竞争核心
+  - [aibase][国内AI资讯] 联想开天发布天禧AI Pro：专为政企打造的"可信AI搭档"
+  - [aibase][国外AI资讯] ChatGPT 用户突破 10 亿，女性用户占比首次超过 50%
+  - [aibase][国内AI资讯] 科大讯飞发布AstronClaw升级版:推出9项新品及软硬一体AI Agent架构
+  - [aibase][国外AI资讯] ​星巴克引入 ChatGPT，根据心情推荐饮品
+  - [aibase][国外AI资讯] 谷歌Gemini接入个人相册，AI生成图像迈向真正个性化
+  - [aibase][智能硬件] 英伟达发布 Lyra2.0:单照生成90米3D 环境，多项指标超越竞争对手
+  - [aibase][国外AI资讯] Meta持续挖角AI初创公司，Thinking Machines再失核心成员
+  - [aibase][其它科技资讯] ​男子用 AI 技术制造假自杀照片，惹来警方介入
+  - [aibase][国内AI资讯] 阿里开源 Qwen3.6-35B-A3B:30亿激活参数实现编程能力跨越式升级
+  - [aibase][其它科技资讯] Opera 推出浏览器连接器功能 让 AI 聊天机器人无缝集成
+  - [aibase][国外AI资讯] ​Anthropic 发布全新 Claude Opus 4.7，功能显著提升
+
+[2026-04-18 09:33:12] keyword_filter - INPUT: 53条
+============================================================
+  - [huxiu][] 市场消息：OpenAI 也将停用 Prism 网页应用
+  - [huxiu][] Cursor拟筹20亿美元融资，a16z领投，估值超500亿美元，Nvidia参与
+  - [huxiu][] xAI计划用数万GPU训练Composer2.5AI模型，提升AI领域竞争力
+  - [huxiu][] 股东质疑萨姆·阿尔特曼的领导力，建议布雷特·泰勒接任OpenAI
+  - [huxiu][] DeepSeek V4参数量达1.6万亿，超预期60%
+  - [huxiu][] 三星电子加速研发下一代高带宽内存，首批HBM4E将于5月生产
+  - [huxiu][] OpenAI斥资超200亿美元购Cerebras芯片，寻找英伟达替代方案
+  - [huxiu][] 黄仁勋：DeepSeek优先适配华为对美国不利
+  - [huxiu][] 新增海外工作地，字节跳动面向全球招募技术人才
+  - [huxiu][] 我国科研人员研制出超强高导耐热铜箔
+  - [huxiu][] 小马智行CTO楼天城：AI自我审视提升世界模型精度是竞争核心
+  - [huxiu][] 依托AI技术，国内医药CXO企业将加速新药研发、提升服务效率
+  - [infoq][] xAI 推出 Grok 语音转文本与文本转语音 API
+  - [infoq][] NVIDIA与Cadence合作推进AI工程流程、物理AI与数字孪生技术
+  - [infoq][] 微软演示将本地Oracle数据库迁移至Oracle AI Database@Azure
+  - [infoq][] 经合组织：成员国研发投资稳定，政府预算向国防领域倾斜
+  - [infoq][] NVIDIA发布基于NemoClaw构建本地沙盒化AI助手教程
+  - [infoq][] 微软宣布威斯康星州Fairwater AI数据中心提前上线
+  - [infoq][] NVIDIA 推荐 Google Cloud Next 会议物理 AI 议程
+  - [infoq][] IDC宣布推出新产品IDC Quanta，市场反响热烈
+  - [infoq][] 思科团队基于LangSmith与LangGraph构建多智能体协调框架
+  - [infoq][] Google Cloud 提醒用户关注即将举行的 Google Cloud Next LIVE 活动
+  - [infoq][] NVIDIA发布半导体行业技术讲座，探讨AI与加速计算如何重塑芯片设计制造
+  - [infoq][] Percy Liang转发：本周启动1290亿参数MoE模型训练
+  - [infoq][] 微软CEO宣布威斯康星州Fairwater数据中心提前上线
+  - [infoq][] AWS Nitro隔离引擎成为首个形式化验证的云管理程序
+  - [infoq][] 经合组织发布“长寿准备度工具”，助力应对老龄化对工作的影响
+  - [infoq][] NeurIPS 2026 公开征集竞赛赛道提案，聚焦LLM评估与社会影响
+  - [infoq][] Canva与Anthropic深化合作，设计引擎集成至Claude Design平台
+  - [infoq][] Y Combinator 将举办探讨AI如何变革销售团队工作方式的晚间活动
+  - [infoq][] Y Combinator CEO Garry Tan 开源个人知识库工具 GBrain
+  - [infoq][] 微软Azure在App Advisor中推出快速启动开发工具包
+  - [量子位][] 18家具身顶尖势力集结，RoboChallenge 打造全球最大具身模型竞技场
+  - [aibase][] 联想开天发布天禧AI Pro：专为政企打造的"可信AI搭档"
+  - [aibase][] 名创优品成立AI创新部：聚焦智能体研发与全球选址算法优化
+  - [aibase][] ChatGPT 用户突破 10 亿，女性用户占比首次超过 50%
+  - [aibase][] ​Cerebras 与 OpenAI 签署 200 亿美元芯片协议计划 IPO
+  - [aibase][] 科大讯飞发布AstronClaw升级版:推出9项新品及软硬一体AI Agent架构
+  - [aibase][] ChatGPT用户结构历史性逆转：女性占比首超50%，总用户规模逼近 10 亿
+  - [aibase][] OpenAI 发布 GPT-Rosalind 模型，深度跨界制药与生命科学领域
+  - [aibase][] ​星巴克引入 ChatGPT，根据心情推荐饮品
+  - [aibase][] 谷歌Gemini接入个人相册，AI生成图像迈向真正个性化
+  - [aibase][] ​Claude 强制实名验证引发争议：用户担心封号风险
+  - [aibase][] 英伟达发布 Lyra2.0:单照生成90米3D 环境，多项指标超越竞争对手
+  - [aibase][] Meta持续挖角AI初创公司，Thinking Machines再失核心成员
+  - [aibase][] OpenAI斥资逾 200 亿美元押注Cerebras，或获高达10%股权
+  - [aibase][] 字节跳动启动前沿技术人才校招，面向全球博士生开放多个AI方向
+  - [aibase][] ​男子用 AI 技术制造假自杀照片，惹来警方介入
+  - [aibase][] 通义千问关联公司注册资本翻倍，阿里云与杭州通义实验室共同持股
+  - [aibase][] 阿里开源 Qwen3.6-35B-A3B:30亿激活参数实现编程能力跨越式升级
+  - [aibase][] ​Gucci 联手谷歌，时尚智能眼镜将于 2027 年亮相
+  - [aibase][] Opera 推出浏览器连接器功能 让 AI 聊天机器人无缝集成
+  - [aibase][] ​Anthropic 发布全新 Claude Opus 4.7，功能显著提升
+
+[2026-04-18 09:33:12] keyword_filter - OUTPUT: 33条 | 移除20条
+============================================================
+  - [huxiu][] 市场消息：OpenAI 也将停用 Prism 网页应用
+  - [huxiu][] xAI计划用数万GPU训练Composer2.5AI模型，提升AI领域竞争力
+  - [huxiu][] DeepSeek V4参数量达1.6万亿，超预期60%
+  - [huxiu][] 三星电子加速研发下一代高带宽内存，首批HBM4E将于5月生产
+  - [huxiu][] 黄仁勋：DeepSeek优先适配华为对美国不利
+  - [huxiu][] 小马智行CTO楼天城：AI自我审视提升世界模型精度是竞争核心
+  - [infoq][] xAI 推出 Grok 语音转文本与文本转语音 API
+  - [infoq][] NVIDIA发布基于NemoClaw构建本地沙盒化AI助手教程
+  - [infoq][] 微软宣布威斯康星州Fairwater AI数据中心提前上线
+  - [infoq][] NVIDIA 推荐 Google Cloud Next 会议物理 AI 议程
+  - [infoq][] IDC宣布推出新产品IDC Quanta，市场反响热烈
+  - [infoq][] 思科团队基于LangSmith与LangGraph构建多智能体协调框架
+  - [infoq][] NVIDIA发布半导体行业技术讲座，探讨AI与加速计算如何重塑芯片设计制造
+  - [infoq][] Percy Liang转发：本周启动1290亿参数MoE模型训练
+  - [infoq][] 微软CEO宣布威斯康星州Fairwater数据中心提前上线
+  - [infoq][] AWS Nitro隔离引擎成为首个形式化验证的云管理程序
+  - [infoq][] NeurIPS 2026 公开征集竞赛赛道提案，聚焦LLM评估与社会影响
+  - [infoq][] Canva与Anthropic深化合作，设计引擎集成至Claude Design平台
+  - [infoq][] Y Combinator CEO Garry Tan 开源个人知识库工具 GBrain
+  - [infoq][] 微软Azure在App Advisor中推出快速启动开发工具包
+  - [量子位][] 18家具身顶尖势力集结，RoboChallenge 打造全球最大具身模型竞技场
+  - [aibase][] 联想开天发布天禧AI Pro：专为政企打造的"可信AI搭档"
+  - [aibase][] ChatGPT 用户突破 10 亿，女性用户占比首次超过 50%
+  - [aibase][] 科大讯飞发布AstronClaw升级版:推出9项新品及软硬一体AI Agent架构
+  - [aibase][] ChatGPT用户结构历史性逆转：女性占比首超50%，总用户规模逼近 10 亿
+  - [aibase][] ​星巴克引入 ChatGPT，根据心情推荐饮品
+  - [aibase][] 谷歌Gemini接入个人相册，AI生成图像迈向真正个性化
+  - [aibase][] 英伟达发布 Lyra2.0:单照生成90米3D 环境，多项指标超越竞争对手
+  - [aibase][] Meta持续挖角AI初创公司，Thinking Machines再失核心成员
+  - [aibase][] ​男子用 AI 技术制造假自杀照片，惹来警方介入
+  - [aibase][] 阿里开源 Qwen3.6-35B-A3B:30亿激活参数实现编程能力跨越式升级
+  - [aibase][] Opera 推出浏览器连接器功能 让 AI 聊天机器人无缝集成
+  - [aibase][] ​Anthropic 发布全新 Claude Opus 4.7，功能显著提升
+
+[2026-04-18 09:33:12] bge_dedup - INPUT: 33条
+============================================================
+  - [huxiu][] 市场消息：OpenAI 也将停用 Prism 网页应用
+  - [huxiu][] xAI计划用数万GPU训练Composer2.5AI模型，提升AI领域竞争力
+  - [huxiu][] DeepSeek V4参数量达1.6万亿，超预期60%
+  - [huxiu][] 三星电子加速研发下一代高带宽内存，首批HBM4E将于5月生产
+  - [huxiu][] 黄仁勋：DeepSeek优先适配华为对美国不利
+  - [huxiu][] 小马智行CTO楼天城：AI自我审视提升世界模型精度是竞争核心
+  - [infoq][] xAI 推出 Grok 语音转文本与文本转语音 API
+  - [infoq][] NVIDIA发布基于NemoClaw构建本地沙盒化AI助手教程
+  - [infoq][] 微软宣布威斯康星州Fairwater AI数据中心提前上线
+  - [infoq][] NVIDIA 推荐 Google Cloud Next 会议物理 AI 议程
+  - [infoq][] IDC宣布推出新产品IDC Quanta，市场反响热烈
+  - [infoq][] 思科团队基于LangSmith与LangGraph构建多智能体协调框架
+  - [infoq][] NVIDIA发布半导体行业技术讲座，探讨AI与加速计算如何重塑芯片设计制造
+  - [infoq][] Percy Liang转发：本周启动1290亿参数MoE模型训练
+  - [infoq][] 微软CEO宣布威斯康星州Fairwater数据中心提前上线
+  - [infoq][] AWS Nitro隔离引擎成为首个形式化验证的云管理程序
+  - [infoq][] NeurIPS 2026 公开征集竞赛赛道提案，聚焦LLM评估与社会影响
+  - [infoq][] Canva与Anthropic深化合作，设计引擎集成至Claude Design平台
+  - [infoq][] Y Combinator CEO Garry Tan 开源个人知识库工具 GBrain
+  - [infoq][] 微软Azure在App Advisor中推出快速启动开发工具包
+  - [量子位][] 18家具身顶尖势力集结，RoboChallenge 打造全球最大具身模型竞技场
+  - [aibase][] 联想开天发布天禧AI Pro：专为政企打造的"可信AI搭档"
+  - [aibase][] ChatGPT 用户突破 10 亿，女性用户占比首次超过 50%
+  - [aibase][] 科大讯飞发布AstronClaw升级版:推出9项新品及软硬一体AI Agent架构
+  - [aibase][] ChatGPT用户结构历史性逆转：女性占比首超50%，总用户规模逼近 10 亿
+  - [aibase][] ​星巴克引入 ChatGPT，根据心情推荐饮品
+  - [aibase][] 谷歌Gemini接入个人相册，AI生成图像迈向真正个性化
+  - [aibase][] 英伟达发布 Lyra2.0:单照生成90米3D 环境，多项指标超越竞争对手
+  - [aibase][] Meta持续挖角AI初创公司，Thinking Machines再失核心成员
+  - [aibase][] ​男子用 AI 技术制造假自杀照片，惹来警方介入
+  - [aibase][] 阿里开源 Qwen3.6-35B-A3B:30亿激活参数实现编程能力跨越式升级
+  - [aibase][] Opera 推出浏览器连接器功能 让 AI 聊天机器人无缝集成
+  - [aibase][] ​Anthropic 发布全新 Claude Opus 4.7，功能显著提升
+
+[2026-04-18 09:33:41] bge_dedup - OUTPUT: 31条 | 移除2条
+============================================================
+  - [huxiu][] 市场消息：OpenAI 也将停用 Prism 网页应用
+  - [huxiu][] xAI计划用数万GPU训练Composer2.5AI模型，提升AI领域竞争力
+  - [huxiu][] DeepSeek V4参数量达1.6万亿，超预期60%
+  - [huxiu][] 三星电子加速研发下一代高带宽内存，首批HBM4E将于5月生产
+  - [huxiu][] 黄仁勋：DeepSeek优先适配华为对美国不利
+  - [huxiu][] 小马智行CTO楼天城：AI自我审视提升世界模型精度是竞争核心
+  - [infoq][] xAI 推出 Grok 语音转文本与文本转语音 API
+  - [infoq][] NVIDIA发布基于NemoClaw构建本地沙盒化AI助手教程
+  - [infoq][] 微软宣布威斯康星州Fairwater AI数据中心提前上线
+  - [infoq][] NVIDIA 推荐 Google Cloud Next 会议物理 AI 议程
+  - [infoq][] IDC宣布推出新产品IDC Quanta，市场反响热烈
+  - [infoq][] 思科团队基于LangSmith与LangGraph构建多智能体协调框架
+  - [infoq][] NVIDIA发布半导体行业技术讲座，探讨AI与加速计算如何重塑芯片设计制造
+  - [infoq][] Percy Liang转发：本周启动1290亿参数MoE模型训练
+  - [infoq][] AWS Nitro隔离引擎成为首个形式化验证的云管理程序
+  - [infoq][] NeurIPS 2026 公开征集竞赛赛道提案，聚焦LLM评估与社会影响
+  - [infoq][] Canva与Anthropic深化合作，设计引擎集成至Claude Design平台
+  - [infoq][] Y Combinator CEO Garry Tan 开源个人知识库工具 GBrain
+  - [infoq][] 微软Azure在App Advisor中推出快速启动开发工具包
+  - [量子位][] 18家具身顶尖势力集结，RoboChallenge 打造全球最大具身模型竞技场
+  - [aibase][] 联想开天发布天禧AI Pro：专为政企打造的"可信AI搭档"
+  - [aibase][] ChatGPT 用户突破 10 亿，女性用户占比首次超过 50%
+  - [aibase][] 科大讯飞发布AstronClaw升级版:推出9项新品及软硬一体AI Agent架构
+  - [aibase][] ​星巴克引入 ChatGPT，根据心情推荐饮品
+  - [aibase][] 谷歌Gemini接入个人相册，AI生成图像迈向真正个性化
+  - [aibase][] 英伟达发布 Lyra2.0:单照生成90米3D 环境，多项指标超越竞争对手
+  - [aibase][] Meta持续挖角AI初创公司，Thinking Machines再失核心成员
+  - [aibase][] ​男子用 AI 技术制造假自杀照片，惹来警方介入
+  - [aibase][] 阿里开源 Qwen3.6-35B-A3B:30亿激活参数实现编程能力跨越式升级
+  - [aibase][] Opera 推出浏览器连接器功能 让 AI 聊天机器人无缝集成
+  - [aibase][] ​Anthropic 发布全新 Claude Opus 4.7，功能显著提升
+
+[2026-04-18 09:33:41] llm_classify - INPUT: 31条
+============================================================
+  - [huxiu][] 市场消息：OpenAI 也将停用 Prism 网页应用
+  - [huxiu][] xAI计划用数万GPU训练Composer2.5AI模型，提升AI领域竞争力
+  - [huxiu][] DeepSeek V4参数量达1.6万亿，超预期60%
+  - [huxiu][] 三星电子加速研发下一代高带宽内存，首批HBM4E将于5月生产
+  - [huxiu][] 黄仁勋：DeepSeek优先适配华为对美国不利
+  - [huxiu][] 小马智行CTO楼天城：AI自我审视提升世界模型精度是竞争核心
+  - [infoq][] xAI 推出 Grok 语音转文本与文本转语音 API
+  - [infoq][] NVIDIA发布基于NemoClaw构建本地沙盒化AI助手教程
+  - [infoq][] 微软宣布威斯康星州Fairwater AI数据中心提前上线
+  - [infoq][] NVIDIA 推荐 Google Cloud Next 会议物理 AI 议程
+  - [infoq][] IDC宣布推出新产品IDC Quanta，市场反响热烈
+  - [infoq][] 思科团队基于LangSmith与LangGraph构建多智能体协调框架
+  - [infoq][] NVIDIA发布半导体行业技术讲座，探讨AI与加速计算如何重塑芯片设计制造
+  - [infoq][] Percy Liang转发：本周启动1290亿参数MoE模型训练
+  - [infoq][] AWS Nitro隔离引擎成为首个形式化验证的云管理程序
+  - [infoq][] NeurIPS 2026 公开征集竞赛赛道提案，聚焦LLM评估与社会影响
+  - [infoq][] Canva与Anthropic深化合作，设计引擎集成至Claude Design平台
+  - [infoq][] Y Combinator CEO Garry Tan 开源个人知识库工具 GBrain
+  - [infoq][] 微软Azure在App Advisor中推出快速启动开发工具包
+  - [量子位][] 18家具身顶尖势力集结，RoboChallenge 打造全球最大具身模型竞技场
+  - [aibase][] 联想开天发布天禧AI Pro：专为政企打造的"可信AI搭档"
+  - [aibase][] ChatGPT 用户突破 10 亿，女性用户占比首次超过 50%
+  - [aibase][] 科大讯飞发布AstronClaw升级版:推出9项新品及软硬一体AI Agent架构
+  - [aibase][] ​星巴克引入 ChatGPT，根据心情推荐饮品
+  - [aibase][] 谷歌Gemini接入个人相册，AI生成图像迈向真正个性化
+  - [aibase][] 英伟达发布 Lyra2.0:单照生成90米3D 环境，多项指标超越竞争对手
+  - [aibase][] Meta持续挖角AI初创公司，Thinking Machines再失核心成员
+  - [aibase][] ​男子用 AI 技术制造假自杀照片，惹来警方介入
+  - [aibase][] 阿里开源 Qwen3.6-35B-A3B:30亿激活参数实现编程能力跨越式升级
+  - [aibase][] Opera 推出浏览器连接器功能 让 AI 聊天机器人无缝集成
+  - [aibase][] ​Anthropic 发布全新 Claude Opus 4.7，功能显著提升
+
+[2026-04-18 09:34:17] llm_classify - OUTPUT: 31条 | 保留31条
+============================================================
+  - [huxiu][国外AI资讯] 市场消息：OpenAI 也将停用 Prism 网页应用
+  - [huxiu][国外AI资讯] xAI计划用数万GPU训练Composer2.5AI模型，提升AI领域竞争力
+  - [huxiu][国内AI资讯] DeepSeek V4参数量达1.6万亿，超预期60%
+  - [huxiu][智能硬件] 三星电子加速研发下一代高带宽内存，首批HBM4E将于5月生产
+  - [huxiu][国外AI资讯] 黄仁勋：DeepSeek优先适配华为对美国不利
+  - [huxiu][国内AI资讯] 小马智行CTO楼天城：AI自我审视提升世界模型精度是竞争核心
+  - [infoq][国外AI资讯] xAI 推出 Grok 语音转文本与文本转语音 API
+  - [infoq][国外AI资讯] NVIDIA发布基于NemoClaw构建本地沙盒化AI助手教程
+  - [infoq][国外AI资讯] 微软宣布威斯康星州Fairwater AI数据中心提前上线
+  - [infoq][国外AI资讯] NVIDIA 推荐 Google Cloud Next 会议物理 AI 议程
+  - [infoq][其它科技资讯] IDC宣布推出新产品IDC Quanta，市场反响热烈
+  - [infoq][国外AI资讯] 思科团队基于LangSmith与LangGraph构建多智能体协调框架
+  - [infoq][国外AI资讯] NVIDIA发布半导体行业技术讲座，探讨AI与加速计算如何重塑芯片设计制造
+  - [infoq][国外AI资讯] Percy Liang转发：本周启动1290亿参数MoE模型训练
+  - [infoq][国外AI资讯] AWS Nitro隔离引擎成为首个形式化验证的云管理程序
+  - [infoq][其它科技资讯] NeurIPS 2026 公开征集竞赛赛道提案，聚焦LLM评估与社会影响
+  - [infoq][国外AI资讯] Canva与Anthropic深化合作，设计引擎集成至Claude Design平台
+  - [infoq][国外AI资讯] Y Combinator CEO Garry Tan 开源个人知识库工具 GBrain
+  - [infoq][国外AI资讯] 微软Azure在App Advisor中推出快速启动开发工具包
+  - [量子位][其它科技资讯] 18家具身顶尖势力集结，RoboChallenge 打造全球最大具身模型竞技场
+  - [aibase][国内AI资讯] 联想开天发布天禧AI Pro：专为政企打造的"可信AI搭档"
+  - [aibase][国外AI资讯] ChatGPT 用户突破 10 亿，女性用户占比首次超过 50%
+  - [aibase][国内AI资讯] 科大讯飞发布AstronClaw升级版:推出9项新品及软硬一体AI Agent架构
+  - [aibase][其它科技资讯] ​星巴克引入 ChatGPT，根据心情推荐饮品
+  - [aibase][国外AI资讯] 谷歌Gemini接入个人相册，AI生成图像迈向真正个性化
+  - [aibase][国外AI资讯] 英伟达发布 Lyra2.0:单照生成90米3D 环境，多项指标超越竞争对手
+  - [aibase][其它科技资讯] Meta持续挖角AI初创公司，Thinking Machines再失核心成员
+  - [aibase][其它科技资讯] ​男子用 AI 技术制造假自杀照片，惹来警方介入
+  - [aibase][国内AI资讯] 阿里开源 Qwen3.6-35B-A3B:30亿激活参数实现编程能力跨越式升级
+  - [aibase][国外AI资讯] Opera 推出浏览器连接器功能 让 AI 聊天机器人无缝集成
+  - [aibase][国外AI资讯] ​Anthropic 发布全新 Claude Opus 4.7，功能显著提升
+
+[2026-04-18 09:34:17] llm_summary - INPUT: 31条
+============================================================
+  - [huxiu][国外AI资讯] 市场消息：OpenAI 也将停用 Prism 网页应用
+  - [huxiu][国外AI资讯] xAI计划用数万GPU训练Composer2.5AI模型，提升AI领域竞争力
+  - [huxiu][国内AI资讯] DeepSeek V4参数量达1.6万亿，超预期60%
+  - [huxiu][智能硬件] 三星电子加速研发下一代高带宽内存，首批HBM4E将于5月生产
+  - [huxiu][国外AI资讯] 黄仁勋：DeepSeek优先适配华为对美国不利
+  - [huxiu][国内AI资讯] 小马智行CTO楼天城：AI自我审视提升世界模型精度是竞争核心
+  - [infoq][国外AI资讯] xAI 推出 Grok 语音转文本与文本转语音 API
+  - [infoq][国外AI资讯] NVIDIA发布基于NemoClaw构建本地沙盒化AI助手教程
+  - [infoq][国外AI资讯] 微软宣布威斯康星州Fairwater AI数据中心提前上线
+  - [infoq][国外AI资讯] NVIDIA 推荐 Google Cloud Next 会议物理 AI 议程
+  - [infoq][其它科技资讯] IDC宣布推出新产品IDC Quanta，市场反响热烈
+  - [infoq][国外AI资讯] 思科团队基于LangSmith与LangGraph构建多智能体协调框架
+  - [infoq][国外AI资讯] NVIDIA发布半导体行业技术讲座，探讨AI与加速计算如何重塑芯片设计制造
+  - [infoq][国外AI资讯] Percy Liang转发：本周启动1290亿参数MoE模型训练
+  - [infoq][国外AI资讯] AWS Nitro隔离引擎成为首个形式化验证的云管理程序
+  - [infoq][其它科技资讯] NeurIPS 2026 公开征集竞赛赛道提案，聚焦LLM评估与社会影响
+  - [infoq][国外AI资讯] Canva与Anthropic深化合作，设计引擎集成至Claude Design平台
+  - [infoq][国外AI资讯] Y Combinator CEO Garry Tan 开源个人知识库工具 GBrain
+  - [infoq][国外AI资讯] 微软Azure在App Advisor中推出快速启动开发工具包
+  - [量子位][其它科技资讯] 18家具身顶尖势力集结，RoboChallenge 打造全球最大具身模型竞技场
+  - [aibase][国内AI资讯] 联想开天发布天禧AI Pro：专为政企打造的"可信AI搭档"
+  - [aibase][国外AI资讯] ChatGPT 用户突破 10 亿，女性用户占比首次超过 50%
+  - [aibase][国内AI资讯] 科大讯飞发布AstronClaw升级版:推出9项新品及软硬一体AI Agent架构
+  - [aibase][其它科技资讯] ​星巴克引入 ChatGPT，根据心情推荐饮品
+  - [aibase][国外AI资讯] 谷歌Gemini接入个人相册，AI生成图像迈向真正个性化
+  - [aibase][国外AI资讯] 英伟达发布 Lyra2.0:单照生成90米3D 环境，多项指标超越竞争对手
+  - [aibase][其它科技资讯] Meta持续挖角AI初创公司，Thinking Machines再失核心成员
+  - [aibase][其它科技资讯] ​男子用 AI 技术制造假自杀照片，惹来警方介入
+  - [aibase][国内AI资讯] 阿里开源 Qwen3.6-35B-A3B:30亿激活参数实现编程能力跨越式升级
+  - [aibase][国外AI资讯] Opera 推出浏览器连接器功能 让 AI 聊天机器人无缝集成
+  - [aibase][国外AI资讯] ​Anthropic 发布全新 Claude Opus 4.7，功能显著提升
+
+[2026-04-18 09:34:20] llm_summary - OUTPUT: 31条 | 成功1条
+============================================================
+  - [huxiu][国外AI资讯] 市场消息：OpenAI 也将停用 Prism 网页应用
+  - [huxiu][国外AI资讯] xAI计划用数万GPU训练Composer2.5AI模型，提升AI领域竞争力
+  - [huxiu][国内AI资讯] DeepSeek V4参数量达1.6万亿，超预期60%
+  - [huxiu][智能硬件] 三星电子加速研发下一代高带宽内存，首批HBM4E将于5月生产
+  - [huxiu][国外AI资讯] 黄仁勋：DeepSeek优先适配华为对美国不利
+  - [huxiu][国内AI资讯] 小马智行CTO楼天城：AI自我审视提升世界模型精度是竞争核心
+  - [infoq][国外AI资讯] xAI 推出 Grok 语音转文本与文本转语音 API
+  - [infoq][国外AI资讯] NVIDIA发布基于NemoClaw构建本地沙盒化AI助手教程
+  - [infoq][国外AI资讯] 微软宣布威斯康星州Fairwater AI数据中心提前上线
+  - [infoq][国外AI资讯] NVIDIA 推荐 Google Cloud Next 会议物理 AI 议程
+  - [infoq][其它科技资讯] IDC宣布推出新产品IDC Quanta，市场反响热烈
+  - [infoq][国外AI资讯] 思科团队基于LangSmith与LangGraph构建多智能体协调框架
+  - [infoq][国外AI资讯] NVIDIA发布半导体行业技术讲座，探讨AI与加速计算如何重塑芯片设计制造
+  - [infoq][国外AI资讯] Percy Liang转发：本周启动1290亿参数MoE模型训练
+  - [infoq][国外AI资讯] AWS Nitro隔离引擎成为首个形式化验证的云管理程序
+  - [infoq][其它科技资讯] NeurIPS 2026 公开征集竞赛赛道提案，聚焦LLM评估与社会影响
+  - [infoq][国外AI资讯] Canva与Anthropic深化合作，设计引擎集成至Claude Design平台
+  - [infoq][国外AI资讯] Y Combinator CEO Garry Tan 开源个人知识库工具 GBrain
+  - [infoq][国外AI资讯] 微软Azure在App Advisor中推出快速启动开发工具包
+  - [量子位][其它科技资讯] 18家具身顶尖势力集结，RoboChallenge 打造全球最大具身模型竞技场
+  - [aibase][国内AI资讯] 联想开天发布天禧AI Pro：专为政企打造的"可信AI搭档"
+  - [aibase][国外AI资讯] ChatGPT 用户突破 10 亿，女性用户占比首次超过 50%
+  - [aibase][国内AI资讯] 科大讯飞发布AstronClaw升级版:推出9项新品及软硬一体AI Agent架构
+  - [aibase][其它科技资讯] ​星巴克引入 ChatGPT，根据心情推荐饮品
+  - [aibase][国外AI资讯] 谷歌Gemini接入个人相册，AI生成图像迈向真正个性化
+  - [aibase][国外AI资讯] 英伟达发布 Lyra2.0:单照生成90米3D 环境，多项指标超越竞争对手
+  - [aibase][其它科技资讯] Meta持续挖角AI初创公司，Thinking Machines再失核心成员
+  - [aibase][其它科技资讯] ​男子用 AI 技术制造假自杀照片，惹来警方介入
+  - [aibase][国内AI资讯] 阿里开源 Qwen3.6-35B-A3B:30亿激活参数实现编程能力跨越式升级
+  - [aibase][国外AI资讯] Opera 推出浏览器连接器功能 让 AI 聊天机器人无缝集成
+  - [aibase][国外AI资讯] ​Anthropic 发布全新 Claude Opus 4.7，功能显著提升

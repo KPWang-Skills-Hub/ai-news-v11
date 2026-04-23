@@ -1,0 +1,314 @@
+[
+  {
+    "title": "马斯克诉讼OpenAI，欲捐赔偿金并要求移除阿尔特曼",
+    "desc": "埃隆·马斯克正在推进对OpenAI和微软的诉讼，声称他们背离了组织的非营利使命，索赔金额高达1340亿美元。马斯克已公开承诺，若诉讼胜诉，将把全部赔偿款捐给慈善机构，且加州法院已批准该案件进入陪审团审理阶段，定于2026年4月28日开庭。",
+    "link": "https://www.huxiu.com/ainews/10646.html",
+    "source": "huxiu",
+    "time_ago": "3小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1775597404611
+    }
+  },
+  {
+    "title": "Uber用亚马逊Trainium3芯片训练AI模型",
+    "desc": "美国网约车平台Uber正在采用亚马逊旗下的Trainium3芯片来训练驱动其应用的AI模型，这一合作体现了科技巨头在AI基础设施领域的深度整合，也反映了企业级AI计算能力竞争的加剧",
+    "link": "https://www.huxiu.com/ainews/10636.html",
+    "source": "huxiu",
+    "time_ago": "11小时前",
+    "category": "其它科技资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1775568699983
+    }
+  },
+  {
+    "title": "美团、京东收紧外部AI使用权限",
+    "desc": "美团、京东近期同步调整了内部AI使用策略，全面收紧员工对外部AI大模型的访问权限，同时推荐和推送自研模型使用，标志着国内互联网大厂AI战略从'开放试用'转向'自主可控'，以防范数据安全风险、提升信息合规性。",
+    "link": "https://www.huxiu.com/ainews/10633.html",
+    "source": "huxiu",
+    "time_ago": "12小时前",
+    "category": "国内AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1775562050936
+    }
+  },
+  {
+    "title": "“GPT-4o之母”宣布离职OpenAI",
+    "desc": "被誉为「GPT-4o之母」的Joanne Jang今天宣布离职OpenAI，结束其四年半的工作生涯。作为OpenAI模型行为（Model Behavior）团队的创始负责人，她负责塑造ChatGPT及GPT-4o等明星产品的「人格」和行为方式。",
+    "link": "https://www.huxiu.com/ainews/10631.html",
+    "source": "huxiu",
+    "time_ago": "13小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1775560806479
+    }
+  },
+  {
+    "title": "谷歌更新Gemini AI模型，支持心理健康危机热线",
+    "desc": "谷歌推出Gemini 3.1 Flash-Lite模型，这是Gemini 3系列中最轻量、最具成本效益的版本，在医疗与心理健康领域的准确率提升幅度最为突出（+21.4%），同时在多个专业领域展现了显著性能改进。",
+    "link": "https://www.huxiu.com/ainews/10630.html",
+    "source": "huxiu",
+    "time_ago": "13小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1775559608639
+    }
+  },
+  {
+    "title": "小马智行新加坡自动驾驶汽车获准进行邀请体验",
+    "desc": "小马智行与新加坡康福德高集团合作的自动驾驶服务预计将在2026年初正式启动，该服务已获得南洋理工大学自动驾驶卓越测试与研究中心(CETRAN)的M1认证和陆路交通管理局批准，将在榜鹅地区进行自驾车试运和邀请体验。",
+    "link": "https://www.huxiu.com/ainews/10628.html",
+    "source": "huxiu",
+    "time_ago": "14小时前",
+    "category": "智能硬件",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1775556012940
+    }
+  },
+  {
+    "title": "OpenAI推出安全奖学金计划，研究AI系统安全与一致性",
+    "desc": "OpenAI于4月7日正式宣布启动\"安全奖学金\"试点项目，面向全球外部研究人员、工程师及从业者开放申请，共同推进先进人工智能系统的安全与对齐研究，项目运行时间为2026年9月14日至2027年2月5日，申请截止日期为5月3日。",
+    "link": "https://www.huxiu.com/ainews/10622.html",
+    "source": "huxiu",
+    "time_ago": "16小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1775550003625
+    }
+  },
+  {
+    "title": "NVIDIA 探讨 AI 与数字孪生如何变革半导体制造全流程",
+    "desc": "NVIDIA 官方近日发布推文，回顾了此前与三星美国公司的 Yong Ho Song 及 NVIDIA 创始人黄仁勋的会面。推文附带的视频探讨了智能体人工智能（Agentic AI）和数字孪生技术如何变革半导体制造，涵盖从设计、工程到生产的全流程。视频核心聚焦于 AI 和数字孪生在电子设计自动化（EDA）领域加速芯片设计、在计算光刻领域提升精度与效率，以及用于设计和运营晶圆厂（Fabs）的数字孪生技术。文中观点认为，这些技术协同工作，旨在使半导体制造更高效、智能，以应对复杂挑战，推动行业向更集成化、模拟驱动的未来迈进。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "7分钟前",
+    "category": "其它科技资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1775607911869
+    }
+  },
+  {
+    "title": "Z.ai发布GLM-5.1模型，称其在SWE-bench Pro上超越GPT-5.4与Claude Opus 4.6",
+    "desc": "Z.ai近日发布了拥有7540亿参数的GLM-5.1模型。该公司声称，该模型在SWE-bench Pro基准测试中的表现超越了GPT-5.4和Claude Opus 4.6。GLM-5.1采用MIT许可证发布。同时，Z.ai提供了一个由GLM-5.1和GLM-5驱动的免费AI聊天机器人和智能体服务，但当前访问链接提示需要从后端提供WebUI。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "25分钟前",
+    "category": "国内AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1775606831732
+    }
+  },
+  {
+    "title": "智谱公司开源 GLM-5.1 模型，其 Agent 能力在 SWE-Bench Pro 测试中表现突出",
+    "desc": "智谱公司正式开源了 GLM-5.1 模型。据文中信息，该模型在开源模型中于 SWE-Bench Pro 基准测试中排名第一（得分58.4），全球排名第三。其 Agent 能力支持自主运行8小时、进行数千次迭代并包含自审循环。演示视频显示，该 Agent 可以从零开始搭建一个包含50多个应用程序的完整 Linux 桌面。此外，在 Vector-DB-Bench 测试中，其性能提升了6倍。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "25分钟前",
+    "category": "国内AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1775606831731
+    }
+  },
+  {
+    "title": "LlamaIndex 开源 LiteParse 解析器，助力改进智能体搜索流程",
+    "desc": "近日，作者 Clelia 与来自 LanceDB 的 @tech_optimist 合作撰写了一篇博客文章，探讨如何改进智能体搜索流程。文中提到，可以使用 LlamaIndex 新近开源的 LiteParse 解析器来解析文件并获取页面级截图，随后对文本进行分块和嵌入处理。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "26分钟前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1775606770683
+    }
+  },
+  {
+    "title": "GLM-5.1 编程基准得分 54.9，训练基于十万块华为昇腾 910B 芯片",
+    "desc": "近日，一则关于 GLM-5.1 模型的信息引发关注。图表显示，该模型在编程基准测试中得分为 54.9，落后 Claude Opus 4.6 三分。但信息强调的重点在于其训练硬件配置：完全未使用英伟达 GPU，而是使用了十万块华为昇腾 910B 芯片。模型的所有参数均基于此硬件训练，共使用了 28.5 万亿个训练 token。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "26分钟前",
+    "category": "国内AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1775606770682
+    }
+  },
+  {
+    "title": "三星与Synopsys专家分享AI与数字孪生如何变革半导体制造",
+    "desc": "近日，NVIDIA Omniverse官方社交媒体回顾了此前NVIDIA GTC大会期间与三星高管Yong Ho Song和黄仁勋的交流时刻，并分享了三星在GTC上的演讲视频。视频内容显示，三星和Synopsys的专家探讨了智能体人工智能（Agentic AI）与数字孪生技术如何变革半导体制造的全流程，涵盖从设计、工程到生产的各个环节。核心聚焦于AI和数字孪生在电子设计自动化（EDA）、计算光刻以及利用数字孪生设计和运营晶圆厂（Fabs）等关键领域的应用。文中观点认为，通过整合这些技术，半导体行业能够实现更快速的设计迭代、更高的制造精度以及更智能、更高效的生产设施运营。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "26分钟前",
+    "category": "其它科技资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1775606770681
+    }
+  },
+  {
+    "title": "OpenAI为庆祝Codex周活达300万，宣布重置使用限制",
+    "desc": "OpenAI首席执行官sama在社交媒体上宣布，为庆祝Codex周活跃用户达到300万，将重置其使用限制。sama同时表示，在用户数达到1000万之前，每增加100万用户，都会进行一次使用限制重置。此举旨在鼓励开发者继续使用和构建基于Codex的应用。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "46分钟前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1775605566383
+    }
+  },
+  {
+    "title": "GLM-5.1 本地运行硬件需求披露",
+    "desc": "近日，关于在本地运行 GLM-5.1 大语言模型的硬件配置信息被披露。该模型拥有 744B 参数，采用 40B 激活的混合专家（MoE）架构。文中指出，若以全精度（full precision）运行，需要约 1.65TB 的磁盘空间以及类似 8 张 H200/B200 GPU 的企业级硬件。同时，文中也提供了一个最低实用配置方案：使用 Unsloth 的 2 位 GGUF 量化版本（约 220-236GB），该版本可适配于拥有 256GB 统一内存的 Mac 电脑，或配备 24GB 显存 GPU 及 256GB 系统内存的 PC。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "47分钟前",
+    "category": "国内AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1775605507285
+    }
+  },
+  {
+    "title": "GLM-5.1 模型在 Text Arena 发布，成为排名第一的开源模型",
+    "desc": "由 Zai_org 开发的 GLM-5.1 模型已在 Text Arena 平台发布。根据发布信息，该模型现为 Text Arena 上排名第一的开源模型，总体排名第四。文中指出，GLM-5.1 在性能上超越了其前代 GLM-5 模型 11 个百分点，并领先 Kimi K2.5 Thinking 模型 15 个百分点，尤其在长查询任务中表现突出。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "48分钟前",
+    "category": "国内AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1775605447006
+    }
+  },
+  {
+    "title": "GLM-5.1模型展示图像生成与动画能力",
+    "desc": "近日，开源大语言模型GLM-5.1（拥有7540亿参数，1.51TB大小）展示了其在图像生成与动画方面的能力。根据测试，模型在接收到“一只鹈鹕骑自行车的SVG”的提示后，不仅生成了高质量的SVG图像，还主动创建了包含CSS动画的完整HTML页面。在初始动画存在缺陷时，模型能够准确诊断出CSS动画与SVG坐标系统冲突的问题，并提供分离定位与动画的修复方案。修复后的动画运行良好，鹈鹕稳定坐在自行车上，且下喙有独立的摆动动画。后续根据“北弗吉尼亚负鼠骑电动滑板车”提示生成的动画场景细节丰富，展现了模型强大的多模态生成与复杂指令遵循能力，但也存在眼睛偶尔错位的小瑕疵。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "1小时前",
+    "category": "国内AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1775604546076
+    }
+  },
+  {
+    "title": "GLM-5.1为744B参数模型，通过云端端点运行以避免本地硬件过热",
+    "desc": "近日，Zai_org在回应关于:cloud标签的询问时说明，GLM-5.1是一个拥有7440亿参数的大型模型。作者表示，为了在不使M4 Mac Mini过热的情况下达到54.9的基准分数，其通过云端端点来运行该模型进行实验。但文中也指出，使用该云端服务需要向Ollama付费。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "1小时前",
+    "category": "国内AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1775604485545
+    }
+  },
+  {
+    "title": "LangChain强调真实环境Agent监控与追踪重要性",
+    "desc": "近日，LangChain官方在社交媒体上发文，强调了在真实环境中运行和监控Agent的重要性。文中观点认为，在演示中有效的Agent可能在真实世界中失效，如果没有追踪（tracing）和评估（evals），开发者将难以定位问题。因此，需要通过跟踪Agent的实际行为来进行优化和修复。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "1小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1775604430713
+    }
+  },
+  {
+    "title": "GLM 5.1 模型在 Atomic Chat 应用中上线",
+    "desc": "GLM 5.1 模型现已在 Atomic Chat 应用中上线。根据发布信息，该模型在代码和对话任务上达到了 SOTA（最先进）水平，并可通过 TurboQuant 技术在本地运行。Zai_org 已开源这一前沿模型。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "1小时前",
+    "category": "国内AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1775604311643
+    }
+  },
+  {
+    "title": "Anthropic联合多家科技巨头启动网络安全联盟Project Glasswing",
+    "desc": "Anthropic近日宣布启动名为“Project Glasswing”的大型网络安全联盟，旨在保护全球关键软件基础设施的安全。该联盟成员包括Apple、Google、Microsoft、NVIDIA和Linux Foundation等科技巨头。该项目由Anthropic最新的前沿模型“Claude Mythos Preview”提供支持。据文中观点，该模型在发现软件漏洞方面的能力优于除最熟练的人类专家之外的所有其他方法。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "2小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1775600651024
+    }
+  },
+  {
+    "title": "Google Cloud 发布 Vertex AI Agent Engine 智能体构建工作流程",
+    "desc": "Google Cloud 官方近日发布了在 Vertex AI Agent Engine 上构建智能体的工作流程。该流程共分为五个步骤：设置环境、开发智能体、部署智能体、使用智能体以及管理已部署的智能体。据介绍，Vertex AI Agent Engine 的核心服务包括运行时、质量与评估（预览）、会话、记忆库、代码执行、示例存储（预览）、可观测性和治理（部分功能为预览版）。该引擎支持多种框架，并推荐使用 `agent-starter-pack` 来简化开发过程。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "2小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1775599507064
+    }
+  },
+  {
+    "title": "开发者构建Claude Code技能，可基于复杂文档生成深度报告",
+    "desc": "开发者 jerryjliu0 近日构建了一个 Claude Code 技能，该技能能够基于复杂的文档集合生成深度研究报告。据作者介绍，该技能支持处理 PDF、Word、Pptx 等多种格式的文档，并能生成带有逐字引用和边界框的标注，这些标注可直接追溯到原始文档源。作者还提到了一个名为“/research-docs”的功能，该功能可以解析出文本和链接。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "2小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1775598312453
+    }
+  },
+  {
+    "title": "英伟达官方发布链接，未提供具体内容说明",
+    "desc": "英伟达（NVIDIA）官方于Twitter上发布了一个链接，指向 https://t.co/oRzgjls6GL。原文仅提供了该链接，未对链接指向的内容进行任何描述、背景介绍或技术细节说明。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "2小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1775598312452
+    }
+  }
+]

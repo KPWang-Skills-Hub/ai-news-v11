@@ -1,0 +1,364 @@
+[
+  {
+    "title": "市场消息：OpenAI 也将停用 Prism 网页应用",
+    "desc": "市场消息显示，OpenAI 宣布将停用其新推出的 Prism 网页应用。这一开发工具在近期推出后不久便面临停用。",
+    "link": "https://www.huxiu.com/ainews/11096.html",
+    "source": "huxiu",
+    "time_ago": "3小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1776463984090
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "xAI计划用数万GPU训练Composer2.5AI模型，提升AI领域竞争力",
+    "desc": "据知情人士透露，埃隆·马斯克的人工智能公司xAI计划与编程初创公司Cursor达成合作协议，向后者提供数万块图形处理器（GPU），支持Cursor训练其最新的AI编程模型Composer 2.5。",
+    "link": "https://www.huxiu.com/ainews/11088.html",
+    "source": "huxiu",
+    "time_ago": "9小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1776440407992
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "DeepSeek V4参数量达1.6万亿，超预期60%",
+    "desc": "DeepSeek V4大模型的参数量有望达到1.6万亿，相比之前预期的1万亿参数增加60%。根据DeepGEMM算子库最近的更新信息推测，V4将采用Mega MoE架构，激活专家数量可能达到数千个（相比V3的256个实现大幅提升），同时完全运行在华为昇腾950PR推理芯片上，整个设计旨在在维持模型性能的同时优化算力和显存需求。",
+    "link": "https://www.huxiu.com/ainews/11086.html",
+    "source": "huxiu",
+    "time_ago": "10小时前",
+    "category": "国内AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1776438003473
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "三星电子加速研发下一代高带宽内存，首批HBM4E将于5月生产",
+    "desc": "三星电子计划在5月生产首批性能满足客户要求的HBM4E内存性能样品，为2027-2028年供应奠定基础，进一步加强其在高端存储芯片市场的竞争力。",
+    "link": "https://www.huxiu.com/ainews/11081.html",
+    "source": "huxiu",
+    "time_ago": "15小时前",
+    "category": "智能硬件",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1776420605793
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "黄仁勋：DeepSeek优先适配华为对美国不利",
+    "desc": "NVIDIA首席执行官黄仁勋近日警告称，若DeepSeek在华为平台上率先发布并进行深度优化，将对美国造成灾难性影响，可能推动中国独立技术体系建立并成为国际标准。",
+    "link": "https://www.huxiu.com/ainews/11079.html",
+    "source": "huxiu",
+    "time_ago": "16小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1776415804390
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "小马智行CTO楼天城：AI自我审视提升世界模型精度是竞争核心",
+    "desc": "小马智行CTO楼天城指出，在\"世界模型+强化学习\"成为行业标准方案后，提升世界模型与真实世界接近的\"精度\"是下一步竞争的核心，而让AI审视AI才能进一步突破天花板。",
+    "link": "https://www.huxiu.com/ainews/11073.html",
+    "source": "huxiu",
+    "time_ago": "19小时前",
+    "category": "国内AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1776405008789
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "xAI 推出 Grok 语音转文本与文本转语音 API",
+    "desc": "xAI 近日宣布正式推出 Grok 语音转文本（STT）和 Grok 文本转语音（TTS）两款独立的音频 API。Grok STT 提供高准确率、低延迟的转录服务，支持 REST API 批量处理和 WebSocket API 实时流式转录，并具备词级时间戳、说话人分离、多声道支持及智能逆文本规范化功能。文中提及，在电话通话、会议、视频/播客等多个领域的基准测试中，其词错误率表现优于 ElevenLabs、Deepgram 和 AssemblyAI 等主流商业模型。该服务支持超过 25 种语言，定价为批量处理每小时 0.10 美元，流式处理每小时 0.20 美元。Grok TTS 则可生成快速、自然且富有表现力的语音，支持通过简单语音标签进行细粒度控制，定价为每 100 万个字符 4.20 美元。两款 API 基于为 Grok Voice、特斯拉车辆和 Starlink 客户支持提供动力的相同技术栈。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "48分钟前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776473050826
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "NVIDIA发布基于NemoClaw构建本地沙盒化AI助手教程",
+    "desc": "NVIDIA近日发布了一篇技术教程，指导开发者如何构建一个安全、长期运行且完全本地的自主AI助手。该教程基于NVIDIA的开源参考堆栈NemoClaw，该堆栈集成了OpenShell安全运行时和OpenClaw自托管网关，旨在解决在第三方云上部署AI代理时面临的数据隐私和控制风险。\n\n教程详细演示了在NVIDIA DGX Spark（GB10）系统上的部署步骤，包括环境配置、本地服务模型、安装堆栈并连接到Telegram。部署需要满足特定硬件（DGX Spark运行Ubuntu 24.04 LTS）、软件（Docker 28.x+、Ollama）以及创建Telegram机器人令牌等先决条件。预计主动操作时间为20-30分钟，外加15-30分钟的初始模型下载（约87 GB）。核心组件包括NemoClaw、OpenShell、OpenClaw、Nemotron 3 Super 120B LLM以及NIM或Ollama推理部署。\n\n文中同时指出，尽管OpenShell提供了强大的隔离功能，但没有任何沙盒能提供针对高级提示注入的完全保护，建议在测试新工具时将其部署在隔离系统上。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "3小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776462305786
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "微软宣布威斯康星州Fairwater AI数据中心提前上线",
+    "desc": "微软首席执行官Satya Nadella宣布，位于威斯康星州的Fairwater数据中心已提前投入运营。该数据中心被描述为“全球最强大的AI数据中心”，它将集成数十万个GB200芯片，形成一个单一的无缝集群。Nadella对所有促成此事的团队表示了祝贺。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "4小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776461112111
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "NVIDIA 推荐 Google Cloud Next 会议物理 AI 议程",
+    "desc": "NVIDIA Omniverse 官方近日在社交媒体上推荐了即将于2026年4月22日至23日举行的 Google Cloud Next 会议中的物理 AI 相关议程。具体推荐的议程包括“NVIDIA Omniverse for Physical AI: From Simulation to Reality”和“Physical AI for Retail Operations and Workforce Enablement”。根据文中信息，该会议议程的核心主题围绕“智能体”（Agents）和人工智能展开，涵盖了智能体云概念、自主时代智能体安全、多智能体系统在企业生产中的防混乱与编排、AI与云计算的结合、Gemini模型的企业级应用、低代码构建AI应用以及自动化提升云团队效率等多个前沿话题。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "4小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776461112110
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "IDC宣布推出新产品IDC Quanta，市场反响热烈",
+    "desc": "IDC近日宣布推出新产品“IDC Quanta”。据IDC称，该产品基于其超过60年的专业知识，旨在将可信赖的智能信息交付到最关键的工作流程中。目前，该产品的早期访问名额已满，但用户仍可通过提供的链接进行预订。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "4小时前",
+    "category": "其它科技资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776459614921
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "思科团队基于LangSmith与LangGraph构建多智能体协调框架",
+    "desc": "近日，思科团队的Renuka Kumar和Prashanth Ramagopal构建了一个基于LangSmith和LangGraph的多智能体协调框架，其行为旨在模拟真实世界的软件团队协作。该框架属于“代理工程”范畴，目标是通过模拟工程团队协作来加速软件从需求到部署的全流程，而不仅仅是生成代码。系统包含执行开发、测试、调试等工作的工作代理，以及负责协调、治理并提供共享资源与长期记忆的领导代理。初步实践显示，在20多个调试工作流试点中，根因定位时间相比历史基线减少了93%，单月512个会话节省了超过200工程小时；开发工作流的执行时间减少了65%，主要收益来自压缩下游测试环节。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "4小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776459614839
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "NVIDIA发布半导体行业技术讲座，探讨AI与加速计算如何重塑芯片设计制造",
+    "desc": "NVIDIA近日发布信息指出，人工智能（AI）和加速计算正在重塑半导体行业的设计、验证和制造流程。相关信息链接至其点播平台上的一个包含16个技术讲座视频的“半导体”主题播放列表。内容聚焦于AI和数字孪生技术变革半导体制造（包括电子设计自动化EDA和计算光刻）、内存创新（如高带宽内存、低功耗DRAM）对AI系统效能的作用，以及加速计算和AI超算在工业工程中的应用。演讲嘉宾来自三星电子、Synopsys、美光科技、ABB Robotics、西门子等行业领先企业，探讨了AI、机器人和仿真技术如何驱动制造业转型，以及智能体AI（Agentic AI）如何从设计和工程环节改变生产。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "4小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776459614671
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "Percy Liang转发：本周启动1290亿参数MoE模型训练",
+    "desc": "根据Percy Liang转发的推文，本周由@classiclarryd启动了一个大规模混合专家模型（MoE）的训练。该模型总参数量为1290亿，其中激活参数量为160亿，预计计算量将达到1e23 FLOPs。推文提到，团队以典型的Marin风格拟合了缩放定律，并预测损失值为2.252。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "4小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776459614591
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "AWS Nitro隔离引擎成为首个形式化验证的云管理程序",
+    "desc": "亚马逊云科技（AWS）宣布，其Nitro隔离引擎已成为首个经过形式化验证的云管理程序。该引擎是AWS EC2实例的虚拟化基础，旨在提供高性能与强安全隔离。在开发过程中，亚马逊使用Isabelle/HOL交互式定理证明器，对Nitro系统组件的设计与实现进行了形式化验证，以确保其安全属性从高层规范到底层代码的一致性。文中观点认为，这种基于数学证明的方法超越了传统测试的局限性，为关键安全隔离机制提供了极高的可信度保障。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "4小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776459614442
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "NeurIPS 2026 公开征集竞赛赛道提案，聚焦LLM评估与社会影响",
+    "desc": "NeurIPS 2026 会议近日公开征集竞赛赛道提案。官方特别鼓励那些具备明确科学问题、积极社会影响（尤其是利用AI支持弱势群体）以及专注于大型语言模型和智能体系统评估的提案。所有提案需符合 NeurIPS 行为准则和伦理指南，并通过 OpenReview 系统提交，使用更新的 LaTeX 模板，正文内容页（含图表）不超过 8 页。评审将基于科学相关性（含伦理考量）、评估方案的可行性、数据的质量与可及性以及组织方的执行计划与多样性，采用单盲制。被接受的竞赛将在 NeurIPS 2026 期间举办线下研讨会。竞赛结束后，组织方可选择将分析报告提交至 2027 年 NeurIPS 评估与数据集赛道（需经评审）或收录于有保障的 PMLR 专刊。重要日期包括：提案提交截止于 2026 年 5 月 15 日，录取通知于 6 月 15 日，竞赛研讨会于 12 月 11-12 日举行。官方建议竞赛在 2026 年 6 月启动，最晚于 10 月底结束。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "4小时前",
+    "category": "其它科技资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776459614269
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "Canva与Anthropic深化合作，设计引擎集成至Claude Design平台",
+    "desc": "近日，Canva宣布与Anthropic Labs深化合作，将其设计引擎和视觉套件集成至新推出的Claude Design平台。用户可将Claude中生成的AI草稿和想法无缝转换为可在Canva中完全编辑的设计，便于定制、品牌化调整及团队协作。此次集成强调协作与可编辑性，并引入了HTML导入功能，允许用户将Claude中生成的代码创作直接导入Canva，通过拖放操作修改颜色、元素或布局，无需重新生成代码。完成的作品可嵌入其他设计、添加表单或直接发布为带有自定义域的实时网站。文中观点认为，此次发布基于双方两年的紧密合作，并恰逢Canva发布AI 2.0平台，标志着其从设计生成工具向工作流程核心系统的转型。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "4小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776459614193
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "Y Combinator CEO Garry Tan 开源个人知识库工具 GBrain",
+    "desc": "Y Combinator 首席执行官 Garry Tan 近日开源了其个人知识库工具 GBrain。该工具旨在解决个人知识库分散的问题，其知识库包含342个散落在不同代码仓库、Obsidian库和会议笔记中的Markdown文件。GBrain 的功能是导入文件后，对其进行分块、嵌入向量和建立索引，从而使其变得可搜索。文中未提及关于技术架构、实现细节、性能指标、开源许可证或具体应用场景的进一步信息。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "4小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776459614012
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "微软Azure在App Advisor中推出快速启动开发工具包",
+    "desc": "微软Azure宣布在App Advisor中推出“快速启动开发工具包”，旨在帮助开发者加速从创意到市场就绪应用程序的开发过程。该工具包主要面向三类开发者：有明确应用或AI智能体概念但不确定如何在微软平台构建的团队、熟悉微软技术栈但希望加快构建速度的开发者，以及希望复制微软市场中现有解决方案的团队。它通过交互式向导引导用户，根据构建目标和场景推荐相关开发模式，并提供部署就绪的代码模板、参考解决方案架构图和具体操作指南。工具包支持AI和智能体应用、AWS到Azure的迁移与复制模式、安全类应用和集成等常见场景。其核心设计目标是减少早期开发摩擦、消除技术猜测并加速开发进展。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "4小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776459613929
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "18家具身顶尖势力集结，RoboChallenge 打造全球最大具身模型竞技场",
+    "desc": "RoboChallenge 正式完成第二批生态扩容，星动纪元、极佳视界、地平线、光轮智能、生数科技、中移杭研、长虹、算力自由8 家顶尖企业重磅入驻",
+    "link": "https://www.qbitai.com/2026/04/402186.html",
+    "source": "量子位",
+    "time_ago": "19小时前",
+    "category": "其它科技资讯",
+    "summary": "RoboChallenge正式完成第二批生态扩容，8家顶尖企业重磅入驻，包括星动纪元、极佳视界、地平线、光轮智能、生数科技、中移杭研、长虹和算力自由。此次扩容使RoboChallenge汇聚了18家具身领域顶尖势力，进一步巩固了其作为全球最大具身模型竞技场的地位。这些企业的加入将为具身智能领域的发展注入新动力，推动技术创新与产业协作。",
+    "content": "RoboChallenge 正式完成第二批生态扩容，星动纪元、极佳视界、地平线、光轮智能、生数科技、中移杭研、长虹、算力自由8 家顶尖企业重磅入驻",
+    "extra": {},
+    "llm_description": ""
+  },
+  {
+    "title": "联想开天发布天禧AI Pro：专为政企打造的\"可信AI搭档\"",
+    "desc": "联想发布天禧AI Pro，定位政企办公AI搭档，推动信创行业进入AI时代。产品将操作逻辑从“以工具为核心”转向“以任务为中心”，并与麒麟操作系统深度整合，提供“双生界面”，用户可通过四指滑动便捷切换。",
+    "link": "https://news.aibase.com/zh/news/27239",
+    "source": "aibase",
+    "time_ago": "15小时前",
+    "category": "国内AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "views": "12.9K"
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "ChatGPT 用户突破 10 亿，女性用户占比首次超过 50%",
+    "desc": "OpenAI数据显示，ChatGPT全球周活跃用户将破10亿，用户结构显著变化。女性用户比例从初期的20%增至超50%，首次超过男性，约5亿女性定期使用。这反映AI技术正加速普及。",
+    "link": "https://news.aibase.com/zh/news/27237",
+    "source": "aibase",
+    "time_ago": "16小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "views": "14.6K"
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "科大讯飞发布AstronClaw升级版:推出9项新品及软硬一体AI Agent架构",
+    "desc": "科大讯飞发布AstronClaw升级版，推出9项新产品，展示“软硬一体”AI Agent架构。该架构推动AI从“对话助手”向“物理执行中枢”转变，旨在突破屏幕限制，让大模型能力深入物理世界和复杂业务流。在办公领域，AstronClaw与讯飞办公本融合，结构化处理职场碎片化信息。",
+    "link": "https://news.aibase.com/zh/news/27235",
+    "source": "aibase",
+    "time_ago": "17小时前",
+    "category": "国内AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "views": "13.3K"
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "​星巴克引入 ChatGPT，根据心情推荐饮品",
+    "desc": "星巴克测试基于ChatGPT的智能点单应用，用户可通过输入心情或需求获得个性化饮品推荐，旨在提升消费体验。",
+    "link": "https://news.aibase.com/zh/news/27231",
+    "source": "aibase",
+    "time_ago": "18小时前",
+    "category": "其它科技资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "views": "14.7K"
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "Meta持续挖角AI初创公司，Thinking Machines再失核心成员",
+    "desc": "Meta持续从AI初创公司挖角，最新目标是Thinking Machines资深工程师Joshua Gross，他已加入Meta超级智能实验室并领导工程团队。Gross曾在OpenAI和Meta工作，并在Thinking Machines主导开发了创意软件Tinker。这反映了硅谷AI人才争夺激烈，初创公司面临人才流失挑战。",
+    "link": "https://news.aibase.com/zh/news/27227",
+    "source": "aibase",
+    "time_ago": "18小时前",
+    "category": "其它科技资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "views": "12.6K"
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "阿里开源 Qwen3.6-35B-A3B:30亿激活参数实现编程能力跨越式升级",
+    "desc": "阿里巴巴千问团队开源稀疏混合专家模型Qwen3.6-35B-A3B，总参数量350亿，激活参数仅30亿。该模型以低计算成本在多项编程基准测试中超越Qwen3.5-27B，并显著领先前代Qwen3.5-35B-A3B，实现轻量级模型在智能体编程领域的关键突破。",
+    "link": "https://news.aibase.com/zh/news/27222",
+    "source": "aibase",
+    "time_ago": "19小时前",
+    "category": "国内AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "views": "20.5K"
+    },
+    "llm_description": ""
+  }
+]

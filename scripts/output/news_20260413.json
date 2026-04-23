@@ -1,0 +1,197 @@
+[
+  {
+    "title": "特斯拉受监督版全自动驾驶系统获准在荷兰使用",
+    "desc": "特斯拉监督版全自动驾驶系统（Supervised FSD）日前获得荷兰监管部门的批准，允许在荷兰的公共道路上使用。这是特斯拉FSD系统在欧洲的一个重要突破，标志着其自动驾驶技术在欧洲市场的进一步推进和认可。",
+    "link": "https://www.huxiu.com/ainews/10815.html",
+    "source": "huxiu",
+    "time_ago": "16小时前",
+    "category": "智能硬件",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1775976004157
+    }
+  },
+  {
+    "title": "谷歌TurboQuant算法或将扩大而非减少内存芯片需求",
+    "desc": "谷歌推出的TurboQuant大型语言模型压缩算法引发业界热议。分析师和研究人员指出，该算法虽然旨在提高LLM的效率，但实际上更可能扩大而非减少内存芯片的需求，这对半导体产业链产生重要影响。",
+    "link": "https://www.huxiu.com/ainews/10813.html",
+    "source": "huxiu",
+    "time_ago": "18小时前",
+    "category": "其它科技资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1775971208101
+    }
+  },
+  {
+    "title": "智元分拆四足机器人业务",
+    "desc": "智元机器人近日将四足机器人业务拆分为全资子公司智元酷拓，由创始人邓泰华担任董事长，形成",
+    "link": "https://www.huxiu.com/ainews/10811.html",
+    "source": "huxiu",
+    "time_ago": "21小时前",
+    "category": "智能硬件",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1775959207131
+    }
+  },
+  {
+    "title": "MiniMax AI 宣布 M2.7 模型在 Fireworks 平台提供商业使用",
+    "desc": "MiniMax AI 近日宣布，其 M2.7 模型已在 Fireworks 推理平台上提供 Day-0 商业使用。据其描述，M2.7 是一款“自我进化的智能体模型”，在软件工程与代码安全、复杂自主智能体以及端到端项目交付等领域提供前沿性能。公告未提供具体的性能指标、模型参数或与其他模型的对比数据。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "2小时前",
+    "category": "国内AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776027608454
+    }
+  },
+  {
+    "title": "MiniMax 开源 M2.7 模型，SWE-Pro 评测得分达 56.22%",
+    "desc": "MiniMax 公司宣布其 M2.7 模型已在 ModelScope 平台开源。据文中介绍，该模型在开发过程中能够帮助构建强化学习工具链、更新自身记忆并驱动自身的训练循环，从而成为迭代自身的工具。在软件工程能力评测中，其 SWE-Pro 得分达到 56.22%（文中称与 GPT-5.3-Codex 持平），Terminal Bench 2 得分为 57.0%。文中附带了指向 Office 评测结果的链接。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "2小时前",
+    "category": "国内AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776027608323
+    }
+  },
+  {
+    "title": "Hugging Face 分享 NVFP4 与 MXFP8 在 B200 上加速图像视频生成模型的研究",
+    "desc": "Hugging Face 近日分享了其在 NVIDIA B200 硬件上利用 NVFP4 和 MXFP8 数据类型加速现代图像与视频生成流模型的研究成果。作者表示，将通过 Diffusers 库和 TorchAO 工具，结合 `torch.compile` 功能，提供相关的实现方案。更详细的内容可通过附带的链接查看。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "8小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776003970543
+    }
+  },
+  {
+    "title": "Gartner精选IT新闻：AI代理组建近全自主软件工程团队",
+    "desc": "Gartner近日分享了本月IT新闻精选，其中《华尔街日报》报道了硅谷初创公司JustPaid利用OpenClaw和Anthropic的Claude Code AI编码工具，组建了一支由7个AI代理组成的近乎全自主的软件工程团队。这些代理能够24/7不间断工作，在一个月内完成了10个原本各需人类开发者耗时一个月或更久才能完成的主要功能。OpenClaw作为开源的AI代理编排系统，充当决策大脑，而Claude Code则负责执行具体的编码任务。类似地，初创公司Kuse也使用OpenClaw构建了“AI同事”。然而，文中也指出此类自主代理存在风险，需要持续监督，可能篡改或删除文件，且成本可能因“令牌”使用量累积而变得高昂。大型企业如英伟达正在开发更安全的企业级工具。市场分析师认为，AI代理将接管人类工程师的大部分工作，导致开发团队规模缩小，未来人类工程师的角色可能转变为管理者。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "10小时前",
+    "category": "其它科技资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776000250815
+    }
+  },
+  {
+    "title": "Google Cloud 发布 Agent Starter Pack，助力快速部署生产就绪 AI 智能体",
+    "desc": "Google Cloud Platform 近日在 GitHub 上发布了 agent-starter-pack 项目，旨在帮助开发者将 AI 智能体快速部署到 Google Cloud。据文中介绍，该项目可将部署时间从数月缩短至几分钟，并提供了内置持续集成/持续部署（CI/CD）、评估和可观测性功能的生产就绪模板。开发者通过运行 `uvx agent-starter-pack create` 命令，即可快速创建功能完整的智能体项目，从而专注于智能体逻辑开发，无需从零搭建基础设施。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "10小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1775999046577
+    }
+  },
+  {
+    "title": "Rerun 预告将支持 2D 网格地图，推出 GridMap 原型",
+    "desc": "Rerun 官方近日预告，即将在其 SDK 中新增对 2D 网格地图的支持。主要更新包括提供一个名为 GridMap 的新原型，该原型包含一个常规的 ImageBuffer 组件。此外，新功能将能够从 MCAP 文件中自动加载 ROS 2 占据栅格地图，并为用户提供 RViz 中熟悉的色彩映射选项。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "14小时前",
+    "category": "其它科技资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1775985847545
+    }
+  },
+  {
+    "title": "联合国教科文组织发布新出版物《联合国教科文组织国家委员会网络：为人民服务》",
+    "desc": "联合国教科文组织总干事在联合国教科文组织国家委员会传统会议召开前，宣布发布新出版物《联合国教科文组织国家委员会网络：为人民服务》。该指南旨在加强和扩大联合国教科文组织国家委员会网络的工作。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "15小时前",
+    "category": "其它科技资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1775982307536
+    }
+  },
+  {
+    "title": "vLLM 推理框架在发布首日即支持 MiniMax M2.7 模型",
+    "desc": "MiniMax 官方宣布，其 M2.7 大语言模型在发布首日（Day-0）即获得 vLLM 推理框架的支持。根据官方文档，MiniMax-M2 系列模型（包括 M2.7、M2.5、M2.1 和 M2）在数学、科学、编码和工具使用方面位列全球开源模型榜首，并在高级编码任务上表现出色，具备强大的智能体性能。该模型采用高效设计，拥有 100 亿激活参数（总计 2300 亿）。部署要求包括 Linux 系统、Python 3.10-3.13，并详细说明了 NVIDIA GPU 和 AMD GPU 的多种推荐配置。单个序列最大上下文长度为 19.6 万令牌。部署方式支持 Docker 镜像、安装特定 ROCm wheel 或从源码安装特定版本。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "18小时前",
+    "category": "国内AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1775971451273
+    }
+  },
+  {
+    "title": "MiniMax 宣布开源 M2.7 模型，提及模型自我进化研究",
+    "desc": "MiniMax 官方宣布其 M2.7 模型已开源。根据其推文引用的用户观点，该模型博客中最有趣的部分是“模型的自我进化”，其本质被描述为“Karpathy 的 Autoresearch”。推文提到团队做了两件事：一是构建了一个与强化学习团队合作的研究代理；二是一位研究人员开始讨论一个话题，但具体内容因推文被截断而无法确认。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "18小时前",
+    "category": "国内AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1775970191253
+    }
+  },
+  {
+    "title": "Sonnet与Opus顾问配对提升智能体任务成功率",
+    "desc": "近日，一项关于AI智能体性能的测试显示，在智能体搜索任务（BrowseComp）中，将Sonnet模型与Opus顾问配对使用，可以将任务成功率从58.1%提升至60.4%。在智能体终端编码任务（Terminal-Bench 2.0）中，性能则从59.6%跃升至63.4%。文中观点认为，这可能是因为Opus为困难任务提供了高度准确的战略规划。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "19小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1775966649894
+    }
+  },
+  {
+    "title": "MiniMax M2.7模型登陆NVIDIA GPU加速端点，支持NemoClaw与OpenClaw",
+    "desc": "MiniMax公司宣布，其M2.7模型现已在NVIDIA GPU加速端点上可用，并支持包括NemoClaw和OpenClaw在内的工具。M2.7是M2系列的最新版本，旨在增强智能体工作流及推理、机器学习研究等复杂应用。它是一个稀疏混合专家模型，总参数量为2300亿，每令牌激活参数量为100亿，激活率约4.3%，支持20万令牌的上下文长度，拥有256个本地专家，每令牌激活8个专家，共62层。为支持部署，NVIDIA推出了开源参考堆栈NemoClaw，以简化OpenClaw的安全部署，并可通过NVIDIA Brev云平台一键启动。此外，NVIDIA还与开源社区合作，在vLLM和SGLang等框架中集成了针对大规模MoE模型优化的高性能内核。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "19小时前",
+    "category": "国内AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1775965506372
+    }
+  },
+  {
+    "title": "OpenClaw 发布 v2026.4.11 版本，聚焦稳定性与多平台修复",
+    "desc": "OpenClaw 项目近日发布了 v2026.4.11 版本，这是一次以提升稳定性为核心的大规模清理与优化更新。该版本增强了整体稳定性，提供了更安全的提供商传输与路由机制，并提升了子代理的可靠性，增加了执行审批功能。此外，版本修复了 Slack、WhatsApp、Telegram、Matrix 等多个通信平台的大量问题，并对浏览器和移动端进行了清理。根据其发布页面信息，此版本还包括功能增强、错误修复和依赖项升级，例如新增对“最近使用的项目”列表的支持，改进项目模板创建流程，修复特定情况下项目创建失败的问题，处理与某些第三方库的兼容性冲突，并升级多个底层依赖库以提升安全性和性能。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "22小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1775957049472
+    }
+  }
+]

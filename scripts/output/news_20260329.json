@@ -1,0 +1,968 @@
+[
+  {
+    "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled (7B)",
+    "desc": "⬇️280.5K | ❤️1.6K | 🎯图文理解",
+    "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+    "source": "huggingface",
+    "time_ago": "今日",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "downloads": 280522,
+      "likes": 1550,
+      "trendingScore": 541,
+      "pipeline_tag": "image-text-to-text",
+      "tags": [
+        "safetensors",
+        "qwen3_5",
+        "unsloth",
+        "qwen",
+        "qwen3.5"
+      ],
+      "last_modified": "2026-03-24"
+    }
+  },
+  {
+    "title": "mistralai/Voxtral-4B-TTS-2603 (4B)",
+    "desc": "⬇️2.4K | ❤️434 | 🎯语音合成",
+    "link": "https://huggingface.co/mistralai/Voxtral-4B-TTS-2603",
+    "source": "huggingface",
+    "time_ago": "今日",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "downloads": 2447,
+      "likes": 434,
+      "trendingScore": 434,
+      "pipeline_tag": "text-to-speech",
+      "tags": [
+        "vllm",
+        "mistral-common",
+        "text-to-speech",
+        "en",
+        "fr"
+      ],
+      "last_modified": "2026-03-27"
+    }
+  },
+  {
+    "title": "CohereLabs/cohere-transcribe-03-2026",
+    "desc": "⬇️20.0K | ❤️387 | 🎯语音识别",
+    "link": "https://huggingface.co/CohereLabs/cohere-transcribe-03-2026",
+    "source": "huggingface",
+    "time_ago": "今日",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "downloads": 20049,
+      "likes": 387,
+      "trendingScore": 387,
+      "pipeline_tag": "automatic-speech-recognition",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "cohere_asr",
+        "automatic-speech-recognition",
+        "audio"
+      ],
+      "last_modified": "2026-03-28"
+    }
+  },
+  {
+    "title": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive (3B)",
+    "desc": "⬇️518.6K | ❤️1.1K | 🎯图文理解",
+    "link": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+    "source": "huggingface",
+    "time_ago": "今日",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "downloads": 518613,
+      "likes": 1050,
+      "trendingScore": 283,
+      "pipeline_tag": "image-text-to-text",
+      "tags": [
+        "gguf",
+        "uncensored",
+        "qwen3.5",
+        "moe",
+        "vision"
+      ],
+      "last_modified": "2026-03-10"
+    }
+  },
+  {
+    "title": "baidu/Qianfan-OCR",
+    "desc": "⬇️15.6K | ❤️554 | 🎯图文理解",
+    "link": "https://huggingface.co/baidu/Qianfan-OCR",
+    "source": "huggingface",
+    "time_ago": "今日",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "downloads": 15554,
+      "likes": 554,
+      "trendingScore": 275,
+      "pipeline_tag": "image-text-to-text",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "internvl_chat",
+        "feature-extraction",
+        "vision-language"
+      ],
+      "last_modified": "2026-03-26"
+    }
+  },
+  {
+    "title": "GAIR/daVinci-MagiHuman",
+    "desc": "⬇️466 | ❤️231 | 🎯image to video",
+    "link": "https://huggingface.co/GAIR/daVinci-MagiHuman",
+    "source": "huggingface",
+    "time_ago": "今日",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "downloads": 466,
+      "likes": 231,
+      "trendingScore": 229,
+      "pipeline_tag": "image-to-video",
+      "tags": [
+        "safetensors",
+        "text-to-video",
+        "image-text-to-video",
+        "text-to-audio",
+        "text-to-audio-video"
+      ],
+      "last_modified": "2026-03-25"
+    }
+  },
+  {
+    "title": "chromadb/context-1 (20B)",
+    "desc": "⬇️1.1K | ❤️214",
+    "link": "https://huggingface.co/chromadb/context-1",
+    "source": "huggingface",
+    "time_ago": "今日",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "downloads": 1089,
+      "likes": 214,
+      "trendingScore": 214,
+      "pipeline_tag": "",
+      "tags": [
+        "safetensors",
+        "gpt_oss",
+        "base_model:openai/gpt-oss-20b",
+        "base_model:finetune:openai/gpt-oss-20b",
+        "license:apache-2.0"
+      ],
+      "last_modified": "2026-03-26"
+    }
+  },
+  {
+    "title": "nvidia/Nemotron-Cascade-2-30B-A3B (30B)",
+    "desc": "⬇️74.8K | ❤️368 | 🎯文本生成",
+    "link": "https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B",
+    "source": "huggingface",
+    "time_ago": "今日",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "downloads": 74832,
+      "likes": 368,
+      "trendingScore": 196,
+      "pipeline_tag": "text-generation",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "nemotron_h",
+        "text-generation",
+        "nvidia"
+      ],
+      "last_modified": "2026-03-24"
+    }
+  },
+  {
+    "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF (7B)",
+    "desc": "⬇️101.4K | ❤️239 | 🎯图文理解",
+    "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
+    "source": "huggingface",
+    "time_ago": "今日",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "downloads": 101380,
+      "likes": 239,
+      "trendingScore": 182,
+      "pipeline_tag": "image-text-to-text",
+      "tags": [
+        "gguf",
+        "qwen3_5",
+        "unsloth",
+        "qwen",
+        "qwen3.5"
+      ],
+      "last_modified": "2026-03-25"
+    }
+  },
+  {
+    "title": "Tesslate/OmniCoder-9B (9B)",
+    "desc": "⬇️27.2K | ❤️514 | 🎯文本生成",
+    "link": "https://huggingface.co/Tesslate/OmniCoder-9B",
+    "source": "huggingface",
+    "time_ago": "今日",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "downloads": 27151,
+      "likes": 514,
+      "trendingScore": 166,
+      "pipeline_tag": "text-generation",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3_5",
+        "image-text-to-text",
+        "qwen3.5"
+      ],
+      "last_modified": "2026-03-13"
+    }
+  },
+  {
+    "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF (7B)",
+    "desc": "⬇️639.9K | ❤️470 | 🎯图文理解",
+    "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+    "source": "huggingface",
+    "time_ago": "今日",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "downloads": 639881,
+      "likes": 470,
+      "trendingScore": 164,
+      "pipeline_tag": "image-text-to-text",
+      "tags": [
+        "gguf",
+        "qwen3_5",
+        "unsloth",
+        "qwen",
+        "qwen3.5"
+      ],
+      "last_modified": "2026-03-24"
+    }
+  },
+  {
+    "title": "facebook/tribev2",
+    "desc": "⬇️4.9K | ❤️137",
+    "link": "https://huggingface.co/facebook/tribev2",
+    "source": "huggingface",
+    "time_ago": "今日",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "downloads": 4891,
+      "likes": 137,
+      "trendingScore": 137,
+      "pipeline_tag": "",
+      "tags": [
+        "license:cc-by-nc-4.0",
+        "region:us"
+      ],
+      "last_modified": "2026-03-27"
+    }
+  },
+  {
+    "title": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF (9B)",
+    "desc": "⬇️101.4K | ❤️197 | 🎯图文理解",
+    "link": "https://huggingface.co/Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
+    "source": "huggingface",
+    "time_ago": "今日",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "downloads": 101422,
+      "likes": 197,
+      "trendingScore": 115,
+      "pipeline_tag": "image-text-to-text",
+      "tags": [
+        "gguf",
+        "qwen3_5",
+        "unsloth",
+        "qwen",
+        "qwen3.5"
+      ],
+      "last_modified": "2026-03-23"
+    }
+  },
+  {
+    "title": "Lightricks/LTX-2.3",
+    "desc": "⬇️1.4M | ❤️822 | 🎯image to video",
+    "link": "https://huggingface.co/Lightricks/LTX-2.3",
+    "source": "huggingface",
+    "time_ago": "今日",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "downloads": 1369717,
+      "likes": 822,
+      "trendingScore": 113,
+      "pipeline_tag": "image-to-video",
+      "tags": [
+        "diffusers",
+        "image-to-video",
+        "text-to-video",
+        "video-to-video",
+        "image-text-to-video"
+      ],
+      "last_modified": "2026-03-15"
+    }
+  },
+  {
+    "title": "Qwen/Qwen3.5-9B (9B)",
+    "desc": "⬇️4.3M | ❤️1.1K | 🎯图文理解",
+    "link": "https://huggingface.co/Qwen/Qwen3.5-9B",
+    "source": "huggingface",
+    "time_ago": "今日",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "downloads": 4286464,
+      "likes": 1075,
+      "trendingScore": 103,
+      "pipeline_tag": "image-text-to-text",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3_5",
+        "image-text-to-text",
+        "conversational"
+      ],
+      "last_modified": "2026-03-02"
+    }
+  },
+  {
+    "title": "meituan-longcat/LongCat-Next",
+    "desc": "⬇️292 | ❤️100 | 🎯any to any",
+    "link": "https://huggingface.co/meituan-longcat/LongCat-Next",
+    "source": "huggingface",
+    "time_ago": "今日",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "downloads": 292,
+      "likes": 100,
+      "trendingScore": 100,
+      "pipeline_tag": "any-to-any",
+      "tags": [
+        "LongCat-Next",
+        "safetensors",
+        "longcat_next",
+        "text-generation",
+        "transformers"
+      ],
+      "last_modified": "2026-03-27"
+    }
+  },
+  {
+    "title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive (9B)",
+    "desc": "⬇️505.1K | ❤️693",
+    "link": "https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+    "source": "huggingface",
+    "time_ago": "今日",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "downloads": 505084,
+      "likes": 693,
+      "trendingScore": 94,
+      "pipeline_tag": "",
+      "tags": [
+        "gguf",
+        "uncensored",
+        "qwen3.5",
+        "qwen",
+        "en"
+      ],
+      "last_modified": "2026-03-04"
+    }
+  },
+  {
+    "title": "zed-industries/zeta-2 (8B)",
+    "desc": "⬇️402 | ❤️73 | 🎯文本生成",
+    "link": "https://huggingface.co/zed-industries/zeta-2",
+    "source": "huggingface",
+    "time_ago": "今日",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "downloads": 402,
+      "likes": 73,
+      "trendingScore": 73,
+      "pipeline_tag": "text-generation",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "text-generation-inference"
+      ],
+      "last_modified": "2026-03-23"
+    }
+  },
+  {
+    "title": "zai-org/GLM-OCR",
+    "desc": "⬇️4.0M | ❤️1.5K | 🎯image to text",
+    "link": "https://huggingface.co/zai-org/GLM-OCR",
+    "source": "huggingface",
+    "time_ago": "今日",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "downloads": 3965327,
+      "likes": 1482,
+      "trendingScore": 71,
+      "pipeline_tag": "image-to-text",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "glm_ocr",
+        "image-text-to-text",
+        "image-to-text"
+      ],
+      "last_modified": "2026-03-12"
+    }
+  },
+  {
+    "title": "Qwen/Qwen3.5-35B-A3B (3B)",
+    "desc": "⬇️3.0M | ❤️1.3K | 🎯图文理解",
+    "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
+    "source": "huggingface",
+    "time_ago": "今日",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "downloads": 3031012,
+      "likes": 1283,
+      "trendingScore": 71,
+      "pipeline_tag": "image-text-to-text",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3_5_moe",
+        "image-text-to-text",
+        "conversational"
+      ],
+      "last_modified": "2026-02-27"
+    }
+  },
+  {
+    "title": "affaan-m/everything-claude-code",
+    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "link": "https://github.com/affaan-m/everything-claude-code",
+    "source": "github",
+    "time_ago": "过去一周",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": "2801",
+      "forks": "359",
+      "total_score": "10241.0543",
+      "language": "JavaScript",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    }
+  },
+  {
+    "title": "obra/superpowers",
+    "desc": "An agentic skills framework & software development methodology that works.",
+    "link": "https://github.com/obra/superpowers",
+    "source": "github",
+    "time_ago": "过去一周",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": "2489",
+      "forks": "209",
+      "total_score": "9549.6017",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    }
+  },
+  {
+    "title": "bytedance/deer-flow",
+    "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+    "link": "https://github.com/bytedance/deer-flow",
+    "source": "github",
+    "time_ago": "过去一周",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": "2485",
+      "forks": "278",
+      "total_score": "8818.1844",
+      "language": "Python",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours."
+    }
+  },
+  {
+    "title": "karpathy/autoresearch",
+    "desc": "AI agents running research on single-GPU nanochat training automatically",
+    "link": "https://github.com/karpathy/autoresearch",
+    "source": "github",
+    "time_ago": "过去一周",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": "1526",
+      "forks": "194",
+      "total_score": "5675.9471",
+      "language": "Python",
+      "description": "AI agents running research on single-GPU nanochat training automatically"
+    }
+  },
+  {
+    "title": "Crosstalk-Solutions/project-nomad",
+    "desc": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+    "link": "https://github.com/Crosstalk-Solutions/project-nomad",
+    "source": "github",
+    "time_ago": "过去一周",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": "1676",
+      "forks": "150",
+      "total_score": "5353.4112",
+      "language": "TypeScript",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere."
+    }
+  },
+  {
+    "title": "mvanhorn/last30days-skill",
+    "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "link": "https://github.com/mvanhorn/last30days-skill",
+    "source": "github",
+    "time_ago": "过去一周",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": "1191",
+      "forks": "93",
+      "total_score": "5234.8028",
+      "language": "Python",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+    }
+  },
+  {
+    "title": "microsoft/RustTraining",
+    "desc": "Beginner, advanced, expert level Rust training material",
+    "link": "https://github.com/microsoft/RustTraining",
+    "source": "github",
+    "time_ago": "过去一周",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": "1189",
+      "forks": "92",
+      "total_score": "4651.1769",
+      "language": "Rust",
+      "description": "Beginner, advanced, expert level Rust training material"
+    }
+  },
+  {
+    "title": "paperclipai/paperclip",
+    "desc": "Open-source orchestration for zero-human companies",
+    "link": "https://github.com/paperclipai/paperclip",
+    "source": "github",
+    "time_ago": "过去一周",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": "939",
+      "forks": "192",
+      "total_score": "4560.1379",
+      "language": "TypeScript",
+      "description": "Open-source orchestration for zero-human companies"
+    }
+  },
+  {
+    "title": "TauricResearch/TradingAgents",
+    "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "link": "https://github.com/TauricResearch/TradingAgents",
+    "source": "github",
+    "time_ago": "过去一周",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": "1145",
+      "forks": "167",
+      "total_score": "3859.8784",
+      "language": "Python",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
+    }
+  },
+  {
+    "title": "shareAI-lab/learn-claude-code",
+    "desc": "Bash is all you need -  A nano Claude Code–like agent, built from 0 to 1",
+    "link": "https://github.com/shareAI-lab/learn-claude-code",
+    "source": "github",
+    "time_ago": "过去一周",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": "900",
+      "forks": "109",
+      "total_score": "3622.2432",
+      "language": "TypeScript",
+      "description": "Bash is all you need -  A nano Claude Code–like agent, built from 0 to 1"
+    }
+  },
+  {
+    "title": "MiniMax-AI/skills",
+    "desc": "无描述",
+    "link": "https://github.com/MiniMax-AI/skills",
+    "source": "github",
+    "time_ago": "过去一周",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": "1049",
+      "forks": "74",
+      "total_score": "3459.7832",
+      "language": "C#",
+      "description": "无描述"
+    }
+  },
+  {
+    "title": "msitarzewski/agency-agents",
+    "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "link": "https://github.com/msitarzewski/agency-agents",
+    "source": "github",
+    "time_ago": "过去一周",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": "865",
+      "forks": "151",
+      "total_score": "3388.2821",
+      "language": "Shell",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
+    }
+  },
+  {
+    "title": "nextlevelbuilder/ui-ux-pro-max-skill",
+    "desc": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+    "link": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+    "source": "github",
+    "time_ago": "过去一周",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": "822",
+      "forks": "78",
+      "total_score": "3330.5069",
+      "language": "Python",
+      "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms"
+    }
+  },
+  {
+    "title": "gsd-build/get-shit-done",
+    "desc": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.",
+    "link": "https://github.com/gsd-build/get-shit-done",
+    "source": "github",
+    "time_ago": "过去一周",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": "862",
+      "forks": "68",
+      "total_score": "3215.6418",
+      "language": "JavaScript",
+      "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES."
+    }
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "desc": "The agent that grows with you",
+    "link": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "time_ago": "过去一周",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": "756",
+      "forks": "108",
+      "total_score": "3138.1952",
+      "language": "Python",
+      "description": "The agent that grows with you"
+    }
+  },
+  {
+    "title": "科大讯飞AIPC华东制造基地正式投产，年规划产能10万台",
+    "desc": "科大讯飞AIPC华东制造基地于2026年3月27日在浙江省金华市婺城区正式投产，首台设备成功下线，标志着规划年产能达10万台的国产AIPC产线正式步入规模化量产新阶段，实现了从试制向规模生产的重大突破。",
+    "link": "https://www.huxiu.com/ainews/10327.html",
+    "source": "huxiu",
+    "time_ago": "5小时前",
+    "category": "智能硬件",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1774776632605
+    }
+  },
+  {
+    "title": "马斯克：特斯拉人工智能自动驾驶将比人类驾驶安全超10倍",
+    "desc": "特斯拉CEO埃隆·马斯克在2025年年度股东大会上宣布，特斯拉自动驾驶系统安全性已超人类驾驶员10倍，截至2024年平均每680万英里才发生一起碰撞事故。专为无人驾驶设计的Cybercab将于2026年4月在得州超级工厂量产，目标年产能可达500万辆。",
+    "link": "https://www.huxiu.com/ainews/10320.html",
+    "source": "huxiu",
+    "time_ago": "8小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1774766433840
+    }
+  },
+  {
+    "title": "Meta 大办“AI 培训周”，鼓励员工爱用、多用智能体办公",
+    "desc": "Meta近日举办大规模AI培训周，全员参与智能体办公实践。此举旨在鼓励员工充分利用AI技术，通过黑客马拉松、产品演示和实验项目等形式，让所有职级员工展示如何借助AI提升工作效能。",
+    "link": "https://www.huxiu.com/ainews/10309.html",
+    "source": "huxiu",
+    "time_ago": "1天前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1774686603336
+    }
+  },
+  {
+    "title": "苹果聘前谷歌副总裁Lilian Rincon负责AI产品营销",
+    "desc": "苹果公司于3月28日宣布聘请前谷歌购物产品副总裁莉莲·林孔（Lilian Rincon）担任AI产品营销副总裁，该任命旨在加强苹果的AI战略推进和Siri的重大升级。",
+    "link": "https://www.huxiu.com/ainews/10299.html",
+    "source": "huxiu",
+    "time_ago": "1天前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1774656603703
+    }
+  },
+  {
+    "title": "Meta Platforms出资建造七座全新天然气发电厂",
+    "desc": "Meta Platforms为支撑其AI超级计算集群的巨大电力需求，采取多元化能源策略，结合核电与天然气发电。根据最近披露的信息，Meta不仅与Vistra、TerraPower和Oklo签署了66亿瓦的20年核电协议，还通过与雪佛龙等能源公司的合作，在路易斯安那州和二叠纪盆地等地开发天然气发电设施为其数据中心供电。",
+    "link": "https://www.huxiu.com/ainews/10295.html",
+    "source": "huxiu",
+    "time_ago": "2天前",
+    "category": "智能硬件",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1774620003302
+    }
+  },
+  {
+    "title": "智谱：GLM-5.1已面向所有Coding Plan用户开放",
+    "desc": "智谱于3月27日发布了GLM-5.1改进版大模型，现已面向所有GLM Coding Plan用户（Lite/Pro/Max）开放。新版本的编程能力相比GLM-5.0提升超过30%，评测分数从35.4分升至45.3分。",
+    "link": "https://www.huxiu.com/ainews/10291.html",
+    "source": "huxiu",
+    "time_ago": "2天前",
+    "category": "国内AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1774615804255
+    }
+  },
+  {
+    "title": "亚马逊云科技创业加速器第四期开启，聚焦生成式AI与AI硬件",
+    "desc": "亚马逊云科技第四期创业加速器于2026年3月27日正式启动，聚焦生成式AI和AI硬件创新两大领域，计划招募60-80家初创企业，联合40余家顶尖创投机构，为每家入选企业提供高达10万美元的云资源支持。",
+    "link": "https://www.huxiu.com/ainews/10274.html",
+    "source": "huxiu",
+    "time_ago": "2天前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1774584631861
+    }
+  },
+  {
+    "title": "阿里桌面Agent应用QoderWork打通钉钉、微信和飞书",
+    "desc": "阿里云QoderWork是一款桌面AI Agent助手，已于3月3日上线Windows版本，通过支持多平台集成和成本优化设计，深度打通钉钉、飞书等企业办公工具，为用户提供",
+    "link": "https://www.huxiu.com/ainews/10273.html",
+    "source": "huxiu",
+    "time_ago": "2天前",
+    "category": "国内AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1774582839910
+    }
+  },
+  {
+    "title": "小米机器人最新进展",
+    "desc": "小米人形机器人已从实验室走向实际生产，在汽车工厂完成3小时连续自主运行，成功率达90.2%；同时小米发布开源VLA大模型Xiaomi-Robotics-0，获得业界最高水平成绩，并宣布未来三年投入600亿元加速AI领域布局。",
+    "link": "https://www.huxiu.com/ainews/10272.html",
+    "source": "huxiu",
+    "time_ago": "2天前",
+    "category": "智能硬件",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1774582838793
+    }
+  },
+  {
+    "title": "Yann LeCun 转发推文称实现 CUDA 编译“圣杯”：链接时合并主机与设备代码",
+    "desc": "近日，Yann LeCun 转发了一则推文，宣布在 CUDA 编译领域取得一项被称为“圣杯”的进展：实现了在链接时合并 CUDA 主机代码和设备代码。据推文描述，这一突破意味着主机和设备的构建图现在可以完全分离，并由 SM 分别构建。作者声称，这使得真正可扩展的 CUDA 构建图成为可能。推文以“Those who know, know.”结尾。",
+    "link": "https://x.com/ylecun/status/2038191593803416047",
+    "source": "infoq",
+    "time_ago": "4小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1774780565550
+    }
+  },
+  {
+    "title": "Yann LeCun转发新论文，提出自监督学习新方法Bootleg",
+    "desc": "Yann LeCun近日在Twitter上转发了一篇由Scott Clowe发布的新论文。该论文题为《用于自监督表征学习的隐藏层自蒸馏》，提出了一种名为Bootleg的新方法。文中介绍，Bootleg是对I-JEPA/MAE框架的一个简单改进，据称能显著提升自监督表征学习的性能。其核心思路是：MAE预测像素（稳定但低级），而I-JEPA预测（原文链接中断，未提及具体内容）。",
+    "link": "https://x.com/ylecun/status/2038061953713582495",
+    "source": "infoq",
+    "time_ago": "13小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1774747512903
+    }
+  },
+  {
+    "title": "Meta发布SAM 3.1，引入对象复用技术提升视频处理效率",
+    "desc": "Meta AI近日发布了SAM 3.1，这是对SAM 3模型的直接更新。该版本引入了对象复用技术，旨在不牺牲准确性的前提下，显著提升视频处理的效率。Meta表示，分享此更新是为了帮助社区在更小、更经济的硬件上实现高性能应用。",
+    "link": "https://x.com/ylecun/status/2038061671873225199",
+    "source": "infoq",
+    "time_ago": "13小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1774747451679
+    }
+  },
+  {
+    "title": "Google推出Agent Sandbox，旨在将Kubernetes打造为开放AI代理平台",
+    "desc": "近日，Google在KubeCon NA 2025上推出了Agent Sandbox，旨在将Kubernetes打造为最开放、可扩展的AI代理平台。该平台基于gVisor构建并支持Kata Containers，可为执行代码和命令的AI代理提供内核级隔离，以应对其自主决策带来的安全风险。在Google Kubernetes Engine (GKE) 上，结合GKE Sandbox的托管gVisor",
+    "link": "https://x.com/GoogleCloudTech/status/2038013261308686396",
+    "source": "infoq",
+    "time_ago": "16小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1774735507591
+    }
+  },
+  {
+    "title": "LangChain 社区项目 Paper2Any 可将论文PDF转换为演示文稿与图表",
+    "desc": "LangChain 官方近日推荐了其社区开源项目 Paper2Any。该项目通过基于智能体（agent）的工作流，能够将研究论文和 PDF 文件转换为可编辑的演示文稿、图表和科学图形。平台支持多 LLM，并声称具备生产就绪的部署能力。",
+    "link": "https://x.com/LangChain/status/2037952875817849146",
+    "source": "infoq",
+    "time_ago": "17小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1774731607875
+    }
+  },
+  {
+    "title": "Google Cloud 推出开源 AI 代理开发框架 ADK",
+    "desc": "Google Cloud 近日推出了开源的 ADK（Agent Development Kit）集成生态系统，旨在降低 AI 代理的开发门槛并增强其能力。该框架通过提供工具和框架，帮助开发者更高效地构建、测试和部署智能代理。其关键特性包括模块化设计、预构建的连接器以简化与数据库、消息平台等常见服务的集成，以及可扩展的架构。ADK 强调安全性和可管理性，提供了监控和日志工具。文中通过客户服务自动化和",
+    "link": "https://x.com/GoogleCloudTech/status/2037877365351522745",
+    "source": "infoq",
+    "time_ago": "1天前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1774703891253
+    }
+  },
+  {
+    "title": "斯坦福AI实验室关注从人类演示学习全身移动操作研究",
+    "desc": "斯坦福人工智能实验室（StanfordAILab）近日转发了一项关于从人类演示中学习全身移动操作的研究。该研究介绍了名为HoMMI的全身移动操作界面，该界面结合了第一人称视角和UMI技术，实现了无需远程操作即可进行双手及全身操作、长时程导航和主动感知等功能。",
+    "link": "https://x.com/StanfordAILab/status/2037811507518636253",
+    "source": "infoq",
+    "time_ago": "1天前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1774687391416
+    }
+  },
+  {
+    "title": "谷歌AI发布本周更新回顾，包括Gemini 3.1 Flash Live及桌面应用更新",
+    "desc": "谷歌AI近日发布了本周产品更新回顾。主要发布内容包括Gemini 3.1 Flash Live，其旨在提供迄今为止最高质量的音频体验，并改进了推理能力和延迟，以实现更自然的语音交互。同时，谷歌对桌面版Gemini应用进行了一项更新，该更新将使用户能够无缝地（原文在此处中断，未提及具体功能）。",
+    "link": "https://x.com/JeffDean/status/2037752202601906618",
+    "source": "infoq",
+    "time_ago": "1天前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1774674247672
+    }
+  },
+  {
+    "title": "llama.cpp 引入 TurboQuant CUDA 优化，实现 3.5 倍 KV 缓存压缩",
+    "desc": "近日，llama.cpp 项目迎来一项名为 TurboQuant CUDA 的优化。据文中介绍，该优化实现了 3.5 倍的 KV 缓存压缩，并在质量上超越了 q8_0 量化，困惑度降低了 1.17%。性能方面，其预填充速度达到 99.6%，解码速度达到 97.5%。该优化在配备 24GB 显存的 RTX 3090 上，使用 Q6 量化的 Qwen3.5 27B 模型，可支持 128K 上下文长度。",
+    "link": "https://x.com/huggingface/status/2037680899714617748",
+    "source": "infoq",
+    "time_ago": "1天前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1774656307481
+    }
+  }
+]

@@ -1,0 +1,314 @@
+[
+  {
+    "title": "AI新模型解读心脏MRI数据媲美专家",
+    "desc": "人工智能在心脏MRI数据解读领域取得重大进展，新型AI模型通过先进的心脏磁共振成像序列和AI增强算法，能够以媲美专家的精准度进行心脏功能评估、诊断复杂心血管疾病，同时有效降低患者的放射线暴露和检查时间。",
+    "link": "https://www.huxiu.com/ainews/10382.html",
+    "source": "huxiu",
+    "time_ago": "38分钟前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1774916445663
+    }
+  },
+  {
+    "title": "科技公司大力布局AI工厂和企业智能体",
+    "desc": "AI正从训练阶段全面进入推理与执行阶段，中外科技企业加速布局AI工厂和企业智能体。2026年被称为",
+    "link": "https://www.huxiu.com/ainews/10381.html",
+    "source": "huxiu",
+    "time_ago": "38分钟前",
+    "category": "国内AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1774916443705
+    }
+  },
+  {
+    "title": "微软公布变革性多模型AI战略，预示人工智能领域重大飞跃",
+    "desc": "微软于本周一为其Copilot助手推出了Critique和Council两项突破性多模型AI功能，这标志着微软在AI领域的重大战略转变。Critique系统通过两个协同工作的AI模型实现了业界领先的深度研究能力，而Council方法则整合来自不同供应商的模型并融合其观点。这两项创新预示着多模型架构正在重新定义人工智能的发展方向，并帮助限制AI幻觉、提升生产力。",
+    "link": "https://www.huxiu.com/ainews/10379.html",
+    "source": "huxiu",
+    "time_ago": "1小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1774914003719
+    }
+  },
+  {
+    "title": "ScaleOps获1.3亿美元C轮融资，估值超8亿美元",
+    "desc": "ScaleOps宣布完成1.3亿美元C轮融资，估值达8亿美元，由Insight Partners领投。该公司致力于通过自动化软件管理云计算资源，在AI需求激增背景下为企业降低基础设施成本。",
+    "link": "https://www.huxiu.com/ainews/10372.html",
+    "source": "huxiu",
+    "time_ago": "10小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1774881603498
+    }
+  },
+  {
+    "title": "Mistral AI获8.3亿美元债务融资，支持AI数据中心建设",
+    "desc": "法国AI初创公司Mistral为扩建人工智能数据中心筹集8.3亿美元债务融资，进一步扩大其基础设施投资规模。",
+    "link": "https://www.huxiu.com/ainews/10356.html",
+    "source": "huxiu",
+    "time_ago": "17小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1774856404504
+    }
+  },
+  {
+    "title": "三星电子开始量产236层NAND闪存",
+    "desc": "三星电子位于中国西安的NAND闪存晶圆厂近期成功完成制程升级，实现了236层堆叠第八代V-NAND（V8）的量产，标志着该工厂从原有128层产品的重大跨越；同时公司计划于2026年内导入286层第九代NAND（V9），持续强化在存储芯片领域的竞争力。",
+    "link": "https://www.huxiu.com/ainews/10355.html",
+    "source": "huxiu",
+    "time_ago": "17小时前",
+    "category": "其它科技资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1774856403328
+    }
+  },
+  {
+    "title": "全国首条年产万台人形机器人自动化产线启用",
+    "desc": "全国首条年产能万台级人形机器人自动化生产线在广东正式启用，由东方精工与乐聚机器人联合打造，实现每30分钟下线一台人形机器人的高效生产，标志着中国人形机器人产业迈入大规模量产新阶段。",
+    "link": "https://www.huxiu.com/ainews/10342.html",
+    "source": "huxiu",
+    "time_ago": "23小时前",
+    "category": "智能硬件",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1774835405890
+    }
+  },
+  {
+    "title": "纳米抗体+AI，生物医药新革命",
+    "desc": "纳米抗体与人工智能的深度融合正在重塑生物医药产业。一套集成AI技术的抗体设计系统在数天内成功设计出92种新型SARS-CoV-2纳米抗体，其中超过90%的抗体具有可表达性和可溶性，两种抗体已展现对JN.1和KP.3等新型变体的结合能力，标志着AI制药效率革命的重要突破。",
+    "link": "https://www.huxiu.com/ainews/10338.html",
+    "source": "huxiu",
+    "time_ago": "1天前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1774828803114
+    }
+  },
+  {
+    "title": "科大讯飞AIPC华东制造基地正式投产，年规划产能10万台",
+    "desc": "科大讯飞AIPC华东制造基地于2026年3月27日在浙江省金华市婺城区正式投产，首台设备成功下线，标志着规划年产能达10万台的国产AIPC产线正式步入规模化量产新阶段，实现了从试制向规模生产的重大突破。",
+    "link": "https://www.huxiu.com/ainews/10327.html",
+    "source": "huxiu",
+    "time_ago": "1天前",
+    "category": "国内AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1774776632605
+    }
+  },
+  {
+    "title": "Qualified Health获NEA领投1.25亿美元B轮融资，估值达5-10亿美元",
+    "desc": "医疗AI供应商Qualified Health完成1.25亿美元B轮融资，由NEA领投，企业估值达5亿至10亿美元，进一步扩大其在医疗行业解决方案软件领域的影响力。",
+    "link": "https://www.huxiu.com/ainews/10325.html",
+    "source": "huxiu",
+    "time_ago": "1天前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1774775403310
+    }
+  },
+  {
+    "title": "王兴兴称机器人下月半马或跑进一小时",
+    "desc": "宇树科技创始人王兴兴在2026亚布力论坛发表演讲，预计年中全球尤其中国人形机器人百米冲刺速度将突破十秒，比博尔特更快，但距离具身智能ChatGPT时刻仍需2-3年。",
+    "link": "https://www.huxiu.com/ainews/10324.html",
+    "source": "huxiu",
+    "time_ago": "1天前",
+    "category": "智能硬件",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1774773636909
+    }
+  },
+  {
+    "title": "马斯克：特斯拉人工智能自动驾驶将比人类驾驶安全超10倍",
+    "desc": "特斯拉CEO埃隆·马斯克在2025年年度股东大会上宣布，特斯拉自动驾驶系统安全性已超人类驾驶员10倍，截至2024年平均每680万英里才发生一起碰撞事故。专为无人驾驶设计的Cybercab将于2026年4月在得州超级工厂量产，目标年产能可达500万辆。",
+    "link": "https://www.huxiu.com/ainews/10320.html",
+    "source": "huxiu",
+    "time_ago": "1天前",
+    "category": "智能硬件",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1774766433840
+    }
+  },
+  {
+    "title": "王兴兴定义GPT时刻：机器人在陌生场景用语音完成80%任务",
+    "desc": "宇树科技创始人王兴兴在GTC大会演讲中首次系统定义了具身智能的\"ChatGPT时刻\"：AI模型在80%的陌生场景中，能够通过语音或文字指令完成约80%的任务。他预计这一时刻距离当下仅需18个月至2-3年，但同时指出当前行业面临模型泛化能力不足的关键挑战。",
+    "link": "https://www.huxiu.com/ainews/10318.html",
+    "source": "huxiu",
+    "time_ago": "1天前",
+    "category": "智能硬件",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1774764632424
+    }
+  },
+  {
+    "title": "Anthropic将“计算机使用”功能集成至Claude Code命令行界面",
+    "desc": "近日，Anthropic将其“计算机使用”功能直接集成到了Claude Code的命令行界面中。这意味着Claude现在能够从终端自主控制用户的计算机，具体能力包括打开本地应用程序、物理移动鼠标、点击用户界面，并测试其构建的内容。目前，该功能以研究预览的形式，面向Pro和Max计划的用户提供。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "1小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1774914250779
+    }
+  },
+  {
+    "title": "InfoTok项目利用信息理论实现自适应视频分词，压缩与推理性能显著提升",
+    "desc": "近日，斯坦福大学教授StefanoErmon在社交媒体上称赞了其学生@haotian_yeee的项目InfoTok。该项目回归信息理论（香农理论）基本原理，提出了一种自适应的视频分词（tokenization）技术。文中观点认为，当前视频分词技术较为僵化，例如静止风景与繁忙街道不应占用相同数量的token。InfoTok通过简洁的改进，实现了超过2倍的压缩效果和10倍的推理速度提升。该工作已被IC",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "3小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1774905845592
+    }
+  },
+  {
+    "title": "MIT CSAIL提出重新编程日常物品外观概念，ChromoLCD工具或可实现",
+    "desc": "麻省理工学院计算机科学与人工智能实验室（MIT CSAIL）近日提出一个概念，探讨能否“重新编程”日常物品（如包和墙壁）的外观。文中提及，该实验室的“ChromoLCD”工具可能将这一想法变为现实。该工具利用LCD和LED技术，可将高分辨率设计“印”在物体表面，文中观点认为其可能用于创建可定制的时尚单品和智能家居。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "3小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1774904646754
+    }
+  },
+  {
+    "title": "谷歌云发布ADK集成生态系统，用于快速构建AI智能体",
+    "desc": "谷歌云近日发布视频，介绍了其新推出的ADK（Agent Development Kit）集成生态系统。ADK是一个开源框架，旨在帮助开发者构建能够执行复杂任务并与外部系统交互的AI智能体。其核心是通过“集成”来扩展智能体功能，使其能够连接和使用各种外部工具、API和服务。该生态系统提供了一个统一的开发平台，简化了为智能体添加新功能的过程。开发者可以利用预构建的集成模块，快速赋予智能体执行特定任务（",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "3小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1774904413534
+    }
+  },
+  {
+    "title": "OECD：2025年美国AI投资额占全球56%，英中分列二三位",
+    "desc": "根据经济合作与发展组织（OECD）发布的信息，2025年，美国投资者在人工智能（AI）领域的投资活动最为活跃，其投资额占全球总投资额的56%。英国以9%的占比紧随其后，中国占比为8%。OECD在其官方网站上将人工智能列为需要有效治理以利用其益处并减轻风险的关键议题之一。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "3小时前",
+    "category": "其它科技资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1774904413249
+    }
+  },
+  {
+    "title": "HuggingModels 介绍 Qwen3-4B-Thinking-2507 蒸馏模型",
+    "desc": "HuggingModels 近日介绍了一款名为 Qwen3-4B-Thinking-2507 的蒸馏模型。该模型采用 GGUF 格式，旨在将先进的推理能力部署到本地机器，让用户无需依赖云端即可运行复杂的 AI 模型。文中观点认为，这款模型非常适合希望离线使用尖端 AI 能力的开发者。不过，关于该模型的具体性能指标、技术细节、发布日期或与其他模型的对比信息，文中未提及。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "3小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1774904412950
+    }
+  },
+  {
+    "title": "Qwen 3.5 27B模型在Hugging Face趋势榜连续三周居首",
+    "desc": "据推文转述，Qwen 3.5 27B模型在Opus 4.6蒸馏数据上进行了微调，并在SWE-bench verified等评测中超越了Sonnet 4.5。该模型在Hugging Face平台上已连续三周位居趋势榜首。推文作者认为该模型是智能体宝藏。在部署方面，该模型可在16GB内存下以4-bit量化运行，或在32GB内存下以8-bit量化运行。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "3小时前",
+    "category": "国内AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1774904412768
+    }
+  },
+  {
+    "title": "Niels Rogge 分享使用 Codex 为 Transformers 库贡献视频分割模型 VidEoMT 的经验",
+    "desc": "近日，Hugging Face 作者 Niels Rogge 发布了一篇博客文章，详细介绍了其使用 Codex 编码代理为 Transformers 库贡献一个名为 VidEoMT 的视频分割 SOTA 模型的过程。文章提到，在 2025 年 12 月发生了一个关键转变，编码代理成功完成了此前失败的任务——移植整个模型。文中还分享了作者在实践过程中总结出的最佳经验。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "3小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1774904412614
+    }
+  },
+  {
+    "title": "黄仁勋将出席Interrupt活动，探讨企业级智能体未来",
+    "desc": "近日，LangChain官方宣布，英伟达（NVIDIA）创始人兼CEO黄仁勋（Jensen Huang）将出席于5月13日至14日在旧金山举行的Interrupt活动。届时，他将与Harrison进行一场炉边谈话，探讨企业级智能体（enterprise agents）的未来发展方向。据文中介绍，谈话将深入探讨LangChain与NVIDIA的合作关系，以及Deep Agents、NVIDIA Ne",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "3小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1774904412434
+    }
+  },
+  {
+    "title": "SAM 3 新版本在 H100 GPU 上实现超 30 FPS 实时性能",
+    "desc": "据 Roboflow 转推消息，最新的 SAM 3 版本在 H100 GPU 上实现了超过 30 FPS 的性能。文中观点认为，该模型是目前最好的零样本检测模型之一，其性能突破使得实时应用成为可能，对于构建视觉应用和释放潜在用例具有重要意义。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "3小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1774904412259
+    }
+  },
+  {
+    "title": "Cohere 开源 SOTA 转录模型，可在浏览器中运行",
+    "desc": "Cohere 近日开源了其 SOTA（State-of-the-art）转录模型 Cohere Transcribe。据文中信息，该模型可在浏览器环境中直接运行。模型权重已发布在 Hugging Face 平台上。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "11小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1774878549399
+    }
+  }
+]

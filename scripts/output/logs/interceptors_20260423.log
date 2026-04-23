@@ -1,0 +1,1858 @@
+
+[2026-04-23 00:23:30] keyword_filter - INPUT: 65条
+============================================================
+  - [huxiu][] Vast Data在F轮融资中筹集10亿美元，估值达300亿美元
+  - [huxiu][] FTC批准OpenAI收购Astral Software
+  - [huxiu][] Oracle AI Database扩展至全球15个Google Cloud区域
+  - [huxiu][] 腾讯与阿里巴巴计划以超200亿估值投资DeepSeek
+  - [huxiu][] Infosys将OpenAI技术整合入Topaz Fabric平台
+  - [huxiu][] 法德争夺千亿欧元项目控制权，欧洲新一代战斗机项目陷入危机
+  - [huxiu][] 孙宇晨起诉特朗普关联加密公司，称损失数亿美元
+  - [huxiu][] Belo公司遭Claude AI断网，停摆15小时，申诉依靠谷歌表单
+  - [huxiu][] OpenAI正洽谈向一家私募股权合资企业注资高达15亿美元
+  - [huxiu][] SK海力士投19万亿韩元建新芯片厂，四月开工
+  - [huxiu][] 汇丰或将寻求以至多20亿美元的价格出售汇丰人寿新加坡公司
+  - [huxiu][] 智界V9给供应商下达年均约12万辆的生产量纲
+  - [huxiu][] 奕行智能完成15亿元B轮融资，加速RISC-V AI芯片平台落地
+  - [huxiu][] SpaceX获600亿美元收购AI编程公司权利，为最大IPO铺路
+  - [huxiu][] 黄仁勋放豪言：我要造全球最低成本AI Token
+  - [huxiu][] 微软2026年OneDrive计划：整合AI与增强语义搜索功能
+  - [huxiu][] Sullivan & Cromwell律师事务所提交文件含AI幻觉，向破产法院报告
+  - [huxiu][] 采访Sam Altman和Greg Brockman，内容涉及OpenAI重组及个人AGI等话题
+  - [huxiu][] Core Scientific拟发债33亿美元转向AI数据中心建设，并租赁给CoreWeave
+  - [huxiu][] 苹果新任CEO特努斯：人工智能将带来近乎无限的发展潜力
+  - [infoq][] 荣威与火山引擎发布全球首个AI原生汽车序列“家越”
+  - [infoq][] 微软研究院发布Skala深度学习交换关联泛函更新
+  - [infoq][] GoogleDeepMind：仅25%组织实现AI大规模生产应用，正与多家咨询公司合作推广
+  - [infoq][] Gartner预测2026年CMO将面临三大AI与增长趋势
+  - [infoq][] Sudo Robotics发布操作基础模型sudo R1，实现零真实数据抓取新物体
+  - [infoq][] Kimi K2.6 模型在 OpenRouter 编程排行榜位列第一
+  - [infoq][] OECD报告：2023年劳动税负创历史新高，达34.8%
+  - [infoq][] Kimu K2.6连续运行超12小时，执行4000+工具调用
+  - [infoq][] 谷歌在DeepMind内部组建突击队加速AI编程模型研发
+  - [infoq][] OpenAI推出Chronicle功能，通过屏幕捕获提供被动上下文
+  - [infoq][] 月之暗面Kimi K2.6开源模型在多评估框架中达SOTA
+  - [infoq][] Meta向美国员工电脑推出内部跟踪工具MCI
+  - [infoq][] Gartner提出CIO四阶段路线图：构建AI就绪核心系统
+  - [infoq][] Moonshot AI 的 Kimi K2.6 模型集成至 Notion 平台
+  - [infoq][] 欧洲ELLIS机构宣布25个研究单位成功获得延期
+  - [infoq][] Yann LeCun 转发介绍 NeuralSet：用于 Neuro-AI 的 Python 包
+  - [infoq][] OpenClaw 发布 2026.4.21 版本，包含功能增强与安全修复
+  - [infoq][] Google Cloud Next 2026大会明日开幕，聚焦智能体AI
+  - [infoq][] MiniMax AI 宣布其 MiniMax Music 2.6 模型为 Sonus AI Musi
+  - [infoq][] MiniMax AI 展示 M2.7 模型在《我的世界》中的多智能体协作能力
+  - [量子位][] 科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆
+  - [量子位][] 香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖
+  - [量子位][] RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro
+  - [量子位][] 从GPU到Token：AI基础设施竞争逻辑重构
+  - [量子位][] 2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花
+  - [aibase][] 抖音发布AIGC创作新规：严禁未经授权“换脸仿声”，强调真实消费体验
+  - [aibase][] ​抖音发布新规：禁止未经授权使用他人肖像、声音及作品进行 AIGC 创作
+  - [aibase][] DeepSeek API 实现百万 Token 上下文升级
+  - [aibase][] OpenAI豪掷 15 亿美元布局B端：新合资公司“DeployCo”浮出水面
+  - [aibase][] 抖音生活服务发布AIGC创作规范：团购带货视频严禁AI生成实景
+  - [aibase][] 抖音发布生活服务AIGC创作规范:严禁未经授权使用他人肖像及声音
+  - [aibase][] 千问AI PPT重大升级:智能体架构赋能，全流程自动化制作
+  - [aibase][] ​OpenAI 推出 Euphony：一款开源的 Harmony 数据可视化工具
+  - [aibase][] 首次全年扭亏为盈后，寒武纪正面回应大厂竞争:通用芯片具备更强“技术普适性”
+  - [aibase][] ​Claude Pro 订阅方案调整：部分新用户或失去 Claude Code 使用权
+  - [aibase][] GPT-5.5 意外现身，OpenAI 智能体时代提前降临？
+  - [aibase][] ​火狐 Firefox  150 版本重磅发布，AI 助力发现 271 个安全漏洞！
+  - [aibase][] 重磅！小米 18 系列曝光：独立AI按键与“智窗”交互或成最大亮点
+  - [aibase][] Google 发布 Gemini 3.1 Pro 深度研究智能体：高效生成专业数据图表
+  - [aibase][] 教育大模型新锐“级数AI”获数千万融资，软硬一体化布局开启
+  - [aibase][] OpenAI 拟注资15亿美元成立合资公司 DeployCo，联手私募巨头加速企业级市场渗透
+  - [aibase][] 阿里巴巴发布生态级AI助手“千问小酒窝”，统一数字人形象全面接入阿里生态
+  - [aibase][] 一季度AI应用月活创新高，豆包、千问、DeepSeek稳居第一梯队
+  - [aibase][] ​佛罗里达州对 OpenAI 及其 ChatGPT 展开刑事调查，因涉及致命枪击案
+  - [aibase][] 纽约州起诉Coinbase与Gemini，指控其涉嫌非法经营预测市场
+
+[2026-04-23 00:23:30] keyword_filter - OUTPUT: 50条 | 移除15条
+============================================================
+  - [huxiu][] Oracle AI Database扩展至全球15个Google Cloud区域
+  - [huxiu][] Infosys将OpenAI技术整合入Topaz Fabric平台
+  - [huxiu][] 法德争夺千亿欧元项目控制权，欧洲新一代战斗机项目陷入危机
+  - [huxiu][] Belo公司遭Claude AI断网，停摆15小时，申诉依靠谷歌表单
+  - [huxiu][] 智界V9给供应商下达年均约12万辆的生产量纲
+  - [huxiu][] 黄仁勋放豪言：我要造全球最低成本AI Token
+  - [huxiu][] 微软2026年OneDrive计划：整合AI与增强语义搜索功能
+  - [huxiu][] Sullivan & Cromwell律师事务所提交文件含AI幻觉，向破产法院报告
+  - [huxiu][] Core Scientific拟发债33亿美元转向AI数据中心建设，并租赁给CoreWeave
+  - [huxiu][] 苹果新任CEO特努斯：人工智能将带来近乎无限的发展潜力
+  - [infoq][] 荣威与火山引擎发布全球首个AI原生汽车序列“家越”
+  - [infoq][] 微软研究院发布Skala深度学习交换关联泛函更新
+  - [infoq][] GoogleDeepMind：仅25%组织实现AI大规模生产应用，正与多家咨询公司合作推广
+  - [infoq][] Sudo Robotics发布操作基础模型sudo R1，实现零真实数据抓取新物体
+  - [infoq][] Kimi K2.6 模型在 OpenRouter 编程排行榜位列第一
+  - [infoq][] OECD报告：2023年劳动税负创历史新高，达34.8%
+  - [infoq][] Kimu K2.6连续运行超12小时，执行4000+工具调用
+  - [infoq][] 谷歌在DeepMind内部组建突击队加速AI编程模型研发
+  - [infoq][] OpenAI推出Chronicle功能，通过屏幕捕获提供被动上下文
+  - [infoq][] 月之暗面Kimi K2.6开源模型在多评估框架中达SOTA
+  - [infoq][] Meta向美国员工电脑推出内部跟踪工具MCI
+  - [infoq][] Gartner提出CIO四阶段路线图：构建AI就绪核心系统
+  - [infoq][] Moonshot AI 的 Kimi K2.6 模型集成至 Notion 平台
+  - [infoq][] 欧洲ELLIS机构宣布25个研究单位成功获得延期
+  - [infoq][] Yann LeCun 转发介绍 NeuralSet：用于 Neuro-AI 的 Python 包
+  - [infoq][] OpenClaw 发布 2026.4.21 版本，包含功能增强与安全修复
+  - [infoq][] Google Cloud Next 2026大会明日开幕，聚焦智能体AI
+  - [infoq][] MiniMax AI 宣布其 MiniMax Music 2.6 模型为 Sonus AI Musi
+  - [infoq][] MiniMax AI 展示 M2.7 模型在《我的世界》中的多智能体协作能力
+  - [量子位][] 科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆
+  - [量子位][] 香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖
+  - [量子位][] RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro
+  - [量子位][] 从GPU到Token：AI基础设施竞争逻辑重构
+  - [量子位][] 2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花
+  - [aibase][] 抖音发布AIGC创作新规：严禁未经授权“换脸仿声”，强调真实消费体验
+  - [aibase][] ​抖音发布新规：禁止未经授权使用他人肖像、声音及作品进行 AIGC 创作
+  - [aibase][] DeepSeek API 实现百万 Token 上下文升级
+  - [aibase][] 抖音生活服务发布AIGC创作规范：团购带货视频严禁AI生成实景
+  - [aibase][] 抖音发布生活服务AIGC创作规范:严禁未经授权使用他人肖像及声音
+  - [aibase][] 千问AI PPT重大升级:智能体架构赋能，全流程自动化制作
+  - [aibase][] ​OpenAI 推出 Euphony：一款开源的 Harmony 数据可视化工具
+  - [aibase][] ​Claude Pro 订阅方案调整：部分新用户或失去 Claude Code 使用权
+  - [aibase][] GPT-5.5 意外现身，OpenAI 智能体时代提前降临？
+  - [aibase][] ​火狐 Firefox  150 版本重磅发布，AI 助力发现 271 个安全漏洞！
+  - [aibase][] 重磅！小米 18 系列曝光：独立AI按键与“智窗”交互或成最大亮点
+  - [aibase][] Google 发布 Gemini 3.1 Pro 深度研究智能体：高效生成专业数据图表
+  - [aibase][] 阿里巴巴发布生态级AI助手“千问小酒窝”，统一数字人形象全面接入阿里生态
+  - [aibase][] 一季度AI应用月活创新高，豆包、千问、DeepSeek稳居第一梯队
+  - [aibase][] ​佛罗里达州对 OpenAI 及其 ChatGPT 展开刑事调查，因涉及致命枪击案
+  - [aibase][] 纽约州起诉Coinbase与Gemini，指控其涉嫌非法经营预测市场
+
+[2026-04-23 00:23:30] bge_dedup - INPUT: 50条
+============================================================
+  - [huxiu][] Oracle AI Database扩展至全球15个Google Cloud区域
+  - [huxiu][] Infosys将OpenAI技术整合入Topaz Fabric平台
+  - [huxiu][] 法德争夺千亿欧元项目控制权，欧洲新一代战斗机项目陷入危机
+  - [huxiu][] Belo公司遭Claude AI断网，停摆15小时，申诉依靠谷歌表单
+  - [huxiu][] 智界V9给供应商下达年均约12万辆的生产量纲
+  - [huxiu][] 黄仁勋放豪言：我要造全球最低成本AI Token
+  - [huxiu][] 微软2026年OneDrive计划：整合AI与增强语义搜索功能
+  - [huxiu][] Sullivan & Cromwell律师事务所提交文件含AI幻觉，向破产法院报告
+  - [huxiu][] Core Scientific拟发债33亿美元转向AI数据中心建设，并租赁给CoreWeave
+  - [huxiu][] 苹果新任CEO特努斯：人工智能将带来近乎无限的发展潜力
+  - [infoq][] 荣威与火山引擎发布全球首个AI原生汽车序列“家越”
+  - [infoq][] 微软研究院发布Skala深度学习交换关联泛函更新
+  - [infoq][] GoogleDeepMind：仅25%组织实现AI大规模生产应用，正与多家咨询公司合作推广
+  - [infoq][] Sudo Robotics发布操作基础模型sudo R1，实现零真实数据抓取新物体
+  - [infoq][] Kimi K2.6 模型在 OpenRouter 编程排行榜位列第一
+  - [infoq][] OECD报告：2023年劳动税负创历史新高，达34.8%
+  - [infoq][] Kimu K2.6连续运行超12小时，执行4000+工具调用
+  - [infoq][] 谷歌在DeepMind内部组建突击队加速AI编程模型研发
+  - [infoq][] OpenAI推出Chronicle功能，通过屏幕捕获提供被动上下文
+  - [infoq][] 月之暗面Kimi K2.6开源模型在多评估框架中达SOTA
+  - [infoq][] Meta向美国员工电脑推出内部跟踪工具MCI
+  - [infoq][] Gartner提出CIO四阶段路线图：构建AI就绪核心系统
+  - [infoq][] Moonshot AI 的 Kimi K2.6 模型集成至 Notion 平台
+  - [infoq][] 欧洲ELLIS机构宣布25个研究单位成功获得延期
+  - [infoq][] Yann LeCun 转发介绍 NeuralSet：用于 Neuro-AI 的 Python 包
+  - [infoq][] OpenClaw 发布 2026.4.21 版本，包含功能增强与安全修复
+  - [infoq][] Google Cloud Next 2026大会明日开幕，聚焦智能体AI
+  - [infoq][] MiniMax AI 宣布其 MiniMax Music 2.6 模型为 Sonus AI Musi
+  - [infoq][] MiniMax AI 展示 M2.7 模型在《我的世界》中的多智能体协作能力
+  - [量子位][] 科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆
+  - [量子位][] 香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖
+  - [量子位][] RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro
+  - [量子位][] 从GPU到Token：AI基础设施竞争逻辑重构
+  - [量子位][] 2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花
+  - [aibase][] 抖音发布AIGC创作新规：严禁未经授权“换脸仿声”，强调真实消费体验
+  - [aibase][] ​抖音发布新规：禁止未经授权使用他人肖像、声音及作品进行 AIGC 创作
+  - [aibase][] DeepSeek API 实现百万 Token 上下文升级
+  - [aibase][] 抖音生活服务发布AIGC创作规范：团购带货视频严禁AI生成实景
+  - [aibase][] 抖音发布生活服务AIGC创作规范:严禁未经授权使用他人肖像及声音
+  - [aibase][] 千问AI PPT重大升级:智能体架构赋能，全流程自动化制作
+  - [aibase][] ​OpenAI 推出 Euphony：一款开源的 Harmony 数据可视化工具
+  - [aibase][] ​Claude Pro 订阅方案调整：部分新用户或失去 Claude Code 使用权
+  - [aibase][] GPT-5.5 意外现身，OpenAI 智能体时代提前降临？
+  - [aibase][] ​火狐 Firefox  150 版本重磅发布，AI 助力发现 271 个安全漏洞！
+  - [aibase][] 重磅！小米 18 系列曝光：独立AI按键与“智窗”交互或成最大亮点
+  - [aibase][] Google 发布 Gemini 3.1 Pro 深度研究智能体：高效生成专业数据图表
+  - [aibase][] 阿里巴巴发布生态级AI助手“千问小酒窝”，统一数字人形象全面接入阿里生态
+  - [aibase][] 一季度AI应用月活创新高，豆包、千问、DeepSeek稳居第一梯队
+  - [aibase][] ​佛罗里达州对 OpenAI 及其 ChatGPT 展开刑事调查，因涉及致命枪击案
+  - [aibase][] 纽约州起诉Coinbase与Gemini，指控其涉嫌非法经营预测市场
+
+[2026-04-23 00:23:54] bge_dedup - OUTPUT: 48条 | 移除2条
+============================================================
+  - [huxiu][] Oracle AI Database扩展至全球15个Google Cloud区域
+  - [huxiu][] Infosys将OpenAI技术整合入Topaz Fabric平台
+  - [huxiu][] 法德争夺千亿欧元项目控制权，欧洲新一代战斗机项目陷入危机
+  - [huxiu][] Belo公司遭Claude AI断网，停摆15小时，申诉依靠谷歌表单
+  - [huxiu][] 智界V9给供应商下达年均约12万辆的生产量纲
+  - [huxiu][] 黄仁勋放豪言：我要造全球最低成本AI Token
+  - [huxiu][] 微软2026年OneDrive计划：整合AI与增强语义搜索功能
+  - [huxiu][] Sullivan & Cromwell律师事务所提交文件含AI幻觉，向破产法院报告
+  - [huxiu][] Core Scientific拟发债33亿美元转向AI数据中心建设，并租赁给CoreWeave
+  - [huxiu][] 苹果新任CEO特努斯：人工智能将带来近乎无限的发展潜力
+  - [infoq][] 荣威与火山引擎发布全球首个AI原生汽车序列“家越”
+  - [infoq][] 微软研究院发布Skala深度学习交换关联泛函更新
+  - [infoq][] GoogleDeepMind：仅25%组织实现AI大规模生产应用，正与多家咨询公司合作推广
+  - [infoq][] Sudo Robotics发布操作基础模型sudo R1，实现零真实数据抓取新物体
+  - [infoq][] Kimi K2.6 模型在 OpenRouter 编程排行榜位列第一
+  - [infoq][] OECD报告：2023年劳动税负创历史新高，达34.8%
+  - [infoq][] Kimu K2.6连续运行超12小时，执行4000+工具调用
+  - [infoq][] 谷歌在DeepMind内部组建突击队加速AI编程模型研发
+  - [infoq][] OpenAI推出Chronicle功能，通过屏幕捕获提供被动上下文
+  - [infoq][] 月之暗面Kimi K2.6开源模型在多评估框架中达SOTA
+  - [infoq][] Meta向美国员工电脑推出内部跟踪工具MCI
+  - [infoq][] Gartner提出CIO四阶段路线图：构建AI就绪核心系统
+  - [infoq][] Moonshot AI 的 Kimi K2.6 模型集成至 Notion 平台
+  - [infoq][] 欧洲ELLIS机构宣布25个研究单位成功获得延期
+  - [infoq][] Yann LeCun 转发介绍 NeuralSet：用于 Neuro-AI 的 Python 包
+  - [infoq][] OpenClaw 发布 2026.4.21 版本，包含功能增强与安全修复
+  - [infoq][] Google Cloud Next 2026大会明日开幕，聚焦智能体AI
+  - [infoq][] MiniMax AI 宣布其 MiniMax Music 2.6 模型为 Sonus AI Musi
+  - [infoq][] MiniMax AI 展示 M2.7 模型在《我的世界》中的多智能体协作能力
+  - [量子位][] 科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆
+  - [量子位][] 香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖
+  - [量子位][] RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro
+  - [量子位][] 从GPU到Token：AI基础设施竞争逻辑重构
+  - [量子位][] 2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花
+  - [aibase][] 抖音发布AIGC创作新规：严禁未经授权“换脸仿声”，强调真实消费体验
+  - [aibase][] DeepSeek API 实现百万 Token 上下文升级
+  - [aibase][] 抖音生活服务发布AIGC创作规范：团购带货视频严禁AI生成实景
+  - [aibase][] 千问AI PPT重大升级:智能体架构赋能，全流程自动化制作
+  - [aibase][] ​OpenAI 推出 Euphony：一款开源的 Harmony 数据可视化工具
+  - [aibase][] ​Claude Pro 订阅方案调整：部分新用户或失去 Claude Code 使用权
+  - [aibase][] GPT-5.5 意外现身，OpenAI 智能体时代提前降临？
+  - [aibase][] ​火狐 Firefox  150 版本重磅发布，AI 助力发现 271 个安全漏洞！
+  - [aibase][] 重磅！小米 18 系列曝光：独立AI按键与“智窗”交互或成最大亮点
+  - [aibase][] Google 发布 Gemini 3.1 Pro 深度研究智能体：高效生成专业数据图表
+  - [aibase][] 阿里巴巴发布生态级AI助手“千问小酒窝”，统一数字人形象全面接入阿里生态
+  - [aibase][] 一季度AI应用月活创新高，豆包、千问、DeepSeek稳居第一梯队
+  - [aibase][] ​佛罗里达州对 OpenAI 及其 ChatGPT 展开刑事调查，因涉及致命枪击案
+  - [aibase][] 纽约州起诉Coinbase与Gemini，指控其涉嫌非法经营预测市场
+
+[2026-04-23 00:23:54] llm_classify - INPUT: 48条
+============================================================
+  - [huxiu][] Oracle AI Database扩展至全球15个Google Cloud区域
+  - [huxiu][] Infosys将OpenAI技术整合入Topaz Fabric平台
+  - [huxiu][] 法德争夺千亿欧元项目控制权，欧洲新一代战斗机项目陷入危机
+  - [huxiu][] Belo公司遭Claude AI断网，停摆15小时，申诉依靠谷歌表单
+  - [huxiu][] 智界V9给供应商下达年均约12万辆的生产量纲
+  - [huxiu][] 黄仁勋放豪言：我要造全球最低成本AI Token
+  - [huxiu][] 微软2026年OneDrive计划：整合AI与增强语义搜索功能
+  - [huxiu][] Sullivan & Cromwell律师事务所提交文件含AI幻觉，向破产法院报告
+  - [huxiu][] Core Scientific拟发债33亿美元转向AI数据中心建设，并租赁给CoreWeave
+  - [huxiu][] 苹果新任CEO特努斯：人工智能将带来近乎无限的发展潜力
+  - [infoq][] 荣威与火山引擎发布全球首个AI原生汽车序列“家越”
+  - [infoq][] 微软研究院发布Skala深度学习交换关联泛函更新
+  - [infoq][] GoogleDeepMind：仅25%组织实现AI大规模生产应用，正与多家咨询公司合作推广
+  - [infoq][] Sudo Robotics发布操作基础模型sudo R1，实现零真实数据抓取新物体
+  - [infoq][] Kimi K2.6 模型在 OpenRouter 编程排行榜位列第一
+  - [infoq][] OECD报告：2023年劳动税负创历史新高，达34.8%
+  - [infoq][] Kimu K2.6连续运行超12小时，执行4000+工具调用
+  - [infoq][] 谷歌在DeepMind内部组建突击队加速AI编程模型研发
+  - [infoq][] OpenAI推出Chronicle功能，通过屏幕捕获提供被动上下文
+  - [infoq][] 月之暗面Kimi K2.6开源模型在多评估框架中达SOTA
+  - [infoq][] Meta向美国员工电脑推出内部跟踪工具MCI
+  - [infoq][] Gartner提出CIO四阶段路线图：构建AI就绪核心系统
+  - [infoq][] Moonshot AI 的 Kimi K2.6 模型集成至 Notion 平台
+  - [infoq][] 欧洲ELLIS机构宣布25个研究单位成功获得延期
+  - [infoq][] Yann LeCun 转发介绍 NeuralSet：用于 Neuro-AI 的 Python 包
+  - [infoq][] OpenClaw 发布 2026.4.21 版本，包含功能增强与安全修复
+  - [infoq][] Google Cloud Next 2026大会明日开幕，聚焦智能体AI
+  - [infoq][] MiniMax AI 宣布其 MiniMax Music 2.6 模型为 Sonus AI Musi
+  - [infoq][] MiniMax AI 展示 M2.7 模型在《我的世界》中的多智能体协作能力
+  - [量子位][] 科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆
+  - [量子位][] 香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖
+  - [量子位][] RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro
+  - [量子位][] 从GPU到Token：AI基础设施竞争逻辑重构
+  - [量子位][] 2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花
+  - [aibase][] 抖音发布AIGC创作新规：严禁未经授权“换脸仿声”，强调真实消费体验
+  - [aibase][] DeepSeek API 实现百万 Token 上下文升级
+  - [aibase][] 抖音生活服务发布AIGC创作规范：团购带货视频严禁AI生成实景
+  - [aibase][] 千问AI PPT重大升级:智能体架构赋能，全流程自动化制作
+  - [aibase][] ​OpenAI 推出 Euphony：一款开源的 Harmony 数据可视化工具
+  - [aibase][] ​Claude Pro 订阅方案调整：部分新用户或失去 Claude Code 使用权
+  - [aibase][] GPT-5.5 意外现身，OpenAI 智能体时代提前降临？
+  - [aibase][] ​火狐 Firefox  150 版本重磅发布，AI 助力发现 271 个安全漏洞！
+  - [aibase][] 重磅！小米 18 系列曝光：独立AI按键与“智窗”交互或成最大亮点
+  - [aibase][] Google 发布 Gemini 3.1 Pro 深度研究智能体：高效生成专业数据图表
+  - [aibase][] 阿里巴巴发布生态级AI助手“千问小酒窝”，统一数字人形象全面接入阿里生态
+  - [aibase][] 一季度AI应用月活创新高，豆包、千问、DeepSeek稳居第一梯队
+  - [aibase][] ​佛罗里达州对 OpenAI 及其 ChatGPT 展开刑事调查，因涉及致命枪击案
+  - [aibase][] 纽约州起诉Coinbase与Gemini，指控其涉嫌非法经营预测市场
+
+[2026-04-23 00:24:30] llm_classify - OUTPUT: 38条 | 保留38条
+============================================================
+  - [huxiu][国外AI资讯] Oracle AI Database扩展至全球15个Google Cloud区域
+  - [huxiu][国外AI资讯] Infosys将OpenAI技术整合入Topaz Fabric平台
+  - [huxiu][国外AI资讯] Belo公司遭Claude AI断网，停摆15小时，申诉依靠谷歌表单
+  - [huxiu][智能硬件] 智界V9给供应商下达年均约12万辆的生产量纲
+  - [huxiu][国外AI资讯] 黄仁勋放豪言：我要造全球最低成本AI Token
+  - [huxiu][国外AI资讯] 微软2026年OneDrive计划：整合AI与增强语义搜索功能
+  - [huxiu][国外AI资讯] Sullivan & Cromwell律师事务所提交文件含AI幻觉，向破产法院报告
+  - [huxiu][国外AI资讯] 苹果新任CEO特努斯：人工智能将带来近乎无限的发展潜力
+  - [infoq][国内AI资讯] 荣威与火山引擎发布全球首个AI原生汽车序列“家越”
+  - [infoq][国外AI资讯] 微软研究院发布Skala深度学习交换关联泛函更新
+  - [infoq][国外AI资讯] GoogleDeepMind：仅25%组织实现AI大规模生产应用，正与多家咨询公司合作推广
+  - [infoq][智能硬件] Sudo Robotics发布操作基础模型sudo R1，实现零真实数据抓取新物体
+  - [infoq][国内AI资讯] Kimi K2.6 模型在 OpenRouter 编程排行榜位列第一
+  - [infoq][国内AI资讯] Kimu K2.6连续运行超12小时，执行4000+工具调用
+  - [infoq][国外AI资讯] 谷歌在DeepMind内部组建突击队加速AI编程模型研发
+  - [infoq][国外AI资讯] OpenAI推出Chronicle功能，通过屏幕捕获提供被动上下文
+  - [infoq][国内AI资讯] 月之暗面Kimi K2.6开源模型在多评估框架中达SOTA
+  - [infoq][国外AI资讯] Meta向美国员工电脑推出内部跟踪工具MCI
+  - [infoq][其它科技资讯] Gartner提出CIO四阶段路线图：构建AI就绪核心系统
+  - [infoq][国内AI资讯] Moonshot AI 的 Kimi K2.6 模型集成至 Notion 平台
+  - [infoq][其它科技资讯] 欧洲ELLIS机构宣布25个研究单位成功获得延期
+  - [infoq][国外AI资讯] Yann LeCun 转发介绍 NeuralSet：用于 Neuro-AI 的 Python 包
+  - [infoq][国外AI资讯] OpenClaw 发布 2026.4.21 版本，包含功能增强与安全修复
+  - [infoq][国外AI资讯] MiniMax AI 宣布其 MiniMax Music 2.6 模型为 Sonus AI Musi
+  - [infoq][国外AI资讯] MiniMax AI 展示 M2.7 模型在《我的世界》中的多智能体协作能力
+  - [量子位][智能硬件] 科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆
+  - [量子位][国内AI资讯] 香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖
+  - [量子位][智能硬件] RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro
+  - [量子位][其它科技资讯] 从GPU到Token：AI基础设施竞争逻辑重构
+  - [aibase][国内AI资讯] 抖音发布AIGC创作新规：严禁未经授权“换脸仿声”，强调真实消费体验
+  - [aibase][国内AI资讯] DeepSeek API 实现百万 Token 上下文升级
+  - [aibase][国内AI资讯] 抖音生活服务发布AIGC创作规范：团购带货视频严禁AI生成实景
+  - [aibase][国内AI资讯] 千问AI PPT重大升级:智能体架构赋能，全流程自动化制作
+  - [aibase][国外AI资讯] ​OpenAI 推出 Euphony：一款开源的 Harmony 数据可视化工具
+  - [aibase][国外AI资讯] ​Claude Pro 订阅方案调整：部分新用户或失去 Claude Code 使用权
+  - [aibase][其它科技资讯] ​火狐 Firefox  150 版本重磅发布，AI 助力发现 271 个安全漏洞！
+  - [aibase][其它科技资讯] ​佛罗里达州对 OpenAI 及其 ChatGPT 展开刑事调查，因涉及致命枪击案
+  - [aibase][其它科技资讯] 纽约州起诉Coinbase与Gemini，指控其涉嫌非法经营预测市场
+
+[2026-04-23 00:24:30] llm_summary - INPUT: 38条
+============================================================
+  - [huxiu][国外AI资讯] Oracle AI Database扩展至全球15个Google Cloud区域
+  - [huxiu][国外AI资讯] Infosys将OpenAI技术整合入Topaz Fabric平台
+  - [huxiu][国外AI资讯] Belo公司遭Claude AI断网，停摆15小时，申诉依靠谷歌表单
+  - [huxiu][智能硬件] 智界V9给供应商下达年均约12万辆的生产量纲
+  - [huxiu][国外AI资讯] 黄仁勋放豪言：我要造全球最低成本AI Token
+  - [huxiu][国外AI资讯] 微软2026年OneDrive计划：整合AI与增强语义搜索功能
+  - [huxiu][国外AI资讯] Sullivan & Cromwell律师事务所提交文件含AI幻觉，向破产法院报告
+  - [huxiu][国外AI资讯] 苹果新任CEO特努斯：人工智能将带来近乎无限的发展潜力
+  - [infoq][国内AI资讯] 荣威与火山引擎发布全球首个AI原生汽车序列“家越”
+  - [infoq][国外AI资讯] 微软研究院发布Skala深度学习交换关联泛函更新
+  - [infoq][国外AI资讯] GoogleDeepMind：仅25%组织实现AI大规模生产应用，正与多家咨询公司合作推广
+  - [infoq][智能硬件] Sudo Robotics发布操作基础模型sudo R1，实现零真实数据抓取新物体
+  - [infoq][国内AI资讯] Kimi K2.6 模型在 OpenRouter 编程排行榜位列第一
+  - [infoq][国内AI资讯] Kimu K2.6连续运行超12小时，执行4000+工具调用
+  - [infoq][国外AI资讯] 谷歌在DeepMind内部组建突击队加速AI编程模型研发
+  - [infoq][国外AI资讯] OpenAI推出Chronicle功能，通过屏幕捕获提供被动上下文
+  - [infoq][国内AI资讯] 月之暗面Kimi K2.6开源模型在多评估框架中达SOTA
+  - [infoq][国外AI资讯] Meta向美国员工电脑推出内部跟踪工具MCI
+  - [infoq][其它科技资讯] Gartner提出CIO四阶段路线图：构建AI就绪核心系统
+  - [infoq][国内AI资讯] Moonshot AI 的 Kimi K2.6 模型集成至 Notion 平台
+  - [infoq][其它科技资讯] 欧洲ELLIS机构宣布25个研究单位成功获得延期
+  - [infoq][国外AI资讯] Yann LeCun 转发介绍 NeuralSet：用于 Neuro-AI 的 Python 包
+  - [infoq][国外AI资讯] OpenClaw 发布 2026.4.21 版本，包含功能增强与安全修复
+  - [infoq][国外AI资讯] MiniMax AI 宣布其 MiniMax Music 2.6 模型为 Sonus AI Musi
+  - [infoq][国外AI资讯] MiniMax AI 展示 M2.7 模型在《我的世界》中的多智能体协作能力
+  - [量子位][智能硬件] 科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆
+  - [量子位][国内AI资讯] 香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖
+  - [量子位][智能硬件] RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro
+  - [量子位][其它科技资讯] 从GPU到Token：AI基础设施竞争逻辑重构
+  - [aibase][国内AI资讯] 抖音发布AIGC创作新规：严禁未经授权“换脸仿声”，强调真实消费体验
+  - [aibase][国内AI资讯] DeepSeek API 实现百万 Token 上下文升级
+  - [aibase][国内AI资讯] 抖音生活服务发布AIGC创作规范：团购带货视频严禁AI生成实景
+  - [aibase][国内AI资讯] 千问AI PPT重大升级:智能体架构赋能，全流程自动化制作
+  - [aibase][国外AI资讯] ​OpenAI 推出 Euphony：一款开源的 Harmony 数据可视化工具
+  - [aibase][国外AI资讯] ​Claude Pro 订阅方案调整：部分新用户或失去 Claude Code 使用权
+  - [aibase][其它科技资讯] ​火狐 Firefox  150 版本重磅发布，AI 助力发现 271 个安全漏洞！
+  - [aibase][其它科技资讯] ​佛罗里达州对 OpenAI 及其 ChatGPT 展开刑事调查，因涉及致命枪击案
+  - [aibase][其它科技资讯] 纽约州起诉Coinbase与Gemini，指控其涉嫌非法经营预测市场
+
+[2026-04-23 00:25:40] llm_summary - OUTPUT: 38条 | 成功38条
+============================================================
+  - [huxiu][国外AI资讯] Oracle AI Database扩展至全球15个Google Cloud区域
+  - [huxiu][国外AI资讯] Infosys将OpenAI技术整合入Topaz Fabric平台
+  - [huxiu][国外AI资讯] Belo公司遭Claude AI断网，停摆15小时，申诉依靠谷歌表单
+  - [huxiu][智能硬件] 智界V9给供应商下达年均约12万辆的生产量纲
+  - [huxiu][国外AI资讯] 黄仁勋放豪言：我要造全球最低成本AI Token
+  - [huxiu][国外AI资讯] 微软2026年OneDrive计划：整合AI与增强语义搜索功能
+  - [huxiu][国外AI资讯] Sullivan & Cromwell律师事务所提交文件含AI幻觉，向破产法院报告
+  - [huxiu][国外AI资讯] 苹果新任CEO特努斯：人工智能将带来近乎无限的发展潜力
+  - [infoq][国内AI资讯] 荣威与火山引擎发布全球首个AI原生汽车序列“家越”
+  - [infoq][国外AI资讯] 微软研究院发布Skala深度学习交换关联泛函更新
+  - [infoq][国外AI资讯] GoogleDeepMind：仅25%组织实现AI大规模生产应用，正与多家咨询公司合作推广
+  - [infoq][智能硬件] Sudo Robotics发布操作基础模型sudo R1，实现零真实数据抓取新物体
+  - [infoq][国内AI资讯] Kimi K2.6 模型在 OpenRouter 编程排行榜位列第一
+  - [infoq][国内AI资讯] Kimu K2.6连续运行超12小时，执行4000+工具调用
+  - [infoq][国外AI资讯] 谷歌在DeepMind内部组建突击队加速AI编程模型研发
+  - [infoq][国外AI资讯] OpenAI推出Chronicle功能，通过屏幕捕获提供被动上下文
+  - [infoq][国内AI资讯] 月之暗面Kimi K2.6开源模型在多评估框架中达SOTA
+  - [infoq][国外AI资讯] Meta向美国员工电脑推出内部跟踪工具MCI
+  - [infoq][其它科技资讯] Gartner提出CIO四阶段路线图：构建AI就绪核心系统
+  - [infoq][国内AI资讯] Moonshot AI 的 Kimi K2.6 模型集成至 Notion 平台
+  - [infoq][其它科技资讯] 欧洲ELLIS机构宣布25个研究单位成功获得延期
+  - [infoq][国外AI资讯] Yann LeCun 转发介绍 NeuralSet：用于 Neuro-AI 的 Python 包
+  - [infoq][国外AI资讯] OpenClaw 发布 2026.4.21 版本，包含功能增强与安全修复
+  - [infoq][国外AI资讯] MiniMax AI 宣布其 MiniMax Music 2.6 模型为 Sonus AI Musi
+  - [infoq][国外AI资讯] MiniMax AI 展示 M2.7 模型在《我的世界》中的多智能体协作能力
+  - [量子位][智能硬件] 科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆
+  - [量子位][国内AI资讯] 香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖
+  - [量子位][智能硬件] RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro
+  - [量子位][其它科技资讯] 从GPU到Token：AI基础设施竞争逻辑重构
+  - [aibase][国内AI资讯] 抖音发布AIGC创作新规：严禁未经授权“换脸仿声”，强调真实消费体验
+  - [aibase][国内AI资讯] DeepSeek API 实现百万 Token 上下文升级
+  - [aibase][国内AI资讯] 抖音生活服务发布AIGC创作规范：团购带货视频严禁AI生成实景
+  - [aibase][国内AI资讯] 千问AI PPT重大升级:智能体架构赋能，全流程自动化制作
+  - [aibase][国外AI资讯] ​OpenAI 推出 Euphony：一款开源的 Harmony 数据可视化工具
+  - [aibase][国外AI资讯] ​Claude Pro 订阅方案调整：部分新用户或失去 Claude Code 使用权
+  - [aibase][其它科技资讯] ​火狐 Firefox  150 版本重磅发布，AI 助力发现 271 个安全漏洞！
+  - [aibase][其它科技资讯] ​佛罗里达州对 OpenAI 及其 ChatGPT 展开刑事调查，因涉及致命枪击案
+  - [aibase][其它科技资讯] 纽约州起诉Coinbase与Gemini，指控其涉嫌非法经营预测市场
+
+[2026-04-23 08:00:41] keyword_filter - INPUT: 65条
+============================================================
+  - [huxiu][] Meta扩大AI投入，新建超10亿美元数据中心
+  - [huxiu][] 微软旗下领英任命丹·沙佩罗为新任CEO
+  - [huxiu][] OpenAI面向医生等开放ChatGPT服务
+  - [huxiu][] 马斯克：特斯拉得州新机器人厂预计2027年投产
+  - [huxiu][] Vast Data在F轮融资中筹集10亿美元，估值达300亿美元
+  - [huxiu][] FTC批准OpenAI收购Astral Software
+  - [huxiu][] Oracle AI Database扩展至全球15个Google Cloud区域
+  - [huxiu][] 腾讯与阿里巴巴计划以超200亿估值投资DeepSeek
+  - [huxiu][] Infosys将OpenAI技术整合入Topaz Fabric平台
+  - [huxiu][] 法德争夺千亿欧元项目控制权，欧洲新一代战斗机项目陷入危机
+  - [huxiu][] 孙宇晨起诉特朗普关联加密公司，称损失数亿美元
+  - [huxiu][] Belo公司遭Claude AI断网，停摆15小时，申诉依靠谷歌表单
+  - [huxiu][] OpenAI正洽谈向一家私募股权合资企业注资高达15亿美元
+  - [huxiu][] SK海力士投19万亿韩元建新芯片厂，四月开工
+  - [huxiu][] 汇丰或将寻求以至多20亿美元的价格出售汇丰人寿新加坡公司
+  - [huxiu][] 智界V9给供应商下达年均约12万辆的生产量纲
+  - [huxiu][] 奕行智能完成15亿元B轮融资，加速RISC-V AI芯片平台落地
+  - [huxiu][] SpaceX获600亿美元收购AI编程公司权利，为最大IPO铺路
+  - [huxiu][] 黄仁勋放豪言：我要造全球最低成本AI Token
+  - [huxiu][] 微软2026年OneDrive计划：整合AI与增强语义搜索功能
+  - [infoq][] NVIDIA与Adobe在2026年Adobe Summit上展示Omniverse库支持Firef
+  - [infoq][] 波士顿动力转发现代汽车集团全球AI与机器人技术人才招聘信息
+  - [infoq][] Perplexity AI发布新研究，阐述如何通过后训练提升搜索增强答案准确性
+  - [infoq][] OpenAI联合创始人gdb分享Sam Altman被解雇后72小时详细内幕
+  - [infoq][] NVIDIA与Adobe、WPP合作开发品牌营销创意智能体
+  - [infoq][] OpenAI在ChatGPT中引入“工作区智能体”功能
+  - [infoq][] NVIDIA与Adobe CEO同台展示合作，共探代理式AI未来
+  - [infoq][] StanfordHAI主任警示美国或未对世界模型发展做好准备
+  - [infoq][] Google Research 宣布其基础研究已转化为工具，为 Google Earth AI 提供
+  - [infoq][] 斯坦福HAI报告：AI在科研中参与度快速提升，正从辅助工具迈向科学发现
+  - [infoq][] 亚马逊科学邀请与会者参与ICLR 2026期间的研究交流活动
+  - [infoq][] Google Cloud 发布首批官方智能体技能库
+  - [infoq][] Firebase 在 Google Cloud Next 大会宣布 SQL Connect、Fire
+  - [infoq][] PyTorch基金会执行董事Mark Collier在PyTorchCon Europe 2026发
+  - [infoq][] PyTorch Con EU 演讲录像上线，预告上海与圣何塞大会
+  - [infoq][] 红帽与特斯拉工程师合作优化Llama 3.1 70B推理性能
+  - [infoq][] LlamaIndex 开源文档解析器 LiteParse 发布，基于启发式方法解析复杂 PDF
+  - [infoq][] Google Research 宣布其基础研究已转化为 Google Earth AI 的可操作工具
+  - [infoq][] SonicMoE 在 NVIDIA Blackwell GPU 上实现峰值吞吐量运行
+  - [infoq][] NeurIPS 2026 四月通讯发布，公布会议安排与投稿信息
+  - [量子位][] 科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆
+  - [量子位][] 香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖
+  - [量子位][] RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro
+  - [量子位][] 从GPU到Token：AI基础设施竞争逻辑重构
+  - [量子位][] 2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花
+  - [aibase][] 抖音发布AIGC创作新规：严禁未经授权“换脸仿声”，强调真实消费体验
+  - [aibase][] ​抖音发布新规：禁止未经授权使用他人肖像、声音及作品进行 AIGC 创作
+  - [aibase][] DeepSeek API 实现百万 Token 上下文升级
+  - [aibase][] OpenAI豪掷 15 亿美元布局B端：新合资公司“DeployCo”浮出水面
+  - [aibase][] 抖音生活服务发布AIGC创作规范：团购带货视频严禁AI生成实景
+  - [aibase][] 抖音发布生活服务AIGC创作规范:严禁未经授权使用他人肖像及声音
+  - [aibase][] 千问AI PPT重大升级:智能体架构赋能，全流程自动化制作
+  - [aibase][] ​OpenAI 推出 Euphony：一款开源的 Harmony 数据可视化工具
+  - [aibase][] 首次全年扭亏为盈后，寒武纪正面回应大厂竞争:通用芯片具备更强“技术普适性”
+  - [aibase][] ​Claude Pro 订阅方案调整：部分新用户或失去 Claude Code 使用权
+  - [aibase][] GPT-5.5 意外现身，OpenAI 智能体时代提前降临？
+  - [aibase][] ​火狐 Firefox  150 版本重磅发布，AI 助力发现 271 个安全漏洞！
+  - [aibase][] 重磅！小米 18 系列曝光：独立AI按键与“智窗”交互或成最大亮点
+  - [aibase][] Google 发布 Gemini 3.1 Pro 深度研究智能体：高效生成专业数据图表
+  - [aibase][] 教育大模型新锐“级数AI”获数千万融资，软硬一体化布局开启
+  - [aibase][] OpenAI 拟注资15亿美元成立合资公司 DeployCo，联手私募巨头加速企业级市场渗透
+  - [aibase][] 阿里巴巴发布生态级AI助手“千问小酒窝”，统一数字人形象全面接入阿里生态
+  - [aibase][] 一季度AI应用月活创新高，豆包、千问、DeepSeek稳居第一梯队
+  - [aibase][] ​佛罗里达州对 OpenAI 及其 ChatGPT 展开刑事调查，因涉及致命枪击案
+  - [aibase][] 纽约州起诉Coinbase与Gemini，指控其涉嫌非法经营预测市场
+
+[2026-04-23 08:00:41] keyword_filter - OUTPUT: 45条 | 移除20条
+============================================================
+  - [huxiu][] Meta扩大AI投入，新建超10亿美元数据中心
+  - [huxiu][] 微软旗下领英任命丹·沙佩罗为新任CEO
+  - [huxiu][] OpenAI面向医生等开放ChatGPT服务
+  - [huxiu][] 马斯克：特斯拉得州新机器人厂预计2027年投产
+  - [huxiu][] Oracle AI Database扩展至全球15个Google Cloud区域
+  - [huxiu][] Infosys将OpenAI技术整合入Topaz Fabric平台
+  - [huxiu][] 法德争夺千亿欧元项目控制权，欧洲新一代战斗机项目陷入危机
+  - [huxiu][] Belo公司遭Claude AI断网，停摆15小时，申诉依靠谷歌表单
+  - [huxiu][] 智界V9给供应商下达年均约12万辆的生产量纲
+  - [huxiu][] 黄仁勋放豪言：我要造全球最低成本AI Token
+  - [huxiu][] 微软2026年OneDrive计划：整合AI与增强语义搜索功能
+  - [infoq][] NVIDIA与Adobe在2026年Adobe Summit上展示Omniverse库支持Firef
+  - [infoq][] Perplexity AI发布新研究，阐述如何通过后训练提升搜索增强答案准确性
+  - [infoq][] OpenAI联合创始人gdb分享Sam Altman被解雇后72小时详细内幕
+  - [infoq][] NVIDIA与Adobe、WPP合作开发品牌营销创意智能体
+  - [infoq][] OpenAI在ChatGPT中引入“工作区智能体”功能
+  - [infoq][] NVIDIA与Adobe CEO同台展示合作，共探代理式AI未来
+  - [infoq][] Google Cloud 发布首批官方智能体技能库
+  - [infoq][] Firebase 在 Google Cloud Next 大会宣布 SQL Connect、Fire
+  - [infoq][] PyTorch基金会执行董事Mark Collier在PyTorchCon Europe 2026发
+  - [infoq][] 红帽与特斯拉工程师合作优化Llama 3.1 70B推理性能
+  - [infoq][] LlamaIndex 开源文档解析器 LiteParse 发布，基于启发式方法解析复杂 PDF
+  - [infoq][] SonicMoE 在 NVIDIA Blackwell GPU 上实现峰值吞吐量运行
+  - [infoq][] NeurIPS 2026 四月通讯发布，公布会议安排与投稿信息
+  - [量子位][] 科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆
+  - [量子位][] 香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖
+  - [量子位][] RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro
+  - [量子位][] 从GPU到Token：AI基础设施竞争逻辑重构
+  - [量子位][] 2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花
+  - [aibase][] 抖音发布AIGC创作新规：严禁未经授权“换脸仿声”，强调真实消费体验
+  - [aibase][] ​抖音发布新规：禁止未经授权使用他人肖像、声音及作品进行 AIGC 创作
+  - [aibase][] DeepSeek API 实现百万 Token 上下文升级
+  - [aibase][] 抖音生活服务发布AIGC创作规范：团购带货视频严禁AI生成实景
+  - [aibase][] 抖音发布生活服务AIGC创作规范:严禁未经授权使用他人肖像及声音
+  - [aibase][] 千问AI PPT重大升级:智能体架构赋能，全流程自动化制作
+  - [aibase][] ​OpenAI 推出 Euphony：一款开源的 Harmony 数据可视化工具
+  - [aibase][] ​Claude Pro 订阅方案调整：部分新用户或失去 Claude Code 使用权
+  - [aibase][] GPT-5.5 意外现身，OpenAI 智能体时代提前降临？
+  - [aibase][] ​火狐 Firefox  150 版本重磅发布，AI 助力发现 271 个安全漏洞！
+  - [aibase][] 重磅！小米 18 系列曝光：独立AI按键与“智窗”交互或成最大亮点
+  - [aibase][] Google 发布 Gemini 3.1 Pro 深度研究智能体：高效生成专业数据图表
+  - [aibase][] 阿里巴巴发布生态级AI助手“千问小酒窝”，统一数字人形象全面接入阿里生态
+  - [aibase][] 一季度AI应用月活创新高，豆包、千问、DeepSeek稳居第一梯队
+  - [aibase][] ​佛罗里达州对 OpenAI 及其 ChatGPT 展开刑事调查，因涉及致命枪击案
+  - [aibase][] 纽约州起诉Coinbase与Gemini，指控其涉嫌非法经营预测市场
+
+[2026-04-23 08:00:41] bge_dedup - INPUT: 45条
+============================================================
+  - [huxiu][] Meta扩大AI投入，新建超10亿美元数据中心
+  - [huxiu][] 微软旗下领英任命丹·沙佩罗为新任CEO
+  - [huxiu][] OpenAI面向医生等开放ChatGPT服务
+  - [huxiu][] 马斯克：特斯拉得州新机器人厂预计2027年投产
+  - [huxiu][] Oracle AI Database扩展至全球15个Google Cloud区域
+  - [huxiu][] Infosys将OpenAI技术整合入Topaz Fabric平台
+  - [huxiu][] 法德争夺千亿欧元项目控制权，欧洲新一代战斗机项目陷入危机
+  - [huxiu][] Belo公司遭Claude AI断网，停摆15小时，申诉依靠谷歌表单
+  - [huxiu][] 智界V9给供应商下达年均约12万辆的生产量纲
+  - [huxiu][] 黄仁勋放豪言：我要造全球最低成本AI Token
+  - [huxiu][] 微软2026年OneDrive计划：整合AI与增强语义搜索功能
+  - [infoq][] NVIDIA与Adobe在2026年Adobe Summit上展示Omniverse库支持Firef
+  - [infoq][] Perplexity AI发布新研究，阐述如何通过后训练提升搜索增强答案准确性
+  - [infoq][] OpenAI联合创始人gdb分享Sam Altman被解雇后72小时详细内幕
+  - [infoq][] NVIDIA与Adobe、WPP合作开发品牌营销创意智能体
+  - [infoq][] OpenAI在ChatGPT中引入“工作区智能体”功能
+  - [infoq][] NVIDIA与Adobe CEO同台展示合作，共探代理式AI未来
+  - [infoq][] Google Cloud 发布首批官方智能体技能库
+  - [infoq][] Firebase 在 Google Cloud Next 大会宣布 SQL Connect、Fire
+  - [infoq][] PyTorch基金会执行董事Mark Collier在PyTorchCon Europe 2026发
+  - [infoq][] 红帽与特斯拉工程师合作优化Llama 3.1 70B推理性能
+  - [infoq][] LlamaIndex 开源文档解析器 LiteParse 发布，基于启发式方法解析复杂 PDF
+  - [infoq][] SonicMoE 在 NVIDIA Blackwell GPU 上实现峰值吞吐量运行
+  - [infoq][] NeurIPS 2026 四月通讯发布，公布会议安排与投稿信息
+  - [量子位][] 科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆
+  - [量子位][] 香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖
+  - [量子位][] RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro
+  - [量子位][] 从GPU到Token：AI基础设施竞争逻辑重构
+  - [量子位][] 2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花
+  - [aibase][] 抖音发布AIGC创作新规：严禁未经授权“换脸仿声”，强调真实消费体验
+  - [aibase][] ​抖音发布新规：禁止未经授权使用他人肖像、声音及作品进行 AIGC 创作
+  - [aibase][] DeepSeek API 实现百万 Token 上下文升级
+  - [aibase][] 抖音生活服务发布AIGC创作规范：团购带货视频严禁AI生成实景
+  - [aibase][] 抖音发布生活服务AIGC创作规范:严禁未经授权使用他人肖像及声音
+  - [aibase][] 千问AI PPT重大升级:智能体架构赋能，全流程自动化制作
+  - [aibase][] ​OpenAI 推出 Euphony：一款开源的 Harmony 数据可视化工具
+  - [aibase][] ​Claude Pro 订阅方案调整：部分新用户或失去 Claude Code 使用权
+  - [aibase][] GPT-5.5 意外现身，OpenAI 智能体时代提前降临？
+  - [aibase][] ​火狐 Firefox  150 版本重磅发布，AI 助力发现 271 个安全漏洞！
+  - [aibase][] 重磅！小米 18 系列曝光：独立AI按键与“智窗”交互或成最大亮点
+  - [aibase][] Google 发布 Gemini 3.1 Pro 深度研究智能体：高效生成专业数据图表
+  - [aibase][] 阿里巴巴发布生态级AI助手“千问小酒窝”，统一数字人形象全面接入阿里生态
+  - [aibase][] 一季度AI应用月活创新高，豆包、千问、DeepSeek稳居第一梯队
+  - [aibase][] ​佛罗里达州对 OpenAI 及其 ChatGPT 展开刑事调查，因涉及致命枪击案
+  - [aibase][] 纽约州起诉Coinbase与Gemini，指控其涉嫌非法经营预测市场
+
+[2026-04-23 08:01:16] bge_dedup - OUTPUT: 43条 | 移除2条
+============================================================
+  - [huxiu][] Meta扩大AI投入，新建超10亿美元数据中心
+  - [huxiu][] 微软旗下领英任命丹·沙佩罗为新任CEO
+  - [huxiu][] OpenAI面向医生等开放ChatGPT服务
+  - [huxiu][] 马斯克：特斯拉得州新机器人厂预计2027年投产
+  - [huxiu][] Oracle AI Database扩展至全球15个Google Cloud区域
+  - [huxiu][] Infosys将OpenAI技术整合入Topaz Fabric平台
+  - [huxiu][] 法德争夺千亿欧元项目控制权，欧洲新一代战斗机项目陷入危机
+  - [huxiu][] Belo公司遭Claude AI断网，停摆15小时，申诉依靠谷歌表单
+  - [huxiu][] 智界V9给供应商下达年均约12万辆的生产量纲
+  - [huxiu][] 黄仁勋放豪言：我要造全球最低成本AI Token
+  - [huxiu][] 微软2026年OneDrive计划：整合AI与增强语义搜索功能
+  - [infoq][] NVIDIA与Adobe在2026年Adobe Summit上展示Omniverse库支持Firef
+  - [infoq][] Perplexity AI发布新研究，阐述如何通过后训练提升搜索增强答案准确性
+  - [infoq][] OpenAI联合创始人gdb分享Sam Altman被解雇后72小时详细内幕
+  - [infoq][] NVIDIA与Adobe、WPP合作开发品牌营销创意智能体
+  - [infoq][] OpenAI在ChatGPT中引入“工作区智能体”功能
+  - [infoq][] NVIDIA与Adobe CEO同台展示合作，共探代理式AI未来
+  - [infoq][] Google Cloud 发布首批官方智能体技能库
+  - [infoq][] Firebase 在 Google Cloud Next 大会宣布 SQL Connect、Fire
+  - [infoq][] PyTorch基金会执行董事Mark Collier在PyTorchCon Europe 2026发
+  - [infoq][] 红帽与特斯拉工程师合作优化Llama 3.1 70B推理性能
+  - [infoq][] LlamaIndex 开源文档解析器 LiteParse 发布，基于启发式方法解析复杂 PDF
+  - [infoq][] SonicMoE 在 NVIDIA Blackwell GPU 上实现峰值吞吐量运行
+  - [infoq][] NeurIPS 2026 四月通讯发布，公布会议安排与投稿信息
+  - [量子位][] 科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆
+  - [量子位][] 香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖
+  - [量子位][] RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro
+  - [量子位][] 从GPU到Token：AI基础设施竞争逻辑重构
+  - [量子位][] 2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花
+  - [aibase][] 抖音发布AIGC创作新规：严禁未经授权“换脸仿声”，强调真实消费体验
+  - [aibase][] DeepSeek API 实现百万 Token 上下文升级
+  - [aibase][] 抖音生活服务发布AIGC创作规范：团购带货视频严禁AI生成实景
+  - [aibase][] 千问AI PPT重大升级:智能体架构赋能，全流程自动化制作
+  - [aibase][] ​OpenAI 推出 Euphony：一款开源的 Harmony 数据可视化工具
+  - [aibase][] ​Claude Pro 订阅方案调整：部分新用户或失去 Claude Code 使用权
+  - [aibase][] GPT-5.5 意外现身，OpenAI 智能体时代提前降临？
+  - [aibase][] ​火狐 Firefox  150 版本重磅发布，AI 助力发现 271 个安全漏洞！
+  - [aibase][] 重磅！小米 18 系列曝光：独立AI按键与“智窗”交互或成最大亮点
+  - [aibase][] Google 发布 Gemini 3.1 Pro 深度研究智能体：高效生成专业数据图表
+  - [aibase][] 阿里巴巴发布生态级AI助手“千问小酒窝”，统一数字人形象全面接入阿里生态
+  - [aibase][] 一季度AI应用月活创新高，豆包、千问、DeepSeek稳居第一梯队
+  - [aibase][] ​佛罗里达州对 OpenAI 及其 ChatGPT 展开刑事调查，因涉及致命枪击案
+  - [aibase][] 纽约州起诉Coinbase与Gemini，指控其涉嫌非法经营预测市场
+
+[2026-04-23 08:01:16] llm_classify - INPUT: 43条
+============================================================
+  - [huxiu][] Meta扩大AI投入，新建超10亿美元数据中心
+  - [huxiu][] 微软旗下领英任命丹·沙佩罗为新任CEO
+  - [huxiu][] OpenAI面向医生等开放ChatGPT服务
+  - [huxiu][] 马斯克：特斯拉得州新机器人厂预计2027年投产
+  - [huxiu][] Oracle AI Database扩展至全球15个Google Cloud区域
+  - [huxiu][] Infosys将OpenAI技术整合入Topaz Fabric平台
+  - [huxiu][] 法德争夺千亿欧元项目控制权，欧洲新一代战斗机项目陷入危机
+  - [huxiu][] Belo公司遭Claude AI断网，停摆15小时，申诉依靠谷歌表单
+  - [huxiu][] 智界V9给供应商下达年均约12万辆的生产量纲
+  - [huxiu][] 黄仁勋放豪言：我要造全球最低成本AI Token
+  - [huxiu][] 微软2026年OneDrive计划：整合AI与增强语义搜索功能
+  - [infoq][] NVIDIA与Adobe在2026年Adobe Summit上展示Omniverse库支持Firef
+  - [infoq][] Perplexity AI发布新研究，阐述如何通过后训练提升搜索增强答案准确性
+  - [infoq][] OpenAI联合创始人gdb分享Sam Altman被解雇后72小时详细内幕
+  - [infoq][] NVIDIA与Adobe、WPP合作开发品牌营销创意智能体
+  - [infoq][] OpenAI在ChatGPT中引入“工作区智能体”功能
+  - [infoq][] NVIDIA与Adobe CEO同台展示合作，共探代理式AI未来
+  - [infoq][] Google Cloud 发布首批官方智能体技能库
+  - [infoq][] Firebase 在 Google Cloud Next 大会宣布 SQL Connect、Fire
+  - [infoq][] PyTorch基金会执行董事Mark Collier在PyTorchCon Europe 2026发
+  - [infoq][] 红帽与特斯拉工程师合作优化Llama 3.1 70B推理性能
+  - [infoq][] LlamaIndex 开源文档解析器 LiteParse 发布，基于启发式方法解析复杂 PDF
+  - [infoq][] SonicMoE 在 NVIDIA Blackwell GPU 上实现峰值吞吐量运行
+  - [infoq][] NeurIPS 2026 四月通讯发布，公布会议安排与投稿信息
+  - [量子位][] 科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆
+  - [量子位][] 香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖
+  - [量子位][] RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro
+  - [量子位][] 从GPU到Token：AI基础设施竞争逻辑重构
+  - [量子位][] 2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花
+  - [aibase][] 抖音发布AIGC创作新规：严禁未经授权“换脸仿声”，强调真实消费体验
+  - [aibase][] DeepSeek API 实现百万 Token 上下文升级
+  - [aibase][] 抖音生活服务发布AIGC创作规范：团购带货视频严禁AI生成实景
+  - [aibase][] 千问AI PPT重大升级:智能体架构赋能，全流程自动化制作
+  - [aibase][] ​OpenAI 推出 Euphony：一款开源的 Harmony 数据可视化工具
+  - [aibase][] ​Claude Pro 订阅方案调整：部分新用户或失去 Claude Code 使用权
+  - [aibase][] GPT-5.5 意外现身，OpenAI 智能体时代提前降临？
+  - [aibase][] ​火狐 Firefox  150 版本重磅发布，AI 助力发现 271 个安全漏洞！
+  - [aibase][] 重磅！小米 18 系列曝光：独立AI按键与“智窗”交互或成最大亮点
+  - [aibase][] Google 发布 Gemini 3.1 Pro 深度研究智能体：高效生成专业数据图表
+  - [aibase][] 阿里巴巴发布生态级AI助手“千问小酒窝”，统一数字人形象全面接入阿里生态
+  - [aibase][] 一季度AI应用月活创新高，豆包、千问、DeepSeek稳居第一梯队
+  - [aibase][] ​佛罗里达州对 OpenAI 及其 ChatGPT 展开刑事调查，因涉及致命枪击案
+  - [aibase][] 纽约州起诉Coinbase与Gemini，指控其涉嫌非法经营预测市场
+
+[2026-04-23 08:01:36] llm_classify - OUTPUT: 35条 | 保留35条
+============================================================
+  - [huxiu][国外AI资讯] Meta扩大AI投入，新建超10亿美元数据中心
+  - [huxiu][国外AI资讯] OpenAI面向医生等开放ChatGPT服务
+  - [huxiu][智能硬件] 马斯克：特斯拉得州新机器人厂预计2027年投产
+  - [huxiu][国外AI资讯] Oracle AI Database扩展至全球15个Google Cloud区域
+  - [huxiu][国外AI资讯] Infosys将OpenAI技术整合入Topaz Fabric平台
+  - [huxiu][国外AI资讯] Belo公司遭Claude AI断网，停摆15小时，申诉依靠谷歌表单
+  - [huxiu][国内AI资讯] 智界V9给供应商下达年均约12万辆的生产量纲
+  - [huxiu][国外AI资讯] 黄仁勋放豪言：我要造全球最低成本AI Token
+  - [huxiu][国外AI资讯] 微软2026年OneDrive计划：整合AI与增强语义搜索功能
+  - [infoq][国外AI资讯] NVIDIA与Adobe在2026年Adobe Summit上展示Omniverse库支持Firef
+  - [infoq][国外AI资讯] Perplexity AI发布新研究，阐述如何通过后训练提升搜索增强答案准确性
+  - [infoq][国外AI资讯] OpenAI联合创始人gdb分享Sam Altman被解雇后72小时详细内幕
+  - [infoq][国外AI资讯] NVIDIA与Adobe、WPP合作开发品牌营销创意智能体
+  - [infoq][国外AI资讯] OpenAI在ChatGPT中引入“工作区智能体”功能
+  - [infoq][国外AI资讯] NVIDIA与Adobe CEO同台展示合作，共探代理式AI未来
+  - [infoq][国外AI资讯] Google Cloud 发布首批官方智能体技能库
+  - [infoq][国外AI资讯] Firebase 在 Google Cloud Next 大会宣布 SQL Connect、Fire
+  - [infoq][国外AI资讯] 红帽与特斯拉工程师合作优化Llama 3.1 70B推理性能
+  - [infoq][国外AI资讯] LlamaIndex 开源文档解析器 LiteParse 发布，基于启发式方法解析复杂 PDF
+  - [infoq][国外AI资讯] SonicMoE 在 NVIDIA Blackwell GPU 上实现峰值吞吐量运行
+  - [量子位][国内AI资讯] 科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆
+  - [量子位][智能硬件] RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro
+  - [量子位][其它科技资讯] 从GPU到Token：AI基础设施竞争逻辑重构
+  - [aibase][国内AI资讯] 抖音发布AIGC创作新规：严禁未经授权“换脸仿声”，强调真实消费体验
+  - [aibase][国外AI资讯] DeepSeek API 实现百万 Token 上下文升级
+  - [aibase][国内AI资讯] 抖音生活服务发布AIGC创作规范：团购带货视频严禁AI生成实景
+  - [aibase][国内AI资讯] 千问AI PPT重大升级:智能体架构赋能，全流程自动化制作
+  - [aibase][国外AI资讯] ​OpenAI 推出 Euphony：一款开源的 Harmony 数据可视化工具
+  - [aibase][国外AI资讯] ​Claude Pro 订阅方案调整：部分新用户或失去 Claude Code 使用权
+  - [aibase][国外AI资讯] GPT-5.5 意外现身，OpenAI 智能体时代提前降临？
+  - [aibase][其它科技资讯] ​火狐 Firefox  150 版本重磅发布，AI 助力发现 271 个安全漏洞！
+  - [aibase][智能硬件] 重磅！小米 18 系列曝光：独立AI按键与“智窗”交互或成最大亮点
+  - [aibase][国外AI资讯] Google 发布 Gemini 3.1 Pro 深度研究智能体：高效生成专业数据图表
+  - [aibase][国内AI资讯] 阿里巴巴发布生态级AI助手“千问小酒窝”，统一数字人形象全面接入阿里生态
+  - [aibase][国内AI资讯] 一季度AI应用月活创新高，豆包、千问、DeepSeek稳居第一梯队
+
+[2026-04-23 08:01:37] llm_summary - INPUT: 35条
+============================================================
+  - [huxiu][国外AI资讯] Meta扩大AI投入，新建超10亿美元数据中心
+  - [huxiu][国外AI资讯] OpenAI面向医生等开放ChatGPT服务
+  - [huxiu][智能硬件] 马斯克：特斯拉得州新机器人厂预计2027年投产
+  - [huxiu][国外AI资讯] Oracle AI Database扩展至全球15个Google Cloud区域
+  - [huxiu][国外AI资讯] Infosys将OpenAI技术整合入Topaz Fabric平台
+  - [huxiu][国外AI资讯] Belo公司遭Claude AI断网，停摆15小时，申诉依靠谷歌表单
+  - [huxiu][国内AI资讯] 智界V9给供应商下达年均约12万辆的生产量纲
+  - [huxiu][国外AI资讯] 黄仁勋放豪言：我要造全球最低成本AI Token
+  - [huxiu][国外AI资讯] 微软2026年OneDrive计划：整合AI与增强语义搜索功能
+  - [infoq][国外AI资讯] NVIDIA与Adobe在2026年Adobe Summit上展示Omniverse库支持Firef
+  - [infoq][国外AI资讯] Perplexity AI发布新研究，阐述如何通过后训练提升搜索增强答案准确性
+  - [infoq][国外AI资讯] OpenAI联合创始人gdb分享Sam Altman被解雇后72小时详细内幕
+  - [infoq][国外AI资讯] NVIDIA与Adobe、WPP合作开发品牌营销创意智能体
+  - [infoq][国外AI资讯] OpenAI在ChatGPT中引入“工作区智能体”功能
+  - [infoq][国外AI资讯] NVIDIA与Adobe CEO同台展示合作，共探代理式AI未来
+  - [infoq][国外AI资讯] Google Cloud 发布首批官方智能体技能库
+  - [infoq][国外AI资讯] Firebase 在 Google Cloud Next 大会宣布 SQL Connect、Fire
+  - [infoq][国外AI资讯] 红帽与特斯拉工程师合作优化Llama 3.1 70B推理性能
+  - [infoq][国外AI资讯] LlamaIndex 开源文档解析器 LiteParse 发布，基于启发式方法解析复杂 PDF
+  - [infoq][国外AI资讯] SonicMoE 在 NVIDIA Blackwell GPU 上实现峰值吞吐量运行
+  - [量子位][国内AI资讯] 科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆
+  - [量子位][智能硬件] RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro
+  - [量子位][其它科技资讯] 从GPU到Token：AI基础设施竞争逻辑重构
+  - [aibase][国内AI资讯] 抖音发布AIGC创作新规：严禁未经授权“换脸仿声”，强调真实消费体验
+  - [aibase][国外AI资讯] DeepSeek API 实现百万 Token 上下文升级
+  - [aibase][国内AI资讯] 抖音生活服务发布AIGC创作规范：团购带货视频严禁AI生成实景
+  - [aibase][国内AI资讯] 千问AI PPT重大升级:智能体架构赋能，全流程自动化制作
+  - [aibase][国外AI资讯] ​OpenAI 推出 Euphony：一款开源的 Harmony 数据可视化工具
+  - [aibase][国外AI资讯] ​Claude Pro 订阅方案调整：部分新用户或失去 Claude Code 使用权
+  - [aibase][国外AI资讯] GPT-5.5 意外现身，OpenAI 智能体时代提前降临？
+  - [aibase][其它科技资讯] ​火狐 Firefox  150 版本重磅发布，AI 助力发现 271 个安全漏洞！
+  - [aibase][智能硬件] 重磅！小米 18 系列曝光：独立AI按键与“智窗”交互或成最大亮点
+  - [aibase][国外AI资讯] Google 发布 Gemini 3.1 Pro 深度研究智能体：高效生成专业数据图表
+  - [aibase][国内AI资讯] 阿里巴巴发布生态级AI助手“千问小酒窝”，统一数字人形象全面接入阿里生态
+  - [aibase][国内AI资讯] 一季度AI应用月活创新高，豆包、千问、DeepSeek稳居第一梯队
+
+[2026-04-23 08:02:34] llm_summary - OUTPUT: 35条 | 成功35条
+============================================================
+  - [huxiu][国外AI资讯] Meta扩大AI投入，新建超10亿美元数据中心
+  - [huxiu][国外AI资讯] OpenAI面向医生等开放ChatGPT服务
+  - [huxiu][智能硬件] 马斯克：特斯拉得州新机器人厂预计2027年投产
+  - [huxiu][国外AI资讯] Oracle AI Database扩展至全球15个Google Cloud区域
+  - [huxiu][国外AI资讯] Infosys将OpenAI技术整合入Topaz Fabric平台
+  - [huxiu][国外AI资讯] Belo公司遭Claude AI断网，停摆15小时，申诉依靠谷歌表单
+  - [huxiu][国内AI资讯] 智界V9给供应商下达年均约12万辆的生产量纲
+  - [huxiu][国外AI资讯] 黄仁勋放豪言：我要造全球最低成本AI Token
+  - [huxiu][国外AI资讯] 微软2026年OneDrive计划：整合AI与增强语义搜索功能
+  - [infoq][国外AI资讯] NVIDIA与Adobe在2026年Adobe Summit上展示Omniverse库支持Firef
+  - [infoq][国外AI资讯] Perplexity AI发布新研究，阐述如何通过后训练提升搜索增强答案准确性
+  - [infoq][国外AI资讯] OpenAI联合创始人gdb分享Sam Altman被解雇后72小时详细内幕
+  - [infoq][国外AI资讯] NVIDIA与Adobe、WPP合作开发品牌营销创意智能体
+  - [infoq][国外AI资讯] OpenAI在ChatGPT中引入“工作区智能体”功能
+  - [infoq][国外AI资讯] NVIDIA与Adobe CEO同台展示合作，共探代理式AI未来
+  - [infoq][国外AI资讯] Google Cloud 发布首批官方智能体技能库
+  - [infoq][国外AI资讯] Firebase 在 Google Cloud Next 大会宣布 SQL Connect、Fire
+  - [infoq][国外AI资讯] 红帽与特斯拉工程师合作优化Llama 3.1 70B推理性能
+  - [infoq][国外AI资讯] LlamaIndex 开源文档解析器 LiteParse 发布，基于启发式方法解析复杂 PDF
+  - [infoq][国外AI资讯] SonicMoE 在 NVIDIA Blackwell GPU 上实现峰值吞吐量运行
+  - [量子位][国内AI资讯] 科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆
+  - [量子位][智能硬件] RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro
+  - [量子位][其它科技资讯] 从GPU到Token：AI基础设施竞争逻辑重构
+  - [aibase][国内AI资讯] 抖音发布AIGC创作新规：严禁未经授权“换脸仿声”，强调真实消费体验
+  - [aibase][国外AI资讯] DeepSeek API 实现百万 Token 上下文升级
+  - [aibase][国内AI资讯] 抖音生活服务发布AIGC创作规范：团购带货视频严禁AI生成实景
+  - [aibase][国内AI资讯] 千问AI PPT重大升级:智能体架构赋能，全流程自动化制作
+  - [aibase][国外AI资讯] ​OpenAI 推出 Euphony：一款开源的 Harmony 数据可视化工具
+  - [aibase][国外AI资讯] ​Claude Pro 订阅方案调整：部分新用户或失去 Claude Code 使用权
+  - [aibase][国外AI资讯] GPT-5.5 意外现身，OpenAI 智能体时代提前降临？
+  - [aibase][其它科技资讯] ​火狐 Firefox  150 版本重磅发布，AI 助力发现 271 个安全漏洞！
+  - [aibase][智能硬件] 重磅！小米 18 系列曝光：独立AI按键与“智窗”交互或成最大亮点
+  - [aibase][国外AI资讯] Google 发布 Gemini 3.1 Pro 深度研究智能体：高效生成专业数据图表
+  - [aibase][国内AI资讯] 阿里巴巴发布生态级AI助手“千问小酒窝”，统一数字人形象全面接入阿里生态
+  - [aibase][国内AI资讯] 一季度AI应用月活创新高，豆包、千问、DeepSeek稳居第一梯队
+
+[2026-04-23 08:11:18] keyword_filter - INPUT: 63条
+============================================================
+  - [huxiu][] Meta扩大AI投入，新建超10亿美元数据中心
+  - [huxiu][] 微软旗下领英任命丹·沙佩罗为新任CEO
+  - [huxiu][] OpenAI面向医生等开放ChatGPT服务
+  - [huxiu][] 马斯克：特斯拉得州新机器人厂预计2027年投产
+  - [huxiu][] Vast Data在F轮融资中筹集10亿美元，估值达300亿美元
+  - [huxiu][] FTC批准OpenAI收购Astral Software
+  - [huxiu][] Oracle AI Database扩展至全球15个Google Cloud区域
+  - [huxiu][] 腾讯与阿里巴巴计划以超200亿估值投资DeepSeek
+  - [huxiu][] Infosys将OpenAI技术整合入Topaz Fabric平台
+  - [huxiu][] 法德争夺千亿欧元项目控制权，欧洲新一代战斗机项目陷入危机
+  - [huxiu][] 孙宇晨起诉特朗普关联加密公司，称损失数亿美元
+  - [huxiu][] Belo公司遭Claude AI断网，停摆15小时，申诉依靠谷歌表单
+  - [huxiu][] OpenAI正洽谈向一家私募股权合资企业注资高达15亿美元
+  - [huxiu][] SK海力士投19万亿韩元建新芯片厂，四月开工
+  - [huxiu][] 汇丰或将寻求以至多20亿美元的价格出售汇丰人寿新加坡公司
+  - [huxiu][] 智界V9给供应商下达年均约12万辆的生产量纲
+  - [huxiu][] 奕行智能完成15亿元B轮融资，加速RISC-V AI芯片平台落地
+  - [huxiu][] SpaceX获600亿美元收购AI编程公司权利，为最大IPO铺路
+  - [infoq][] Google Cloud Tech 预告明日开发者主题演讲后将进行技术深度探讨
+  - [infoq][] NVIDIA与Adobe在2026年Adobe Summit上展示Omniverse库支持Firef
+  - [infoq][] 波士顿动力转发现代汽车集团全球AI与机器人技术人才招聘信息
+  - [infoq][] Perplexity AI发布新研究，阐述如何通过后训练提升搜索增强答案准确性
+  - [infoq][] OpenAI联合创始人gdb分享Sam Altman被解雇后72小时详细内幕
+  - [infoq][] NVIDIA与Adobe、WPP合作开发品牌营销创意智能体
+  - [infoq][] OpenAI在ChatGPT中引入“工作区智能体”功能
+  - [infoq][] NVIDIA与Adobe CEO同台展示合作，共探代理式AI未来
+  - [infoq][] StanfordHAI主任警示美国或未对世界模型发展做好准备
+  - [infoq][] Google Research 宣布其基础研究已转化为工具，为 Google Earth AI 提供
+  - [infoq][] 斯坦福HAI报告：AI在科研中参与度快速提升，正从辅助工具迈向科学发现
+  - [infoq][] 亚马逊科学邀请与会者参与ICLR 2026期间的研究交流活动
+  - [infoq][] Google Cloud 发布首批官方智能体技能库
+  - [infoq][] Firebase 在 Google Cloud Next 大会宣布 SQL Connect、Fire
+  - [infoq][] PyTorch基金会执行董事Mark Collier在PyTorchCon Europe 2026发
+  - [infoq][] PyTorch Con EU 演讲录像上线，预告上海与圣何塞大会
+  - [infoq][] 红帽与特斯拉工程师合作优化Llama 3.1 70B推理性能
+  - [infoq][] LlamaIndex 开源文档解析器 LiteParse 发布，基于启发式方法解析复杂 PDF
+  - [infoq][] Google Research 宣布其基础研究已转化为 Google Earth AI 的可操作工具
+  - [infoq][] SonicMoE 在 NVIDIA Blackwell GPU 上实现峰值吞吐量运行
+  - [量子位][] 科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆
+  - [量子位][] 香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖
+  - [量子位][] RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro
+  - [量子位][] 从GPU到Token：AI基础设施竞争逻辑重构
+  - [量子位][] 2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花
+  - [aibase][] 抖音发布AIGC创作新规：严禁未经授权“换脸仿声”，强调真实消费体验
+  - [aibase][] ​抖音发布新规：禁止未经授权使用他人肖像、声音及作品进行 AIGC 创作
+  - [aibase][] DeepSeek API 实现百万 Token 上下文升级
+  - [aibase][] OpenAI豪掷 15 亿美元布局B端：新合资公司“DeployCo”浮出水面
+  - [aibase][] 抖音生活服务发布AIGC创作规范：团购带货视频严禁AI生成实景
+  - [aibase][] 抖音发布生活服务AIGC创作规范:严禁未经授权使用他人肖像及声音
+  - [aibase][] 千问AI PPT重大升级:智能体架构赋能，全流程自动化制作
+  - [aibase][] ​OpenAI 推出 Euphony：一款开源的 Harmony 数据可视化工具
+  - [aibase][] 首次全年扭亏为盈后，寒武纪正面回应大厂竞争:通用芯片具备更强“技术普适性”
+  - [aibase][] ​Claude Pro 订阅方案调整：部分新用户或失去 Claude Code 使用权
+  - [aibase][] GPT-5.5 意外现身，OpenAI 智能体时代提前降临？
+  - [aibase][] ​火狐 Firefox  150 版本重磅发布，AI 助力发现 271 个安全漏洞！
+  - [aibase][] 重磅！小米 18 系列曝光：独立AI按键与“智窗”交互或成最大亮点
+  - [aibase][] Google 发布 Gemini 3.1 Pro 深度研究智能体：高效生成专业数据图表
+  - [aibase][] 教育大模型新锐“级数AI”获数千万融资，软硬一体化布局开启
+  - [aibase][] OpenAI 拟注资15亿美元成立合资公司 DeployCo，联手私募巨头加速企业级市场渗透
+  - [aibase][] 阿里巴巴发布生态级AI助手“千问小酒窝”，统一数字人形象全面接入阿里生态
+  - [aibase][] 一季度AI应用月活创新高，豆包、千问、DeepSeek稳居第一梯队
+  - [aibase][] ​佛罗里达州对 OpenAI 及其 ChatGPT 展开刑事调查，因涉及致命枪击案
+  - [aibase][] 纽约州起诉Coinbase与Gemini，指控其涉嫌非法经营预测市场
+
+[2026-04-23 08:11:18] keyword_filter - OUTPUT: 42条 | 移除21条
+============================================================
+  - [huxiu][] Meta扩大AI投入，新建超10亿美元数据中心
+  - [huxiu][] 微软旗下领英任命丹·沙佩罗为新任CEO
+  - [huxiu][] OpenAI面向医生等开放ChatGPT服务
+  - [huxiu][] 马斯克：特斯拉得州新机器人厂预计2027年投产
+  - [huxiu][] Oracle AI Database扩展至全球15个Google Cloud区域
+  - [huxiu][] Infosys将OpenAI技术整合入Topaz Fabric平台
+  - [huxiu][] 法德争夺千亿欧元项目控制权，欧洲新一代战斗机项目陷入危机
+  - [huxiu][] Belo公司遭Claude AI断网，停摆15小时，申诉依靠谷歌表单
+  - [huxiu][] 智界V9给供应商下达年均约12万辆的生产量纲
+  - [infoq][] NVIDIA与Adobe在2026年Adobe Summit上展示Omniverse库支持Firef
+  - [infoq][] Perplexity AI发布新研究，阐述如何通过后训练提升搜索增强答案准确性
+  - [infoq][] OpenAI联合创始人gdb分享Sam Altman被解雇后72小时详细内幕
+  - [infoq][] NVIDIA与Adobe、WPP合作开发品牌营销创意智能体
+  - [infoq][] OpenAI在ChatGPT中引入“工作区智能体”功能
+  - [infoq][] NVIDIA与Adobe CEO同台展示合作，共探代理式AI未来
+  - [infoq][] Google Cloud 发布首批官方智能体技能库
+  - [infoq][] Firebase 在 Google Cloud Next 大会宣布 SQL Connect、Fire
+  - [infoq][] PyTorch基金会执行董事Mark Collier在PyTorchCon Europe 2026发
+  - [infoq][] 红帽与特斯拉工程师合作优化Llama 3.1 70B推理性能
+  - [infoq][] LlamaIndex 开源文档解析器 LiteParse 发布，基于启发式方法解析复杂 PDF
+  - [infoq][] SonicMoE 在 NVIDIA Blackwell GPU 上实现峰值吞吐量运行
+  - [量子位][] 科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆
+  - [量子位][] 香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖
+  - [量子位][] RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro
+  - [量子位][] 从GPU到Token：AI基础设施竞争逻辑重构
+  - [量子位][] 2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花
+  - [aibase][] 抖音发布AIGC创作新规：严禁未经授权“换脸仿声”，强调真实消费体验
+  - [aibase][] ​抖音发布新规：禁止未经授权使用他人肖像、声音及作品进行 AIGC 创作
+  - [aibase][] DeepSeek API 实现百万 Token 上下文升级
+  - [aibase][] 抖音生活服务发布AIGC创作规范：团购带货视频严禁AI生成实景
+  - [aibase][] 抖音发布生活服务AIGC创作规范:严禁未经授权使用他人肖像及声音
+  - [aibase][] 千问AI PPT重大升级:智能体架构赋能，全流程自动化制作
+  - [aibase][] ​OpenAI 推出 Euphony：一款开源的 Harmony 数据可视化工具
+  - [aibase][] ​Claude Pro 订阅方案调整：部分新用户或失去 Claude Code 使用权
+  - [aibase][] GPT-5.5 意外现身，OpenAI 智能体时代提前降临？
+  - [aibase][] ​火狐 Firefox  150 版本重磅发布，AI 助力发现 271 个安全漏洞！
+  - [aibase][] 重磅！小米 18 系列曝光：独立AI按键与“智窗”交互或成最大亮点
+  - [aibase][] Google 发布 Gemini 3.1 Pro 深度研究智能体：高效生成专业数据图表
+  - [aibase][] 阿里巴巴发布生态级AI助手“千问小酒窝”，统一数字人形象全面接入阿里生态
+  - [aibase][] 一季度AI应用月活创新高，豆包、千问、DeepSeek稳居第一梯队
+  - [aibase][] ​佛罗里达州对 OpenAI 及其 ChatGPT 展开刑事调查，因涉及致命枪击案
+  - [aibase][] 纽约州起诉Coinbase与Gemini，指控其涉嫌非法经营预测市场
+
+[2026-04-23 08:11:18] bge_dedup - INPUT: 42条
+============================================================
+  - [huxiu][] Meta扩大AI投入，新建超10亿美元数据中心
+  - [huxiu][] 微软旗下领英任命丹·沙佩罗为新任CEO
+  - [huxiu][] OpenAI面向医生等开放ChatGPT服务
+  - [huxiu][] 马斯克：特斯拉得州新机器人厂预计2027年投产
+  - [huxiu][] Oracle AI Database扩展至全球15个Google Cloud区域
+  - [huxiu][] Infosys将OpenAI技术整合入Topaz Fabric平台
+  - [huxiu][] 法德争夺千亿欧元项目控制权，欧洲新一代战斗机项目陷入危机
+  - [huxiu][] Belo公司遭Claude AI断网，停摆15小时，申诉依靠谷歌表单
+  - [huxiu][] 智界V9给供应商下达年均约12万辆的生产量纲
+  - [infoq][] NVIDIA与Adobe在2026年Adobe Summit上展示Omniverse库支持Firef
+  - [infoq][] Perplexity AI发布新研究，阐述如何通过后训练提升搜索增强答案准确性
+  - [infoq][] OpenAI联合创始人gdb分享Sam Altman被解雇后72小时详细内幕
+  - [infoq][] NVIDIA与Adobe、WPP合作开发品牌营销创意智能体
+  - [infoq][] OpenAI在ChatGPT中引入“工作区智能体”功能
+  - [infoq][] NVIDIA与Adobe CEO同台展示合作，共探代理式AI未来
+  - [infoq][] Google Cloud 发布首批官方智能体技能库
+  - [infoq][] Firebase 在 Google Cloud Next 大会宣布 SQL Connect、Fire
+  - [infoq][] PyTorch基金会执行董事Mark Collier在PyTorchCon Europe 2026发
+  - [infoq][] 红帽与特斯拉工程师合作优化Llama 3.1 70B推理性能
+  - [infoq][] LlamaIndex 开源文档解析器 LiteParse 发布，基于启发式方法解析复杂 PDF
+  - [infoq][] SonicMoE 在 NVIDIA Blackwell GPU 上实现峰值吞吐量运行
+  - [量子位][] 科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆
+  - [量子位][] 香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖
+  - [量子位][] RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro
+  - [量子位][] 从GPU到Token：AI基础设施竞争逻辑重构
+  - [量子位][] 2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花
+  - [aibase][] 抖音发布AIGC创作新规：严禁未经授权“换脸仿声”，强调真实消费体验
+  - [aibase][] ​抖音发布新规：禁止未经授权使用他人肖像、声音及作品进行 AIGC 创作
+  - [aibase][] DeepSeek API 实现百万 Token 上下文升级
+  - [aibase][] 抖音生活服务发布AIGC创作规范：团购带货视频严禁AI生成实景
+  - [aibase][] 抖音发布生活服务AIGC创作规范:严禁未经授权使用他人肖像及声音
+  - [aibase][] 千问AI PPT重大升级:智能体架构赋能，全流程自动化制作
+  - [aibase][] ​OpenAI 推出 Euphony：一款开源的 Harmony 数据可视化工具
+  - [aibase][] ​Claude Pro 订阅方案调整：部分新用户或失去 Claude Code 使用权
+  - [aibase][] GPT-5.5 意外现身，OpenAI 智能体时代提前降临？
+  - [aibase][] ​火狐 Firefox  150 版本重磅发布，AI 助力发现 271 个安全漏洞！
+  - [aibase][] 重磅！小米 18 系列曝光：独立AI按键与“智窗”交互或成最大亮点
+  - [aibase][] Google 发布 Gemini 3.1 Pro 深度研究智能体：高效生成专业数据图表
+  - [aibase][] 阿里巴巴发布生态级AI助手“千问小酒窝”，统一数字人形象全面接入阿里生态
+  - [aibase][] 一季度AI应用月活创新高，豆包、千问、DeepSeek稳居第一梯队
+  - [aibase][] ​佛罗里达州对 OpenAI 及其 ChatGPT 展开刑事调查，因涉及致命枪击案
+  - [aibase][] 纽约州起诉Coinbase与Gemini，指控其涉嫌非法经营预测市场
+
+[2026-04-23 08:11:33] bge_dedup - OUTPUT: 40条 | 移除2条
+============================================================
+  - [huxiu][] Meta扩大AI投入，新建超10亿美元数据中心
+  - [huxiu][] 微软旗下领英任命丹·沙佩罗为新任CEO
+  - [huxiu][] OpenAI面向医生等开放ChatGPT服务
+  - [huxiu][] 马斯克：特斯拉得州新机器人厂预计2027年投产
+  - [huxiu][] Oracle AI Database扩展至全球15个Google Cloud区域
+  - [huxiu][] Infosys将OpenAI技术整合入Topaz Fabric平台
+  - [huxiu][] 法德争夺千亿欧元项目控制权，欧洲新一代战斗机项目陷入危机
+  - [huxiu][] Belo公司遭Claude AI断网，停摆15小时，申诉依靠谷歌表单
+  - [huxiu][] 智界V9给供应商下达年均约12万辆的生产量纲
+  - [infoq][] NVIDIA与Adobe在2026年Adobe Summit上展示Omniverse库支持Firef
+  - [infoq][] Perplexity AI发布新研究，阐述如何通过后训练提升搜索增强答案准确性
+  - [infoq][] OpenAI联合创始人gdb分享Sam Altman被解雇后72小时详细内幕
+  - [infoq][] NVIDIA与Adobe、WPP合作开发品牌营销创意智能体
+  - [infoq][] OpenAI在ChatGPT中引入“工作区智能体”功能
+  - [infoq][] NVIDIA与Adobe CEO同台展示合作，共探代理式AI未来
+  - [infoq][] Google Cloud 发布首批官方智能体技能库
+  - [infoq][] Firebase 在 Google Cloud Next 大会宣布 SQL Connect、Fire
+  - [infoq][] PyTorch基金会执行董事Mark Collier在PyTorchCon Europe 2026发
+  - [infoq][] 红帽与特斯拉工程师合作优化Llama 3.1 70B推理性能
+  - [infoq][] LlamaIndex 开源文档解析器 LiteParse 发布，基于启发式方法解析复杂 PDF
+  - [infoq][] SonicMoE 在 NVIDIA Blackwell GPU 上实现峰值吞吐量运行
+  - [量子位][] 科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆
+  - [量子位][] 香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖
+  - [量子位][] RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro
+  - [量子位][] 从GPU到Token：AI基础设施竞争逻辑重构
+  - [量子位][] 2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花
+  - [aibase][] 抖音发布AIGC创作新规：严禁未经授权“换脸仿声”，强调真实消费体验
+  - [aibase][] DeepSeek API 实现百万 Token 上下文升级
+  - [aibase][] 抖音生活服务发布AIGC创作规范：团购带货视频严禁AI生成实景
+  - [aibase][] 千问AI PPT重大升级:智能体架构赋能，全流程自动化制作
+  - [aibase][] ​OpenAI 推出 Euphony：一款开源的 Harmony 数据可视化工具
+  - [aibase][] ​Claude Pro 订阅方案调整：部分新用户或失去 Claude Code 使用权
+  - [aibase][] GPT-5.5 意外现身，OpenAI 智能体时代提前降临？
+  - [aibase][] ​火狐 Firefox  150 版本重磅发布，AI 助力发现 271 个安全漏洞！
+  - [aibase][] 重磅！小米 18 系列曝光：独立AI按键与“智窗”交互或成最大亮点
+  - [aibase][] Google 发布 Gemini 3.1 Pro 深度研究智能体：高效生成专业数据图表
+  - [aibase][] 阿里巴巴发布生态级AI助手“千问小酒窝”，统一数字人形象全面接入阿里生态
+  - [aibase][] 一季度AI应用月活创新高，豆包、千问、DeepSeek稳居第一梯队
+  - [aibase][] ​佛罗里达州对 OpenAI 及其 ChatGPT 展开刑事调查，因涉及致命枪击案
+  - [aibase][] 纽约州起诉Coinbase与Gemini，指控其涉嫌非法经营预测市场
+
+[2026-04-23 08:11:33] llm_classify - INPUT: 40条
+============================================================
+  - [huxiu][] Meta扩大AI投入，新建超10亿美元数据中心
+  - [huxiu][] 微软旗下领英任命丹·沙佩罗为新任CEO
+  - [huxiu][] OpenAI面向医生等开放ChatGPT服务
+  - [huxiu][] 马斯克：特斯拉得州新机器人厂预计2027年投产
+  - [huxiu][] Oracle AI Database扩展至全球15个Google Cloud区域
+  - [huxiu][] Infosys将OpenAI技术整合入Topaz Fabric平台
+  - [huxiu][] 法德争夺千亿欧元项目控制权，欧洲新一代战斗机项目陷入危机
+  - [huxiu][] Belo公司遭Claude AI断网，停摆15小时，申诉依靠谷歌表单
+  - [huxiu][] 智界V9给供应商下达年均约12万辆的生产量纲
+  - [infoq][] NVIDIA与Adobe在2026年Adobe Summit上展示Omniverse库支持Firef
+  - [infoq][] Perplexity AI发布新研究，阐述如何通过后训练提升搜索增强答案准确性
+  - [infoq][] OpenAI联合创始人gdb分享Sam Altman被解雇后72小时详细内幕
+  - [infoq][] NVIDIA与Adobe、WPP合作开发品牌营销创意智能体
+  - [infoq][] OpenAI在ChatGPT中引入“工作区智能体”功能
+  - [infoq][] NVIDIA与Adobe CEO同台展示合作，共探代理式AI未来
+  - [infoq][] Google Cloud 发布首批官方智能体技能库
+  - [infoq][] Firebase 在 Google Cloud Next 大会宣布 SQL Connect、Fire
+  - [infoq][] PyTorch基金会执行董事Mark Collier在PyTorchCon Europe 2026发
+  - [infoq][] 红帽与特斯拉工程师合作优化Llama 3.1 70B推理性能
+  - [infoq][] LlamaIndex 开源文档解析器 LiteParse 发布，基于启发式方法解析复杂 PDF
+  - [infoq][] SonicMoE 在 NVIDIA Blackwell GPU 上实现峰值吞吐量运行
+  - [量子位][] 科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆
+  - [量子位][] 香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖
+  - [量子位][] RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro
+  - [量子位][] 从GPU到Token：AI基础设施竞争逻辑重构
+  - [量子位][] 2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花
+  - [aibase][] 抖音发布AIGC创作新规：严禁未经授权“换脸仿声”，强调真实消费体验
+  - [aibase][] DeepSeek API 实现百万 Token 上下文升级
+  - [aibase][] 抖音生活服务发布AIGC创作规范：团购带货视频严禁AI生成实景
+  - [aibase][] 千问AI PPT重大升级:智能体架构赋能，全流程自动化制作
+  - [aibase][] ​OpenAI 推出 Euphony：一款开源的 Harmony 数据可视化工具
+  - [aibase][] ​Claude Pro 订阅方案调整：部分新用户或失去 Claude Code 使用权
+  - [aibase][] GPT-5.5 意外现身，OpenAI 智能体时代提前降临？
+  - [aibase][] ​火狐 Firefox  150 版本重磅发布，AI 助力发现 271 个安全漏洞！
+  - [aibase][] 重磅！小米 18 系列曝光：独立AI按键与“智窗”交互或成最大亮点
+  - [aibase][] Google 发布 Gemini 3.1 Pro 深度研究智能体：高效生成专业数据图表
+  - [aibase][] 阿里巴巴发布生态级AI助手“千问小酒窝”，统一数字人形象全面接入阿里生态
+  - [aibase][] 一季度AI应用月活创新高，豆包、千问、DeepSeek稳居第一梯队
+  - [aibase][] ​佛罗里达州对 OpenAI 及其 ChatGPT 展开刑事调查，因涉及致命枪击案
+  - [aibase][] 纽约州起诉Coinbase与Gemini，指控其涉嫌非法经营预测市场
+
+[2026-04-23 08:12:14] llm_classify - OUTPUT: 32条 | 保留32条
+============================================================
+  - [huxiu][国外AI资讯] Meta扩大AI投入，新建超10亿美元数据中心
+  - [huxiu][国外AI资讯] OpenAI面向医生等开放ChatGPT服务
+  - [huxiu][智能硬件] 马斯克：特斯拉得州新机器人厂预计2027年投产
+  - [huxiu][国外AI资讯] Oracle AI Database扩展至全球15个Google Cloud区域
+  - [huxiu][国外AI资讯] Infosys将OpenAI技术整合入Topaz Fabric平台
+  - [huxiu][国外AI资讯] Belo公司遭Claude AI断网，停摆15小时，申诉依靠谷歌表单
+  - [infoq][国外AI资讯] NVIDIA与Adobe在2026年Adobe Summit上展示Omniverse库支持Firef
+  - [infoq][国外AI资讯] Perplexity AI发布新研究，阐述如何通过后训练提升搜索增强答案准确性
+  - [infoq][国外AI资讯] NVIDIA与Adobe、WPP合作开发品牌营销创意智能体
+  - [infoq][国外AI资讯] OpenAI在ChatGPT中引入“工作区智能体”功能
+  - [infoq][国外AI资讯] NVIDIA与Adobe CEO同台展示合作，共探代理式AI未来
+  - [infoq][国外AI资讯] Google Cloud 发布首批官方智能体技能库
+  - [infoq][国外AI资讯] Firebase 在 Google Cloud Next 大会宣布 SQL Connect、Fire
+  - [infoq][国外AI资讯] 红帽与特斯拉工程师合作优化Llama 3.1 70B推理性能
+  - [infoq][国外AI资讯] LlamaIndex 开源文档解析器 LiteParse 发布，基于启发式方法解析复杂 PDF
+  - [infoq][国外AI资讯] SonicMoE 在 NVIDIA Blackwell GPU 上实现峰值吞吐量运行
+  - [量子位][国内AI资讯] 科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆
+  - [量子位][国内AI资讯] 香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖
+  - [量子位][智能硬件] RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro
+  - [量子位][国内AI资讯] 从GPU到Token：AI基础设施竞争逻辑重构
+  - [aibase][国内AI资讯] 抖音发布AIGC创作新规：严禁未经授权“换脸仿声”，强调真实消费体验
+  - [aibase][国内AI资讯] DeepSeek API 实现百万 Token 上下文升级
+  - [aibase][国内AI资讯] 抖音生活服务发布AIGC创作规范：团购带货视频严禁AI生成实景
+  - [aibase][国内AI资讯] 千问AI PPT重大升级:智能体架构赋能，全流程自动化制作
+  - [aibase][国外AI资讯] ​OpenAI 推出 Euphony：一款开源的 Harmony 数据可视化工具
+  - [aibase][国外AI资讯] ​Claude Pro 订阅方案调整：部分新用户或失去 Claude Code 使用权
+  - [aibase][国外AI资讯] GPT-5.5 意外现身，OpenAI 智能体时代提前降临？
+  - [aibase][其它科技资讯] ​火狐 Firefox  150 版本重磅发布，AI 助力发现 271 个安全漏洞！
+  - [aibase][智能硬件] 重磅！小米 18 系列曝光：独立AI按键与“智窗”交互或成最大亮点
+  - [aibase][国外AI资讯] Google 发布 Gemini 3.1 Pro 深度研究智能体：高效生成专业数据图表
+  - [aibase][国内AI资讯] 阿里巴巴发布生态级AI助手“千问小酒窝”，统一数字人形象全面接入阿里生态
+  - [aibase][国内AI资讯] 一季度AI应用月活创新高，豆包、千问、DeepSeek稳居第一梯队
+
+[2026-04-23 08:12:14] llm_summary - INPUT: 32条
+============================================================
+  - [huxiu][国外AI资讯] Meta扩大AI投入，新建超10亿美元数据中心
+  - [huxiu][国外AI资讯] OpenAI面向医生等开放ChatGPT服务
+  - [huxiu][智能硬件] 马斯克：特斯拉得州新机器人厂预计2027年投产
+  - [huxiu][国外AI资讯] Oracle AI Database扩展至全球15个Google Cloud区域
+  - [huxiu][国外AI资讯] Infosys将OpenAI技术整合入Topaz Fabric平台
+  - [huxiu][国外AI资讯] Belo公司遭Claude AI断网，停摆15小时，申诉依靠谷歌表单
+  - [infoq][国外AI资讯] NVIDIA与Adobe在2026年Adobe Summit上展示Omniverse库支持Firef
+  - [infoq][国外AI资讯] Perplexity AI发布新研究，阐述如何通过后训练提升搜索增强答案准确性
+  - [infoq][国外AI资讯] NVIDIA与Adobe、WPP合作开发品牌营销创意智能体
+  - [infoq][国外AI资讯] OpenAI在ChatGPT中引入“工作区智能体”功能
+  - [infoq][国外AI资讯] NVIDIA与Adobe CEO同台展示合作，共探代理式AI未来
+  - [infoq][国外AI资讯] Google Cloud 发布首批官方智能体技能库
+  - [infoq][国外AI资讯] Firebase 在 Google Cloud Next 大会宣布 SQL Connect、Fire
+  - [infoq][国外AI资讯] 红帽与特斯拉工程师合作优化Llama 3.1 70B推理性能
+  - [infoq][国外AI资讯] LlamaIndex 开源文档解析器 LiteParse 发布，基于启发式方法解析复杂 PDF
+  - [infoq][国外AI资讯] SonicMoE 在 NVIDIA Blackwell GPU 上实现峰值吞吐量运行
+  - [量子位][国内AI资讯] 科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆
+  - [量子位][国内AI资讯] 香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖
+  - [量子位][智能硬件] RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro
+  - [量子位][国内AI资讯] 从GPU到Token：AI基础设施竞争逻辑重构
+  - [aibase][国内AI资讯] 抖音发布AIGC创作新规：严禁未经授权“换脸仿声”，强调真实消费体验
+  - [aibase][国内AI资讯] DeepSeek API 实现百万 Token 上下文升级
+  - [aibase][国内AI资讯] 抖音生活服务发布AIGC创作规范：团购带货视频严禁AI生成实景
+  - [aibase][国内AI资讯] 千问AI PPT重大升级:智能体架构赋能，全流程自动化制作
+  - [aibase][国外AI资讯] ​OpenAI 推出 Euphony：一款开源的 Harmony 数据可视化工具
+  - [aibase][国外AI资讯] ​Claude Pro 订阅方案调整：部分新用户或失去 Claude Code 使用权
+  - [aibase][国外AI资讯] GPT-5.5 意外现身，OpenAI 智能体时代提前降临？
+  - [aibase][其它科技资讯] ​火狐 Firefox  150 版本重磅发布，AI 助力发现 271 个安全漏洞！
+  - [aibase][智能硬件] 重磅！小米 18 系列曝光：独立AI按键与“智窗”交互或成最大亮点
+  - [aibase][国外AI资讯] Google 发布 Gemini 3.1 Pro 深度研究智能体：高效生成专业数据图表
+  - [aibase][国内AI资讯] 阿里巴巴发布生态级AI助手“千问小酒窝”，统一数字人形象全面接入阿里生态
+  - [aibase][国内AI资讯] 一季度AI应用月活创新高，豆包、千问、DeepSeek稳居第一梯队
+
+[2026-04-23 08:12:51] llm_summary - OUTPUT: 32条 | 成功32条
+============================================================
+  - [huxiu][国外AI资讯] Meta扩大AI投入，新建超10亿美元数据中心
+  - [huxiu][国外AI资讯] OpenAI面向医生等开放ChatGPT服务
+  - [huxiu][智能硬件] 马斯克：特斯拉得州新机器人厂预计2027年投产
+  - [huxiu][国外AI资讯] Oracle AI Database扩展至全球15个Google Cloud区域
+  - [huxiu][国外AI资讯] Infosys将OpenAI技术整合入Topaz Fabric平台
+  - [huxiu][国外AI资讯] Belo公司遭Claude AI断网，停摆15小时，申诉依靠谷歌表单
+  - [infoq][国外AI资讯] NVIDIA与Adobe在2026年Adobe Summit上展示Omniverse库支持Firef
+  - [infoq][国外AI资讯] Perplexity AI发布新研究，阐述如何通过后训练提升搜索增强答案准确性
+  - [infoq][国外AI资讯] NVIDIA与Adobe、WPP合作开发品牌营销创意智能体
+  - [infoq][国外AI资讯] OpenAI在ChatGPT中引入“工作区智能体”功能
+  - [infoq][国外AI资讯] NVIDIA与Adobe CEO同台展示合作，共探代理式AI未来
+  - [infoq][国外AI资讯] Google Cloud 发布首批官方智能体技能库
+  - [infoq][国外AI资讯] Firebase 在 Google Cloud Next 大会宣布 SQL Connect、Fire
+  - [infoq][国外AI资讯] 红帽与特斯拉工程师合作优化Llama 3.1 70B推理性能
+  - [infoq][国外AI资讯] LlamaIndex 开源文档解析器 LiteParse 发布，基于启发式方法解析复杂 PDF
+  - [infoq][国外AI资讯] SonicMoE 在 NVIDIA Blackwell GPU 上实现峰值吞吐量运行
+  - [量子位][国内AI资讯] 科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆
+  - [量子位][国内AI资讯] 香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖
+  - [量子位][智能硬件] RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro
+  - [量子位][国内AI资讯] 从GPU到Token：AI基础设施竞争逻辑重构
+  - [aibase][国内AI资讯] 抖音发布AIGC创作新规：严禁未经授权“换脸仿声”，强调真实消费体验
+  - [aibase][国内AI资讯] DeepSeek API 实现百万 Token 上下文升级
+  - [aibase][国内AI资讯] 抖音生活服务发布AIGC创作规范：团购带货视频严禁AI生成实景
+  - [aibase][国内AI资讯] 千问AI PPT重大升级:智能体架构赋能，全流程自动化制作
+  - [aibase][国外AI资讯] ​OpenAI 推出 Euphony：一款开源的 Harmony 数据可视化工具
+  - [aibase][国外AI资讯] ​Claude Pro 订阅方案调整：部分新用户或失去 Claude Code 使用权
+  - [aibase][国外AI资讯] GPT-5.5 意外现身，OpenAI 智能体时代提前降临？
+  - [aibase][其它科技资讯] ​火狐 Firefox  150 版本重磅发布，AI 助力发现 271 个安全漏洞！
+  - [aibase][智能硬件] 重磅！小米 18 系列曝光：独立AI按键与“智窗”交互或成最大亮点
+  - [aibase][国外AI资讯] Google 发布 Gemini 3.1 Pro 深度研究智能体：高效生成专业数据图表
+  - [aibase][国内AI资讯] 阿里巴巴发布生态级AI助手“千问小酒窝”，统一数字人形象全面接入阿里生态
+  - [aibase][国内AI资讯] 一季度AI应用月活创新高，豆包、千问、DeepSeek稳居第一梯队
+
+[2026-04-23 08:50:03] keyword_filter - INPUT: 65条
+============================================================
+  - [huxiu][] 行业景气度高位运行，光模块企业扩产忙
+  - [huxiu][] 大型并购交易火爆，银行赚取上亿美元顾问费
+  - [huxiu][] Meta扩大AI投入，新建超10亿美元数据中心
+  - [huxiu][] 微软旗下领英任命丹·沙佩罗为新任CEO
+  - [huxiu][] OpenAI面向医生等开放ChatGPT服务
+  - [huxiu][] 马斯克：特斯拉得州新机器人厂预计2027年投产
+  - [huxiu][] Vast Data在F轮融资中筹集10亿美元，估值达300亿美元
+  - [huxiu][] FTC批准OpenAI收购Astral Software
+  - [huxiu][] Oracle AI Database扩展至全球15个Google Cloud区域
+  - [huxiu][] 腾讯与阿里巴巴计划以超200亿估值投资DeepSeek
+  - [huxiu][] Infosys将OpenAI技术整合入Topaz Fabric平台
+  - [huxiu][] 法德争夺千亿欧元项目控制权，欧洲新一代战斗机项目陷入危机
+  - [huxiu][] 孙宇晨起诉特朗普关联加密公司，称损失数亿美元
+  - [huxiu][] Belo公司遭Claude AI断网，停摆15小时，申诉依靠谷歌表单
+  - [huxiu][] OpenAI正洽谈向一家私募股权合资企业注资高达15亿美元
+  - [huxiu][] SK海力士投19万亿韩元建新芯片厂，四月开工
+  - [huxiu][] 汇丰或将寻求以至多20亿美元的价格出售汇丰人寿新加坡公司
+  - [huxiu][] 智界V9给供应商下达年均约12万辆的生产量纲
+  - [huxiu][] 奕行智能完成15亿元B轮融资，加速RISC-V AI芯片平台落地
+  - [huxiu][] SpaceX获600亿美元收购AI编程公司权利，为最大IPO铺路
+  - [infoq][] 微软宣布 Copilot Agent Mode 全面上市并成为 Office 默认模式
+  - [infoq][] 微软CEO宣布Copilot Agent模式在Office核心应用中正式发布并设为默认
+  - [infoq][] Google Cloud Tech 预告明日开发者主题演讲后将进行技术深度探讨
+  - [infoq][] NVIDIA与Adobe在2026年Adobe Summit上展示Omniverse库支持Firef
+  - [infoq][] 波士顿动力转发现代汽车集团全球AI与机器人技术人才招聘信息
+  - [infoq][] Perplexity AI发布新研究，阐述如何通过后训练提升搜索增强答案准确性
+  - [infoq][] OpenAI联合创始人gdb分享Sam Altman被解雇后72小时详细内幕
+  - [infoq][] NVIDIA与Adobe、WPP合作开发品牌营销创意智能体
+  - [infoq][] OpenAI在ChatGPT中引入“工作区智能体”功能
+  - [infoq][] NVIDIA与Adobe CEO同台展示合作，共探代理式AI未来
+  - [infoq][] StanfordHAI主任警示美国或未对世界模型发展做好准备
+  - [infoq][] Google Research 宣布其基础研究已转化为工具，为 Google Earth AI 提供
+  - [infoq][] 斯坦福HAI报告：AI在科研中参与度快速提升，正从辅助工具迈向科学发现
+  - [infoq][] 亚马逊科学邀请与会者参与ICLR 2026期间的研究交流活动
+  - [infoq][] Google Cloud 发布首批官方智能体技能库
+  - [infoq][] Firebase 在 Google Cloud Next 大会宣布 SQL Connect、Fire
+  - [infoq][] PyTorch基金会执行董事Mark Collier在PyTorchCon Europe 2026发
+  - [infoq][] PyTorch Con EU 演讲录像上线，预告上海与圣何塞大会
+  - [infoq][] 红帽与特斯拉工程师合作优化Llama 3.1 70B推理性能
+  - [infoq][] LlamaIndex 开源文档解析器 LiteParse 发布，基于启发式方法解析复杂 PDF
+  - [量子位][] 科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆
+  - [量子位][] 香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖
+  - [量子位][] RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro
+  - [量子位][] 从GPU到Token：AI基础设施竞争逻辑重构
+  - [量子位][] 2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花
+  - [aibase][] 抖音发布AIGC创作新规：严禁未经授权“换脸仿声”，强调真实消费体验
+  - [aibase][] ​抖音发布新规：禁止未经授权使用他人肖像、声音及作品进行 AIGC 创作
+  - [aibase][] DeepSeek API 实现百万 Token 上下文升级
+  - [aibase][] OpenAI豪掷 15 亿美元布局B端：新合资公司“DeployCo”浮出水面
+  - [aibase][] 抖音生活服务发布AIGC创作规范：团购带货视频严禁AI生成实景
+  - [aibase][] 抖音发布生活服务AIGC创作规范:严禁未经授权使用他人肖像及声音
+  - [aibase][] 千问AI PPT重大升级:智能体架构赋能，全流程自动化制作
+  - [aibase][] ​OpenAI 推出 Euphony：一款开源的 Harmony 数据可视化工具
+  - [aibase][] 首次全年扭亏为盈后，寒武纪正面回应大厂竞争:通用芯片具备更强“技术普适性”
+  - [aibase][] ​Claude Pro 订阅方案调整：部分新用户或失去 Claude Code 使用权
+  - [aibase][] GPT-5.5 意外现身，OpenAI 智能体时代提前降临？
+  - [aibase][] ​火狐 Firefox  150 版本重磅发布，AI 助力发现 271 个安全漏洞！
+  - [aibase][] 重磅！小米 18 系列曝光：独立AI按键与“智窗”交互或成最大亮点
+  - [aibase][] Google 发布 Gemini 3.1 Pro 深度研究智能体：高效生成专业数据图表
+  - [aibase][] 教育大模型新锐“级数AI”获数千万融资，软硬一体化布局开启
+  - [aibase][] OpenAI 拟注资15亿美元成立合资公司 DeployCo，联手私募巨头加速企业级市场渗透
+  - [aibase][] 阿里巴巴发布生态级AI助手“千问小酒窝”，统一数字人形象全面接入阿里生态
+  - [aibase][] 一季度AI应用月活创新高，豆包、千问、DeepSeek稳居第一梯队
+  - [aibase][] ​佛罗里达州对 OpenAI 及其 ChatGPT 展开刑事调查，因涉及致命枪击案
+  - [aibase][] 纽约州起诉Coinbase与Gemini，指控其涉嫌非法经营预测市场
+
+[2026-04-23 08:50:03] keyword_filter - OUTPUT: 43条 | 移除22条
+============================================================
+  - [huxiu][] 行业景气度高位运行，光模块企业扩产忙
+  - [huxiu][] Meta扩大AI投入，新建超10亿美元数据中心
+  - [huxiu][] 微软旗下领英任命丹·沙佩罗为新任CEO
+  - [huxiu][] OpenAI面向医生等开放ChatGPT服务
+  - [huxiu][] 马斯克：特斯拉得州新机器人厂预计2027年投产
+  - [huxiu][] Oracle AI Database扩展至全球15个Google Cloud区域
+  - [huxiu][] Infosys将OpenAI技术整合入Topaz Fabric平台
+  - [huxiu][] 法德争夺千亿欧元项目控制权，欧洲新一代战斗机项目陷入危机
+  - [huxiu][] Belo公司遭Claude AI断网，停摆15小时，申诉依靠谷歌表单
+  - [huxiu][] 智界V9给供应商下达年均约12万辆的生产量纲
+  - [infoq][] 微软CEO宣布Copilot Agent模式在Office核心应用中正式发布并设为默认
+  - [infoq][] NVIDIA与Adobe在2026年Adobe Summit上展示Omniverse库支持Firef
+  - [infoq][] Perplexity AI发布新研究，阐述如何通过后训练提升搜索增强答案准确性
+  - [infoq][] OpenAI联合创始人gdb分享Sam Altman被解雇后72小时详细内幕
+  - [infoq][] NVIDIA与Adobe、WPP合作开发品牌营销创意智能体
+  - [infoq][] OpenAI在ChatGPT中引入“工作区智能体”功能
+  - [infoq][] NVIDIA与Adobe CEO同台展示合作，共探代理式AI未来
+  - [infoq][] Google Cloud 发布首批官方智能体技能库
+  - [infoq][] Firebase 在 Google Cloud Next 大会宣布 SQL Connect、Fire
+  - [infoq][] PyTorch基金会执行董事Mark Collier在PyTorchCon Europe 2026发
+  - [infoq][] 红帽与特斯拉工程师合作优化Llama 3.1 70B推理性能
+  - [infoq][] LlamaIndex 开源文档解析器 LiteParse 发布，基于启发式方法解析复杂 PDF
+  - [量子位][] 科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆
+  - [量子位][] 香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖
+  - [量子位][] RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro
+  - [量子位][] 从GPU到Token：AI基础设施竞争逻辑重构
+  - [量子位][] 2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花
+  - [aibase][] 抖音发布AIGC创作新规：严禁未经授权“换脸仿声”，强调真实消费体验
+  - [aibase][] ​抖音发布新规：禁止未经授权使用他人肖像、声音及作品进行 AIGC 创作
+  - [aibase][] DeepSeek API 实现百万 Token 上下文升级
+  - [aibase][] 抖音生活服务发布AIGC创作规范：团购带货视频严禁AI生成实景
+  - [aibase][] 抖音发布生活服务AIGC创作规范:严禁未经授权使用他人肖像及声音
+  - [aibase][] 千问AI PPT重大升级:智能体架构赋能，全流程自动化制作
+  - [aibase][] ​OpenAI 推出 Euphony：一款开源的 Harmony 数据可视化工具
+  - [aibase][] ​Claude Pro 订阅方案调整：部分新用户或失去 Claude Code 使用权
+  - [aibase][] GPT-5.5 意外现身，OpenAI 智能体时代提前降临？
+  - [aibase][] ​火狐 Firefox  150 版本重磅发布，AI 助力发现 271 个安全漏洞！
+  - [aibase][] 重磅！小米 18 系列曝光：独立AI按键与“智窗”交互或成最大亮点
+  - [aibase][] Google 发布 Gemini 3.1 Pro 深度研究智能体：高效生成专业数据图表
+  - [aibase][] 阿里巴巴发布生态级AI助手“千问小酒窝”，统一数字人形象全面接入阿里生态
+  - [aibase][] 一季度AI应用月活创新高，豆包、千问、DeepSeek稳居第一梯队
+  - [aibase][] ​佛罗里达州对 OpenAI 及其 ChatGPT 展开刑事调查，因涉及致命枪击案
+  - [aibase][] 纽约州起诉Coinbase与Gemini，指控其涉嫌非法经营预测市场
+
+[2026-04-23 08:50:03] bge_dedup - INPUT: 43条
+============================================================
+  - [huxiu][] 行业景气度高位运行，光模块企业扩产忙
+  - [huxiu][] Meta扩大AI投入，新建超10亿美元数据中心
+  - [huxiu][] 微软旗下领英任命丹·沙佩罗为新任CEO
+  - [huxiu][] OpenAI面向医生等开放ChatGPT服务
+  - [huxiu][] 马斯克：特斯拉得州新机器人厂预计2027年投产
+  - [huxiu][] Oracle AI Database扩展至全球15个Google Cloud区域
+  - [huxiu][] Infosys将OpenAI技术整合入Topaz Fabric平台
+  - [huxiu][] 法德争夺千亿欧元项目控制权，欧洲新一代战斗机项目陷入危机
+  - [huxiu][] Belo公司遭Claude AI断网，停摆15小时，申诉依靠谷歌表单
+  - [huxiu][] 智界V9给供应商下达年均约12万辆的生产量纲
+  - [infoq][] 微软CEO宣布Copilot Agent模式在Office核心应用中正式发布并设为默认
+  - [infoq][] NVIDIA与Adobe在2026年Adobe Summit上展示Omniverse库支持Firef
+  - [infoq][] Perplexity AI发布新研究，阐述如何通过后训练提升搜索增强答案准确性
+  - [infoq][] OpenAI联合创始人gdb分享Sam Altman被解雇后72小时详细内幕
+  - [infoq][] NVIDIA与Adobe、WPP合作开发品牌营销创意智能体
+  - [infoq][] OpenAI在ChatGPT中引入“工作区智能体”功能
+  - [infoq][] NVIDIA与Adobe CEO同台展示合作，共探代理式AI未来
+  - [infoq][] Google Cloud 发布首批官方智能体技能库
+  - [infoq][] Firebase 在 Google Cloud Next 大会宣布 SQL Connect、Fire
+  - [infoq][] PyTorch基金会执行董事Mark Collier在PyTorchCon Europe 2026发
+  - [infoq][] 红帽与特斯拉工程师合作优化Llama 3.1 70B推理性能
+  - [infoq][] LlamaIndex 开源文档解析器 LiteParse 发布，基于启发式方法解析复杂 PDF
+  - [量子位][] 科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆
+  - [量子位][] 香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖
+  - [量子位][] RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro
+  - [量子位][] 从GPU到Token：AI基础设施竞争逻辑重构
+  - [量子位][] 2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花
+  - [aibase][] 抖音发布AIGC创作新规：严禁未经授权“换脸仿声”，强调真实消费体验
+  - [aibase][] ​抖音发布新规：禁止未经授权使用他人肖像、声音及作品进行 AIGC 创作
+  - [aibase][] DeepSeek API 实现百万 Token 上下文升级
+  - [aibase][] 抖音生活服务发布AIGC创作规范：团购带货视频严禁AI生成实景
+  - [aibase][] 抖音发布生活服务AIGC创作规范:严禁未经授权使用他人肖像及声音
+  - [aibase][] 千问AI PPT重大升级:智能体架构赋能，全流程自动化制作
+  - [aibase][] ​OpenAI 推出 Euphony：一款开源的 Harmony 数据可视化工具
+  - [aibase][] ​Claude Pro 订阅方案调整：部分新用户或失去 Claude Code 使用权
+  - [aibase][] GPT-5.5 意外现身，OpenAI 智能体时代提前降临？
+  - [aibase][] ​火狐 Firefox  150 版本重磅发布，AI 助力发现 271 个安全漏洞！
+  - [aibase][] 重磅！小米 18 系列曝光：独立AI按键与“智窗”交互或成最大亮点
+  - [aibase][] Google 发布 Gemini 3.1 Pro 深度研究智能体：高效生成专业数据图表
+  - [aibase][] 阿里巴巴发布生态级AI助手“千问小酒窝”，统一数字人形象全面接入阿里生态
+  - [aibase][] 一季度AI应用月活创新高，豆包、千问、DeepSeek稳居第一梯队
+  - [aibase][] ​佛罗里达州对 OpenAI 及其 ChatGPT 展开刑事调查，因涉及致命枪击案
+  - [aibase][] 纽约州起诉Coinbase与Gemini，指控其涉嫌非法经营预测市场
+
+[2026-04-23 08:50:51] bge_dedup - OUTPUT: 41条 | 移除2条
+============================================================
+  - [huxiu][] 行业景气度高位运行，光模块企业扩产忙
+  - [huxiu][] Meta扩大AI投入，新建超10亿美元数据中心
+  - [huxiu][] 微软旗下领英任命丹·沙佩罗为新任CEO
+  - [huxiu][] OpenAI面向医生等开放ChatGPT服务
+  - [huxiu][] 马斯克：特斯拉得州新机器人厂预计2027年投产
+  - [huxiu][] Oracle AI Database扩展至全球15个Google Cloud区域
+  - [huxiu][] Infosys将OpenAI技术整合入Topaz Fabric平台
+  - [huxiu][] 法德争夺千亿欧元项目控制权，欧洲新一代战斗机项目陷入危机
+  - [huxiu][] Belo公司遭Claude AI断网，停摆15小时，申诉依靠谷歌表单
+  - [huxiu][] 智界V9给供应商下达年均约12万辆的生产量纲
+  - [infoq][] 微软CEO宣布Copilot Agent模式在Office核心应用中正式发布并设为默认
+  - [infoq][] NVIDIA与Adobe在2026年Adobe Summit上展示Omniverse库支持Firef
+  - [infoq][] Perplexity AI发布新研究，阐述如何通过后训练提升搜索增强答案准确性
+  - [infoq][] OpenAI联合创始人gdb分享Sam Altman被解雇后72小时详细内幕
+  - [infoq][] NVIDIA与Adobe、WPP合作开发品牌营销创意智能体
+  - [infoq][] OpenAI在ChatGPT中引入“工作区智能体”功能
+  - [infoq][] NVIDIA与Adobe CEO同台展示合作，共探代理式AI未来
+  - [infoq][] Google Cloud 发布首批官方智能体技能库
+  - [infoq][] Firebase 在 Google Cloud Next 大会宣布 SQL Connect、Fire
+  - [infoq][] PyTorch基金会执行董事Mark Collier在PyTorchCon Europe 2026发
+  - [infoq][] 红帽与特斯拉工程师合作优化Llama 3.1 70B推理性能
+  - [infoq][] LlamaIndex 开源文档解析器 LiteParse 发布，基于启发式方法解析复杂 PDF
+  - [量子位][] 科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆
+  - [量子位][] 香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖
+  - [量子位][] RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro
+  - [量子位][] 从GPU到Token：AI基础设施竞争逻辑重构
+  - [量子位][] 2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花
+  - [aibase][] 抖音发布AIGC创作新规：严禁未经授权“换脸仿声”，强调真实消费体验
+  - [aibase][] DeepSeek API 实现百万 Token 上下文升级
+  - [aibase][] 抖音生活服务发布AIGC创作规范：团购带货视频严禁AI生成实景
+  - [aibase][] 千问AI PPT重大升级:智能体架构赋能，全流程自动化制作
+  - [aibase][] ​OpenAI 推出 Euphony：一款开源的 Harmony 数据可视化工具
+  - [aibase][] ​Claude Pro 订阅方案调整：部分新用户或失去 Claude Code 使用权
+  - [aibase][] GPT-5.5 意外现身，OpenAI 智能体时代提前降临？
+  - [aibase][] ​火狐 Firefox  150 版本重磅发布，AI 助力发现 271 个安全漏洞！
+  - [aibase][] 重磅！小米 18 系列曝光：独立AI按键与“智窗”交互或成最大亮点
+  - [aibase][] Google 发布 Gemini 3.1 Pro 深度研究智能体：高效生成专业数据图表
+  - [aibase][] 阿里巴巴发布生态级AI助手“千问小酒窝”，统一数字人形象全面接入阿里生态
+  - [aibase][] 一季度AI应用月活创新高，豆包、千问、DeepSeek稳居第一梯队
+  - [aibase][] ​佛罗里达州对 OpenAI 及其 ChatGPT 展开刑事调查，因涉及致命枪击案
+  - [aibase][] 纽约州起诉Coinbase与Gemini，指控其涉嫌非法经营预测市场
+
+[2026-04-23 08:50:51] llm_classify - INPUT: 41条
+============================================================
+  - [huxiu][] 行业景气度高位运行，光模块企业扩产忙
+  - [huxiu][] Meta扩大AI投入，新建超10亿美元数据中心
+  - [huxiu][] 微软旗下领英任命丹·沙佩罗为新任CEO
+  - [huxiu][] OpenAI面向医生等开放ChatGPT服务
+  - [huxiu][] 马斯克：特斯拉得州新机器人厂预计2027年投产
+  - [huxiu][] Oracle AI Database扩展至全球15个Google Cloud区域
+  - [huxiu][] Infosys将OpenAI技术整合入Topaz Fabric平台
+  - [huxiu][] 法德争夺千亿欧元项目控制权，欧洲新一代战斗机项目陷入危机
+  - [huxiu][] Belo公司遭Claude AI断网，停摆15小时，申诉依靠谷歌表单
+  - [huxiu][] 智界V9给供应商下达年均约12万辆的生产量纲
+  - [infoq][] 微软CEO宣布Copilot Agent模式在Office核心应用中正式发布并设为默认
+  - [infoq][] NVIDIA与Adobe在2026年Adobe Summit上展示Omniverse库支持Firef
+  - [infoq][] Perplexity AI发布新研究，阐述如何通过后训练提升搜索增强答案准确性
+  - [infoq][] OpenAI联合创始人gdb分享Sam Altman被解雇后72小时详细内幕
+  - [infoq][] NVIDIA与Adobe、WPP合作开发品牌营销创意智能体
+  - [infoq][] OpenAI在ChatGPT中引入“工作区智能体”功能
+  - [infoq][] NVIDIA与Adobe CEO同台展示合作，共探代理式AI未来
+  - [infoq][] Google Cloud 发布首批官方智能体技能库
+  - [infoq][] Firebase 在 Google Cloud Next 大会宣布 SQL Connect、Fire
+  - [infoq][] PyTorch基金会执行董事Mark Collier在PyTorchCon Europe 2026发
+  - [infoq][] 红帽与特斯拉工程师合作优化Llama 3.1 70B推理性能
+  - [infoq][] LlamaIndex 开源文档解析器 LiteParse 发布，基于启发式方法解析复杂 PDF
+  - [量子位][] 科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆
+  - [量子位][] 香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖
+  - [量子位][] RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro
+  - [量子位][] 从GPU到Token：AI基础设施竞争逻辑重构
+  - [量子位][] 2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花
+  - [aibase][] 抖音发布AIGC创作新规：严禁未经授权“换脸仿声”，强调真实消费体验
+  - [aibase][] DeepSeek API 实现百万 Token 上下文升级
+  - [aibase][] 抖音生活服务发布AIGC创作规范：团购带货视频严禁AI生成实景
+  - [aibase][] 千问AI PPT重大升级:智能体架构赋能，全流程自动化制作
+  - [aibase][] ​OpenAI 推出 Euphony：一款开源的 Harmony 数据可视化工具
+  - [aibase][] ​Claude Pro 订阅方案调整：部分新用户或失去 Claude Code 使用权
+  - [aibase][] GPT-5.5 意外现身，OpenAI 智能体时代提前降临？
+  - [aibase][] ​火狐 Firefox  150 版本重磅发布，AI 助力发现 271 个安全漏洞！
+  - [aibase][] 重磅！小米 18 系列曝光：独立AI按键与“智窗”交互或成最大亮点
+  - [aibase][] Google 发布 Gemini 3.1 Pro 深度研究智能体：高效生成专业数据图表
+  - [aibase][] 阿里巴巴发布生态级AI助手“千问小酒窝”，统一数字人形象全面接入阿里生态
+  - [aibase][] 一季度AI应用月活创新高，豆包、千问、DeepSeek稳居第一梯队
+  - [aibase][] ​佛罗里达州对 OpenAI 及其 ChatGPT 展开刑事调查，因涉及致命枪击案
+  - [aibase][] 纽约州起诉Coinbase与Gemini，指控其涉嫌非法经营预测市场
+
+[2026-04-23 08:51:16] llm_classify - OUTPUT: 37条 | 保留37条
+============================================================
+  - [huxiu][国外AI资讯] Meta扩大AI投入，新建超10亿美元数据中心
+  - [huxiu][国外AI资讯] OpenAI面向医生等开放ChatGPT服务
+  - [huxiu][智能硬件] 马斯克：特斯拉得州新机器人厂预计2027年投产
+  - [huxiu][国外AI资讯] Oracle AI Database扩展至全球15个Google Cloud区域
+  - [huxiu][国外AI资讯] Infosys将OpenAI技术整合入Topaz Fabric平台
+  - [huxiu][国外AI资讯] Belo公司遭Claude AI断网，停摆15小时，申诉依靠谷歌表单
+  - [huxiu][国内AI资讯] 智界V9给供应商下达年均约12万辆的生产量纲
+  - [infoq][国外AI资讯] 微软CEO宣布Copilot Agent模式在Office核心应用中正式发布并设为默认
+  - [infoq][国外AI资讯] NVIDIA与Adobe在2026年Adobe Summit上展示Omniverse库支持Firef
+  - [infoq][国外AI资讯] Perplexity AI发布新研究，阐述如何通过后训练提升搜索增强答案准确性
+  - [infoq][国外AI资讯] OpenAI联合创始人gdb分享Sam Altman被解雇后72小时详细内幕
+  - [infoq][国外AI资讯] NVIDIA与Adobe、WPP合作开发品牌营销创意智能体
+  - [infoq][国外AI资讯] OpenAI在ChatGPT中引入“工作区智能体”功能
+  - [infoq][国外AI资讯] NVIDIA与Adobe CEO同台展示合作，共探代理式AI未来
+  - [infoq][国外AI资讯] Google Cloud 发布首批官方智能体技能库
+  - [infoq][国外AI资讯] Firebase 在 Google Cloud Next 大会宣布 SQL Connect、Fire
+  - [infoq][其它科技资讯] PyTorch基金会执行董事Mark Collier在PyTorchCon Europe 2026发
+  - [infoq][国外AI资讯] 红帽与特斯拉工程师合作优化Llama 3.1 70B推理性能
+  - [infoq][国外AI资讯] LlamaIndex 开源文档解析器 LiteParse 发布，基于启发式方法解析复杂 PDF
+  - [量子位][国内AI资讯] 科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆
+  - [量子位][国内AI资讯] 香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖
+  - [量子位][智能硬件] RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro
+  - [量子位][其它科技资讯] 从GPU到Token：AI基础设施竞争逻辑重构
+  - [量子位][国内AI资讯] 2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花
+  - [aibase][国内AI资讯] 抖音发布AIGC创作新规：严禁未经授权“换脸仿声”，强调真实消费体验
+  - [aibase][国内AI资讯] DeepSeek API 实现百万 Token 上下文升级
+  - [aibase][国内AI资讯] 抖音生活服务发布AIGC创作规范：团购带货视频严禁AI生成实景
+  - [aibase][国内AI资讯] 千问AI PPT重大升级:智能体架构赋能，全流程自动化制作
+  - [aibase][国外AI资讯] ​OpenAI 推出 Euphony：一款开源的 Harmony 数据可视化工具
+  - [aibase][国外AI资讯] ​Claude Pro 订阅方案调整：部分新用户或失去 Claude Code 使用权
+  - [aibase][国外AI资讯] GPT-5.5 意外现身，OpenAI 智能体时代提前降临？
+  - [aibase][其它科技资讯] ​火狐 Firefox  150 版本重磅发布，AI 助力发现 271 个安全漏洞！
+  - [aibase][智能硬件] 重磅！小米 18 系列曝光：独立AI按键与“智窗”交互或成最大亮点
+  - [aibase][国外AI资讯] Google 发布 Gemini 3.1 Pro 深度研究智能体：高效生成专业数据图表
+  - [aibase][国内AI资讯] 阿里巴巴发布生态级AI助手“千问小酒窝”，统一数字人形象全面接入阿里生态
+  - [aibase][国内AI资讯] 一季度AI应用月活创新高，豆包、千问、DeepSeek稳居第一梯队
+  - [aibase][国外AI资讯] ​佛罗里达州对 OpenAI 及其 ChatGPT 展开刑事调查，因涉及致命枪击案
+
+[2026-04-23 08:51:16] llm_summary - INPUT: 37条
+============================================================
+  - [huxiu][国外AI资讯] Meta扩大AI投入，新建超10亿美元数据中心
+  - [huxiu][国外AI资讯] OpenAI面向医生等开放ChatGPT服务
+  - [huxiu][智能硬件] 马斯克：特斯拉得州新机器人厂预计2027年投产
+  - [huxiu][国外AI资讯] Oracle AI Database扩展至全球15个Google Cloud区域
+  - [huxiu][国外AI资讯] Infosys将OpenAI技术整合入Topaz Fabric平台
+  - [huxiu][国外AI资讯] Belo公司遭Claude AI断网，停摆15小时，申诉依靠谷歌表单
+  - [huxiu][国内AI资讯] 智界V9给供应商下达年均约12万辆的生产量纲
+  - [infoq][国外AI资讯] 微软CEO宣布Copilot Agent模式在Office核心应用中正式发布并设为默认
+  - [infoq][国外AI资讯] NVIDIA与Adobe在2026年Adobe Summit上展示Omniverse库支持Firef
+  - [infoq][国外AI资讯] Perplexity AI发布新研究，阐述如何通过后训练提升搜索增强答案准确性
+  - [infoq][国外AI资讯] OpenAI联合创始人gdb分享Sam Altman被解雇后72小时详细内幕
+  - [infoq][国外AI资讯] NVIDIA与Adobe、WPP合作开发品牌营销创意智能体
+  - [infoq][国外AI资讯] OpenAI在ChatGPT中引入“工作区智能体”功能
+  - [infoq][国外AI资讯] NVIDIA与Adobe CEO同台展示合作，共探代理式AI未来
+  - [infoq][国外AI资讯] Google Cloud 发布首批官方智能体技能库
+  - [infoq][国外AI资讯] Firebase 在 Google Cloud Next 大会宣布 SQL Connect、Fire
+  - [infoq][其它科技资讯] PyTorch基金会执行董事Mark Collier在PyTorchCon Europe 2026发
+  - [infoq][国外AI资讯] 红帽与特斯拉工程师合作优化Llama 3.1 70B推理性能
+  - [infoq][国外AI资讯] LlamaIndex 开源文档解析器 LiteParse 发布，基于启发式方法解析复杂 PDF
+  - [量子位][国内AI资讯] 科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆
+  - [量子位][国内AI资讯] 香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖
+  - [量子位][智能硬件] RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro
+  - [量子位][其它科技资讯] 从GPU到Token：AI基础设施竞争逻辑重构
+  - [量子位][国内AI资讯] 2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花
+  - [aibase][国内AI资讯] 抖音发布AIGC创作新规：严禁未经授权“换脸仿声”，强调真实消费体验
+  - [aibase][国内AI资讯] DeepSeek API 实现百万 Token 上下文升级
+  - [aibase][国内AI资讯] 抖音生活服务发布AIGC创作规范：团购带货视频严禁AI生成实景
+  - [aibase][国内AI资讯] 千问AI PPT重大升级:智能体架构赋能，全流程自动化制作
+  - [aibase][国外AI资讯] ​OpenAI 推出 Euphony：一款开源的 Harmony 数据可视化工具
+  - [aibase][国外AI资讯] ​Claude Pro 订阅方案调整：部分新用户或失去 Claude Code 使用权
+  - [aibase][国外AI资讯] GPT-5.5 意外现身，OpenAI 智能体时代提前降临？
+  - [aibase][其它科技资讯] ​火狐 Firefox  150 版本重磅发布，AI 助力发现 271 个安全漏洞！
+  - [aibase][智能硬件] 重磅！小米 18 系列曝光：独立AI按键与“智窗”交互或成最大亮点
+  - [aibase][国外AI资讯] Google 发布 Gemini 3.1 Pro 深度研究智能体：高效生成专业数据图表
+  - [aibase][国内AI资讯] 阿里巴巴发布生态级AI助手“千问小酒窝”，统一数字人形象全面接入阿里生态
+  - [aibase][国内AI资讯] 一季度AI应用月活创新高，豆包、千问、DeepSeek稳居第一梯队
+  - [aibase][国外AI资讯] ​佛罗里达州对 OpenAI 及其 ChatGPT 展开刑事调查，因涉及致命枪击案
+
+[2026-04-23 08:52:18] llm_summary - OUTPUT: 37条 | 成功37条
+============================================================
+  - [huxiu][国外AI资讯] Meta扩大AI投入，新建超10亿美元数据中心
+  - [huxiu][国外AI资讯] OpenAI面向医生等开放ChatGPT服务
+  - [huxiu][智能硬件] 马斯克：特斯拉得州新机器人厂预计2027年投产
+  - [huxiu][国外AI资讯] Oracle AI Database扩展至全球15个Google Cloud区域
+  - [huxiu][国外AI资讯] Infosys将OpenAI技术整合入Topaz Fabric平台
+  - [huxiu][国外AI资讯] Belo公司遭Claude AI断网，停摆15小时，申诉依靠谷歌表单
+  - [huxiu][国内AI资讯] 智界V9给供应商下达年均约12万辆的生产量纲
+  - [infoq][国外AI资讯] 微软CEO宣布Copilot Agent模式在Office核心应用中正式发布并设为默认
+  - [infoq][国外AI资讯] NVIDIA与Adobe在2026年Adobe Summit上展示Omniverse库支持Firef
+  - [infoq][国外AI资讯] Perplexity AI发布新研究，阐述如何通过后训练提升搜索增强答案准确性
+  - [infoq][国外AI资讯] OpenAI联合创始人gdb分享Sam Altman被解雇后72小时详细内幕
+  - [infoq][国外AI资讯] NVIDIA与Adobe、WPP合作开发品牌营销创意智能体
+  - [infoq][国外AI资讯] OpenAI在ChatGPT中引入“工作区智能体”功能
+  - [infoq][国外AI资讯] NVIDIA与Adobe CEO同台展示合作，共探代理式AI未来
+  - [infoq][国外AI资讯] Google Cloud 发布首批官方智能体技能库
+  - [infoq][国外AI资讯] Firebase 在 Google Cloud Next 大会宣布 SQL Connect、Fire
+  - [infoq][其它科技资讯] PyTorch基金会执行董事Mark Collier在PyTorchCon Europe 2026发
+  - [infoq][国外AI资讯] 红帽与特斯拉工程师合作优化Llama 3.1 70B推理性能
+  - [infoq][国外AI资讯] LlamaIndex 开源文档解析器 LiteParse 发布，基于启发式方法解析复杂 PDF
+  - [量子位][国内AI资讯] 科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆
+  - [量子位][国内AI资讯] 香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖
+  - [量子位][智能硬件] RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro
+  - [量子位][其它科技资讯] 从GPU到Token：AI基础设施竞争逻辑重构
+  - [量子位][国内AI资讯] 2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花
+  - [aibase][国内AI资讯] 抖音发布AIGC创作新规：严禁未经授权“换脸仿声”，强调真实消费体验
+  - [aibase][国内AI资讯] DeepSeek API 实现百万 Token 上下文升级
+  - [aibase][国内AI资讯] 抖音生活服务发布AIGC创作规范：团购带货视频严禁AI生成实景
+  - [aibase][国内AI资讯] 千问AI PPT重大升级:智能体架构赋能，全流程自动化制作
+  - [aibase][国外AI资讯] ​OpenAI 推出 Euphony：一款开源的 Harmony 数据可视化工具
+  - [aibase][国外AI资讯] ​Claude Pro 订阅方案调整：部分新用户或失去 Claude Code 使用权
+  - [aibase][国外AI资讯] GPT-5.5 意外现身，OpenAI 智能体时代提前降临？
+  - [aibase][其它科技资讯] ​火狐 Firefox  150 版本重磅发布，AI 助力发现 271 个安全漏洞！
+  - [aibase][智能硬件] 重磅！小米 18 系列曝光：独立AI按键与“智窗”交互或成最大亮点
+  - [aibase][国外AI资讯] Google 发布 Gemini 3.1 Pro 深度研究智能体：高效生成专业数据图表
+  - [aibase][国内AI资讯] 阿里巴巴发布生态级AI助手“千问小酒窝”，统一数字人形象全面接入阿里生态
+  - [aibase][国内AI资讯] 一季度AI应用月活创新高，豆包、千问、DeepSeek稳居第一梯队
+  - [aibase][国外AI资讯] ​佛罗里达州对 OpenAI 及其 ChatGPT 展开刑事调查，因涉及致命枪击案
+
+[2026-04-23 08:52:20] keyword_filter - INPUT: 65条
+============================================================
+  - [huxiu][] 行业景气度高位运行，光模块企业扩产忙
+  - [huxiu][] 大型并购交易火爆，银行赚取上亿美元顾问费
+  - [huxiu][] Meta扩大AI投入，新建超10亿美元数据中心
+  - [huxiu][] 微软旗下领英任命丹·沙佩罗为新任CEO
+  - [huxiu][] OpenAI面向医生等开放ChatGPT服务
+  - [huxiu][] 马斯克：特斯拉得州新机器人厂预计2027年投产
+  - [huxiu][] Vast Data在F轮融资中筹集10亿美元，估值达300亿美元
+  - [huxiu][] FTC批准OpenAI收购Astral Software
+  - [huxiu][] Oracle AI Database扩展至全球15个Google Cloud区域
+  - [huxiu][] 腾讯与阿里巴巴计划以超200亿估值投资DeepSeek
+  - [huxiu][] Infosys将OpenAI技术整合入Topaz Fabric平台
+  - [huxiu][] 法德争夺千亿欧元项目控制权，欧洲新一代战斗机项目陷入危机
+  - [huxiu][] 孙宇晨起诉特朗普关联加密公司，称损失数亿美元
+  - [huxiu][] Belo公司遭Claude AI断网，停摆15小时，申诉依靠谷歌表单
+  - [huxiu][] OpenAI正洽谈向一家私募股权合资企业注资高达15亿美元
+  - [huxiu][] SK海力士投19万亿韩元建新芯片厂，四月开工
+  - [huxiu][] 汇丰或将寻求以至多20亿美元的价格出售汇丰人寿新加坡公司
+  - [huxiu][] 智界V9给供应商下达年均约12万辆的生产量纲
+  - [huxiu][] 奕行智能完成15亿元B轮融资，加速RISC-V AI芯片平台落地
+  - [huxiu][] SpaceX获600亿美元收购AI编程公司权利，为最大IPO铺路
+  - [infoq][] 微软宣布 Copilot Agent Mode 全面上市并成为 Office 默认模式
+  - [infoq][] 微软CEO宣布Copilot Agent模式在Office核心应用中正式发布并设为默认
+  - [infoq][] Google Cloud Tech 预告明日开发者主题演讲后将进行技术深度探讨
+  - [infoq][] NVIDIA与Adobe在2026年Adobe Summit上展示Omniverse库支持Firef
+  - [infoq][] 波士顿动力转发现代汽车集团全球AI与机器人技术人才招聘信息
+  - [infoq][] Perplexity AI发布新研究，阐述如何通过后训练提升搜索增强答案准确性
+  - [infoq][] OpenAI联合创始人gdb分享Sam Altman被解雇后72小时详细内幕
+  - [infoq][] NVIDIA与Adobe、WPP合作开发品牌营销创意智能体
+  - [infoq][] OpenAI在ChatGPT中引入“工作区智能体”功能
+  - [infoq][] NVIDIA与Adobe CEO同台展示合作，共探代理式AI未来
+  - [infoq][] StanfordHAI主任警示美国或未对世界模型发展做好准备
+  - [infoq][] Google Research 宣布其基础研究已转化为工具，为 Google Earth AI 提供
+  - [infoq][] 斯坦福HAI报告：AI在科研中参与度快速提升，正从辅助工具迈向科学发现
+  - [infoq][] 亚马逊科学邀请与会者参与ICLR 2026期间的研究交流活动
+  - [infoq][] Google Cloud 发布首批官方智能体技能库
+  - [infoq][] Firebase 在 Google Cloud Next 大会宣布 SQL Connect、Fire
+  - [infoq][] PyTorch基金会执行董事Mark Collier在PyTorchCon Europe 2026发
+  - [infoq][] PyTorch Con EU 演讲录像上线，预告上海与圣何塞大会
+  - [infoq][] 红帽与特斯拉工程师合作优化Llama 3.1 70B推理性能
+  - [infoq][] LlamaIndex 开源文档解析器 LiteParse 发布，基于启发式方法解析复杂 PDF
+  - [量子位][] 科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆
+  - [量子位][] 香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖
+  - [量子位][] RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro
+  - [量子位][] 从GPU到Token：AI基础设施竞争逻辑重构
+  - [量子位][] 2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花
+  - [aibase][] 谷歌研发模式巨变：超七成新代码现已由人工助手生成
+  - [aibase][] 抖音发布AIGC创作新规：严禁未经授权“换脸仿声”，强调真实消费体验
+  - [aibase][] ​抖音发布新规：禁止未经授权使用他人肖像、声音及作品进行 AIGC 创作
+  - [aibase][] DeepSeek API 实现百万 Token 上下文升级
+  - [aibase][] OpenAI豪掷 15 亿美元布局B端：新合资公司“DeployCo”浮出水面
+  - [aibase][] 抖音生活服务发布AIGC创作规范：团购带货视频严禁AI生成实景
+  - [aibase][] 抖音发布生活服务AIGC创作规范:严禁未经授权使用他人肖像及声音
+  - [aibase][] 千问AI PPT重大升级:智能体架构赋能，全流程自动化制作
+  - [aibase][] ​OpenAI 推出 Euphony：一款开源的 Harmony 数据可视化工具
+  - [aibase][] 首次全年扭亏为盈后，寒武纪正面回应大厂竞争:通用芯片具备更强“技术普适性”
+  - [aibase][] ​Claude Pro 订阅方案调整：部分新用户或失去 Claude Code 使用权
+  - [aibase][] GPT-5.5 意外现身，OpenAI 智能体时代提前降临？
+  - [aibase][] ​火狐 Firefox  150 版本重磅发布，AI 助力发现 271 个安全漏洞！
+  - [aibase][] 重磅！小米 18 系列曝光：独立AI按键与“智窗”交互或成最大亮点
+  - [aibase][] Google 发布 Gemini 3.1 Pro 深度研究智能体：高效生成专业数据图表
+  - [aibase][] 教育大模型新锐“级数AI”获数千万融资，软硬一体化布局开启
+  - [aibase][] OpenAI 拟注资15亿美元成立合资公司 DeployCo，联手私募巨头加速企业级市场渗透
+  - [aibase][] 阿里巴巴发布生态级AI助手“千问小酒窝”，统一数字人形象全面接入阿里生态
+  - [aibase][] 一季度AI应用月活创新高，豆包、千问、DeepSeek稳居第一梯队
+  - [aibase][] ​佛罗里达州对 OpenAI 及其 ChatGPT 展开刑事调查，因涉及致命枪击案
+
+[2026-04-23 08:52:20] keyword_filter - OUTPUT: 43条 | 移除22条
+============================================================
+  - [huxiu][] 行业景气度高位运行，光模块企业扩产忙
+  - [huxiu][] Meta扩大AI投入，新建超10亿美元数据中心
+  - [huxiu][] 微软旗下领英任命丹·沙佩罗为新任CEO
+  - [huxiu][] OpenAI面向医生等开放ChatGPT服务
+  - [huxiu][] 马斯克：特斯拉得州新机器人厂预计2027年投产
+  - [huxiu][] Oracle AI Database扩展至全球15个Google Cloud区域
+  - [huxiu][] Infosys将OpenAI技术整合入Topaz Fabric平台
+  - [huxiu][] 法德争夺千亿欧元项目控制权，欧洲新一代战斗机项目陷入危机
+  - [huxiu][] Belo公司遭Claude AI断网，停摆15小时，申诉依靠谷歌表单
+  - [huxiu][] 智界V9给供应商下达年均约12万辆的生产量纲
+  - [infoq][] 微软CEO宣布Copilot Agent模式在Office核心应用中正式发布并设为默认
+  - [infoq][] NVIDIA与Adobe在2026年Adobe Summit上展示Omniverse库支持Firef
+  - [infoq][] Perplexity AI发布新研究，阐述如何通过后训练提升搜索增强答案准确性
+  - [infoq][] OpenAI联合创始人gdb分享Sam Altman被解雇后72小时详细内幕
+  - [infoq][] NVIDIA与Adobe、WPP合作开发品牌营销创意智能体
+  - [infoq][] OpenAI在ChatGPT中引入“工作区智能体”功能
+  - [infoq][] NVIDIA与Adobe CEO同台展示合作，共探代理式AI未来
+  - [infoq][] Google Cloud 发布首批官方智能体技能库
+  - [infoq][] Firebase 在 Google Cloud Next 大会宣布 SQL Connect、Fire
+  - [infoq][] PyTorch基金会执行董事Mark Collier在PyTorchCon Europe 2026发
+  - [infoq][] 红帽与特斯拉工程师合作优化Llama 3.1 70B推理性能
+  - [infoq][] LlamaIndex 开源文档解析器 LiteParse 发布，基于启发式方法解析复杂 PDF
+  - [量子位][] 科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆
+  - [量子位][] 香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖
+  - [量子位][] RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro
+  - [量子位][] 从GPU到Token：AI基础设施竞争逻辑重构
+  - [量子位][] 2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花
+  - [aibase][] 谷歌研发模式巨变：超七成新代码现已由人工助手生成
+  - [aibase][] 抖音发布AIGC创作新规：严禁未经授权“换脸仿声”，强调真实消费体验
+  - [aibase][] ​抖音发布新规：禁止未经授权使用他人肖像、声音及作品进行 AIGC 创作
+  - [aibase][] DeepSeek API 实现百万 Token 上下文升级
+  - [aibase][] 抖音生活服务发布AIGC创作规范：团购带货视频严禁AI生成实景
+  - [aibase][] 抖音发布生活服务AIGC创作规范:严禁未经授权使用他人肖像及声音
+  - [aibase][] 千问AI PPT重大升级:智能体架构赋能，全流程自动化制作
+  - [aibase][] ​OpenAI 推出 Euphony：一款开源的 Harmony 数据可视化工具
+  - [aibase][] ​Claude Pro 订阅方案调整：部分新用户或失去 Claude Code 使用权
+  - [aibase][] GPT-5.5 意外现身，OpenAI 智能体时代提前降临？
+  - [aibase][] ​火狐 Firefox  150 版本重磅发布，AI 助力发现 271 个安全漏洞！
+  - [aibase][] 重磅！小米 18 系列曝光：独立AI按键与“智窗”交互或成最大亮点
+  - [aibase][] Google 发布 Gemini 3.1 Pro 深度研究智能体：高效生成专业数据图表
+  - [aibase][] 阿里巴巴发布生态级AI助手“千问小酒窝”，统一数字人形象全面接入阿里生态
+  - [aibase][] 一季度AI应用月活创新高，豆包、千问、DeepSeek稳居第一梯队
+  - [aibase][] ​佛罗里达州对 OpenAI 及其 ChatGPT 展开刑事调查，因涉及致命枪击案
+
+[2026-04-23 08:52:20] bge_dedup - INPUT: 43条
+============================================================
+  - [huxiu][] 行业景气度高位运行，光模块企业扩产忙
+  - [huxiu][] Meta扩大AI投入，新建超10亿美元数据中心
+  - [huxiu][] 微软旗下领英任命丹·沙佩罗为新任CEO
+  - [huxiu][] OpenAI面向医生等开放ChatGPT服务
+  - [huxiu][] 马斯克：特斯拉得州新机器人厂预计2027年投产
+  - [huxiu][] Oracle AI Database扩展至全球15个Google Cloud区域
+  - [huxiu][] Infosys将OpenAI技术整合入Topaz Fabric平台
+  - [huxiu][] 法德争夺千亿欧元项目控制权，欧洲新一代战斗机项目陷入危机
+  - [huxiu][] Belo公司遭Claude AI断网，停摆15小时，申诉依靠谷歌表单
+  - [huxiu][] 智界V9给供应商下达年均约12万辆的生产量纲
+  - [infoq][] 微软CEO宣布Copilot Agent模式在Office核心应用中正式发布并设为默认
+  - [infoq][] NVIDIA与Adobe在2026年Adobe Summit上展示Omniverse库支持Firef
+  - [infoq][] Perplexity AI发布新研究，阐述如何通过后训练提升搜索增强答案准确性
+  - [infoq][] OpenAI联合创始人gdb分享Sam Altman被解雇后72小时详细内幕
+  - [infoq][] NVIDIA与Adobe、WPP合作开发品牌营销创意智能体
+  - [infoq][] OpenAI在ChatGPT中引入“工作区智能体”功能
+  - [infoq][] NVIDIA与Adobe CEO同台展示合作，共探代理式AI未来
+  - [infoq][] Google Cloud 发布首批官方智能体技能库
+  - [infoq][] Firebase 在 Google Cloud Next 大会宣布 SQL Connect、Fire
+  - [infoq][] PyTorch基金会执行董事Mark Collier在PyTorchCon Europe 2026发
+  - [infoq][] 红帽与特斯拉工程师合作优化Llama 3.1 70B推理性能
+  - [infoq][] LlamaIndex 开源文档解析器 LiteParse 发布，基于启发式方法解析复杂 PDF
+  - [量子位][] 科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆
+  - [量子位][] 香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖
+  - [量子位][] RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro
+  - [量子位][] 从GPU到Token：AI基础设施竞争逻辑重构
+  - [量子位][] 2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花
+  - [aibase][] 谷歌研发模式巨变：超七成新代码现已由人工助手生成
+  - [aibase][] 抖音发布AIGC创作新规：严禁未经授权“换脸仿声”，强调真实消费体验
+  - [aibase][] ​抖音发布新规：禁止未经授权使用他人肖像、声音及作品进行 AIGC 创作
+  - [aibase][] DeepSeek API 实现百万 Token 上下文升级
+  - [aibase][] 抖音生活服务发布AIGC创作规范：团购带货视频严禁AI生成实景
+  - [aibase][] 抖音发布生活服务AIGC创作规范:严禁未经授权使用他人肖像及声音
+  - [aibase][] 千问AI PPT重大升级:智能体架构赋能，全流程自动化制作
+  - [aibase][] ​OpenAI 推出 Euphony：一款开源的 Harmony 数据可视化工具
+  - [aibase][] ​Claude Pro 订阅方案调整：部分新用户或失去 Claude Code 使用权
+  - [aibase][] GPT-5.5 意外现身，OpenAI 智能体时代提前降临？
+  - [aibase][] ​火狐 Firefox  150 版本重磅发布，AI 助力发现 271 个安全漏洞！
+  - [aibase][] 重磅！小米 18 系列曝光：独立AI按键与“智窗”交互或成最大亮点
+  - [aibase][] Google 发布 Gemini 3.1 Pro 深度研究智能体：高效生成专业数据图表
+  - [aibase][] 阿里巴巴发布生态级AI助手“千问小酒窝”，统一数字人形象全面接入阿里生态
+  - [aibase][] 一季度AI应用月活创新高，豆包、千问、DeepSeek稳居第一梯队
+  - [aibase][] ​佛罗里达州对 OpenAI 及其 ChatGPT 展开刑事调查，因涉及致命枪击案
+
+[2026-04-23 08:52:48] bge_dedup - OUTPUT: 41条 | 移除2条
+============================================================
+  - [huxiu][] 行业景气度高位运行，光模块企业扩产忙
+  - [huxiu][] Meta扩大AI投入，新建超10亿美元数据中心
+  - [huxiu][] 微软旗下领英任命丹·沙佩罗为新任CEO
+  - [huxiu][] OpenAI面向医生等开放ChatGPT服务
+  - [huxiu][] 马斯克：特斯拉得州新机器人厂预计2027年投产
+  - [huxiu][] Oracle AI Database扩展至全球15个Google Cloud区域
+  - [huxiu][] Infosys将OpenAI技术整合入Topaz Fabric平台
+  - [huxiu][] 法德争夺千亿欧元项目控制权，欧洲新一代战斗机项目陷入危机
+  - [huxiu][] Belo公司遭Claude AI断网，停摆15小时，申诉依靠谷歌表单
+  - [huxiu][] 智界V9给供应商下达年均约12万辆的生产量纲
+  - [infoq][] 微软CEO宣布Copilot Agent模式在Office核心应用中正式发布并设为默认
+  - [infoq][] NVIDIA与Adobe在2026年Adobe Summit上展示Omniverse库支持Firef
+  - [infoq][] Perplexity AI发布新研究，阐述如何通过后训练提升搜索增强答案准确性
+  - [infoq][] OpenAI联合创始人gdb分享Sam Altman被解雇后72小时详细内幕
+  - [infoq][] NVIDIA与Adobe、WPP合作开发品牌营销创意智能体
+  - [infoq][] OpenAI在ChatGPT中引入“工作区智能体”功能
+  - [infoq][] NVIDIA与Adobe CEO同台展示合作，共探代理式AI未来
+  - [infoq][] Google Cloud 发布首批官方智能体技能库
+  - [infoq][] Firebase 在 Google Cloud Next 大会宣布 SQL Connect、Fire
+  - [infoq][] PyTorch基金会执行董事Mark Collier在PyTorchCon Europe 2026发
+  - [infoq][] 红帽与特斯拉工程师合作优化Llama 3.1 70B推理性能
+  - [infoq][] LlamaIndex 开源文档解析器 LiteParse 发布，基于启发式方法解析复杂 PDF
+  - [量子位][] 科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆
+  - [量子位][] 香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖
+  - [量子位][] RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro
+  - [量子位][] 从GPU到Token：AI基础设施竞争逻辑重构
+  - [量子位][] 2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花
+  - [aibase][] 谷歌研发模式巨变：超七成新代码现已由人工助手生成
+  - [aibase][] 抖音发布AIGC创作新规：严禁未经授权“换脸仿声”，强调真实消费体验
+  - [aibase][] DeepSeek API 实现百万 Token 上下文升级
+  - [aibase][] 抖音生活服务发布AIGC创作规范：团购带货视频严禁AI生成实景
+  - [aibase][] 千问AI PPT重大升级:智能体架构赋能，全流程自动化制作
+  - [aibase][] ​OpenAI 推出 Euphony：一款开源的 Harmony 数据可视化工具
+  - [aibase][] ​Claude Pro 订阅方案调整：部分新用户或失去 Claude Code 使用权
+  - [aibase][] GPT-5.5 意外现身，OpenAI 智能体时代提前降临？
+  - [aibase][] ​火狐 Firefox  150 版本重磅发布，AI 助力发现 271 个安全漏洞！
+  - [aibase][] 重磅！小米 18 系列曝光：独立AI按键与“智窗”交互或成最大亮点
+  - [aibase][] Google 发布 Gemini 3.1 Pro 深度研究智能体：高效生成专业数据图表
+  - [aibase][] 阿里巴巴发布生态级AI助手“千问小酒窝”，统一数字人形象全面接入阿里生态
+  - [aibase][] 一季度AI应用月活创新高，豆包、千问、DeepSeek稳居第一梯队
+  - [aibase][] ​佛罗里达州对 OpenAI 及其 ChatGPT 展开刑事调查，因涉及致命枪击案
+
+[2026-04-23 08:52:48] llm_classify - INPUT: 41条
+============================================================
+  - [huxiu][] 行业景气度高位运行，光模块企业扩产忙
+  - [huxiu][] Meta扩大AI投入，新建超10亿美元数据中心
+  - [huxiu][] 微软旗下领英任命丹·沙佩罗为新任CEO
+  - [huxiu][] OpenAI面向医生等开放ChatGPT服务
+  - [huxiu][] 马斯克：特斯拉得州新机器人厂预计2027年投产
+  - [huxiu][] Oracle AI Database扩展至全球15个Google Cloud区域
+  - [huxiu][] Infosys将OpenAI技术整合入Topaz Fabric平台
+  - [huxiu][] 法德争夺千亿欧元项目控制权，欧洲新一代战斗机项目陷入危机
+  - [huxiu][] Belo公司遭Claude AI断网，停摆15小时，申诉依靠谷歌表单
+  - [huxiu][] 智界V9给供应商下达年均约12万辆的生产量纲
+  - [infoq][] 微软CEO宣布Copilot Agent模式在Office核心应用中正式发布并设为默认
+  - [infoq][] NVIDIA与Adobe在2026年Adobe Summit上展示Omniverse库支持Firef
+  - [infoq][] Perplexity AI发布新研究，阐述如何通过后训练提升搜索增强答案准确性
+  - [infoq][] OpenAI联合创始人gdb分享Sam Altman被解雇后72小时详细内幕
+  - [infoq][] NVIDIA与Adobe、WPP合作开发品牌营销创意智能体
+  - [infoq][] OpenAI在ChatGPT中引入“工作区智能体”功能
+  - [infoq][] NVIDIA与Adobe CEO同台展示合作，共探代理式AI未来
+  - [infoq][] Google Cloud 发布首批官方智能体技能库
+  - [infoq][] Firebase 在 Google Cloud Next 大会宣布 SQL Connect、Fire
+  - [infoq][] PyTorch基金会执行董事Mark Collier在PyTorchCon Europe 2026发
+  - [infoq][] 红帽与特斯拉工程师合作优化Llama 3.1 70B推理性能
+  - [infoq][] LlamaIndex 开源文档解析器 LiteParse 发布，基于启发式方法解析复杂 PDF
+  - [量子位][] 科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆
+  - [量子位][] 香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖
+  - [量子位][] RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro
+  - [量子位][] 从GPU到Token：AI基础设施竞争逻辑重构
+  - [量子位][] 2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花
+  - [aibase][] 谷歌研发模式巨变：超七成新代码现已由人工助手生成
+  - [aibase][] 抖音发布AIGC创作新规：严禁未经授权“换脸仿声”，强调真实消费体验
+  - [aibase][] DeepSeek API 实现百万 Token 上下文升级
+  - [aibase][] 抖音生活服务发布AIGC创作规范：团购带货视频严禁AI生成实景
+  - [aibase][] 千问AI PPT重大升级:智能体架构赋能，全流程自动化制作
+  - [aibase][] ​OpenAI 推出 Euphony：一款开源的 Harmony 数据可视化工具
+  - [aibase][] ​Claude Pro 订阅方案调整：部分新用户或失去 Claude Code 使用权
+  - [aibase][] GPT-5.5 意外现身，OpenAI 智能体时代提前降临？
+  - [aibase][] ​火狐 Firefox  150 版本重磅发布，AI 助力发现 271 个安全漏洞！
+  - [aibase][] 重磅！小米 18 系列曝光：独立AI按键与“智窗”交互或成最大亮点
+  - [aibase][] Google 发布 Gemini 3.1 Pro 深度研究智能体：高效生成专业数据图表
+  - [aibase][] 阿里巴巴发布生态级AI助手“千问小酒窝”，统一数字人形象全面接入阿里生态
+  - [aibase][] 一季度AI应用月活创新高，豆包、千问、DeepSeek稳居第一梯队
+  - [aibase][] ​佛罗里达州对 OpenAI 及其 ChatGPT 展开刑事调查，因涉及致命枪击案
+
+[2026-04-23 08:53:36] llm_classify - OUTPUT: 39条 | 保留39条
+============================================================
+  - [huxiu][智能硬件] 行业景气度高位运行，光模块企业扩产忙
+  - [huxiu][国外AI资讯] Meta扩大AI投入，新建超10亿美元数据中心
+  - [huxiu][国外AI资讯] OpenAI面向医生等开放ChatGPT服务
+  - [huxiu][智能硬件] 马斯克：特斯拉得州新机器人厂预计2027年投产
+  - [huxiu][国外AI资讯] Oracle AI Database扩展至全球15个Google Cloud区域
+  - [huxiu][国外AI资讯] Infosys将OpenAI技术整合入Topaz Fabric平台
+  - [huxiu][国外AI资讯] Belo公司遭Claude AI断网，停摆15小时，申诉依靠谷歌表单
+  - [huxiu][智能硬件] 智界V9给供应商下达年均约12万辆的生产量纲
+  - [infoq][国外AI资讯] 微软CEO宣布Copilot Agent模式在Office核心应用中正式发布并设为默认
+  - [infoq][国外AI资讯] NVIDIA与Adobe在2026年Adobe Summit上展示Omniverse库支持Firef
+  - [infoq][国外AI资讯] Perplexity AI发布新研究，阐述如何通过后训练提升搜索增强答案准确性
+  - [infoq][国外AI资讯] OpenAI联合创始人gdb分享Sam Altman被解雇后72小时详细内幕
+  - [infoq][国外AI资讯] NVIDIA与Adobe、WPP合作开发品牌营销创意智能体
+  - [infoq][国外AI资讯] OpenAI在ChatGPT中引入“工作区智能体”功能
+  - [infoq][国外AI资讯] NVIDIA与Adobe CEO同台展示合作，共探代理式AI未来
+  - [infoq][国外AI资讯] Google Cloud 发布首批官方智能体技能库
+  - [infoq][国外AI资讯] Firebase 在 Google Cloud Next 大会宣布 SQL Connect、Fire
+  - [infoq][国外AI资讯] PyTorch基金会执行董事Mark Collier在PyTorchCon Europe 2026发
+  - [infoq][国外AI资讯] 红帽与特斯拉工程师合作优化Llama 3.1 70B推理性能
+  - [infoq][国外AI资讯] LlamaIndex 开源文档解析器 LiteParse 发布，基于启发式方法解析复杂 PDF
+  - [量子位][国内AI资讯] 科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆
+  - [量子位][国内AI资讯] 香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖
+  - [量子位][智能硬件] RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro
+  - [量子位][国内AI资讯] 从GPU到Token：AI基础设施竞争逻辑重构
+  - [量子位][智能硬件] 2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花
+  - [aibase][国外AI资讯] 谷歌研发模式巨变：超七成新代码现已由人工助手生成
+  - [aibase][国内AI资讯] 抖音发布AIGC创作新规：严禁未经授权“换脸仿声”，强调真实消费体验
+  - [aibase][国外AI资讯] DeepSeek API 实现百万 Token 上下文升级
+  - [aibase][国内AI资讯] 抖音生活服务发布AIGC创作规范：团购带货视频严禁AI生成实景
+  - [aibase][国内AI资讯] 千问AI PPT重大升级:智能体架构赋能，全流程自动化制作
+  - [aibase][国外AI资讯] ​OpenAI 推出 Euphony：一款开源的 Harmony 数据可视化工具
+  - [aibase][国外AI资讯] ​Claude Pro 订阅方案调整：部分新用户或失去 Claude Code 使用权
+  - [aibase][国外AI资讯] GPT-5.5 意外现身，OpenAI 智能体时代提前降临？
+  - [aibase][智能硬件] ​火狐 Firefox  150 版本重磅发布，AI 助力发现 271 个安全漏洞！
+  - [aibase][智能硬件] 重磅！小米 18 系列曝光：独立AI按键与“智窗”交互或成最大亮点
+  - [aibase][国外AI资讯] Google 发布 Gemini 3.1 Pro 深度研究智能体：高效生成专业数据图表
+  - [aibase][国内AI资讯] 阿里巴巴发布生态级AI助手“千问小酒窝”，统一数字人形象全面接入阿里生态
+  - [aibase][国内AI资讯] 一季度AI应用月活创新高，豆包、千问、DeepSeek稳居第一梯队
+  - [aibase][国外AI资讯] ​佛罗里达州对 OpenAI 及其 ChatGPT 展开刑事调查，因涉及致命枪击案
+
+[2026-04-23 08:53:36] llm_summary - INPUT: 39条
+============================================================
+  - [huxiu][智能硬件] 行业景气度高位运行，光模块企业扩产忙
+  - [huxiu][国外AI资讯] Meta扩大AI投入，新建超10亿美元数据中心
+  - [huxiu][国外AI资讯] OpenAI面向医生等开放ChatGPT服务
+  - [huxiu][智能硬件] 马斯克：特斯拉得州新机器人厂预计2027年投产
+  - [huxiu][国外AI资讯] Oracle AI Database扩展至全球15个Google Cloud区域
+  - [huxiu][国外AI资讯] Infosys将OpenAI技术整合入Topaz Fabric平台
+  - [huxiu][国外AI资讯] Belo公司遭Claude AI断网，停摆15小时，申诉依靠谷歌表单
+  - [huxiu][智能硬件] 智界V9给供应商下达年均约12万辆的生产量纲
+  - [infoq][国外AI资讯] 微软CEO宣布Copilot Agent模式在Office核心应用中正式发布并设为默认
+  - [infoq][国外AI资讯] NVIDIA与Adobe在2026年Adobe Summit上展示Omniverse库支持Firef
+  - [infoq][国外AI资讯] Perplexity AI发布新研究，阐述如何通过后训练提升搜索增强答案准确性
+  - [infoq][国外AI资讯] OpenAI联合创始人gdb分享Sam Altman被解雇后72小时详细内幕
+  - [infoq][国外AI资讯] NVIDIA与Adobe、WPP合作开发品牌营销创意智能体
+  - [infoq][国外AI资讯] OpenAI在ChatGPT中引入“工作区智能体”功能
+  - [infoq][国外AI资讯] NVIDIA与Adobe CEO同台展示合作，共探代理式AI未来
+  - [infoq][国外AI资讯] Google Cloud 发布首批官方智能体技能库
+  - [infoq][国外AI资讯] Firebase 在 Google Cloud Next 大会宣布 SQL Connect、Fire
+  - [infoq][国外AI资讯] PyTorch基金会执行董事Mark Collier在PyTorchCon Europe 2026发
+  - [infoq][国外AI资讯] 红帽与特斯拉工程师合作优化Llama 3.1 70B推理性能
+  - [infoq][国外AI资讯] LlamaIndex 开源文档解析器 LiteParse 发布，基于启发式方法解析复杂 PDF
+  - [量子位][国内AI资讯] 科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆
+  - [量子位][国内AI资讯] 香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖
+  - [量子位][智能硬件] RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro
+  - [量子位][国内AI资讯] 从GPU到Token：AI基础设施竞争逻辑重构
+  - [量子位][智能硬件] 2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花
+  - [aibase][国外AI资讯] 谷歌研发模式巨变：超七成新代码现已由人工助手生成
+  - [aibase][国内AI资讯] 抖音发布AIGC创作新规：严禁未经授权“换脸仿声”，强调真实消费体验
+  - [aibase][国外AI资讯] DeepSeek API 实现百万 Token 上下文升级
+  - [aibase][国内AI资讯] 抖音生活服务发布AIGC创作规范：团购带货视频严禁AI生成实景
+  - [aibase][国内AI资讯] 千问AI PPT重大升级:智能体架构赋能，全流程自动化制作
+  - [aibase][国外AI资讯] ​OpenAI 推出 Euphony：一款开源的 Harmony 数据可视化工具
+  - [aibase][国外AI资讯] ​Claude Pro 订阅方案调整：部分新用户或失去 Claude Code 使用权
+  - [aibase][国外AI资讯] GPT-5.5 意外现身，OpenAI 智能体时代提前降临？
+  - [aibase][智能硬件] ​火狐 Firefox  150 版本重磅发布，AI 助力发现 271 个安全漏洞！
+  - [aibase][智能硬件] 重磅！小米 18 系列曝光：独立AI按键与“智窗”交互或成最大亮点
+  - [aibase][国外AI资讯] Google 发布 Gemini 3.1 Pro 深度研究智能体：高效生成专业数据图表
+  - [aibase][国内AI资讯] 阿里巴巴发布生态级AI助手“千问小酒窝”，统一数字人形象全面接入阿里生态
+  - [aibase][国内AI资讯] 一季度AI应用月活创新高，豆包、千问、DeepSeek稳居第一梯队
+  - [aibase][国外AI资讯] ​佛罗里达州对 OpenAI 及其 ChatGPT 展开刑事调查，因涉及致命枪击案
+
+[2026-04-23 08:54:17] llm_summary - OUTPUT: 39条 | 成功39条
+============================================================
+  - [huxiu][智能硬件] 行业景气度高位运行，光模块企业扩产忙
+  - [huxiu][国外AI资讯] Meta扩大AI投入，新建超10亿美元数据中心
+  - [huxiu][国外AI资讯] OpenAI面向医生等开放ChatGPT服务
+  - [huxiu][智能硬件] 马斯克：特斯拉得州新机器人厂预计2027年投产
+  - [huxiu][国外AI资讯] Oracle AI Database扩展至全球15个Google Cloud区域
+  - [huxiu][国外AI资讯] Infosys将OpenAI技术整合入Topaz Fabric平台
+  - [huxiu][国外AI资讯] Belo公司遭Claude AI断网，停摆15小时，申诉依靠谷歌表单
+  - [huxiu][智能硬件] 智界V9给供应商下达年均约12万辆的生产量纲
+  - [infoq][国外AI资讯] 微软CEO宣布Copilot Agent模式在Office核心应用中正式发布并设为默认
+  - [infoq][国外AI资讯] NVIDIA与Adobe在2026年Adobe Summit上展示Omniverse库支持Firef
+  - [infoq][国外AI资讯] Perplexity AI发布新研究，阐述如何通过后训练提升搜索增强答案准确性
+  - [infoq][国外AI资讯] OpenAI联合创始人gdb分享Sam Altman被解雇后72小时详细内幕
+  - [infoq][国外AI资讯] NVIDIA与Adobe、WPP合作开发品牌营销创意智能体
+  - [infoq][国外AI资讯] OpenAI在ChatGPT中引入“工作区智能体”功能
+  - [infoq][国外AI资讯] NVIDIA与Adobe CEO同台展示合作，共探代理式AI未来
+  - [infoq][国外AI资讯] Google Cloud 发布首批官方智能体技能库
+  - [infoq][国外AI资讯] Firebase 在 Google Cloud Next 大会宣布 SQL Connect、Fire
+  - [infoq][国外AI资讯] PyTorch基金会执行董事Mark Collier在PyTorchCon Europe 2026发
+  - [infoq][国外AI资讯] 红帽与特斯拉工程师合作优化Llama 3.1 70B推理性能
+  - [infoq][国外AI资讯] LlamaIndex 开源文档解析器 LiteParse 发布，基于启发式方法解析复杂 PDF
+  - [量子位][国内AI资讯] 科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆
+  - [量子位][国内AI资讯] 香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖
+  - [量子位][智能硬件] RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro
+  - [量子位][国内AI资讯] 从GPU到Token：AI基础设施竞争逻辑重构
+  - [量子位][智能硬件] 2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花
+  - [aibase][国外AI资讯] 谷歌研发模式巨变：超七成新代码现已由人工助手生成
+  - [aibase][国内AI资讯] 抖音发布AIGC创作新规：严禁未经授权“换脸仿声”，强调真实消费体验
+  - [aibase][国外AI资讯] DeepSeek API 实现百万 Token 上下文升级
+  - [aibase][国内AI资讯] 抖音生活服务发布AIGC创作规范：团购带货视频严禁AI生成实景
+  - [aibase][国内AI资讯] 千问AI PPT重大升级:智能体架构赋能，全流程自动化制作
+  - [aibase][国外AI资讯] ​OpenAI 推出 Euphony：一款开源的 Harmony 数据可视化工具
+  - [aibase][国外AI资讯] ​Claude Pro 订阅方案调整：部分新用户或失去 Claude Code 使用权
+  - [aibase][国外AI资讯] GPT-5.5 意外现身，OpenAI 智能体时代提前降临？
+  - [aibase][智能硬件] ​火狐 Firefox  150 版本重磅发布，AI 助力发现 271 个安全漏洞！
+  - [aibase][智能硬件] 重磅！小米 18 系列曝光：独立AI按键与“智窗”交互或成最大亮点
+  - [aibase][国外AI资讯] Google 发布 Gemini 3.1 Pro 深度研究智能体：高效生成专业数据图表
+  - [aibase][国内AI资讯] 阿里巴巴发布生态级AI助手“千问小酒窝”，统一数字人形象全面接入阿里生态
+  - [aibase][国内AI资讯] 一季度AI应用月活创新高，豆包、千问、DeepSeek稳居第一梯队
+  - [aibase][国外AI资讯] ​佛罗里达州对 OpenAI 及其 ChatGPT 展开刑事调查，因涉及致命枪击案

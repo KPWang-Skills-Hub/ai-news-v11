@@ -1,0 +1,485 @@
+[
+  {
+    "title": "行业景气度高位运行，光模块企业扩产忙",
+    "desc": "全球AI专用光收发模块市场进入高速成长阶段，预估市场规模将从2025年165亿美元扩大至2026年260亿美元，年增超过57%。800G以上高速光收发模块在全球出货占比预估将从2024年的19.5%上升至2026年的60%以上，逐渐成为AI数据中心标准配备，推动光模块企业大规模扩产。",
+    "link": "https://www.huxiu.com/ainews/11327.html",
+    "source": "huxiu",
+    "time_ago": "41分钟前",
+    "category": "智能硬件",
+    "summary": "全球AI专用光收发模块市场正经历高速增长期。行业研究显示，该市场规模预计从2025年的165亿美元攀升至2026年的260亿美元，年增长率超过57%。高速光模块方面，800G以上产品在全球出货量中的占比预计从2024年的19.5%跃升至2026年的60%以上，逐步成为AI数据中心的标准配置。面对这一趋势，光模块企业纷纷启动大规模扩产计划，以应对市场需求。",
+    "rewritten_title": "AI驱动光模块市场爆发 2026年规模或超260亿美元",
+    "content": "",
+    "extra": {
+      "publish_time": 1776903008300
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "Meta扩大AI投入，新建超10亿美元数据中心",
+    "desc": "Meta公司于4月22日宣布在俄克拉荷马州塔尔萨市启动一座超10亿美元数据中心建设项目，作为其加速人工智能基础设施战略的重要举措。",
+    "link": "https://www.huxiu.com/ainews/11324.html",
+    "source": "huxiu",
+    "time_ago": "1小时前",
+    "category": "国外AI资讯",
+    "summary": "Meta公司4月22日宣布，将在俄克拉荷马州塔尔萨市投资建设一座超10亿美元的数据中心。该项目是Meta加速推进人工智能基础设施建设战略的重要组成部分。塔尔萨市作为美国重要能源枢纽，此次数据中心选址将有助于Meta优化其在北美的AI算力布局，支撑其持续扩大的AI业务需求。",
+    "rewritten_title": "Meta斥资逾10亿美元 俄克拉荷马州新建数据中心",
+    "content": "",
+    "extra": {
+      "publish_time": 1776901204433
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "OpenAI面向医生等开放ChatGPT服务",
+    "desc": "OpenAI推出面向医疗机构和个人用户的ChatGPT医疗保健相关产品，包括ChatGPT医疗保健版和ChatGPT Health，已在美国多家领先医疗机构部署，用户规模达到数千万量级，在医疗领域的应用范围和深度不断扩大。",
+    "link": "https://www.huxiu.com/ainews/11320.html",
+    "source": "huxiu",
+    "time_ago": "2小时前",
+    "category": "国外AI资讯",
+    "summary": "OpenAI正式推出面向医疗机构及个人用户的ChatGPT医疗保健产品线，包括ChatGPT医疗保健版和ChatGPT Health。目前，该服务已在美国多家领先医疗机构完成部署，用户规模达到数千万量级。ChatGPT在医疗领域的应用范围和深度正在持续扩展，为医疗行业提供智能化辅助工具。",
+    "rewritten_title": "OpenAI拓展医疗版图 ChatGPT服务覆盖数千万用户",
+    "content": "",
+    "extra": {
+      "publish_time": 1776898210024
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "马斯克：特斯拉得州新机器人厂预计2027年投产",
+    "desc": "特斯拉CEO马斯克宣布，Optimus 3（擎天柱3代）将于今年夏季在弗里蒙特工厂启动生产，2027年实现大规模量产。同时，为支撑更庞大的产能需求，特斯拉计划在得克萨斯州超级工厂生产Optimus 4，年产能目标达1000万台，并宣布与SpaceX和xAI联合启动TERAFAB芯片制造项目以实现芯片自主可控。",
+    "link": "https://www.huxiu.com/ainews/11319.html",
+    "source": "huxiu",
+    "time_ago": "2小时前",
+    "category": "智能硬件",
+    "summary": "特斯拉CEO马斯克宣布，Optimus三代机器人将于今年夏季在弗里蒙特工厂启动生产，2027年实现大规模量产。同时，特斯拉计划在得克萨斯州超级工厂生产Optimus四代机器人，年产能目标定为1000万台。此外，特斯拉与SpaceX、xAI联合启动TERAFAB芯片制造项目，目标是实现芯片自主可控，完善机器人产业链布局。",
+    "rewritten_title": "特斯拉Optimus即将投产 得州工厂目标年产千万台",
+    "content": "",
+    "extra": {
+      "publish_time": 1776895806661
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "Oracle AI Database扩展至全球15个Google Cloud区域",
+    "desc": "甲骨文（Oracle）与谷歌云（Google Cloud）进一步深化合作，在全球多个区域扩展Oracle AI数据库服务。根据最新信息，Oracle在Google Cloud上已建立起覆盖多个地理位置的部署网络，为企业提供统一的多云AI数据库解决方案。",
+    "link": "https://www.huxiu.com/ainews/11309.html",
+    "source": "huxiu",
+    "time_ago": "12小时前",
+    "category": "国外AI资讯",
+    "summary": "甲骨文与谷歌云进一步深化合作，在全球多个区域扩展Oracle AI数据库服务。目前，Oracle在Google Cloud上已建立覆盖多个地理位置的部署网络，为企业用户提供统一的多云AI数据库解决方案。此举将帮助企业在不同区域灵活部署AI应用，提升数据管理效率。",
+    "rewritten_title": "甲骨文AI数据库服务扩展至全球15个Google Cloud区域",
+    "content": "",
+    "extra": {
+      "publish_time": 1776861068839
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "Infosys将OpenAI技术整合入Topaz Fabric平台",
+    "desc": "Infosys宣布与OpenAI深化战略合作，将整合OpenAI的先进AI技术与其企业级AI平台Topaz Fabric进行全面集成，旨在为全球客户提供更为强大的生成式AI驱动的数字转型解决方案，推动AI在企业应用中的深度赋能。",
+    "link": "https://www.huxiu.com/ainews/11303.html",
+    "source": "huxiu",
+    "time_ago": "13小时前",
+    "category": "国外AI资讯",
+    "summary": "Infosys宣布与OpenAI深化战略合作，将OpenAI先进AI技术全面整合至其企业级AI平台Topaz Fabric。通过此次集成，Infosys旨在为全球客户提供更强大的生成式AI驱动数字转型解决方案，推动AI在企业应用领域的深度赋能，助力企业实现业务流程智能化升级。",
+    "rewritten_title": "Infosys联手OpenAI 打造企业级生成式AI解决方案",
+    "content": "",
+    "extra": {
+      "publish_time": 1776855608033
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "Belo公司遭Claude AI断网，停摆15小时，申诉依靠谷歌表单",
+    "desc": "Anthropic于4月19日无预警切断Belo公司访问Claude的权限，导致60名员工工作停摆约15小时，引发舆论风波。Anthropic在自动邮件中仅以模糊的",
+    "link": "https://www.huxiu.com/ainews/11288.html",
+    "source": "huxiu",
+    "time_ago": "18小时前",
+    "category": "国外AI资讯",
+    "summary": "人工智能公司Anthropic于4月19日无预警切断了Belo公司访问Claude的权限，导致该公司60名员工工作停摆约15小时，此举引发舆论关注。在此次事件中，Anthropic仅通过自动邮件发送了模糊的说明，未提供清晰的解释和解决方案。",
+    "rewritten_title": "Claude无预警切断Belo公司访问权限 60名员工受影响停工",
+    "content": "",
+    "extra": {
+      "publish_time": 1776838804476
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "智界V9给供应商下达年均约12万辆的生产量纲",
+    "desc": "智界汽车已向供应商下达年均约12万辆的生产量纲，智界V9将于4月22日开启预订。该车采用增程式动力系统，搭载53度电池与60升油箱，综合续航最高可达1250公里，产能规划接近别克GL8去年全年销量，目标瞄准高端MPV市场。",
+    "link": "https://www.huxiu.com/ainews/11277.html",
+    "source": "huxiu",
+    "time_ago": "21小时前",
+    "category": "智能硬件",
+    "summary": "智界汽车已向供应商下达年均约12万辆的生产量纲规划。智界V9车型将于4月22日开启预订，该车采用增程式动力系统，搭载53度电池和60升油箱，综合续航最高可达1250公里。年内产能规划接近别克GL8去年全年销量，显示出该品牌进军高端MPV市场的明确目标。",
+    "rewritten_title": "智界V9即将开启预订 年产能规划约12万辆",
+    "content": "",
+    "extra": {
+      "publish_time": 1776828007458
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "微软CEO宣布Copilot Agent模式在Office核心应用中正式发布并设为默认",
+    "desc": "微软首席执行官Satya Nadella宣布对Copilot体验进行重大更改。Agent模式现已正式发布，并成为Word、Excel和PowerPoint中Copilot的默认设置。微软表示，随着模型能力增强，他们正将这种能力带到实际工作发生的场景中，即直接在画布（canvas）中。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "27分钟前",
+    "category": "国外AI资讯",
+    "summary": "微软首席执行官Satya Nadella宣布对Copilot体验进行重大升级。Agent模式现已正式发布，并成为Word、Excel和PowerPoint中Copilot的默认设置。微软表示，随着模型能力持续增强，正将这种能力直接带入实际工作场景，即在文档画布中实现智能化辅助办公。",
+    "rewritten_title": "微软Copilot Agent模式上线 已成为Office核心应用默认设置",
+    "content": "",
+    "extra": {
+      "collect_time": 1776903850461
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "NVIDIA与Adobe在2026年Adobe Summit上展示Omniverse库支持Firefly",
+    "desc": "近日，在2026年Adobe Summit上，NVIDIA与Adobe展示了Omniverse库如何为Adobe Firefly提供支持，并将创意机会从设计阶段扩展到制造领域。该展示预告了相关主题演讲，并包含一个外部链接。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "1小时前",
+    "category": "国外AI资讯",
+    "summary": "近日在2026年Adobe Summit上，NVIDIA与Adobe联合展示Omniverse库如何为Adobe Firefly提供支持，将创意机会从设计阶段扩展至制造领域。此次技术展示为相关主题演讲的重要内容，预示着双方在AI创意工具领域的深度合作方向。",
+    "rewritten_title": "NVIDIA与Adobe合作 Omniverse库支持Firefly服务",
+    "content": "",
+    "extra": {
+      "collect_time": 1776901450581
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "Perplexity AI发布新研究，阐述如何通过后训练提升搜索增强答案准确性",
+    "desc": "Perplexity AI近日发布了一项新研究，阐述了其如何通过后训练模型来提升搜索增强答案的准确性。研究指出，其采用的SFT + RL训练流程，改进了搜索质量、引用质量、指令遵循能力和效率。文中观点认为，使用Qwen模型，可以在更低的成本下，在事实准确性方面达到或超越GPT模型。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "1小时前",
+    "category": "国外AI资讯",
+    "summary": "Perplexity AI近日发布研究成果，阐述如何通过后训练模型提升搜索增强答案的准确性。该研究采用SFT+RL训练流程，在搜索质量、引用质量、指令遵循能力和效率方面均有改进。研究表明，使用Qwen模型可在更低成本下达到或超越GPT模型的事实准确性水平。",
+    "rewritten_title": "Perplexity AI发布新研究 后训练显著提升搜索答案准确性",
+    "content": "",
+    "extra": {
+      "collect_time": 1776901450579
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "OpenAI联合创始人gdb分享Sam Altman被解雇后72小时详细内幕",
+    "desc": "OpenAI联合创始人@gdb近日与@shaneparrish进行了一次深度对话，并发布了完整播客。据推文预告，该播客包含了关于Sam Altman被解雇后72小时内最详细的第一人称叙述。此外，对话还深入探讨了全球AGI竞赛的未来、ChatGPT停止展示推理的原因，以及OpenAI自身代码的当前存放地址。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "1小时前",
+    "category": "国外AI资讯",
+    "summary": "OpenAI联合创始人@gdb与@shaneparrish进行深度对话并发布完整播客。该播客包含关于Sam Altman被解雇后72小时内最详细的第一人称叙述。此外，对话还深入探讨全球AGI竞赛未来、ChatGPT停止展示推理的原因，以及OpenAI自身代码的当前存放地址等关键话题。",
+    "rewritten_title": "OpenAI联合创始人首次披露Altman被解雇72小时完整内情",
+    "content": "",
+    "extra": {
+      "collect_time": 1776900370964
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "NVIDIA与Adobe、WPP合作开发品牌营销创意智能体",
+    "desc": "NVIDIA宣布与Adobe和WPP合作，共同开发旨在为品牌营销提供定制化、持续在线内容的创意智能体。该合作由NVIDIA Nemotron和OpenShell提供技术支持，用于构建和运行安全的智能体AI系统。在Adobe Summit期间，WPP分享了其与Adobe扩大合作的新成果，具体通过WPP Production的HEX Studio、Adobe Firefly Foundry和NVIDIA OpenShell，将智能体AI引入创意工作流程。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "1小时前",
+    "category": "国外AI资讯",
+    "summary": "NVIDIA宣布与Adobe和WPP合作，共同开发为品牌营销提供定制化、持续在线内容的创意智能体。该合作由NVIDIA Nemotron和OpenShell提供技术支持，用于构建和运行安全的智能体AI系统。在Adobe Summit期间，WPP分享了通过WPP Production HEX Studio、Adobe Firefly Foundry和NVIDIA OpenShell将智能体AI引入创意工作流程的合作成果。",
+    "rewritten_title": "NVIDIA联手Adobe与WPP 共建品牌营销创意智能体",
+    "content": "",
+    "extra": {
+      "collect_time": 1776900251209
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "OpenAI在ChatGPT中引入“工作区智能体”功能",
+    "desc": "OpenAI近日在ChatGPT中引入了“工作区智能体”功能。据文中观点，该功能将平台从对话式聊天机器人转变为自主、协作的工作引擎。这些共享智能体能够跨工具和团队处理复杂任务和长期运行的工作流。目前，该功能以研究预览形式向Business、Enterprise和Education计划用户提供。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "1小时前",
+    "category": "国外AI资讯",
+    "summary": "OpenAI近日在ChatGPT中引入工作区智能体功能。该功能将平台从对话式聊天机器人转变为自主、协作的工作引擎。这些共享智能体能够跨工具和团队处理复杂任务和长期运行的工作流。该功能目前以研究预览形式向Business、Enterprise和Education计划用户提供。",
+    "rewritten_title": "OpenAI推出工作区智能体 ChatGPT转型协作工作引擎",
+    "content": "",
+    "extra": {
+      "collect_time": 1776899050647
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "NVIDIA与Adobe CEO同台展示合作，共探代理式AI未来",
+    "desc": "近日，NVIDIA首席执行官黄仁勋与Adobe首席执行官Shantanu Narayen在Adobe Summit上共同登台，展示了双方的合作。根据NVIDIA官方发布的消息，此次合作旨在构建代理式人工智能（agentic AI）的未来。原文未提供关于合作的具体技术细节、产品、模型、指标、时间表或具体应用场景。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "2小时前",
+    "category": "国外AI资讯",
+    "summary": "近日NVIDIA首席执行官黄仁勋与Adobe首席执行官Shantanu Narayen在Adobe Summit上共同登台，展示双方合作成果。根据NVIDIA官方发布的消息，此次合作旨在构建代理式人工智能的未来。目前尚未公布合作的具体技术细节、产品信息、模型参数、实施时间表或具体应用场景。",
+    "rewritten_title": "NVIDIA与Adobe CEO同台 共同展望代理式AI未来",
+    "content": "",
+    "extra": {
+      "collect_time": 1776897911981
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "Google Cloud 发布首批官方智能体技能库",
+    "desc": "Google Cloud 团队宣布发布了首批用于 Google Cloud 的官方智能体技能。该资源库的初始版本覆盖了13个顶级产品、Google Well Architected 框架的3个支柱以及3个常见任务（例如身份验证）。用户可以通过链接将这些技能集成到他们喜欢的智能体工具中。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "2小时前",
+    "category": "国外AI资讯",
+    "summary": "Google Cloud团队宣布发布首批用于Google Cloud的官方智能体技能。该资源库初始版本覆盖13个顶级产品、Google Well Architected框架的3个支柱以及3个常见任务如身份验证。用户可通过链接将这些技能集成到其偏好的智能体工具中。",
+    "rewritten_title": "Google Cloud发布首批官方智能体技能库 覆盖13个核心产品",
+    "content": "",
+    "extra": {
+      "collect_time": 1776895508008
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "Firebase 在 Google Cloud Next 大会宣布 SQL Connect、Firestore Enterprise 与 ADC 集成",
+    "desc": "在近日举行的 Google Cloud Next 大会上，Firebase 宣布了三项重要更新。首先，Firebase Data Connect 已进化为 Firebase SQL Connect，允许移动和 Web 客户端应用直接连接至 Cloud SQL for PostgreSQL，支持使用 SQL 编写查询和变更，并访问所有 PostgreSQL 扩展和工具，目前提供免费试用。其次，Firestore Enterprise 版本的管道查询功能正式全面可用，并引入了新的查询引擎功能，包括原生全文搜索、地理空间查询、使用子查询的关系式 JOIN 以及数据操作语言（DML），其中全文搜索和地理空间查询功能目前处于预览阶段。第三，推出了 Firebase 与谷歌云应用设计中心（ADC）的新集成，提供了一个统一模型来部署和管理 Firestore、App Check、Authentication 和 Firebase AI Logic 等资源，并与 Gemini Cloud Assist、App Hub 和 Cloud Hub 集成。此外，Firebase AI Logic 的更新旨在简化生产场景中的 AI 集成。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "2小时前",
+    "category": "国外AI资讯",
+    "summary": "在近日举行的Google Cloud Next大会上，Firebase宣布三项重要更新。首先，Firebase Data Connect升级为Firebase SQL Connect，支持移动和Web客户端应用直接连接Cloud SQL for PostgreSQL，可使用SQL编写查询并访问所有PostgreSQL扩展和工具，目前提供免费试用。其次，Firestore Enterprise版本管道查询功能正式全面可用，新增原生全文搜索、地理空间查询、子查询关系式JOIN及数据操作语言等功能，其中全文搜索和地理空间查询功能处于预览阶段。第三，Firebase与谷歌云应用设计中心实现新集成，提供统一模型部署和管理Firestore、App Check、Authentication和Firebase AI Logic等资源，并与Gemini Cloud Assist、App Hub和Cloud Hub集成。Firebase AI Logic也进行了更新，简化生产场景中的AI集成。",
+    "rewritten_title": "Google Cloud Next大会 Firebase推出SQL Connect等三大更新",
+    "content": "",
+    "extra": {
+      "collect_time": 1776895508007
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "PyTorch基金会执行董事Mark Collier在PyTorchCon Europe 2026发表主题演讲",
+    "desc": "PyTorch官方消息显示，PyTorch基金会执行董事兼Linux基金会AI与基础设施总经理Mark Collier在PyTorchCon Europe 2026大会上发表了开幕主题演讲。演讲探讨了开源智能堆栈如何通过硬件、软件等领域的协调合作来取得进展。文中未提及演讲的具体技术细节、进展内容、成果或结论。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "3小时前",
+    "category": "国外AI资讯",
+    "summary": "PyTorch官方消息显示，PyTorch基金会执行董事兼Linux基金会AI与基础设施总经理Mark Collier在PyTorchCon Europe 2026大会上发表开幕主题演讲。演讲探讨了开源智能堆栈如何通过硬件、软件等领域的协调合作取得进展。演讲未涉及具体技术细节、进展内容、成果或结论。",
+    "rewritten_title": "PyTorch基金会执行董事开幕演讲 探讨开源智能堆栈发展",
+    "content": "",
+    "extra": {
+      "collect_time": 1776894551122
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "红帽与特斯拉工程师合作优化Llama 3.1 70B推理性能",
+    "desc": "红帽与特斯拉的工程师近日合作，针对实际生产环境中的问题进行了优化。通过结合使用KServe、LLM-D和vLLM项目，他们在Llama 3.1 70B模型上实现了推理性能的显著提升，其中每秒输出token数提升了3倍，首次token时间提升了2倍。在合作过程中，相关的修复已向上游推送至KServe项目。文中将此视为开源协作的典范。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "3小时前",
+    "category": "国外AI资讯",
+    "summary": "红帽与特斯拉工程师近日合作，针对实际生产环境问题进行优化。通过结合KServe、LLM-D和vLLM项目，研究团队在Llama 3.1 70B模型上实现推理性能显著提升，每秒输出token数提升3倍，首次token时间提升2倍。相关修复已向上游推送至KServe项目，被视为开源协作的典范案例。",
+    "rewritten_title": "红帽与特斯拉工程师合作 Llama 3.1 70B推理性能提升3倍",
+    "content": "",
+    "extra": {
+      "collect_time": 1776894551120
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "LlamaIndex 开源文档解析器 LiteParse 发布，基于启发式方法解析复杂 PDF",
+    "desc": "LlamaIndex 项目成员 jerryjliu0 宣布推出开源文档解析器 LiteParse。据其介绍，该工具擅长将复杂的 PDF 布局、文本和表格解析为清晰的空间网格。其核心优势在于完全不依赖视觉语言模型或任何机器学习模型，而是完全基于启发式方法，因此运行速度极快。推文中还提及了一个未展开的链接。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "3小时前",
+    "category": "国外AI资讯",
+    "summary": "LlamaIndex项目成员jerryjliu0宣布推出开源文档解析器LiteParse。该工具擅长将复杂PDF布局、文本和表格解析为清晰的空间网格。其核心优势是完全不依赖视觉语言模型或任何机器学习模型，完全基于启发式方法运行，因此具有极快的处理速度。",
+    "rewritten_title": "LlamaIndex发布LiteParse 纯启发式方法解析复杂PDF",
+    "content": "",
+    "extra": {
+      "collect_time": 1776894311739
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆",
+    "desc": "",
+    "link": "https://www.qbitai.com/2026/04/404713.html",
+    "source": "量子位",
+    "time_ago": "11小时前",
+    "category": "国内AI资讯",
+    "summary": "科大讯飞发布全新燎原N30m笔记本电脑，该产品定位为全栈国产人工智能个人电脑标杆。新品在硬件配置与软件生态方面实现国产化突破，整合了讯飞在语音识别、自然语言处理等AI领域的技术积累，为用户带来端侧AI能力体验。",
+    "rewritten_title": "科大讯飞推出国产AIPC新品 搭载全栈自研技术",
+    "content": "",
+    "extra": {},
+    "llm_description": ""
+  },
+  {
+    "title": "香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖",
+    "desc": "发表论文被引用逾90000次",
+    "link": "https://www.qbitai.com/2026/04/404631.html",
+    "source": "量子位",
+    "time_ago": "14小时前",
+    "category": "国内AI资讯",
+    "summary": "商汤科技首席科学家林达华荣获中银香港科创奖。该奖项为香港科技创新领域标杆荣誉，用以表彰在科技创新方面作出突出贡献的个人或团队。林达华在人工智能领域学术成就显著，其发表的相关论文被引用超过90000次。",
+    "rewritten_title": "商汤首席科学家林达华获香港科创大奖",
+    "content": "",
+    "extra": {},
+    "llm_description": ""
+  },
+  {
+    "title": "RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro",
+    "desc": "重塑Mini LED品质标杆",
+    "link": "https://www.qbitai.com/2026/04/404798.html",
+    "source": "量子位",
+    "time_ago": "15小时前",
+    "category": "智能硬件",
+    "summary": "海信正式推出小墨E5S Pro系列电视新品，该产品以Mini LED显示技术为核心，主打高品质视觉体验。新品在背光控制、色彩表现、亮度均匀性等方面进行技术升级，旨在为行业树立Mini LED电视的品质新标杆。",
+    "rewritten_title": "海信发布小墨E5S Pro 重新定义Mini LED电视标准",
+    "content": "",
+    "extra": {},
+    "llm_description": ""
+  },
+  {
+    "title": "从GPU到Token：AI基础设施竞争逻辑重构",
+    "desc": "商汤大装置已实践三年",
+    "link": "https://www.qbitai.com/2026/04/404440.html",
+    "source": "量子位",
+    "time_ago": "19小时前",
+    "category": "国内AI资讯",
+    "summary": "商汤大装置已完成从GPU算力到Token服务化的三年实践探索。这一转型标志着AI基础设施竞争逻辑正在重构，从传统的硬件性能比拼转向以token为单位的智能服务能力评估。商汤在该领域的持续投入为其在AI基础设施赛道建立差异化优势。",
+    "rewritten_title": "商汤大装置三年实践 推动AI基础设施从硬件向Token转型",
+    "content": "",
+    "extra": {},
+    "llm_description": ""
+  },
+  {
+    "title": "2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花",
+    "desc": "发布安全白皮书与全系AI新品",
+    "link": "https://www.qbitai.com/2026/04/404420.html",
+    "source": "量子位",
+    "time_ago": "20小时前",
+    "category": "智能硬件",
+    "summary": "萤石举办2026品牌新品发布会，会上正式发布安全白皮书并推出全系AI新品。本次发布会以\"驭智向前\"为主题，强调长期主义发展理念。AI技术被深度融入产品矩阵，实现多点突破，进一步强化萤石在智能家居与安全领域的竞争力。",
+    "rewritten_title": "萤石发布2026全系AI新品 公布安全白皮书",
+    "content": "",
+    "extra": {},
+    "llm_description": ""
+  },
+  {
+    "title": "谷歌研发模式巨变：超七成新代码现已由人工助手生成",
+    "desc": "谷歌宣布其内部新代码中75%由AI生成，标志着编程自动化迈出重要一步。AI完成初步编写后，仍需人工严格审核，形成“AI创作、人工把关”的主流开发模式，加速核心流程。",
+    "link": "https://news.aibase.com/zh/news/27373",
+    "source": "aibase",
+    "time_ago": "3分钟前",
+    "category": "国外AI资讯",
+    "summary": "谷歌宣布其内部新生成代码中约75%由人工智能完成编写。这一数据标志着编程自动化领域取得重要进展。目前谷歌采用\"AI创作、人工审核\"的开发模式，AI系统完成初步代码编写后，由人工进行严格审查把控，确保代码质量与安全。",
+    "rewritten_title": "谷歌内部代码AI生成比例达75% 编程自动化迈出新步伐",
+    "content": "",
+    "extra": {},
+    "llm_description": ""
+  },
+  {
+    "title": "抖音发布AIGC创作新规：严禁未经授权“换脸仿声”，强调真实消费体验",
+    "desc": "抖音生活服务发布《AIGC创作规范》，为AI生成内容划定法律与道德边界。核心要求包括：保障消费者知情权，创作者需显著标注AI生成或深度合成内容，主动声明科技属性，不得隐瞒；同时严打“换脸仿声”等侵权人格行为，明确版权红线。",
+    "link": "https://news.aibase.com/zh/news/27372",
+    "source": "aibase",
+    "time_ago": "15小时前",
+    "category": "国内AI资讯",
+    "summary": "抖音生活服务发布《AIGC创作规范》，为人工智能生成内容设定法律与道德边界。规范核心要求创作者对AI生成或深度合成内容进行显著标注，保障用户知情权。平台同时明确禁止\"换脸仿声\"等侵犯人格权的行为，划定版权保护红线。",
+    "rewritten_title": "抖音发布AIGC创作规范 明确标注与侵权红线",
+    "content": "",
+    "extra": {
+      "views": "10.2K"
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "DeepSeek API 实现百万 Token 上下文升级",
+    "desc": "DeepSeek官方宣布API已升级至百万Token上下文版本，与App和网页版一致，此前仅为128k tokens。这一更新显著提升了对话连贯性和信息丰富度。同时，知识库也更新至2025年5月，用户可在非联网状态下准确获取该时间点的信息。",
+    "link": "https://news.aibase.com/zh/news/27370",
+    "source": "aibase",
+    "time_ago": "15小时前",
+    "category": "国外AI资讯",
+    "summary": "DeepSeek官方宣布其API接口已升级至百万Token上下文版本，实现与App和网页版功能一致。此前端版本仅为128k tokens。升级后对话连贯性与信息承载能力显著提升，知识库同步更新至2025年5月，用户离线状态下可准确获取该时间节点信息。",
+    "rewritten_title": "DeepSeek API升级至百万Token上下文",
+    "content": "",
+    "extra": {
+      "views": "14.1K"
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "抖音生活服务发布AIGC创作规范：团购带货视频严禁AI生成实景",
+    "desc": "抖音生活服务平台发布《AIGC创作规范》，核心要求创作者对AI生成或合成内容主动清晰标注，保障用户知情权；同时严打侵权搬运，保护原创视听素材的版权与人格权，强调内容必须合法、可追溯。",
+    "link": "https://news.aibase.com/zh/news/27368",
+    "source": "aibase",
+    "time_ago": "15小时前",
+    "category": "国内AI资讯",
+    "summary": "抖音生活服务平台发布《AIGC创作规范》，对AI生成内容提出明确要求。创作者须对AI合成内容主动清晰标注，保障用户知情权。平台严厉打击侵权搬运行为，保护原创视听素材的版权与人格权，所有内容须具备合法来源与可追溯性。团购带货视频禁止使用AI生成实景内容。",
+    "rewritten_title": "抖音规范AIGC创作 团购视频禁用AI生成实景",
+    "content": "",
+    "extra": {
+      "views": "10.4K"
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "千问AI PPT重大升级:智能体架构赋能，全流程自动化制作",
+    "desc": "千问AI PPT于4月22日完成“PPT Agent”重大升级，采用全新智能体架构，实现从内容构思、素材检索到视觉排版的全流程自动化。用户输入需求后，1-3分钟即可生成可下载的标准PPT文件，并支持批量上传最多10个文件（含文档），大幅提升办公效率与质量。",
+    "link": "https://news.aibase.com/zh/news/27366",
+    "source": "aibase",
+    "time_ago": "16小时前",
+    "category": "国内AI资讯",
+    "summary": "千问AI PPT于4月22日完成重大版本升级，推出\"PPT Agent\"功能。该功能采用全新智能体架构，实现从内容构思、素材检索到视觉排版的全流程自动化处理。用户输入需求后，仅需1至3分钟即可生成可下载的标准PPT文件，并支持批量上传最多10个文件，大幅提升办公效率。",
+    "rewritten_title": "千问AI PPT实现全流程自动化 1至3分钟生成文件",
+    "content": "",
+    "extra": {
+      "views": "12.0K"
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "​OpenAI 推出 Euphony：一款开源的 Harmony 数据可视化工具",
+    "desc": "OpenAI推出开源工具Euphony，旨在解决AI代理调试难题。AI代理涉及多步骤操作（如文件读取、API调用、代码编写），传统堆栈跟踪方法不适用。Euphony通过浏览器可视化，将结构化的Harmony聊天数据和Codex会话日志转化为直观的对话视图，帮助开发者更高效地分析和理解AI代理工作过程。",
+    "link": "https://news.aibase.com/zh/news/27365",
+    "source": "aibase",
+    "time_ago": "16小时前",
+    "category": "国外AI资讯",
+    "summary": "OpenAI推出名为Euphony的开源工具，专注于解决AI代理调试难题。AI代理涉及多步骤复杂操作，传统堆栈跟踪方法难以适用。Euphony通过浏览器端可视化展示，将结构化Harmony聊天数据与Codex会话日志转化为直观的对话视图，帮助开发者高效分析AI代理工作流程。",
+    "rewritten_title": "OpenAI发布开源工具Euphony 助力AI代理调试可视化",
+    "content": "",
+    "extra": {
+      "views": "10.7K"
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "阿里巴巴发布生态级AI助手“千问小酒窝”，统一数字人形象全面接入阿里生态",
+    "desc": "阿里巴巴发布AI助手“千问小酒窝”，统一了其AI体系的数字人形象。该助手将接入淘宝、支付宝等阿里全系应用，核心优势在于“行动能力”，能基于阿里生态实现从需求理解到交易支付的全链路服务。",
+    "link": "https://news.aibase.com/zh/news/27355",
+    "source": "aibase",
+    "time_ago": "18小时前",
+    "category": "国内AI资讯",
+    "summary": "阿里巴巴发布AI助手\"千问小酒窝\"，统一了阿里AI体系的数字人形象。该助手将接入淘宝、支付宝等阿里全生态应用，核心优势在于具备\"行动能力\"，可基于阿里生态实现从需求理解到交易支付的全链路服务闭环。",
+    "rewritten_title": "阿里巴巴发布AI助手千问小酒窝 统一数字人形象",
+    "content": "",
+    "extra": {
+      "views": "13.5K"
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "一季度AI应用月活创新高，豆包、千问、DeepSeek稳居第一梯队",
+    "desc": "国内AI原生应用市场快速增长，月活跃用户已超4.4亿，行业头部效应明显，豆包、千问、DeepSeek等领先应用竞争激烈。",
+    "link": "https://news.aibase.com/zh/news/27354",
+    "source": "aibase",
+    "time_ago": "18小时前",
+    "category": "国内AI资讯",
+    "summary": "国内AI原生应用市场呈现快速增长态势，月活跃用户数量已突破4.4亿。行业头部效应日趋明显，豆包、千问、DeepSeek等领先应用占据第一梯队位置，市场竞争格局初步形成。",
+    "rewritten_title": "国内AI应用月活突破4.4亿 豆包千问DeepSeek领跑",
+    "content": "",
+    "extra": {
+      "views": "12.6K"
+    },
+    "llm_description": ""
+  }
+]

@@ -1,0 +1,1069 @@
+[
+  {
+    "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled (7B)",
+    "desc": "⬇️253.3K | ❤️1.5K | 🎯图文理解",
+    "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+    "source": "huggingface",
+    "time_ago": "今日",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "downloads": 253259,
+      "likes": 1501,
+      "trendingScore": 528,
+      "pipeline_tag": "image-text-to-text",
+      "tags": [
+        "safetensors",
+        "qwen3_5",
+        "unsloth",
+        "qwen",
+        "qwen3.5"
+      ],
+      "last_modified": "2026-03-24"
+    }
+  },
+  {
+    "title": "mistralai/Voxtral-4B-TTS-2603 (4B)",
+    "desc": "⬇️1.8K | ❤️363 | 🎯语音合成",
+    "link": "https://huggingface.co/mistralai/Voxtral-4B-TTS-2603",
+    "source": "huggingface",
+    "time_ago": "今日",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "downloads": 1802,
+      "likes": 363,
+      "trendingScore": 363,
+      "pipeline_tag": "text-to-speech",
+      "tags": [
+        "vllm",
+        "mistral-common",
+        "text-to-speech",
+        "en",
+        "fr"
+      ],
+      "last_modified": "2026-03-27"
+    }
+  },
+  {
+    "title": "CohereLabs/cohere-transcribe-03-2026",
+    "desc": "⬇️12.1K | ❤️313 | 🎯语音识别",
+    "link": "https://huggingface.co/CohereLabs/cohere-transcribe-03-2026",
+    "source": "huggingface",
+    "time_ago": "今日",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "downloads": 12080,
+      "likes": 313,
+      "trendingScore": 313,
+      "pipeline_tag": "automatic-speech-recognition",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "cohere_asr",
+        "automatic-speech-recognition",
+        "audio"
+      ],
+      "last_modified": "2026-03-28"
+    }
+  },
+  {
+    "title": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive (3B)",
+    "desc": "⬇️478.9K | ❤️1.0K | 🎯图文理解",
+    "link": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+    "source": "huggingface",
+    "time_ago": "今日",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "downloads": 478934,
+      "likes": 1026,
+      "trendingScore": 305,
+      "pipeline_tag": "image-text-to-text",
+      "tags": [
+        "gguf",
+        "uncensored",
+        "qwen3.5",
+        "moe",
+        "vision"
+      ],
+      "last_modified": "2026-03-10"
+    }
+  },
+  {
+    "title": "nvidia/Nemotron-Cascade-2-30B-A3B (30B)",
+    "desc": "⬇️69.6K | ❤️356 | 🎯文本生成",
+    "link": "https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B",
+    "source": "huggingface",
+    "time_ago": "今日",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "downloads": 69594,
+      "likes": 356,
+      "trendingScore": 245,
+      "pipeline_tag": "text-generation",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "nemotron_h",
+        "text-generation",
+        "nvidia"
+      ],
+      "last_modified": "2026-03-24"
+    }
+  },
+  {
+    "title": "baidu/Qianfan-OCR",
+    "desc": "⬇️14.8K | ❤️509 | 🎯图文理解",
+    "link": "https://huggingface.co/baidu/Qianfan-OCR",
+    "source": "huggingface",
+    "time_ago": "今日",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "downloads": 14786,
+      "likes": 509,
+      "trendingScore": 242,
+      "pipeline_tag": "image-text-to-text",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "internvl_chat",
+        "feature-extraction",
+        "vision-language"
+      ],
+      "last_modified": "2026-03-26"
+    }
+  },
+  {
+    "title": "GAIR/daVinci-MagiHuman",
+    "desc": "⬇️418 | ❤️221 | 🎯image to video",
+    "link": "https://huggingface.co/GAIR/daVinci-MagiHuman",
+    "source": "huggingface",
+    "time_ago": "今日",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "downloads": 418,
+      "likes": 221,
+      "trendingScore": 221,
+      "pipeline_tag": "image-to-video",
+      "tags": [
+        "safetensors",
+        "text-to-video",
+        "image-text-to-video",
+        "text-to-audio",
+        "text-to-audio-video"
+      ],
+      "last_modified": "2026-03-25"
+    }
+  },
+  {
+    "title": "chromadb/context-1 (20B)",
+    "desc": "⬇️451 | ❤️187",
+    "link": "https://huggingface.co/chromadb/context-1",
+    "source": "huggingface",
+    "time_ago": "今日",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "downloads": 451,
+      "likes": 187,
+      "trendingScore": 187,
+      "pipeline_tag": "",
+      "tags": [
+        "safetensors",
+        "gpt_oss",
+        "base_model:openai/gpt-oss-20b",
+        "base_model:finetune:openai/gpt-oss-20b",
+        "license:apache-2.0"
+      ],
+      "last_modified": "2026-03-26"
+    }
+  },
+  {
+    "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF (7B)",
+    "desc": "⬇️85.1K | ❤️211 | 🎯图文理解",
+    "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
+    "source": "huggingface",
+    "time_ago": "今日",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "downloads": 85140,
+      "likes": 211,
+      "trendingScore": 170,
+      "pipeline_tag": "image-text-to-text",
+      "tags": [
+        "gguf",
+        "qwen3_5",
+        "unsloth",
+        "qwen",
+        "qwen3.5"
+      ],
+      "last_modified": "2026-03-25"
+    }
+  },
+  {
+    "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF (7B)",
+    "desc": "⬇️590.9K | ❤️461 | 🎯图文理解",
+    "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+    "source": "huggingface",
+    "time_ago": "今日",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "downloads": 590877,
+      "likes": 461,
+      "trendingScore": 165,
+      "pipeline_tag": "image-text-to-text",
+      "tags": [
+        "gguf",
+        "qwen3_5",
+        "unsloth",
+        "qwen",
+        "qwen3.5"
+      ],
+      "last_modified": "2026-03-24"
+    }
+  },
+  {
+    "title": "Tesslate/OmniCoder-9B (9B)",
+    "desc": "⬇️26.5K | ❤️498 | 🎯文本生成",
+    "link": "https://huggingface.co/Tesslate/OmniCoder-9B",
+    "source": "huggingface",
+    "time_ago": "今日",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "downloads": 26497,
+      "likes": 498,
+      "trendingScore": 160,
+      "pipeline_tag": "text-generation",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3_5",
+        "image-text-to-text",
+        "qwen3.5"
+      ],
+      "last_modified": "2026-03-13"
+    }
+  },
+  {
+    "title": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF (9B)",
+    "desc": "⬇️92.1K | ❤️187 | 🎯图文理解",
+    "link": "https://huggingface.co/Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
+    "source": "huggingface",
+    "time_ago": "今日",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "downloads": 92081,
+      "likes": 187,
+      "trendingScore": 124,
+      "pipeline_tag": "image-text-to-text",
+      "tags": [
+        "gguf",
+        "qwen3_5",
+        "unsloth",
+        "qwen",
+        "qwen3.5"
+      ],
+      "last_modified": "2026-03-23"
+    }
+  },
+  {
+    "title": "Lightricks/LTX-2.3",
+    "desc": "⬇️1.3M | ❤️807 | 🎯image to video",
+    "link": "https://huggingface.co/Lightricks/LTX-2.3",
+    "source": "huggingface",
+    "time_ago": "今日",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "downloads": 1315469,
+      "likes": 807,
+      "trendingScore": 107,
+      "pipeline_tag": "image-to-video",
+      "tags": [
+        "diffusers",
+        "image-to-video",
+        "text-to-video",
+        "video-to-video",
+        "image-text-to-video"
+      ],
+      "last_modified": "2026-03-15"
+    }
+  },
+  {
+    "title": "facebook/tribev2",
+    "desc": "⬇️2.2K | ❤️103",
+    "link": "https://huggingface.co/facebook/tribev2",
+    "source": "huggingface",
+    "time_ago": "今日",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "downloads": 2232,
+      "likes": 103,
+      "trendingScore": 103,
+      "pipeline_tag": "",
+      "tags": [
+        "license:cc-by-nc-4.0",
+        "region:us"
+      ],
+      "last_modified": "2026-03-27"
+    }
+  },
+  {
+    "title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive (9B)",
+    "desc": "⬇️481.7K | ❤️680",
+    "link": "https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+    "source": "huggingface",
+    "time_ago": "今日",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "downloads": 481733,
+      "likes": 680,
+      "trendingScore": 101,
+      "pipeline_tag": "",
+      "tags": [
+        "gguf",
+        "uncensored",
+        "qwen3.5",
+        "qwen",
+        "en"
+      ],
+      "last_modified": "2026-03-04"
+    }
+  },
+  {
+    "title": "Qwen/Qwen3.5-9B (9B)",
+    "desc": "⬇️4.1M | ❤️1.1K | 🎯图文理解",
+    "link": "https://huggingface.co/Qwen/Qwen3.5-9B",
+    "source": "huggingface",
+    "time_ago": "今日",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "downloads": 4116338,
+      "likes": 1056,
+      "trendingScore": 95,
+      "pipeline_tag": "image-text-to-text",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3_5",
+        "image-text-to-text",
+        "conversational"
+      ],
+      "last_modified": "2026-03-02"
+    }
+  },
+  {
+    "title": "meituan-longcat/LongCat-Next",
+    "desc": "⬇️183 | ❤️86 | 🎯any to any",
+    "link": "https://huggingface.co/meituan-longcat/LongCat-Next",
+    "source": "huggingface",
+    "time_ago": "今日",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "downloads": 183,
+      "likes": 86,
+      "trendingScore": 86,
+      "pipeline_tag": "any-to-any",
+      "tags": [
+        "LongCat-Next",
+        "safetensors",
+        "longcat_next",
+        "text-generation",
+        "transformers"
+      ],
+      "last_modified": "2026-03-27"
+    }
+  },
+  {
+    "title": "fishaudio/s2-pro",
+    "desc": "⬇️17.6K | ❤️766 | 🎯语音合成",
+    "link": "https://huggingface.co/fishaudio/s2-pro",
+    "source": "huggingface",
+    "time_ago": "今日",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "downloads": 17601,
+      "likes": 766,
+      "trendingScore": 83,
+      "pipeline_tag": "text-to-speech",
+      "tags": [
+        "safetensors",
+        "fish_qwen3_omni",
+        "text-to-speech",
+        "instruction-following",
+        "multilingual"
+      ],
+      "last_modified": "2026-03-11"
+    }
+  },
+  {
+    "title": "zai-org/GLM-OCR",
+    "desc": "⬇️3.8M | ❤️1.5K | 🎯image to text",
+    "link": "https://huggingface.co/zai-org/GLM-OCR",
+    "source": "huggingface",
+    "time_ago": "今日",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "downloads": 3845879,
+      "likes": 1478,
+      "trendingScore": 80,
+      "pipeline_tag": "image-to-text",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "glm_ocr",
+        "image-text-to-text",
+        "image-to-text"
+      ],
+      "last_modified": "2026-03-12"
+    }
+  },
+  {
+    "title": "RoyalCities/Foundation-1",
+    "desc": "⬇️0 | ❤️282",
+    "link": "https://huggingface.co/RoyalCities/Foundation-1",
+    "source": "huggingface",
+    "time_ago": "今日",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "downloads": 0,
+      "likes": 282,
+      "trendingScore": 78,
+      "pipeline_tag": "",
+      "tags": [
+        "audio",
+        "music-generation",
+        "sample-generation",
+        "Music Production",
+        "Audio-to-Audio"
+      ],
+      "last_modified": "2026-03-16"
+    }
+  },
+  {
+    "title": "openclaw/openclaw",
+    "desc": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "link": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "time_ago": "近期",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": 339199,
+      "forks": 66762,
+      "language": "TypeScript",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 "
+    }
+  },
+  {
+    "title": "DigitalPlatDev/FreeDomain",
+    "desc": "DigitalPlat FreeDomain: Free Domain For Everyone",
+    "link": "https://github.com/DigitalPlatDev/FreeDomain",
+    "source": "github",
+    "time_ago": "近期",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": 154623,
+      "forks": 2644,
+      "language": "HTML",
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    }
+  },
+  {
+    "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "desc": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+    "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+    "source": "github",
+    "time_ago": "近期",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": 133514,
+      "forks": 33673,
+      "language": null,
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
+    }
+  },
+  {
+    "title": "anomalyco/opencode",
+    "desc": "The open source coding agent.",
+    "link": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "time_ago": "近期",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": 131798,
+      "forks": 14071,
+      "language": "TypeScript",
+      "description": "The open source coding agent."
+    }
+  },
+  {
+    "title": "obra/superpowers",
+    "desc": "An agentic skills framework & software development methodology that works.",
+    "link": "https://github.com/obra/superpowers",
+    "source": "github",
+    "time_ago": "近期",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": 119969,
+      "forks": 9726,
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    }
+  },
+  {
+    "title": "affaan-m/everything-claude-code",
+    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "link": "https://github.com/affaan-m/everything-claude-code",
+    "source": "github",
+    "time_ago": "近期",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": 113900,
+      "forks": 14831,
+      "language": "JavaScript",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    }
+  },
+  {
+    "title": "anthropics/skills",
+    "desc": "Public repository for Agent Skills",
+    "link": "https://github.com/anthropics/skills",
+    "source": "github",
+    "time_ago": "近期",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": 104928,
+      "forks": 11578,
+      "language": "Python",
+      "description": "Public repository for Agent Skills"
+    }
+  },
+  {
+    "title": "Shubhamsaboo/awesome-llm-apps",
+    "desc": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+    "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "source": "github",
+    "time_ago": "近期",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": 103840,
+      "forks": 15152,
+      "language": "Python",
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models."
+    }
+  },
+  {
+    "title": "deepseek-ai/DeepSeek-V3",
+    "desc": "无描述",
+    "link": "https://github.com/deepseek-ai/DeepSeek-V3",
+    "source": "github",
+    "time_ago": "近期",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": 102406,
+      "forks": 16610,
+      "language": "Python",
+      "description": "无描述"
+    }
+  },
+  {
+    "title": "firecrawl/firecrawl",
+    "desc": "🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data",
+    "link": "https://github.com/firecrawl/firecrawl",
+    "source": "github",
+    "time_ago": "近期",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": 99780,
+      "forks": 6668,
+      "language": "TypeScript",
+      "description": "🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data"
+    }
+  },
+  {
+    "title": "google-gemini/gemini-cli",
+    "desc": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+    "link": "https://github.com/google-gemini/gemini-cli",
+    "source": "github",
+    "time_ago": "近期",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": 99332,
+      "forks": 12687,
+      "language": "TypeScript",
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    }
+  },
+  {
+    "title": "microsoft/markitdown",
+    "desc": "Python tool for converting files and office documents to Markdown.",
+    "link": "https://github.com/microsoft/markitdown",
+    "source": "github",
+    "time_ago": "近期",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": 92745,
+      "forks": 5578,
+      "language": "Python",
+      "description": "Python tool for converting files and office documents to Markdown."
+    }
+  },
+  {
+    "title": "deepseek-ai/DeepSeek-R1",
+    "desc": "无描述",
+    "link": "https://github.com/deepseek-ai/DeepSeek-R1",
+    "source": "github",
+    "time_ago": "近期",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": 91992,
+      "forks": 11751,
+      "language": null,
+      "description": "无描述"
+    }
+  },
+  {
+    "title": "browser-use/browser-use",
+    "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+    "link": "https://github.com/browser-use/browser-use",
+    "source": "github",
+    "time_ago": "近期",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": 84824,
+      "forks": 9821,
+      "language": "Python",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+    }
+  },
+  {
+    "title": "anthropics/claude-code",
+    "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "link": "https://github.com/anthropics/claude-code",
+    "source": "github",
+    "time_ago": "近期",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": 83808,
+      "forks": 7082,
+      "language": "Shell",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    }
+  },
+  {
+    "title": "github/spec-kit",
+    "desc": "💫 Toolkit to help you get started with Spec-Driven Development",
+    "link": "https://github.com/github/spec-kit",
+    "source": "github",
+    "time_ago": "近期",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": 83117,
+      "forks": 7110,
+      "language": "Python",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development"
+    }
+  },
+  {
+    "title": "modelcontextprotocol/servers",
+    "desc": "Model Context Protocol Servers",
+    "link": "https://github.com/modelcontextprotocol/servers",
+    "source": "github",
+    "time_ago": "近期",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": 82334,
+      "forks": 10110,
+      "language": "TypeScript",
+      "description": "Model Context Protocol Servers"
+    }
+  },
+  {
+    "title": "daytonaio/daytona",
+    "desc": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
+    "link": "https://github.com/daytonaio/daytona",
+    "source": "github",
+    "time_ago": "近期",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": 70878,
+      "forks": 5525,
+      "language": "TypeScript",
+      "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code"
+    }
+  },
+  {
+    "title": "OpenHands/OpenHands",
+    "desc": "🙌 OpenHands: AI-Driven Development",
+    "link": "https://github.com/OpenHands/OpenHands",
+    "source": "github",
+    "time_ago": "近期",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": 70022,
+      "forks": 8772,
+      "language": "Python",
+      "description": "🙌 OpenHands: AI-Driven Development"
+    }
+  },
+  {
+    "title": "openai/codex",
+    "desc": "Lightweight coding agent that runs in your terminal",
+    "link": "https://github.com/openai/codex",
+    "source": "github",
+    "time_ago": "近期",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": 68104,
+      "forks": 9130,
+      "language": "Rust",
+      "description": "Lightweight coding agent that runs in your terminal"
+    }
+  },
+  {
+    "title": "msitarzewski/agency-agents",
+    "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "link": "https://github.com/msitarzewski/agency-agents",
+    "source": "github",
+    "time_ago": "近期",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": 64718,
+      "forks": 9765,
+      "language": "Shell",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
+    }
+  },
+  {
+    "title": "unclecode/crawl4ai",
+    "desc": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+    "link": "https://github.com/unclecode/crawl4ai",
+    "source": "github",
+    "time_ago": "近期",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": 62781,
+      "forks": 6402,
+      "language": "Python",
+      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN"
+    }
+  },
+  {
+    "title": "LadybirdBrowser/ladybird",
+    "desc": "Truly independent web browser",
+    "link": "https://github.com/LadybirdBrowser/ladybird",
+    "source": "github",
+    "time_ago": "近期",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": 61523,
+      "forks": 2889,
+      "language": "C++",
+      "description": "Truly independent web browser"
+    }
+  },
+  {
+    "title": "cline/cline",
+    "desc": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
+    "link": "https://github.com/cline/cline",
+    "source": "github",
+    "time_ago": "近期",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": 59573,
+      "forks": 6058,
+      "language": "TypeScript",
+      "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way."
+    }
+  },
+  {
+    "title": "karpathy/autoresearch",
+    "desc": "AI agents running research on single-GPU nanochat training automatically",
+    "link": "https://github.com/karpathy/autoresearch",
+    "source": "github",
+    "time_ago": "近期",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": 59140,
+      "forks": 8196,
+      "language": "Python",
+      "description": "AI agents running research on single-GPU nanochat training automatically"
+    }
+  },
+  {
+    "title": "opendatalab/MinerU",
+    "desc": "Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.",
+    "link": "https://github.com/opendatalab/MinerU",
+    "source": "github",
+    "time_ago": "近期",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": 57438,
+      "forks": 4755,
+      "language": "Python",
+      "description": "Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows."
+    }
+  },
+  {
+    "title": "docling-project/docling",
+    "desc": "Get your documents ready for gen AI",
+    "link": "https://github.com/docling-project/docling",
+    "source": "github",
+    "time_ago": "近期",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": 56649,
+      "forks": 3850,
+      "language": "Python",
+      "description": "Get your documents ready for gen AI"
+    }
+  },
+  {
+    "title": "RVC-Boss/GPT-SoVITS",
+    "desc": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
+    "link": "https://github.com/RVC-Boss/GPT-SoVITS",
+    "source": "github",
+    "time_ago": "近期",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": 56186,
+      "forks": 6137,
+      "language": "Python",
+      "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)"
+    }
+  },
+  {
+    "title": "FoundationAgents/OpenManus",
+    "desc": "No fortress, purely open ground.  OpenManus is Coming.",
+    "link": "https://github.com/FoundationAgents/OpenManus",
+    "source": "github",
+    "time_ago": "近期",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": 55531,
+      "forks": 9699,
+      "language": "Python",
+      "description": "No fortress, purely open ground.  OpenManus is Coming."
+    }
+  },
+  {
+    "title": "microsoft/ai-agents-for-beginners",
+    "desc": "12 Lessons to Get Started Building AI Agents",
+    "link": "https://github.com/microsoft/ai-agents-for-beginners",
+    "source": "github",
+    "time_ago": "近期",
+    "category": "",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "stars": 55204,
+      "forks": 19065,
+      "language": "Jupyter Notebook",
+      "description": "12 Lessons to Get Started Building AI Agents"
+    }
+  },
+  {
+    "title": "Meta 大办“AI 培训周”，鼓励员工爱用、多用智能体办公",
+    "desc": "",
+    "link": "https://www.huxiu.com/ainews/10309.html",
+    "source": "huxiu",
+    "time_ago": "6小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {}
+  },
+  {
+    "title": "马斯克曾邀扎克伯格竞购OpenAI的IP",
+    "desc": "",
+    "link": "https://www.huxiu.com/ainews/10304.html",
+    "source": "huxiu",
+    "time_ago": "10小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {}
+  },
+  {
+    "title": "苹果聘前谷歌副总裁Lilian Rincon负责AI产品营销",
+    "desc": "",
+    "link": "https://www.huxiu.com/ainews/10299.html",
+    "source": "huxiu",
+    "time_ago": "14小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {}
+  },
+  {
+    "title": "智谱：GLM-5.1已面向所有Coding Plan用户开放",
+    "desc": "",
+    "link": "https://www.huxiu.com/ainews/10291.html",
+    "source": "huxiu",
+    "time_ago": "1天前",
+    "category": "国内AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {}
+  },
+  {
+    "title": "亚马逊云科技创业加速器第四期开启，聚焦生成式AI与AI硬件",
+    "desc": "",
+    "link": "https://www.huxiu.com/ainews/10274.html",
+    "source": "huxiu",
+    "time_ago": "1天前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {}
+  },
+  {
+    "title": "阿里桌面Agent应用QoderWork打通钉钉、微信和飞书",
+    "desc": "",
+    "link": "https://www.huxiu.com/ainews/10273.html",
+    "source": "huxiu",
+    "time_ago": "1天前",
+    "category": "国内AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {}
+  },
+  {
+    "title": "小米机器人最新进展",
+    "desc": "",
+    "link": "https://www.huxiu.com/ainews/10272.html",
+    "source": "huxiu",
+    "time_ago": "1天前",
+    "category": "智能硬件",
+    "summary": "",
+    "content": "",
+    "extra": {}
+  },
+  {
+    "title": "腾讯汤道生：Harness工程能力是AI落地关键变量",
+    "desc": "",
+    "link": "https://www.huxiu.com/ainews/10270.html",
+    "source": "huxiu",
+    "time_ago": "1天前",
+    "category": "国内AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {}
+  },
+  {
+    "title": "谷歌Gemini支持一键导入",
+    "desc": "",
+    "link": "https://www.huxiu.com/ainews/10263.html",
+    "source": "huxiu",
+    "time_ago": "1天前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {}
+  },
+  {
+    "title": "苹果战略转型：将向竞品人工智能助手开放Siri",
+    "desc": "",
+    "link": "https://www.huxiu.com/ainews/10252.html",
+    "source": "huxiu",
+    "time_ago": "1天前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {}
+  }
+]

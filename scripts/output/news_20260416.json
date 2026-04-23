@@ -1,0 +1,72 @@
+[
+  {
+    "title": "为加速重塑Siri，苹果安排近200名工程师培训AI编程",
+    "desc": "科技媒体The Information于4月15日报道，苹果公司为加速重塑Siri、追赶AI竞争对手，安排近200名Siri工程师参加为期数周的AI编程训练营，学习使用Claude Code等AI工具进行辅助开发，并计划在WWDC 2026（6月8日）发布iOS 27版Siri升级版。",
+    "link": "https://www.huxiu.com/ainews/11004.html",
+    "source": "huxiu",
+    "time_ago": "2小时前",
+    "category": "其它科技资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1776312606174
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "国家数据局首提“词元交易”， AI数据付费渐成行业共识",
+    "desc": "国家数据局4月15日就高质量数据集建设实施方案公开征求意见，首次提出探索词元交易等新型交易模式，构建以词元为基础、可量化、可定价的数据集价值体系，标志着我国AI产业商业模式创新进入新阶段。",
+    "link": "https://www.huxiu.com/ainews/11001.html",
+    "source": "huxiu",
+    "time_ago": "4小时前",
+    "category": "其它科技资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1776305403782
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "阿里云上调百炼部分MU模型单元服务价格",
+    "desc": "阿里云宣布对大模型服务平台百炼部分MU（Model Unit）模型单元的服务价格进行调整，上调幅度为2%-7%不等。此举旨在保障底层硬件的稳定供应、提升平台运维服务质量，并应对算力市场成本变化。",
+    "link": "https://www.huxiu.com/ainews/10970.html",
+    "source": "huxiu",
+    "time_ago": "19小时前",
+    "category": "其它科技资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1776252649876
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "我国首艘万吨级纯电动智能集装箱船正式投入商业运营",
+    "desc": "我国首艘、全球最大的万吨级纯电动智能集装箱船",
+    "link": "https://www.huxiu.com/ainews/10965.html",
+    "source": "huxiu",
+    "time_ago": "20小时前",
+    "category": "其它科技资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1776248407192
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "腾讯客服回应电脑版微信能发语音了",
+    "desc": "微信电脑版最近上线全局语音输入功能，用户无需额外下载输入法，仅需设置快捷键即可在任何带输入框的地方使用，这是微信在AI时代争夺关键交互入口的重要战略举措。",
+    "link": "https://www.huxiu.com/ainews/10963.html",
+    "source": "huxiu",
+    "time_ago": "21小时前",
+    "category": "其它科技资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1776244207482
+    },
+    "llm_description": ""
+  }
+]

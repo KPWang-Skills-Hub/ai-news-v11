@@ -1,0 +1,714 @@
+
+[2026-04-10 07:25:43] keyword_filter - INPUT: 31条
+============================================================
+  - [] OpenAI称其计算资源增强使其较Anthropic有关键优势
+  - [] 亚马逊计划在密西西比州数据中心投资250亿美元
+  - [] AI短剧低至百元就能买张脸
+  - [] 微信公众号打击非真人AI写作
+  - [] CoreWeave与Meta签订210亿美元协议扩展AI基础设施
+  - [] OpenAI表示，已暂停英国的‘星际之门’项目
+  - [] 消息称特斯拉Cybercab量产启动
+  - [] 华为新款AI眼镜转轴模组采用裕同科技旗下华研新材料方案
+  - [] 清华00后团队创办，零次方机器人完成超亿元新一轮融资
+  - [] 全球AIDC储能市场爆发式增长
+  - [] 英伟达CEO黄仁勋到访美光GTC展台，美光分享AI内存解决方案
+  - [] Alex Wang 评论 Meta Muse Spark 模型涌现新能力
+  - [] 斯坦福AI实验室发布通用验证框架LLM-as-a-Verifier，在两项基准测试中达SOTA
+  - [] Google Research发布ConvApparel数据集与评估框架，量化LLM用户模拟器真实性
+  - [] OpenAI将推出定价100美元的ChatGPT Pro版本
+  - [] 研究团队使用开源模型复现Mythos漏洞测试，AI安全能力排名洗牌
+  - [] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [] 微软 Build 2026 开发者大会议程目录上线
+  - [] 微软上线 Microsoft Build 2026 开发者大会会议目录
+  - [] IDC在Directions 2026大会上推出AI技术智能平台IDC Quanta
+  - [] 亚马逊构建AI智能体RuleForge应对云安全漏洞，规则生成速度提升336%
+  - [] TinkerAPI 重新设计文档，发布 Cookbook v0.3.0
+  - [] 英伟达致力于通过 Jetson 平台简化开源机器人创新部署
+  - [] Gemini应用推出免费创建更长音乐曲目功能
+  - [] GoogleCloudTech介绍使用ADK、MCP与Cloud Run构建多智能体博客起草系统
+  - [] Google AI Studio 宣布其从提示到生产路径获智能增强
+  - [] Safetensors与Helion作为托管项目加入PyTorch基金会
+  - [] NVIDIA AI 探讨与 DeepHow、Google Cloud 合作将人类专业知识数字化
+  - [] Mastra平台发布，提供规模化运行AI Agent的工具套件
+  - [] AWS发布Agent Registry预览版，支持通过Bedrock AgentCore管理智能体
+  - [] 阿里云百炼上线Agent记忆库，让「龙虾」应用更懂用户
+
+[2026-04-10 07:25:43] keyword_filter - OUTPUT: 26条 | 移除5条
+============================================================
+  - [] 微信公众号打击非真人AI写作
+  - [] CoreWeave与Meta签订210亿美元协议扩展AI基础设施
+  - [] 消息称特斯拉Cybercab量产启动
+  - [] 华为新款AI眼镜转轴模组采用裕同科技旗下华研新材料方案
+  - [] 全球AIDC储能市场爆发式增长
+  - [] 英伟达CEO黄仁勋到访美光GTC展台，美光分享AI内存解决方案
+  - [] Alex Wang 评论 Meta Muse Spark 模型涌现新能力
+  - [] 斯坦福AI实验室发布通用验证框架LLM-as-a-Verifier，在两项基准测试中达SOTA
+  - [] Google Research发布ConvApparel数据集与评估框架，量化LLM用户模拟器真实性
+  - [] OpenAI将推出定价100美元的ChatGPT Pro版本
+  - [] 研究团队使用开源模型复现Mythos漏洞测试，AI安全能力排名洗牌
+  - [] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [] 微软 Build 2026 开发者大会议程目录上线
+  - [] 微软上线 Microsoft Build 2026 开发者大会会议目录
+  - [] IDC在Directions 2026大会上推出AI技术智能平台IDC Quanta
+  - [] 亚马逊构建AI智能体RuleForge应对云安全漏洞，规则生成速度提升336%
+  - [] TinkerAPI 重新设计文档，发布 Cookbook v0.3.0
+  - [] 英伟达致力于通过 Jetson 平台简化开源机器人创新部署
+  - [] Gemini应用推出免费创建更长音乐曲目功能
+  - [] GoogleCloudTech介绍使用ADK、MCP与Cloud Run构建多智能体博客起草系统
+  - [] Google AI Studio 宣布其从提示到生产路径获智能增强
+  - [] Safetensors与Helion作为托管项目加入PyTorch基金会
+  - [] NVIDIA AI 探讨与 DeepHow、Google Cloud 合作将人类专业知识数字化
+  - [] Mastra平台发布，提供规模化运行AI Agent的工具套件
+  - [] AWS发布Agent Registry预览版，支持通过Bedrock AgentCore管理智能体
+  - [] 阿里云百炼上线Agent记忆库，让「龙虾」应用更懂用户
+
+[2026-04-10 07:25:43] bge_dedup - INPUT: 26条
+============================================================
+  - [] 微信公众号打击非真人AI写作
+  - [] CoreWeave与Meta签订210亿美元协议扩展AI基础设施
+  - [] 消息称特斯拉Cybercab量产启动
+  - [] 华为新款AI眼镜转轴模组采用裕同科技旗下华研新材料方案
+  - [] 全球AIDC储能市场爆发式增长
+  - [] 英伟达CEO黄仁勋到访美光GTC展台，美光分享AI内存解决方案
+  - [] Alex Wang 评论 Meta Muse Spark 模型涌现新能力
+  - [] 斯坦福AI实验室发布通用验证框架LLM-as-a-Verifier，在两项基准测试中达SOTA
+  - [] Google Research发布ConvApparel数据集与评估框架，量化LLM用户模拟器真实性
+  - [] OpenAI将推出定价100美元的ChatGPT Pro版本
+  - [] 研究团队使用开源模型复现Mythos漏洞测试，AI安全能力排名洗牌
+  - [] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [] 微软 Build 2026 开发者大会议程目录上线
+  - [] 微软上线 Microsoft Build 2026 开发者大会会议目录
+  - [] IDC在Directions 2026大会上推出AI技术智能平台IDC Quanta
+  - [] 亚马逊构建AI智能体RuleForge应对云安全漏洞，规则生成速度提升336%
+  - [] TinkerAPI 重新设计文档，发布 Cookbook v0.3.0
+  - [] 英伟达致力于通过 Jetson 平台简化开源机器人创新部署
+  - [] Gemini应用推出免费创建更长音乐曲目功能
+  - [] GoogleCloudTech介绍使用ADK、MCP与Cloud Run构建多智能体博客起草系统
+  - [] Google AI Studio 宣布其从提示到生产路径获智能增强
+  - [] Safetensors与Helion作为托管项目加入PyTorch基金会
+  - [] NVIDIA AI 探讨与 DeepHow、Google Cloud 合作将人类专业知识数字化
+  - [] Mastra平台发布，提供规模化运行AI Agent的工具套件
+  - [] AWS发布Agent Registry预览版，支持通过Bedrock AgentCore管理智能体
+  - [] 阿里云百炼上线Agent记忆库，让「龙虾」应用更懂用户
+
+[2026-04-10 07:25:58] bge_dedup - OUTPUT: 25条 | 移除1条
+============================================================
+  - [] 微信公众号打击非真人AI写作
+  - [] CoreWeave与Meta签订210亿美元协议扩展AI基础设施
+  - [] 消息称特斯拉Cybercab量产启动
+  - [] 华为新款AI眼镜转轴模组采用裕同科技旗下华研新材料方案
+  - [] 全球AIDC储能市场爆发式增长
+  - [] 英伟达CEO黄仁勋到访美光GTC展台，美光分享AI内存解决方案
+  - [] Alex Wang 评论 Meta Muse Spark 模型涌现新能力
+  - [] 斯坦福AI实验室发布通用验证框架LLM-as-a-Verifier，在两项基准测试中达SOTA
+  - [] Google Research发布ConvApparel数据集与评估框架，量化LLM用户模拟器真实性
+  - [] OpenAI将推出定价100美元的ChatGPT Pro版本
+  - [] 研究团队使用开源模型复现Mythos漏洞测试，AI安全能力排名洗牌
+  - [] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [] 微软 Build 2026 开发者大会议程目录上线
+  - [] IDC在Directions 2026大会上推出AI技术智能平台IDC Quanta
+  - [] 亚马逊构建AI智能体RuleForge应对云安全漏洞，规则生成速度提升336%
+  - [] TinkerAPI 重新设计文档，发布 Cookbook v0.3.0
+  - [] 英伟达致力于通过 Jetson 平台简化开源机器人创新部署
+  - [] Gemini应用推出免费创建更长音乐曲目功能
+  - [] GoogleCloudTech介绍使用ADK、MCP与Cloud Run构建多智能体博客起草系统
+  - [] Google AI Studio 宣布其从提示到生产路径获智能增强
+  - [] Safetensors与Helion作为托管项目加入PyTorch基金会
+  - [] NVIDIA AI 探讨与 DeepHow、Google Cloud 合作将人类专业知识数字化
+  - [] Mastra平台发布，提供规模化运行AI Agent的工具套件
+  - [] AWS发布Agent Registry预览版，支持通过Bedrock AgentCore管理智能体
+  - [] 阿里云百炼上线Agent记忆库，让「龙虾」应用更懂用户
+
+[2026-04-10 07:25:58] llm_classify - INPUT: 25条
+============================================================
+  - [] 微信公众号打击非真人AI写作
+  - [] CoreWeave与Meta签订210亿美元协议扩展AI基础设施
+  - [] 消息称特斯拉Cybercab量产启动
+  - [] 华为新款AI眼镜转轴模组采用裕同科技旗下华研新材料方案
+  - [] 全球AIDC储能市场爆发式增长
+  - [] 英伟达CEO黄仁勋到访美光GTC展台，美光分享AI内存解决方案
+  - [] Alex Wang 评论 Meta Muse Spark 模型涌现新能力
+  - [] 斯坦福AI实验室发布通用验证框架LLM-as-a-Verifier，在两项基准测试中达SOTA
+  - [] Google Research发布ConvApparel数据集与评估框架，量化LLM用户模拟器真实性
+  - [] OpenAI将推出定价100美元的ChatGPT Pro版本
+  - [] 研究团队使用开源模型复现Mythos漏洞测试，AI安全能力排名洗牌
+  - [] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [] 微软 Build 2026 开发者大会议程目录上线
+  - [] IDC在Directions 2026大会上推出AI技术智能平台IDC Quanta
+  - [] 亚马逊构建AI智能体RuleForge应对云安全漏洞，规则生成速度提升336%
+  - [] TinkerAPI 重新设计文档，发布 Cookbook v0.3.0
+  - [] 英伟达致力于通过 Jetson 平台简化开源机器人创新部署
+  - [] Gemini应用推出免费创建更长音乐曲目功能
+  - [] GoogleCloudTech介绍使用ADK、MCP与Cloud Run构建多智能体博客起草系统
+  - [] Google AI Studio 宣布其从提示到生产路径获智能增强
+  - [] Safetensors与Helion作为托管项目加入PyTorch基金会
+  - [] NVIDIA AI 探讨与 DeepHow、Google Cloud 合作将人类专业知识数字化
+  - [] Mastra平台发布，提供规模化运行AI Agent的工具套件
+  - [] AWS发布Agent Registry预览版，支持通过Bedrock AgentCore管理智能体
+  - [] 阿里云百炼上线Agent记忆库，让「龙虾」应用更懂用户
+
+[2026-04-10 07:26:11] llm_classify - OUTPUT: 25条 | 保留25条
+============================================================
+  - [其它科技资讯] 微信公众号打击非真人AI写作
+  - [国外AI资讯] CoreWeave与Meta签订210亿美元协议扩展AI基础设施
+  - [智能硬件] 消息称特斯拉Cybercab量产启动
+  - [智能硬件] 华为新款AI眼镜转轴模组采用裕同科技旗下华研新材料方案
+  - [其它科技资讯] 全球AIDC储能市场爆发式增长
+  - [国外AI资讯] 英伟达CEO黄仁勋到访美光GTC展台，美光分享AI内存解决方案
+  - [国外AI资讯] Alex Wang 评论 Meta Muse Spark 模型涌现新能力
+  - [国外AI资讯] 斯坦福AI实验室发布通用验证框架LLM-as-a-Verifier，在两项基准测试中达SOTA
+  - [国外AI资讯] Google Research发布ConvApparel数据集与评估框架，量化LLM用户模拟器真实性
+  - [国外AI资讯] OpenAI将推出定价100美元的ChatGPT Pro版本
+  - [国外AI资讯] 研究团队使用开源模型复现Mythos漏洞测试，AI安全能力排名洗牌
+  - [国外AI资讯] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [其它科技资讯] 微软 Build 2026 开发者大会议程目录上线
+  - [其它科技资讯] IDC在Directions 2026大会上推出AI技术智能平台IDC Quanta
+  - [国外AI资讯] 亚马逊构建AI智能体RuleForge应对云安全漏洞，规则生成速度提升336%
+  - [其它科技资讯] TinkerAPI 重新设计文档，发布 Cookbook v0.3.0
+  - [智能硬件] 英伟达致力于通过 Jetson 平台简化开源机器人创新部署
+  - [国外AI资讯] Gemini应用推出免费创建更长音乐曲目功能
+  - [国外AI资讯] GoogleCloudTech介绍使用ADK、MCP与Cloud Run构建多智能体博客起草系统
+  - [国外AI资讯] Google AI Studio 宣布其从提示到生产路径获智能增强
+  - [国外AI资讯] Safetensors与Helion作为托管项目加入PyTorch基金会
+  - [国外AI资讯] NVIDIA AI 探讨与 DeepHow、Google Cloud 合作将人类专业知识数字化
+  - [国外AI资讯] Mastra平台发布，提供规模化运行AI Agent的工具套件
+  - [国外AI资讯] AWS发布Agent Registry预览版，支持通过Bedrock AgentCore管理智能体
+  - [国内AI资讯] 阿里云百炼上线Agent记忆库，让「龙虾」应用更懂用户
+
+[2026-04-10 07:26:11] llm_summary - INPUT: 25条
+============================================================
+  - [其它科技资讯] 微信公众号打击非真人AI写作
+  - [国外AI资讯] CoreWeave与Meta签订210亿美元协议扩展AI基础设施
+  - [智能硬件] 消息称特斯拉Cybercab量产启动
+  - [智能硬件] 华为新款AI眼镜转轴模组采用裕同科技旗下华研新材料方案
+  - [其它科技资讯] 全球AIDC储能市场爆发式增长
+  - [国外AI资讯] 英伟达CEO黄仁勋到访美光GTC展台，美光分享AI内存解决方案
+  - [国外AI资讯] Alex Wang 评论 Meta Muse Spark 模型涌现新能力
+  - [国外AI资讯] 斯坦福AI实验室发布通用验证框架LLM-as-a-Verifier，在两项基准测试中达SOTA
+  - [国外AI资讯] Google Research发布ConvApparel数据集与评估框架，量化LLM用户模拟器真实性
+  - [国外AI资讯] OpenAI将推出定价100美元的ChatGPT Pro版本
+  - [国外AI资讯] 研究团队使用开源模型复现Mythos漏洞测试，AI安全能力排名洗牌
+  - [国外AI资讯] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [其它科技资讯] 微软 Build 2026 开发者大会议程目录上线
+  - [其它科技资讯] IDC在Directions 2026大会上推出AI技术智能平台IDC Quanta
+  - [国外AI资讯] 亚马逊构建AI智能体RuleForge应对云安全漏洞，规则生成速度提升336%
+  - [其它科技资讯] TinkerAPI 重新设计文档，发布 Cookbook v0.3.0
+  - [智能硬件] 英伟达致力于通过 Jetson 平台简化开源机器人创新部署
+  - [国外AI资讯] Gemini应用推出免费创建更长音乐曲目功能
+  - [国外AI资讯] GoogleCloudTech介绍使用ADK、MCP与Cloud Run构建多智能体博客起草系统
+  - [国外AI资讯] Google AI Studio 宣布其从提示到生产路径获智能增强
+  - [国外AI资讯] Safetensors与Helion作为托管项目加入PyTorch基金会
+  - [国外AI资讯] NVIDIA AI 探讨与 DeepHow、Google Cloud 合作将人类专业知识数字化
+  - [国外AI资讯] Mastra平台发布，提供规模化运行AI Agent的工具套件
+  - [国外AI资讯] AWS发布Agent Registry预览版，支持通过Bedrock AgentCore管理智能体
+  - [国内AI资讯] 阿里云百炼上线Agent记忆库，让「龙虾」应用更懂用户
+
+[2026-04-10 07:27:47] llm_summary - OUTPUT: 25条 | 成功0条
+============================================================
+  - [其它科技资讯] 微信公众号打击非真人AI写作
+  - [国外AI资讯] CoreWeave与Meta签订210亿美元协议扩展AI基础设施
+  - [智能硬件] 消息称特斯拉Cybercab量产启动
+  - [智能硬件] 华为新款AI眼镜转轴模组采用裕同科技旗下华研新材料方案
+  - [其它科技资讯] 全球AIDC储能市场爆发式增长
+  - [国外AI资讯] 英伟达CEO黄仁勋到访美光GTC展台，美光分享AI内存解决方案
+  - [国外AI资讯] Alex Wang 评论 Meta Muse Spark 模型涌现新能力
+  - [国外AI资讯] 斯坦福AI实验室发布通用验证框架LLM-as-a-Verifier，在两项基准测试中达SOTA
+  - [国外AI资讯] Google Research发布ConvApparel数据集与评估框架，量化LLM用户模拟器真实性
+  - [国外AI资讯] OpenAI将推出定价100美元的ChatGPT Pro版本
+  - [国外AI资讯] 研究团队使用开源模型复现Mythos漏洞测试，AI安全能力排名洗牌
+  - [国外AI资讯] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [其它科技资讯] 微软 Build 2026 开发者大会议程目录上线
+  - [其它科技资讯] IDC在Directions 2026大会上推出AI技术智能平台IDC Quanta
+  - [国外AI资讯] 亚马逊构建AI智能体RuleForge应对云安全漏洞，规则生成速度提升336%
+  - [其它科技资讯] TinkerAPI 重新设计文档，发布 Cookbook v0.3.0
+  - [智能硬件] 英伟达致力于通过 Jetson 平台简化开源机器人创新部署
+  - [国外AI资讯] Gemini应用推出免费创建更长音乐曲目功能
+  - [国外AI资讯] GoogleCloudTech介绍使用ADK、MCP与Cloud Run构建多智能体博客起草系统
+  - [国外AI资讯] Google AI Studio 宣布其从提示到生产路径获智能增强
+  - [国外AI资讯] Safetensors与Helion作为托管项目加入PyTorch基金会
+  - [国外AI资讯] NVIDIA AI 探讨与 DeepHow、Google Cloud 合作将人类专业知识数字化
+  - [国外AI资讯] Mastra平台发布，提供规模化运行AI Agent的工具套件
+  - [国外AI资讯] AWS发布Agent Registry预览版，支持通过Bedrock AgentCore管理智能体
+  - [国内AI资讯] 阿里云百炼上线Agent记忆库，让「龙虾」应用更懂用户
+
+[2026-04-10 07:28:41] keyword_filter - INPUT: 31条
+============================================================
+  - [] OpenAI称其计算资源增强使其较Anthropic有关键优势
+  - [] 亚马逊计划在密西西比州数据中心投资250亿美元
+  - [] AI短剧低至百元就能买张脸
+  - [] 微信公众号打击非真人AI写作
+  - [] CoreWeave与Meta签订210亿美元协议扩展AI基础设施
+  - [] OpenAI表示，已暂停英国的‘星际之门’项目
+  - [] 消息称特斯拉Cybercab量产启动
+  - [] 华为新款AI眼镜转轴模组采用裕同科技旗下华研新材料方案
+  - [] 清华00后团队创办，零次方机器人完成超亿元新一轮融资
+  - [] 全球AIDC储能市场爆发式增长
+  - [] 英伟达CEO黄仁勋到访美光GTC展台，美光分享AI内存解决方案
+  - [] Alex Wang 评论 Meta Muse Spark 模型涌现新能力
+  - [] 斯坦福AI实验室发布通用验证框架LLM-as-a-Verifier，在两项基准测试中达SOTA
+  - [] Google Research发布ConvApparel数据集与评估框架，量化LLM用户模拟器真实性
+  - [] OpenAI将推出定价100美元的ChatGPT Pro版本
+  - [] 研究团队使用开源模型复现Mythos漏洞测试，AI安全能力排名洗牌
+  - [] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [] 微软 Build 2026 开发者大会议程目录上线
+  - [] 微软上线 Microsoft Build 2026 开发者大会会议目录
+  - [] IDC在Directions 2026大会上推出AI技术智能平台IDC Quanta
+  - [] 亚马逊构建AI智能体RuleForge应对云安全漏洞，规则生成速度提升336%
+  - [] TinkerAPI 重新设计文档，发布 Cookbook v0.3.0
+  - [] 英伟达致力于通过 Jetson 平台简化开源机器人创新部署
+  - [] Gemini应用推出免费创建更长音乐曲目功能
+  - [] GoogleCloudTech介绍使用ADK、MCP与Cloud Run构建多智能体博客起草系统
+  - [] Google AI Studio 宣布其从提示到生产路径获智能增强
+  - [] Safetensors与Helion作为托管项目加入PyTorch基金会
+  - [] NVIDIA AI 探讨与 DeepHow、Google Cloud 合作将人类专业知识数字化
+  - [] Mastra平台发布，提供规模化运行AI Agent的工具套件
+  - [] AWS发布Agent Registry预览版，支持通过Bedrock AgentCore管理智能体
+  - [] 阿里云百炼上线Agent记忆库，让「龙虾」应用更懂用户
+
+[2026-04-10 07:28:41] keyword_filter - OUTPUT: 26条 | 移除5条
+============================================================
+  - [] 微信公众号打击非真人AI写作
+  - [] CoreWeave与Meta签订210亿美元协议扩展AI基础设施
+  - [] 消息称特斯拉Cybercab量产启动
+  - [] 华为新款AI眼镜转轴模组采用裕同科技旗下华研新材料方案
+  - [] 全球AIDC储能市场爆发式增长
+  - [] 英伟达CEO黄仁勋到访美光GTC展台，美光分享AI内存解决方案
+  - [] Alex Wang 评论 Meta Muse Spark 模型涌现新能力
+  - [] 斯坦福AI实验室发布通用验证框架LLM-as-a-Verifier，在两项基准测试中达SOTA
+  - [] Google Research发布ConvApparel数据集与评估框架，量化LLM用户模拟器真实性
+  - [] OpenAI将推出定价100美元的ChatGPT Pro版本
+  - [] 研究团队使用开源模型复现Mythos漏洞测试，AI安全能力排名洗牌
+  - [] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [] 微软 Build 2026 开发者大会议程目录上线
+  - [] 微软上线 Microsoft Build 2026 开发者大会会议目录
+  - [] IDC在Directions 2026大会上推出AI技术智能平台IDC Quanta
+  - [] 亚马逊构建AI智能体RuleForge应对云安全漏洞，规则生成速度提升336%
+  - [] TinkerAPI 重新设计文档，发布 Cookbook v0.3.0
+  - [] 英伟达致力于通过 Jetson 平台简化开源机器人创新部署
+  - [] Gemini应用推出免费创建更长音乐曲目功能
+  - [] GoogleCloudTech介绍使用ADK、MCP与Cloud Run构建多智能体博客起草系统
+  - [] Google AI Studio 宣布其从提示到生产路径获智能增强
+  - [] Safetensors与Helion作为托管项目加入PyTorch基金会
+  - [] NVIDIA AI 探讨与 DeepHow、Google Cloud 合作将人类专业知识数字化
+  - [] Mastra平台发布，提供规模化运行AI Agent的工具套件
+  - [] AWS发布Agent Registry预览版，支持通过Bedrock AgentCore管理智能体
+  - [] 阿里云百炼上线Agent记忆库，让「龙虾」应用更懂用户
+
+[2026-04-10 07:28:41] bge_dedup - INPUT: 26条
+============================================================
+  - [] 微信公众号打击非真人AI写作
+  - [] CoreWeave与Meta签订210亿美元协议扩展AI基础设施
+  - [] 消息称特斯拉Cybercab量产启动
+  - [] 华为新款AI眼镜转轴模组采用裕同科技旗下华研新材料方案
+  - [] 全球AIDC储能市场爆发式增长
+  - [] 英伟达CEO黄仁勋到访美光GTC展台，美光分享AI内存解决方案
+  - [] Alex Wang 评论 Meta Muse Spark 模型涌现新能力
+  - [] 斯坦福AI实验室发布通用验证框架LLM-as-a-Verifier，在两项基准测试中达SOTA
+  - [] Google Research发布ConvApparel数据集与评估框架，量化LLM用户模拟器真实性
+  - [] OpenAI将推出定价100美元的ChatGPT Pro版本
+  - [] 研究团队使用开源模型复现Mythos漏洞测试，AI安全能力排名洗牌
+  - [] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [] 微软 Build 2026 开发者大会议程目录上线
+  - [] 微软上线 Microsoft Build 2026 开发者大会会议目录
+  - [] IDC在Directions 2026大会上推出AI技术智能平台IDC Quanta
+  - [] 亚马逊构建AI智能体RuleForge应对云安全漏洞，规则生成速度提升336%
+  - [] TinkerAPI 重新设计文档，发布 Cookbook v0.3.0
+  - [] 英伟达致力于通过 Jetson 平台简化开源机器人创新部署
+  - [] Gemini应用推出免费创建更长音乐曲目功能
+  - [] GoogleCloudTech介绍使用ADK、MCP与Cloud Run构建多智能体博客起草系统
+  - [] Google AI Studio 宣布其从提示到生产路径获智能增强
+  - [] Safetensors与Helion作为托管项目加入PyTorch基金会
+  - [] NVIDIA AI 探讨与 DeepHow、Google Cloud 合作将人类专业知识数字化
+  - [] Mastra平台发布，提供规模化运行AI Agent的工具套件
+  - [] AWS发布Agent Registry预览版，支持通过Bedrock AgentCore管理智能体
+  - [] 阿里云百炼上线Agent记忆库，让「龙虾」应用更懂用户
+
+[2026-04-10 07:28:58] bge_dedup - OUTPUT: 25条 | 移除1条
+============================================================
+  - [] 微信公众号打击非真人AI写作
+  - [] CoreWeave与Meta签订210亿美元协议扩展AI基础设施
+  - [] 消息称特斯拉Cybercab量产启动
+  - [] 华为新款AI眼镜转轴模组采用裕同科技旗下华研新材料方案
+  - [] 全球AIDC储能市场爆发式增长
+  - [] 英伟达CEO黄仁勋到访美光GTC展台，美光分享AI内存解决方案
+  - [] Alex Wang 评论 Meta Muse Spark 模型涌现新能力
+  - [] 斯坦福AI实验室发布通用验证框架LLM-as-a-Verifier，在两项基准测试中达SOTA
+  - [] Google Research发布ConvApparel数据集与评估框架，量化LLM用户模拟器真实性
+  - [] OpenAI将推出定价100美元的ChatGPT Pro版本
+  - [] 研究团队使用开源模型复现Mythos漏洞测试，AI安全能力排名洗牌
+  - [] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [] 微软 Build 2026 开发者大会议程目录上线
+  - [] IDC在Directions 2026大会上推出AI技术智能平台IDC Quanta
+  - [] 亚马逊构建AI智能体RuleForge应对云安全漏洞，规则生成速度提升336%
+  - [] TinkerAPI 重新设计文档，发布 Cookbook v0.3.0
+  - [] 英伟达致力于通过 Jetson 平台简化开源机器人创新部署
+  - [] Gemini应用推出免费创建更长音乐曲目功能
+  - [] GoogleCloudTech介绍使用ADK、MCP与Cloud Run构建多智能体博客起草系统
+  - [] Google AI Studio 宣布其从提示到生产路径获智能增强
+  - [] Safetensors与Helion作为托管项目加入PyTorch基金会
+  - [] NVIDIA AI 探讨与 DeepHow、Google Cloud 合作将人类专业知识数字化
+  - [] Mastra平台发布，提供规模化运行AI Agent的工具套件
+  - [] AWS发布Agent Registry预览版，支持通过Bedrock AgentCore管理智能体
+  - [] 阿里云百炼上线Agent记忆库，让「龙虾」应用更懂用户
+
+[2026-04-10 07:28:58] llm_classify - INPUT: 25条
+============================================================
+  - [] 微信公众号打击非真人AI写作
+  - [] CoreWeave与Meta签订210亿美元协议扩展AI基础设施
+  - [] 消息称特斯拉Cybercab量产启动
+  - [] 华为新款AI眼镜转轴模组采用裕同科技旗下华研新材料方案
+  - [] 全球AIDC储能市场爆发式增长
+  - [] 英伟达CEO黄仁勋到访美光GTC展台，美光分享AI内存解决方案
+  - [] Alex Wang 评论 Meta Muse Spark 模型涌现新能力
+  - [] 斯坦福AI实验室发布通用验证框架LLM-as-a-Verifier，在两项基准测试中达SOTA
+  - [] Google Research发布ConvApparel数据集与评估框架，量化LLM用户模拟器真实性
+  - [] OpenAI将推出定价100美元的ChatGPT Pro版本
+  - [] 研究团队使用开源模型复现Mythos漏洞测试，AI安全能力排名洗牌
+  - [] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [] 微软 Build 2026 开发者大会议程目录上线
+  - [] IDC在Directions 2026大会上推出AI技术智能平台IDC Quanta
+  - [] 亚马逊构建AI智能体RuleForge应对云安全漏洞，规则生成速度提升336%
+  - [] TinkerAPI 重新设计文档，发布 Cookbook v0.3.0
+  - [] 英伟达致力于通过 Jetson 平台简化开源机器人创新部署
+  - [] Gemini应用推出免费创建更长音乐曲目功能
+  - [] GoogleCloudTech介绍使用ADK、MCP与Cloud Run构建多智能体博客起草系统
+  - [] Google AI Studio 宣布其从提示到生产路径获智能增强
+  - [] Safetensors与Helion作为托管项目加入PyTorch基金会
+  - [] NVIDIA AI 探讨与 DeepHow、Google Cloud 合作将人类专业知识数字化
+  - [] Mastra平台发布，提供规模化运行AI Agent的工具套件
+  - [] AWS发布Agent Registry预览版，支持通过Bedrock AgentCore管理智能体
+  - [] 阿里云百炼上线Agent记忆库，让「龙虾」应用更懂用户
+
+[2026-04-10 07:29:13] llm_classify - OUTPUT: 25条 | 保留25条
+============================================================
+  - [其它科技资讯] 微信公众号打击非真人AI写作
+  - [国外AI资讯] CoreWeave与Meta签订210亿美元协议扩展AI基础设施
+  - [智能硬件] 消息称特斯拉Cybercab量产启动
+  - [智能硬件] 华为新款AI眼镜转轴模组采用裕同科技旗下华研新材料方案
+  - [其它科技资讯] 全球AIDC储能市场爆发式增长
+  - [国外AI资讯] 英伟达CEO黄仁勋到访美光GTC展台，美光分享AI内存解决方案
+  - [国外AI资讯] Alex Wang 评论 Meta Muse Spark 模型涌现新能力
+  - [其它科技资讯] 斯坦福AI实验室发布通用验证框架LLM-as-a-Verifier，在两项基准测试中达SOTA
+  - [国外AI资讯] Google Research发布ConvApparel数据集与评估框架，量化LLM用户模拟器真实性
+  - [国外AI资讯] OpenAI将推出定价100美元的ChatGPT Pro版本
+  - [其它科技资讯] 研究团队使用开源模型复现Mythos漏洞测试，AI安全能力排名洗牌
+  - [国外AI资讯] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [国外AI资讯] 微软 Build 2026 开发者大会议程目录上线
+  - [国外AI资讯] IDC在Directions 2026大会上推出AI技术智能平台IDC Quanta
+  - [国外AI资讯] 亚马逊构建AI智能体RuleForge应对云安全漏洞，规则生成速度提升336%
+  - [其它科技资讯] TinkerAPI 重新设计文档，发布 Cookbook v0.3.0
+  - [智能硬件] 英伟达致力于通过 Jetson 平台简化开源机器人创新部署
+  - [国外AI资讯] Gemini应用推出免费创建更长音乐曲目功能
+  - [国外AI资讯] GoogleCloudTech介绍使用ADK、MCP与Cloud Run构建多智能体博客起草系统
+  - [国外AI资讯] Google AI Studio 宣布其从提示到生产路径获智能增强
+  - [国外AI资讯] Safetensors与Helion作为托管项目加入PyTorch基金会
+  - [国外AI资讯] NVIDIA AI 探讨与 DeepHow、Google Cloud 合作将人类专业知识数字化
+  - [国外AI资讯] Mastra平台发布，提供规模化运行AI Agent的工具套件
+  - [国外AI资讯] AWS发布Agent Registry预览版，支持通过Bedrock AgentCore管理智能体
+  - [国内AI资讯] 阿里云百炼上线Agent记忆库，让「龙虾」应用更懂用户
+
+[2026-04-10 07:29:13] llm_summary - INPUT: 25条
+============================================================
+  - [其它科技资讯] 微信公众号打击非真人AI写作
+  - [国外AI资讯] CoreWeave与Meta签订210亿美元协议扩展AI基础设施
+  - [智能硬件] 消息称特斯拉Cybercab量产启动
+  - [智能硬件] 华为新款AI眼镜转轴模组采用裕同科技旗下华研新材料方案
+  - [其它科技资讯] 全球AIDC储能市场爆发式增长
+  - [国外AI资讯] 英伟达CEO黄仁勋到访美光GTC展台，美光分享AI内存解决方案
+  - [国外AI资讯] Alex Wang 评论 Meta Muse Spark 模型涌现新能力
+  - [其它科技资讯] 斯坦福AI实验室发布通用验证框架LLM-as-a-Verifier，在两项基准测试中达SOTA
+  - [国外AI资讯] Google Research发布ConvApparel数据集与评估框架，量化LLM用户模拟器真实性
+  - [国外AI资讯] OpenAI将推出定价100美元的ChatGPT Pro版本
+  - [其它科技资讯] 研究团队使用开源模型复现Mythos漏洞测试，AI安全能力排名洗牌
+  - [国外AI资讯] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [国外AI资讯] 微软 Build 2026 开发者大会议程目录上线
+  - [国外AI资讯] IDC在Directions 2026大会上推出AI技术智能平台IDC Quanta
+  - [国外AI资讯] 亚马逊构建AI智能体RuleForge应对云安全漏洞，规则生成速度提升336%
+  - [其它科技资讯] TinkerAPI 重新设计文档，发布 Cookbook v0.3.0
+  - [智能硬件] 英伟达致力于通过 Jetson 平台简化开源机器人创新部署
+  - [国外AI资讯] Gemini应用推出免费创建更长音乐曲目功能
+  - [国外AI资讯] GoogleCloudTech介绍使用ADK、MCP与Cloud Run构建多智能体博客起草系统
+  - [国外AI资讯] Google AI Studio 宣布其从提示到生产路径获智能增强
+  - [国外AI资讯] Safetensors与Helion作为托管项目加入PyTorch基金会
+  - [国外AI资讯] NVIDIA AI 探讨与 DeepHow、Google Cloud 合作将人类专业知识数字化
+  - [国外AI资讯] Mastra平台发布，提供规模化运行AI Agent的工具套件
+  - [国外AI资讯] AWS发布Agent Registry预览版，支持通过Bedrock AgentCore管理智能体
+  - [国内AI资讯] 阿里云百炼上线Agent记忆库，让「龙虾」应用更懂用户
+
+[2026-04-10 07:30:46] llm_summary - OUTPUT: 25条 | 成功0条
+============================================================
+  - [其它科技资讯] 微信公众号打击非真人AI写作
+  - [国外AI资讯] CoreWeave与Meta签订210亿美元协议扩展AI基础设施
+  - [智能硬件] 消息称特斯拉Cybercab量产启动
+  - [智能硬件] 华为新款AI眼镜转轴模组采用裕同科技旗下华研新材料方案
+  - [其它科技资讯] 全球AIDC储能市场爆发式增长
+  - [国外AI资讯] 英伟达CEO黄仁勋到访美光GTC展台，美光分享AI内存解决方案
+  - [国外AI资讯] Alex Wang 评论 Meta Muse Spark 模型涌现新能力
+  - [其它科技资讯] 斯坦福AI实验室发布通用验证框架LLM-as-a-Verifier，在两项基准测试中达SOTA
+  - [国外AI资讯] Google Research发布ConvApparel数据集与评估框架，量化LLM用户模拟器真实性
+  - [国外AI资讯] OpenAI将推出定价100美元的ChatGPT Pro版本
+  - [其它科技资讯] 研究团队使用开源模型复现Mythos漏洞测试，AI安全能力排名洗牌
+  - [国外AI资讯] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [国外AI资讯] 微软 Build 2026 开发者大会议程目录上线
+  - [国外AI资讯] IDC在Directions 2026大会上推出AI技术智能平台IDC Quanta
+  - [国外AI资讯] 亚马逊构建AI智能体RuleForge应对云安全漏洞，规则生成速度提升336%
+  - [其它科技资讯] TinkerAPI 重新设计文档，发布 Cookbook v0.3.0
+  - [智能硬件] 英伟达致力于通过 Jetson 平台简化开源机器人创新部署
+  - [国外AI资讯] Gemini应用推出免费创建更长音乐曲目功能
+  - [国外AI资讯] GoogleCloudTech介绍使用ADK、MCP与Cloud Run构建多智能体博客起草系统
+  - [国外AI资讯] Google AI Studio 宣布其从提示到生产路径获智能增强
+  - [国外AI资讯] Safetensors与Helion作为托管项目加入PyTorch基金会
+  - [国外AI资讯] NVIDIA AI 探讨与 DeepHow、Google Cloud 合作将人类专业知识数字化
+  - [国外AI资讯] Mastra平台发布，提供规模化运行AI Agent的工具套件
+  - [国外AI资讯] AWS发布Agent Registry预览版，支持通过Bedrock AgentCore管理智能体
+  - [国内AI资讯] 阿里云百炼上线Agent记忆库，让「龙虾」应用更懂用户
+
+[2026-04-10 14:38:07] keyword_filter - INPUT: 35条
+============================================================
+  - [huxiu][] 阿里巴巴任命周靖人领导人工智能事业部。（英国金融时报）
+  - [huxiu][] GPT模型irAE-GPT高效识别免疫相关不良事件
+  - [huxiu][] 宇树“牵手”阿里官宣出海！人形机器人大幅走强
+  - [huxiu][] 多模态大模型HappyHorse或由阿里团队研发
+  - [huxiu][] 贝森特召集银行CEO讨论Anthropic新型AI风险
+  - [huxiu][] 阿里巴巴领投对AI视频生成公司生数科技的一轮3亿美元融资
+  - [huxiu][] 微软称AI语音技术仍有待完善
+  - [huxiu][] 美国佛州总检察长就涉ChatGPT枪击事件调查OpenAI
+  - [huxiu][] OpenAI称其计算资源增强使其较Anthropic有关键优势
+  - [huxiu][] 亚马逊计划在密西西比州数据中心投资250亿美元
+  - [huxiu][] AI短剧低至百元就能买张脸
+  - [huxiu][] 微信公众号打击非真人AI写作
+  - [huxiu][] CoreWeave与Meta签订210亿美元协议扩展AI基础设施
+  - [huxiu][] OpenAI表示，已暂停英国的‘星际之门’项目
+  - [infoq][] SK海力士在GTC演讲中阐述HBM4如何支持高效LLM规模化服务
+  - [infoq][] Anthropic 向所有付费订阅者全面开放 Claude Cowork 工具
+  - [infoq][] NeurIPS 2026 公开征集立场论文轨道领域主席自荐提名
+  - [infoq][] Yann LeCun 转发观点：JEPA 世界模型结合分层规划是长程机器人技术重大进展
+  - [infoq][] OpenAI推出ChatGPT Pro订阅层级，月费100美元面向开发者
+  - [infoq][] Luma AI 推出创意智能体 Luma Agents，旨在提升团队创意产出效率
+  - [infoq][] 前Brain/DeepMind研究员Andrew Dai离职创业，成立多模态AI公司ElorianA
+  - [infoq][] TheWorldLabs 发布 Marble 1.1 系列模型并上线 Mint 平台
+  - [infoq][] Anthropic 为 Claude Platform 引入“顾问策略”以优化模型组合
+  - [infoq][] Lovart AI 向所有用户开放 Seedance 2.0，支持生成60秒视频
+  - [infoq][] MIT教授Ashesh Rambachan将介绍从生成式序列模型中提取有限自动机的框架
+  - [infoq][] 英伟达CEO黄仁勋到访美光GTC展台，美光分享AI内存解决方案
+  - [infoq][] Alex Wang 评论 Meta Muse Spark 模型涌现新能力
+  - [infoq][] 斯坦福AI实验室发布通用验证框架LLM-as-a-Verifier，在两项基准测试中达SOTA
+  - [infoq][] Google Research发布ConvApparel数据集与评估框架，量化LLM用户模拟器真实性
+  - [infoq][] OpenAI将推出定价100美元的ChatGPT Pro版本
+  - [infoq][] 研究团队使用开源模型复现Mythos漏洞测试，AI安全能力排名洗牌
+  - [infoq][] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [infoq][] 微软 Build 2026 开发者大会议程目录上线
+  - [infoq][] 微软上线 Microsoft Build 2026 开发者大会会议目录
+  - [量子位][] 别只用AI写脚本了，现在AI打广告可真是城会玩了！
+
+[2026-04-10 14:38:07] keyword_filter - OUTPUT: 28条 | 移除7条
+============================================================
+  - [huxiu][] 阿里巴巴任命周靖人领导人工智能事业部。（英国金融时报）
+  - [huxiu][] GPT模型irAE-GPT高效识别免疫相关不良事件
+  - [huxiu][] 宇树“牵手”阿里官宣出海！人形机器人大幅走强
+  - [huxiu][] 多模态大模型HappyHorse或由阿里团队研发
+  - [huxiu][] 贝森特召集银行CEO讨论Anthropic新型AI风险
+  - [huxiu][] 微软称AI语音技术仍有待完善
+  - [huxiu][] 美国佛州总检察长就涉ChatGPT枪击事件调查OpenAI
+  - [huxiu][] 微信公众号打击非真人AI写作
+  - [huxiu][] CoreWeave与Meta签订210亿美元协议扩展AI基础设施
+  - [infoq][] SK海力士在GTC演讲中阐述HBM4如何支持高效LLM规模化服务
+  - [infoq][] Anthropic 向所有付费订阅者全面开放 Claude Cowork 工具
+  - [infoq][] NeurIPS 2026 公开征集立场论文轨道领域主席自荐提名
+  - [infoq][] Yann LeCun 转发观点：JEPA 世界模型结合分层规划是长程机器人技术重大进展
+  - [infoq][] 前Brain/DeepMind研究员Andrew Dai离职创业，成立多模态AI公司ElorianA
+  - [infoq][] TheWorldLabs 发布 Marble 1.1 系列模型并上线 Mint 平台
+  - [infoq][] Anthropic 为 Claude Platform 引入“顾问策略”以优化模型组合
+  - [infoq][] Lovart AI 向所有用户开放 Seedance 2.0，支持生成60秒视频
+  - [infoq][] MIT教授Ashesh Rambachan将介绍从生成式序列模型中提取有限自动机的框架
+  - [infoq][] 英伟达CEO黄仁勋到访美光GTC展台，美光分享AI内存解决方案
+  - [infoq][] Alex Wang 评论 Meta Muse Spark 模型涌现新能力
+  - [infoq][] 斯坦福AI实验室发布通用验证框架LLM-as-a-Verifier，在两项基准测试中达SOTA
+  - [infoq][] Google Research发布ConvApparel数据集与评估框架，量化LLM用户模拟器真实性
+  - [infoq][] OpenAI将推出定价100美元的ChatGPT Pro版本
+  - [infoq][] 研究团队使用开源模型复现Mythos漏洞测试，AI安全能力排名洗牌
+  - [infoq][] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [infoq][] 微软 Build 2026 开发者大会议程目录上线
+  - [infoq][] 微软上线 Microsoft Build 2026 开发者大会会议目录
+  - [量子位][] 别只用AI写脚本了，现在AI打广告可真是城会玩了！
+
+[2026-04-10 14:38:07] bge_dedup - INPUT: 28条
+============================================================
+  - [huxiu][] 阿里巴巴任命周靖人领导人工智能事业部。（英国金融时报）
+  - [huxiu][] GPT模型irAE-GPT高效识别免疫相关不良事件
+  - [huxiu][] 宇树“牵手”阿里官宣出海！人形机器人大幅走强
+  - [huxiu][] 多模态大模型HappyHorse或由阿里团队研发
+  - [huxiu][] 贝森特召集银行CEO讨论Anthropic新型AI风险
+  - [huxiu][] 微软称AI语音技术仍有待完善
+  - [huxiu][] 美国佛州总检察长就涉ChatGPT枪击事件调查OpenAI
+  - [huxiu][] 微信公众号打击非真人AI写作
+  - [huxiu][] CoreWeave与Meta签订210亿美元协议扩展AI基础设施
+  - [infoq][] SK海力士在GTC演讲中阐述HBM4如何支持高效LLM规模化服务
+  - [infoq][] Anthropic 向所有付费订阅者全面开放 Claude Cowork 工具
+  - [infoq][] NeurIPS 2026 公开征集立场论文轨道领域主席自荐提名
+  - [infoq][] Yann LeCun 转发观点：JEPA 世界模型结合分层规划是长程机器人技术重大进展
+  - [infoq][] 前Brain/DeepMind研究员Andrew Dai离职创业，成立多模态AI公司ElorianA
+  - [infoq][] TheWorldLabs 发布 Marble 1.1 系列模型并上线 Mint 平台
+  - [infoq][] Anthropic 为 Claude Platform 引入“顾问策略”以优化模型组合
+  - [infoq][] Lovart AI 向所有用户开放 Seedance 2.0，支持生成60秒视频
+  - [infoq][] MIT教授Ashesh Rambachan将介绍从生成式序列模型中提取有限自动机的框架
+  - [infoq][] 英伟达CEO黄仁勋到访美光GTC展台，美光分享AI内存解决方案
+  - [infoq][] Alex Wang 评论 Meta Muse Spark 模型涌现新能力
+  - [infoq][] 斯坦福AI实验室发布通用验证框架LLM-as-a-Verifier，在两项基准测试中达SOTA
+  - [infoq][] Google Research发布ConvApparel数据集与评估框架，量化LLM用户模拟器真实性
+  - [infoq][] OpenAI将推出定价100美元的ChatGPT Pro版本
+  - [infoq][] 研究团队使用开源模型复现Mythos漏洞测试，AI安全能力排名洗牌
+  - [infoq][] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [infoq][] 微软 Build 2026 开发者大会议程目录上线
+  - [infoq][] 微软上线 Microsoft Build 2026 开发者大会会议目录
+  - [量子位][] 别只用AI写脚本了，现在AI打广告可真是城会玩了！
+
+[2026-04-10 14:38:24] bge_dedup - OUTPUT: 27条 | 移除1条
+============================================================
+  - [huxiu][] 阿里巴巴任命周靖人领导人工智能事业部。（英国金融时报）
+  - [huxiu][] GPT模型irAE-GPT高效识别免疫相关不良事件
+  - [huxiu][] 宇树“牵手”阿里官宣出海！人形机器人大幅走强
+  - [huxiu][] 多模态大模型HappyHorse或由阿里团队研发
+  - [huxiu][] 贝森特召集银行CEO讨论Anthropic新型AI风险
+  - [huxiu][] 微软称AI语音技术仍有待完善
+  - [huxiu][] 美国佛州总检察长就涉ChatGPT枪击事件调查OpenAI
+  - [huxiu][] 微信公众号打击非真人AI写作
+  - [huxiu][] CoreWeave与Meta签订210亿美元协议扩展AI基础设施
+  - [infoq][] SK海力士在GTC演讲中阐述HBM4如何支持高效LLM规模化服务
+  - [infoq][] Anthropic 向所有付费订阅者全面开放 Claude Cowork 工具
+  - [infoq][] NeurIPS 2026 公开征集立场论文轨道领域主席自荐提名
+  - [infoq][] Yann LeCun 转发观点：JEPA 世界模型结合分层规划是长程机器人技术重大进展
+  - [infoq][] 前Brain/DeepMind研究员Andrew Dai离职创业，成立多模态AI公司ElorianA
+  - [infoq][] TheWorldLabs 发布 Marble 1.1 系列模型并上线 Mint 平台
+  - [infoq][] Anthropic 为 Claude Platform 引入“顾问策略”以优化模型组合
+  - [infoq][] Lovart AI 向所有用户开放 Seedance 2.0，支持生成60秒视频
+  - [infoq][] MIT教授Ashesh Rambachan将介绍从生成式序列模型中提取有限自动机的框架
+  - [infoq][] 英伟达CEO黄仁勋到访美光GTC展台，美光分享AI内存解决方案
+  - [infoq][] Alex Wang 评论 Meta Muse Spark 模型涌现新能力
+  - [infoq][] 斯坦福AI实验室发布通用验证框架LLM-as-a-Verifier，在两项基准测试中达SOTA
+  - [infoq][] Google Research发布ConvApparel数据集与评估框架，量化LLM用户模拟器真实性
+  - [infoq][] OpenAI将推出定价100美元的ChatGPT Pro版本
+  - [infoq][] 研究团队使用开源模型复现Mythos漏洞测试，AI安全能力排名洗牌
+  - [infoq][] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [infoq][] 微软 Build 2026 开发者大会议程目录上线
+  - [量子位][] 别只用AI写脚本了，现在AI打广告可真是城会玩了！
+
+[2026-04-10 14:38:24] llm_classify - INPUT: 27条
+============================================================
+  - [huxiu][] 阿里巴巴任命周靖人领导人工智能事业部。（英国金融时报）
+  - [huxiu][] GPT模型irAE-GPT高效识别免疫相关不良事件
+  - [huxiu][] 宇树“牵手”阿里官宣出海！人形机器人大幅走强
+  - [huxiu][] 多模态大模型HappyHorse或由阿里团队研发
+  - [huxiu][] 贝森特召集银行CEO讨论Anthropic新型AI风险
+  - [huxiu][] 微软称AI语音技术仍有待完善
+  - [huxiu][] 美国佛州总检察长就涉ChatGPT枪击事件调查OpenAI
+  - [huxiu][] 微信公众号打击非真人AI写作
+  - [huxiu][] CoreWeave与Meta签订210亿美元协议扩展AI基础设施
+  - [infoq][] SK海力士在GTC演讲中阐述HBM4如何支持高效LLM规模化服务
+  - [infoq][] Anthropic 向所有付费订阅者全面开放 Claude Cowork 工具
+  - [infoq][] NeurIPS 2026 公开征集立场论文轨道领域主席自荐提名
+  - [infoq][] Yann LeCun 转发观点：JEPA 世界模型结合分层规划是长程机器人技术重大进展
+  - [infoq][] 前Brain/DeepMind研究员Andrew Dai离职创业，成立多模态AI公司ElorianA
+  - [infoq][] TheWorldLabs 发布 Marble 1.1 系列模型并上线 Mint 平台
+  - [infoq][] Anthropic 为 Claude Platform 引入“顾问策略”以优化模型组合
+  - [infoq][] Lovart AI 向所有用户开放 Seedance 2.0，支持生成60秒视频
+  - [infoq][] MIT教授Ashesh Rambachan将介绍从生成式序列模型中提取有限自动机的框架
+  - [infoq][] 英伟达CEO黄仁勋到访美光GTC展台，美光分享AI内存解决方案
+  - [infoq][] Alex Wang 评论 Meta Muse Spark 模型涌现新能力
+  - [infoq][] 斯坦福AI实验室发布通用验证框架LLM-as-a-Verifier，在两项基准测试中达SOTA
+  - [infoq][] Google Research发布ConvApparel数据集与评估框架，量化LLM用户模拟器真实性
+  - [infoq][] OpenAI将推出定价100美元的ChatGPT Pro版本
+  - [infoq][] 研究团队使用开源模型复现Mythos漏洞测试，AI安全能力排名洗牌
+  - [infoq][] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [infoq][] 微软 Build 2026 开发者大会议程目录上线
+  - [量子位][] 别只用AI写脚本了，现在AI打广告可真是城会玩了！
+
+[2026-04-10 14:40:09] llm_classify - OUTPUT: 27条 | 保留27条
+============================================================
+  - [huxiu][国内AI资讯] 阿里巴巴任命周靖人领导人工智能事业部。（英国金融时报）
+  - [huxiu][国外AI资讯] GPT模型irAE-GPT高效识别免疫相关不良事件
+  - [huxiu][智能硬件] 宇树“牵手”阿里官宣出海！人形机器人大幅走强
+  - [huxiu][国内AI资讯] 多模态大模型HappyHorse或由阿里团队研发
+  - [huxiu][其它科技资讯] 贝森特召集银行CEO讨论Anthropic新型AI风险
+  - [huxiu][国外AI资讯] 微软称AI语音技术仍有待完善
+  - [huxiu][其它科技资讯] 美国佛州总检察长就涉ChatGPT枪击事件调查OpenAI
+  - [huxiu][国内AI资讯] 微信公众号打击非真人AI写作
+  - [huxiu][国外AI资讯] CoreWeave与Meta签订210亿美元协议扩展AI基础设施
+  - [infoq][国外AI资讯] SK海力士在GTC演讲中阐述HBM4如何支持高效LLM规模化服务
+  - [infoq][国外AI资讯] Anthropic 向所有付费订阅者全面开放 Claude Cowork 工具
+  - [infoq][其它科技资讯] NeurIPS 2026 公开征集立场论文轨道领域主席自荐提名
+  - [infoq][国外AI资讯] Yann LeCun 转发观点：JEPA 世界模型结合分层规划是长程机器人技术重大进展
+  - [infoq][国外AI资讯] 前Brain/DeepMind研究员Andrew Dai离职创业，成立多模态AI公司ElorianA
+  - [infoq][国外AI资讯] TheWorldLabs 发布 Marble 1.1 系列模型并上线 Mint 平台
+  - [infoq][国外AI资讯] Anthropic 为 Claude Platform 引入“顾问策略”以优化模型组合
+  - [infoq][国外AI资讯] Lovart AI 向所有用户开放 Seedance 2.0，支持生成60秒视频
+  - [infoq][国外AI资讯] MIT教授Ashesh Rambachan将介绍从生成式序列模型中提取有限自动机的框架
+  - [infoq][智能硬件] 英伟达CEO黄仁勋到访美光GTC展台，美光分享AI内存解决方案
+  - [infoq][国外AI资讯] Alex Wang 评论 Meta Muse Spark 模型涌现新能力
+  - [infoq][国外AI资讯] 斯坦福AI实验室发布通用验证框架LLM-as-a-Verifier，在两项基准测试中达SOTA
+  - [infoq][国外AI资讯] Google Research发布ConvApparel数据集与评估框架，量化LLM用户模拟器真实性
+  - [infoq][国外AI资讯] OpenAI将推出定价100美元的ChatGPT Pro版本
+  - [infoq][国外AI资讯] 研究团队使用开源模型复现Mythos漏洞测试，AI安全能力排名洗牌
+  - [infoq][国外AI资讯] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [infoq][其它科技资讯] 微软 Build 2026 开发者大会议程目录上线
+  - [量子位][其它科技资讯] 别只用AI写脚本了，现在AI打广告可真是城会玩了！
+
+[2026-04-10 14:40:09] llm_summary - INPUT: 27条
+============================================================
+  - [huxiu][国内AI资讯] 阿里巴巴任命周靖人领导人工智能事业部。（英国金融时报）
+  - [huxiu][国外AI资讯] GPT模型irAE-GPT高效识别免疫相关不良事件
+  - [huxiu][智能硬件] 宇树“牵手”阿里官宣出海！人形机器人大幅走强
+  - [huxiu][国内AI资讯] 多模态大模型HappyHorse或由阿里团队研发
+  - [huxiu][其它科技资讯] 贝森特召集银行CEO讨论Anthropic新型AI风险
+  - [huxiu][国外AI资讯] 微软称AI语音技术仍有待完善
+  - [huxiu][其它科技资讯] 美国佛州总检察长就涉ChatGPT枪击事件调查OpenAI
+  - [huxiu][国内AI资讯] 微信公众号打击非真人AI写作
+  - [huxiu][国外AI资讯] CoreWeave与Meta签订210亿美元协议扩展AI基础设施
+  - [infoq][国外AI资讯] SK海力士在GTC演讲中阐述HBM4如何支持高效LLM规模化服务
+  - [infoq][国外AI资讯] Anthropic 向所有付费订阅者全面开放 Claude Cowork 工具
+  - [infoq][其它科技资讯] NeurIPS 2026 公开征集立场论文轨道领域主席自荐提名
+  - [infoq][国外AI资讯] Yann LeCun 转发观点：JEPA 世界模型结合分层规划是长程机器人技术重大进展
+  - [infoq][国外AI资讯] 前Brain/DeepMind研究员Andrew Dai离职创业，成立多模态AI公司ElorianA
+  - [infoq][国外AI资讯] TheWorldLabs 发布 Marble 1.1 系列模型并上线 Mint 平台
+  - [infoq][国外AI资讯] Anthropic 为 Claude Platform 引入“顾问策略”以优化模型组合
+  - [infoq][国外AI资讯] Lovart AI 向所有用户开放 Seedance 2.0，支持生成60秒视频
+  - [infoq][国外AI资讯] MIT教授Ashesh Rambachan将介绍从生成式序列模型中提取有限自动机的框架
+  - [infoq][智能硬件] 英伟达CEO黄仁勋到访美光GTC展台，美光分享AI内存解决方案
+  - [infoq][国外AI资讯] Alex Wang 评论 Meta Muse Spark 模型涌现新能力
+  - [infoq][国外AI资讯] 斯坦福AI实验室发布通用验证框架LLM-as-a-Verifier，在两项基准测试中达SOTA
+  - [infoq][国外AI资讯] Google Research发布ConvApparel数据集与评估框架，量化LLM用户模拟器真实性
+  - [infoq][国外AI资讯] OpenAI将推出定价100美元的ChatGPT Pro版本
+  - [infoq][国外AI资讯] 研究团队使用开源模型复现Mythos漏洞测试，AI安全能力排名洗牌
+  - [infoq][国外AI资讯] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [infoq][其它科技资讯] 微软 Build 2026 开发者大会议程目录上线
+  - [量子位][其它科技资讯] 别只用AI写脚本了，现在AI打广告可真是城会玩了！
+
+[2026-04-10 14:40:43] llm_summary - OUTPUT: 27条 | 成功7条
+============================================================
+  - [huxiu][国内AI资讯] 阿里巴巴任命周靖人领导人工智能事业部。（英国金融时报）
+  - [huxiu][国外AI资讯] GPT模型irAE-GPT高效识别免疫相关不良事件
+  - [huxiu][智能硬件] 宇树“牵手”阿里官宣出海！人形机器人大幅走强
+  - [huxiu][国内AI资讯] 多模态大模型HappyHorse或由阿里团队研发
+  - [huxiu][其它科技资讯] 贝森特召集银行CEO讨论Anthropic新型AI风险
+  - [huxiu][国外AI资讯] 微软称AI语音技术仍有待完善
+  - [huxiu][其它科技资讯] 美国佛州总检察长就涉ChatGPT枪击事件调查OpenAI
+  - [huxiu][国内AI资讯] 微信公众号打击非真人AI写作
+  - [huxiu][国外AI资讯] CoreWeave与Meta签订210亿美元协议扩展AI基础设施
+  - [infoq][国外AI资讯] SK海力士在GTC演讲中阐述HBM4如何支持高效LLM规模化服务
+  - [infoq][国外AI资讯] Anthropic 向所有付费订阅者全面开放 Claude Cowork 工具
+  - [infoq][其它科技资讯] NeurIPS 2026 公开征集立场论文轨道领域主席自荐提名
+  - [infoq][国外AI资讯] Yann LeCun 转发观点：JEPA 世界模型结合分层规划是长程机器人技术重大进展
+  - [infoq][国外AI资讯] 前Brain/DeepMind研究员Andrew Dai离职创业，成立多模态AI公司ElorianA
+  - [infoq][国外AI资讯] TheWorldLabs 发布 Marble 1.1 系列模型并上线 Mint 平台
+  - [infoq][国外AI资讯] Anthropic 为 Claude Platform 引入“顾问策略”以优化模型组合
+  - [infoq][国外AI资讯] Lovart AI 向所有用户开放 Seedance 2.0，支持生成60秒视频
+  - [infoq][国外AI资讯] MIT教授Ashesh Rambachan将介绍从生成式序列模型中提取有限自动机的框架
+  - [infoq][智能硬件] 英伟达CEO黄仁勋到访美光GTC展台，美光分享AI内存解决方案
+  - [infoq][国外AI资讯] Alex Wang 评论 Meta Muse Spark 模型涌现新能力
+  - [infoq][国外AI资讯] 斯坦福AI实验室发布通用验证框架LLM-as-a-Verifier，在两项基准测试中达SOTA
+  - [infoq][国外AI资讯] Google Research发布ConvApparel数据集与评估框架，量化LLM用户模拟器真实性
+  - [infoq][国外AI资讯] OpenAI将推出定价100美元的ChatGPT Pro版本
+  - [infoq][国外AI资讯] 研究团队使用开源模型复现Mythos漏洞测试，AI安全能力排名洗牌
+  - [infoq][国外AI资讯] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [infoq][其它科技资讯] 微软 Build 2026 开发者大会议程目录上线
+  - [量子位][其它科技资讯] 别只用AI写脚本了，现在AI打广告可真是城会玩了！

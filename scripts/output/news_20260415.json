@@ -1,0 +1,297 @@
+[
+  {
+    "title": "Anthropic用AI加速弱到强监督对齐研究，弱模型指导强模型训练",
+    "desc": "Anthropic近期的研究成果显示，该公司正在推进'弱到强监督'对齐方法的实验，通过让较弱的AI模型监督较强模型的训练过程，来加速安全对齐研究的进展。这项工作旨在解决AI模型的非对齐问题，同时保持其强大的能力。",
+    "link": "https://www.huxiu.com/ainews/10929.html",
+    "source": "huxiu",
+    "time_ago": "14分钟前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1776208255436
+    }
+  },
+  {
+    "title": "OpenAI扩大网络安全项目访问，数千名验证网络防御人员可参与",
+    "desc": "OpenAI将其安全智能体平台的可信访问权限扩展至经过验证的网络防御人员，并承诺投入1000万美元API额度，旨在加快网络安全防御能力的部署，同时推出包括Codex Security等应用工具，为开发者提供更强大的漏洞检测和修复能力。",
+    "link": "https://www.huxiu.com/ainews/10926.html",
+    "source": "huxiu",
+    "time_ago": "2小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1776199907476
+    }
+  },
+  {
+    "title": "微软接管挪威Stargate数据中心，原为OpenAI准备",
+    "desc": "基于提供的搜索结果，无法确认'微软将接管挪威Stargate Data Center'这一说法。搜索结果表明挪威Stargate数据中心是OpenAI与Nscale及挪威综合企业阿克集团的合作项目，并未提及微软接管该项目的任何信息。",
+    "link": "https://www.huxiu.com/ainews/10922.html",
+    "source": "huxiu",
+    "time_ago": "6小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1776187203749
+    }
+  },
+  {
+    "title": "Anthropic反对OpenAI支持的伊州法案，免除AI实验室重大损害责任",
+    "desc": "OpenAI近日公开支持伊利诺伊州参议院第3444号法案（SB 3444），该法案将保护包括OpenAI、谷歌、Anthropic、xAI和Meta在内的先进AI实验室，使其在AI模型造成100人以上死亡或超过10亿美元损失等重大伤害时免于承担法律责任，但此举引发公众广泛反对。",
+    "link": "https://www.huxiu.com/ainews/10919.html",
+    "source": "huxiu",
+    "time_ago": "6小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1776184206801
+    }
+  },
+  {
+    "title": "美团、阿里、京东竞逐AI医药服务赛道",
+    "desc": "4月14日，美团医药健康在乌镇健康大会上正式发布AI家庭健康管家'小团健康管家'和'健康卡'付费会员服务，这是美团首次以AI产品和会员服务深度参与家庭健康管理赛道。与此同时，阿里健康和京东健康也相继推出各自的AI医疗产品，三大电商平台在AI医药服务领域展开激烈竞争。",
+    "link": "https://www.huxiu.com/ainews/10916.html",
+    "source": "huxiu",
+    "time_ago": "8小时前",
+    "category": "国内AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1776179403370
+    }
+  },
+  {
+    "title": "腾讯云率先支持Hermes Agent云端快速部署",
+    "desc": "腾讯云推出专项支持，基于轻量应用服务器Lighthouse快速部署开源AI智能体Hermes Agent，用户仅需2核4GB配置即可实现云端7×24小时不间断运行，并支持飞书、企业微信、钉钉等15+主流消息平台接入。",
+    "link": "https://www.huxiu.com/ainews/10902.html",
+    "source": "huxiu",
+    "time_ago": "14小时前",
+    "category": "国内AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1776155410034
+    }
+  },
+  {
+    "title": "华为Pura 90系列支持AI拍摄姿势推荐",
+    "desc": "华为Pura 90系列影像旗舰即将在4月下旬发布，采用麒麟9030Pro芯片和鸿蒙6.1系统，配备两亿像素超级潜望式长焦镜头和新一代红枫镜头，延续Pura系列的AI辅助拍摄功能，为用户提供专业级影像体验。",
+    "link": "https://www.huxiu.com/ainews/10879.html",
+    "source": "huxiu",
+    "time_ago": "21小时前",
+    "category": "智能硬件",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1776133208966
+    }
+  },
+  {
+    "title": "微软被控与OpenAI合谋涨价，申请驳回反垄断案",
+    "desc": "用户指控微软与OpenAI合作导致ChatGPT Plus订阅价格上涨和服务质量下降，微软随后向法院申请驳回此反垄断诉讼，但法官对微软的仲裁主张表示怀疑。",
+    "link": "https://www.huxiu.com/ainews/10878.html",
+    "source": "huxiu",
+    "time_ago": "21小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1776132603675
+    }
+  },
+  {
+    "title": "Waymo 在伦敦启动有安全员监督的自动驾驶测试",
+    "desc": "Waymo 官方宣布，其自动驾驶测试在伦敦迈出下一步，正式启动有安全员监督的测试。根据其发布的信息，测试初期将有经过培训的专家在驾驶位进行监督。Waymo 表示，期待在今年晚些时候为伦敦市民提供一种安静、便捷且奇妙的出行方式，连接地铁、公交或最终目的地。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "41分钟前",
+    "category": "智能硬件",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776206650748
+    }
+  },
+  {
+    "title": "英伟达CEO黄仁勋在斯坦福商学院分享对AI时代新一代的乐观看法",
+    "desc": "近日，英伟达（NVIDIA）CEO黄仁勋（Jensen Huang）在斯坦福商学院（StanfordGSB）与Ro Khanna和LTGHRMcArthur进行了对话。他分享了为何对AI时代的新一代感到乐观。黄仁勋的核心观点是，每个行业都在被重新构想，AI技术正变得易于获取，而那些学会善用AI的人将帮助塑造未来。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "1小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776205451476
+    }
+  },
+  {
+    "title": "Google发布视频庆祝世界量子日，概述量子研究演进与最新突破",
+    "desc": "为庆祝世界量子日，Google近日通过其NotebookLM账号发布了一条推文，邀请用户观看一部名为“Cinematic Video Overview”的视频。该视频旨在探索量子研究的演进历程，并展示Google在该领域的最新突破。推文内容为视频预告，未提供具体的技术细节、数据指标或发布时间。视频链接为 https://t.co/o4ncODKbhT。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "1小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776205451475
+    }
+  },
+  {
+    "title": "Midjourney 发布 V8.1 版本，恢复标志性美学并提升速度与效率",
+    "desc": "Midjourney 官方宣布 V8.1 版本已正式上线。该版本主要更新包括：恢复了标志性的美学风格，并支持原生 2K 高清渲染。据官方信息，与 V8 相比，V8.1 的速度提升了3倍，成本降低了3倍，其全质量 1K 模式的速度已超过 V7 的草稿模式。在功能方面，图像提示功能已恢复，新的“描述”功能也已上线，并推出了新的情绪板和 srefs 功能。官方表示更多更新即将到来。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "1小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776203112380
+    }
+  },
+  {
+    "title": "研究：稀疏自编码器可提取LLMs对人类观点的深层认知",
+    "desc": "近日，在一篇发表于ICLR的论文中，研究者发现大语言模型（LLMs）对人类观点的了解程度，可能远超其直接输出所揭示的内容。文中观点认为，通过其开发的稀疏自编码器（SAE）方法，可以将模型内部的这部分知识提取到表面，并实现对不同群体观点的引导。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "2小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776200707195
+    }
+  },
+  {
+    "title": "Epsilla 在 YC Launch YC 发布 AI 代理监控平台 ClawTrace",
+    "desc": "Epsilla 公司近日在 Y Combinator 的 Launch YC 平台上发布了 ClawTrace，这是一个专为 OpenClaw AI 代理设计的监控与诊断平台。该平台旨在优化 AI 代理的性能、成本和速度，提供对代理运行轨迹的全面可见性。其核心功能包括交互式执行路径追踪、调用图、时间线甘特图和轨迹仪表板。集成方式为安装插件、配置密钥并重启网关。平台采用基于使用量的信用点计费模式，无需月度订阅。根据文中规划，未来将增加自动评估、A/B 测试、版本控制等功能，并为实现自进化代理奠定基础。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "2小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776200707194
+    }
+  },
+  {
+    "title": "机器人公司 PsiBot 发布基础模型 Psi-R2 与 Psi-W0 并开源数据集",
+    "desc": "机器人公司 PsiBot 近日发布了两款新的基础模型 Psi-R2 和 Psi-W0，并开源了一个专注于复杂人类操作任务的多模态数据集。据发布信息，Psi-R2 被描述为一个能够处理图像和语言输入的“世界动作模型”。两款模型均在大规模人类操作数据上进行了预训练。同时，该公司开源了包含视觉、语言、关节状态和触觉信号的多模态数据集，该数据集通过外骨骼手套捕获，总规模为10万小时，其中开源部分为1000小时。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "2小时前",
+    "category": "智能硬件",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776200413738
+    }
+  },
+  {
+    "title": "IDC：AI计算向用户端转移，桌面工作站成核心基础设施",
+    "desc": "根据IDC在GTC 2026上的观察，AI计算正从机架式服务器向桌面端工作站转移。这一转变由生成式AI普及和边缘计算需求增长驱动。新一代桌面AI工作站集成了高性能GPU、大容量内存和高速存储，可直接在用户端运行大型语言模型和生成式AI应用，无需完全依赖云端。此举旨在降低延迟、保护数据隐私，并提升金融、医疗、媒体等对数据敏感或实时性要求高的行业的工作效率。IDC预测，随着AI模型优化和硬件成本下降，桌面AI工作站将在未来几年加速部署，成为企业混合AI基础设施的关键部分。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "2小时前",
+    "category": "其它科技资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776200413667
+    }
+  },
+  {
+    "title": "PyTorch宣布在Hugging Face Hub推出Kernels功能",
+    "desc": "Hugging Face近日在Hub平台上推出了Kernels功能，旨在让发布GPU内核像推送模型一样简单。该功能提供针对用户特定GPU、PyTorch版本和操作系统的预编译内核，支持多个内核版本在同一进程中并存，并与torch.compile兼容。初步性能测试显示，相比PyTorch基线，速度提升了1.7倍至2.5倍。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "2小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776200413598
+    }
+  },
+  {
+    "title": "Coinbase开发者平台服务超万名独立开发者，将分享AI智能体服务构建经验",
+    "desc": "Coinbase开发者平台已服务超过10,000名使用其加密API进行构建的独立开发者。在由LangChain主办的Agent会议Interrupt上，Coinbase工程经理Evan Kormos将介绍其团队如何利用LangGraph和LangSmith来交付AI智能体服务。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "2小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776200413425
+    }
+  },
+  {
+    "title": "NVIDIA 发布开源 AI 模型家族 Ising，旨在变革量子计算",
+    "desc": "NVIDIA 宣布推出新的开源 AI 模型家族 NVIDIA Ising，旨在变革量子计算领域。据文中介绍，该模型利用智能体 AI 来解决量子计算中的复杂挑战，例如实时纠错。Nic Harrigan 在 NVIDIA AI Podcast 节目中解释了这一新模型家族的作用。内容旨在引导听众收听该播客节目以了解更多关于计算未来的信息。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "2小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776200413343
+    }
+  },
+  {
+    "title": "微软宣布Word Copilot新增跟踪更改与评论功能",
+    "desc": "微软CEO萨提亚·纳德拉宣布，Microsoft Word中的Copilot功能已更新。新功能使其能够跟踪文档更改、添加评论并执行更多操作。根据微软的描述，其工作方式更类似于直接在文档内协作的同事。该功能基于企业上下文，并利用了Work IQ技术。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "2小时前",
+    "category": "其它科技资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776200413184
+    }
+  },
+  {
+    "title": "微软发布高效图像生成模型 MAI-Image-2-Efficient，开启公开预览",
+    "desc": "微软近日发布了新的图像生成模型 MAI-Image-2-Efficient，该模型已在 Microsoft Foundry 和 MAI Playground 平台开启公开预览。该模型基于与 MAI-Image-2 相同的架构，专为速度和效率设计，旨在以显著降低的成本提供旗舰级的图像质量。据文中介绍，该模型在保持与旗舰模型 MAI-Image-2 相当的高视觉保真度的同时，将推理成本降低了41%。效率提升通过改进的扩散模型架构、更高效的注意力机制以及优化的训练流程实现。该模型能够生成高分辨率、细节丰富且符合文本描述的图像，适用于内容创作、设计、营销等多种商业场景。微软计划通过 Azure AI 服务提供该模型，使开发者和企业能够更经济高效地集成先进的图像生成能力。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "2小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776200413106
+    }
+  },
+  {
+    "title": "荣耀PC家族大爆发！荣耀“打洲本”“养虾本”集中亮相",
+    "desc": "首创“养虾本”，荣耀AI PC迈入3.0时代",
+    "link": "https://www.qbitai.com/2026/04/401202.html",
+    "source": "量子位",
+    "time_ago": "10小时前",
+    "category": "智能硬件",
+    "summary": "荣耀PC家族近日发布多款新品，涵盖“打洲本”和“养虾本”两大系列，标志着荣耀AI PC正式迈入3.0时代。其中，“养虾本”为行业首创产品，体现了荣耀在细分市场的创新探索能力。此次新品集中亮相展现了荣耀在PC领域的全面布局，通过差异化产品满足不同用户需求，推动AI PC技术普惠化发展。",
+    "content": "首创“养虾本”，荣耀AI PC迈入3.0时代",
+    "extra": {}
+  },
+  {
+    "title": "AI开始直接交付Excel，千问用Agent重构做表流程",
+    "desc": "支持从对话直接生成、编辑Excel文件",
+    "link": "https://www.qbitai.com/2026/04/401041.html",
+    "source": "量子位",
+    "time_ago": "20小时前",
+    "category": "国内AI资讯",
+    "summary": "AI技术实现新突破，千问智能助手引入Agent技术重构Excel制作流程，用户现在可以直接通过对话形式生成和编辑Excel文件。这一创新改变了传统手动制表的繁琐模式，用户只需用自然语言描述需求，AI就能自动完成表格的创建、编辑和数据处理工作，大幅提升了办公效率，标志着AI在办公自动化领域迈出重要一步。",
+    "content": "支持从对话直接生成、编辑Excel文件",
+    "extra": {}
+  }
+]

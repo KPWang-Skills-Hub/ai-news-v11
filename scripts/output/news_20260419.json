@@ -1,0 +1,408 @@
+[
+  {
+    "title": "特斯拉将机器人出租车服务扩展到达拉斯和休斯顿",
+    "desc": "特斯拉计划在2026年上半年将其Robotaxi机器人出租车服务扩展到美国七个新市场，包括达拉斯和休斯顿，这是该公司自2025年在奥斯汀启动试点以来的重大扩展计划。",
+    "link": "https://www.huxiu.com/ainews/11119.html",
+    "source": "huxiu",
+    "time_ago": "2小时前",
+    "category": "智能硬件",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1776546605433
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "Anthropic MCP协议被曝设计缺陷，可诱导服务器执行任意代码",
+    "desc": "网络安全公司OX Security于4月15日发布报告，披露Anthropic的MCP（模型上下文协议）存在架构级设计缺陷，可导致远程代码执行，影响超过20万台AI服务器和3.2万个代码库。",
+    "link": "https://www.huxiu.com/ainews/11115.html",
+    "source": "huxiu",
+    "time_ago": "9小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1776523207779
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "Claude Design AI 5分钟生成网页原型，25分钟耗尽80%周配额",
+    "desc": "Anthropic于4月17日发布Claude Design，这是一款由Claude Opus 4.7驱动的AI设计工具，能够通过自然语言对话快速生成网页原型、演示文稿和设计稿。实测数据显示，曾需20余次提示才能完成的复杂页面设计，在Claude Design中仅需2个提示即可实现。",
+    "link": "https://www.huxiu.com/ainews/11110.html",
+    "source": "huxiu",
+    "time_ago": "15小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1776499803277
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "Mac Mini和Mac Studio短缺因AI需求激增，等待时间达12周",
+    "desc": "苹果在美国官网的部分Mac mini和Mac Studio高内存版本已完全缺货，其他配置也面临1-3个月的长期发货延迟，这主要是由于全球AI服务器市场需求激增导致的内存芯片严重短缺。",
+    "link": "https://www.huxiu.com/ainews/11106.html",
+    "source": "huxiu",
+    "time_ago": "17小时前",
+    "category": "智能硬件",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "publish_time": 1776493204345
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "Yann LeCun称张量引擎最早于1992年在贝尔实验室实现",
+    "desc": "近日，Yann LeCun在回复中透露，张量引擎最早于1992年在贝尔实验室由Léon Bottou和他本人在SN3（后来称为Lush）项目中实现。他表示，这一命名规范延续至今，在PyTorch等库中得以保留。此外，张量操作的命名后来也被EBlearn（C++深度学习库）复用。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "56分钟前",
+    "category": "其它科技资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776553445975
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "Google Cloud Next '26 大会将聚焦智能体AI与基础设施，展示端到端工作流编排",
+    "desc": "Google Cloud Next '26 开发者大会将于 2026 年 4 月 22 日至 24 日在拉斯维加斯举行，主题聚焦于智能体 AI、现代基础设施和动手解决问题。大会将重点推介多场技术会议，其中焦点会议“超越炒作：利用智能体编排端到端开发者工作流”将现场演示如何在遗留系统上直接构建现代应用，并展示 AI 工具如何帮助开发者拓展至机器学习（ML）和基础设施设计领域。此外，大会还安排了十场深入探讨构建智能体应用的专题会议，内容涵盖 Google DeepMind 关于 Gemini 多模态突破与规模化工作流的最新进展、Gemini 3 在质量、成本与规模优化方面的架构实践、生产就绪智能体构建指南、利用 Gemini Live API 构建实时多模态无缝体验的实践，以及如何在 45 分钟内将原型转化为可靠的 Vertex AI 生产级智能体。对于基础设施和平台工程师，会议也设置了深度专题，例如在 Cloud Run 无服务器基础设施上构建零信任安全架构，以及深入探讨 Go 语言运行时如何随时间推移变得更高效。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "1小时前",
+    "category": "其它科技资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776549912015
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "Google Cloud A4X Max裸金属实例支持5万GPU集群，网络带宽翻倍",
+    "desc": "Google Cloud宣布其A4X Max裸金属实例可支持高达50,000个GPU的集群，网络带宽是前代产品的两倍。该实例属于Google Compute Engine加速器优化机器系列，该系列预装NVIDIA GPU，专为AI、机器学习、高性能计算和图形密集型应用设计。文档详细介绍了包含A4X Max、A4X、A4、A3、A2、G4和G2在内的多个机器系列，并根据工作负载类型（如预训练、微调、推理、图形、高性能计算）推荐了相应的系列。此外，文档还说明了基于预装GPU、vCPU、内存和本地SSD的定价与消费选项（按需、Spot、Flex-start、预留），以及不同机器类型的维护体验。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "3小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776546008892
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "LangChain社区项目LangAlpha发布，面向金融专业人士的AI编码工具",
+    "desc": "近日，LangChain官方账号转发了社区项目LangAlpha的相关信息。该项目是一款专为华尔街专业人士构建的编码工具，旨在将人工智能驱动的开发引入金融工作流程。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "3小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776546008790
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "Alison Gopnik与Eunice Yiu合作预印本论文将发表于《Philosophical Transactions A》特刊",
+    "desc": "近日，一篇由Alison Gopnik与Eunice Yiu合作的新预印本论文已确定将发表于《Philosophical Transactions A》期刊2026年的特刊“World models”中。该论文探讨了强化学习中的“赋权”概念与贝叶斯因果模型之间的理论联系，并包含了新的实验数据。论文预印本可通过提供的链接访问。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "3小时前",
+    "category": "其它科技资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776546008703
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "Berkeley AI 强调理解失败原因比基准分数更重要",
+    "desc": "近日，Berkeley AI 的研究人员转发了来自 Dawn Song 的观点，强调在评估智能体（agents）时，理解其失败的具体原因比单纯关注基准测试分数更为重要。文中观点认为，应将长视野（long-horizon）失败分解为可诊断的模式，以便更精确地定位和分析智能体在何处以及为何会失败。原文未提供关于具体基准、分析细节或失败模式分类的进一步信息。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "3小时前",
+    "category": "其它科技资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776546008620
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "Berkeley AI团队推出BenchJack工具，用于审计基准测试中的隐藏捷径与漏洞",
+    "desc": "近日，Berkeley AI团队发布了一个名为BenchJack的开源工具，旨在审计基准测试，以发现其中可能存在的隐藏捷径和奖励漏洞。该工具目前处于预览阶段，并且完全开源，支持用户审计自己的基准测试。文中未提及具体的审计方法、支持的基准测试类型、已发现的漏洞案例或性能指标。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "3小时前",
+    "category": "其它科技资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776546008530
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "伯克利团队宣布攻破8个主要智能体评测基准并开源工具",
+    "desc": "伯克利人工智能研究小组（berkeley_ai）转述了Dawn Song的声明，宣布其团队成功攻破了8个主要的智能体评测基准。团队决定开源用于实现这一结果的工具，并将其命名为BenchJack。该工具被描述为“针对评测的渗透测试”，旨在帮助其他开发者主动测试和发现自身评测系统的潜在弱点。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "3小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776546008429
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "伯克利AI研究探讨视觉与语言模型表征收敛问题",
+    "desc": "近日，一篇题为《重返柏拉图洞穴》的新论文探讨了视觉与语言模型是否在向同一现实表征收敛的问题。文中提及的柏拉图表征假说认为答案是肯定的。然而，研究发现支持这一假说的证据比看起来更为脆弱。该论文的项目页面已提供。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "3小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776546008318
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "谷歌云发布101个生成式AI架构蓝图",
+    "desc": "谷歌云近日发布了101个生成式AI架构蓝图，旨在为开发者和企业提供实用的项目起点。这些蓝图基于客户实际案例，覆盖零售、医疗等多个行业，展示了如何利用谷歌云技术栈解决现实业务挑战。在零售领域，蓝图重点解决了线上线下体验割裂、库存管理、商品搜索、门店运营数字化和智能购物助手等问题。具体方案涉及使用Google Kubernetes Engine (GKE)、BigQuery、Apigee、Vertex AI、Looker、Cloud Storage、Dataflow、Vertex AI Vision、语音API和3D资产库等技术，提供了从数据接入、处理到AI模型部署的全链路设计模式。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "3小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776546008208
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "Luma与Wonder Project成立Innovative Dreams，开创实时混合电影制作",
+    "desc": "近日，Wonder Project与Luma联合宣布成立一家名为Innovative Dreams的新型电影制作服务公司，由Jon Erwin担任CEO。该公司开创了一种名为“实时混合电影制作”的新方法，将表演捕捉、虚拟制作和视觉特效相结合，并在从概念设计到后期的每个阶段利用生成式AI进行加速。据文中介绍，该方法旨在实现实时编辑决策，消除传统延迟，将更多时间回归演员表演。首个采用此流程的项目是《旧日故事：摩西》，由本·金斯利和O-T·法格本勒主演，将于2026年春季在Prime Video独家首播。公司位于加州曼哈顿海滩，设有研发实验室和虚拟影棚，并与AWS合作推进下一代制作技术。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "3小时前",
+    "category": "智能硬件",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776546008078
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "Garry Tan 发布 gbrain v0.11，推出 Minions Agent Orchestration 功能",
+    "desc": "近日，Garry Tan 发布了 gbrain v0.11 版本，推出了名为“Minions Agent Orchestration”的新功能。据文中观点，该功能的速度比 OpenClaw 的默认子代理快 10 倍。新版本主要包含两项特性：一是“Spawn Storm Defense”，通过限制递归深度和每个父代理的子代理数量来防御代理无限繁殖，默认最大递归深度为 5 层，每个父代理的最大子代理数量可调；二是“Tasks Run Only Once”，确保任务只运行一次。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "10小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776520689633
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "Moonshot AI 将 Prefill/Decode 解耦技术扩展至跨数据中心与异构硬件",
+    "desc": "Moonshot AI 团队近日宣布，其 Prefill（预填充）与 Decode（解码）的解耦技术已成功从单一集群扩展至跨数据中心及异构硬件环境。据文中观点，此举有望显著降低每个token的推理成本。此前，该技术的扩展因 KV cache 传输开销问题而受阻。此次突破的实现，关键依赖于其混合模型 Kimi Linear。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "10小时前",
+    "category": "国内AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776520570833
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "GBrain AI 代理知识库系统发布安装指南",
+    "desc": "近日，名为 GBrain 的 AI 代理知识库系统发布了详细的安装指南。该指南描述了完整的安装与配置流程，用户需克隆仓库、安装 Bun 运行时，并配置必需的 OpenAI API 密钥以及可选的 Anthropic API 密钥。该系统基于 PGLite，无需服务器。指南详细说明了知识库的组织结构（建议采用 MECE 目录结构）、导入与索引文件的两步流程（`gbrain import` 和 `gbrain embed`），以及核心技能机制，包括信号检测器、Brain-ops 和规范。此外，指南还介绍了如何设置定时任务（如每15分钟同步、每日检查、夜间“梦境周期”和每周系统检查）、添加集成以及进行验证检查和系统升级。据指南所述，整个安装过程目标耗时约30分钟。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "14小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776503347775
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "Muse Spark 在 ClawEval 智能体评估中排名第三",
+    "desc": "近日，Muse Spark 模型在 ClawEval 评估框架中排名第三，其表现超过了 GPT-5.4 和 Gemini 3.1 Pro。据作者 alexandr_wang 评价，该模型是“一个令人惊讶的具有智能体能力的模型”。ClawEval 是一个用于评估大型语言模型作为智能体能力的开源框架，其特点是所有评估任务都经过人工验证，旨在衡量模型在复杂、真实世界场景中执行任务的表现。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "19小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776485112073
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "谷歌为AI原生设计平台Stitch推出原生图像生成与跨项目复制粘贴功能",
+    "desc": "谷歌近日为其AI原生“氛围设计”平台Stitch推出了两项主要功能：原生图像生成和跨项目复制粘贴。设计师现在可以直接在Stitch画布内，使用设计工具生成自定义视觉资产，如徽标、图标和主视觉图形。具体而言，原生图像生成功能允许用户创建自定义徽标或主视觉图形，并可要求AI代理将其直接放入用户界面中。跨项目复制粘贴功能则支持用户在不同项目之间复制屏幕设计。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "21小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776477846045
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "xAI 推出 Grok 语音转文本与文本转语音 API",
+    "desc": "xAI 近日宣布正式推出 Grok 语音转文本（STT）和 Grok 文本转语音（TTS）两款独立的音频 API。Grok STT 提供高准确率、低延迟的转录服务，支持 REST API 批量处理和 WebSocket API 实时流式转录，并具备词级时间戳、说话人分离、多声道支持及智能逆文本规范化功能。文中提及，在电话通话、会议、视频/播客等多个领域的基准测试中，其词错误率表现优于 ElevenLabs、Deepgram 和 AssemblyAI 等主流商业模型。该服务支持超过 25 种语言，定价为批量处理每小时 0.10 美元，流式处理每小时 0.20 美元。Grok TTS 则可生成快速、自然且富有表现力的语音，支持通过简单语音标签进行细粒度控制，定价为每 100 万个字符 4.20 美元。两款 API 基于为 Grok Voice、特斯拉车辆和 Starlink 客户支持提供动力的相同技术栈。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "23小时前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "collect_time": 1776473050826
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "联想开天发布天禧AI Pro：专为政企打造的\"可信AI搭档\"",
+    "desc": "联想发布天禧AI Pro，定位政企办公AI搭档，推动信创行业进入AI时代。产品将操作逻辑从“以工具为核心”转向“以任务为中心”，并与麒麟操作系统深度整合，提供“双生界面”，用户可通过四指滑动便捷切换。",
+    "link": "https://news.aibase.com/zh/news/27239",
+    "source": "aibase",
+    "time_ago": "1天前",
+    "category": "智能硬件",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "views": "20.9K"
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "ChatGPT 用户突破 10 亿，女性用户占比首次超过 50%",
+    "desc": "OpenAI数据显示，ChatGPT全球周活跃用户将破10亿，用户结构显著变化。女性用户比例从初期的20%增至超50%，首次超过男性，约5亿女性定期使用。这反映AI技术正加速普及。",
+    "link": "https://news.aibase.com/zh/news/27237",
+    "source": "aibase",
+    "time_ago": "1天前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "views": "20.5K"
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "科大讯飞发布AstronClaw升级版:推出9项新品及软硬一体AI Agent架构",
+    "desc": "科大讯飞发布AstronClaw升级版，推出9项新产品，展示“软硬一体”AI Agent架构。该架构推动AI从“对话助手”向“物理执行中枢”转变，旨在突破屏幕限制，让大模型能力深入物理世界和复杂业务流。在办公领域，AstronClaw与讯飞办公本融合，结构化处理职场碎片化信息。",
+    "link": "https://news.aibase.com/zh/news/27235",
+    "source": "aibase",
+    "time_ago": "1天前",
+    "category": "国内AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "views": "20.2K"
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "​星巴克引入 ChatGPT，根据心情推荐饮品",
+    "desc": "星巴克测试基于ChatGPT的智能点单应用，用户可通过输入心情或需求获得个性化饮品推荐，旨在提升消费体验。",
+    "link": "https://news.aibase.com/zh/news/27231",
+    "source": "aibase",
+    "time_ago": "1天前",
+    "category": "国内AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "views": "21.6K"
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "谷歌Gemini接入个人相册，AI生成图像迈向真正个性化",
+    "desc": "谷歌AI助手Gemini新增Personal Intelligence功能，可连接用户Google Photos相册，自动调用私人照片生成个性化图像，无需手动上传。配合Nano Banana工具，用户可便捷创建定制化内容，如生成与家人的动画风格合影。更新旨在提升AI回应的个性化和便捷性。",
+    "link": "https://news.aibase.com/zh/news/27230",
+    "source": "aibase",
+    "time_ago": "1天前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "views": "21.1K"
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "英伟达发布 Lyra2.0:单照生成90米3D 环境，多项指标超越竞争对手",
+    "desc": "英伟达发布Lyra2.0系统，通过单张照片即可生成延伸90米的大规模、高连贯性3D虚拟环境，解决了长距离相机路径下的图像失真问题。该技术突破标志着AI在3D空间理解与实时环境模拟领域取得重要进展，尤其满足了具身智能训练对高质量虚拟场景的迫切需求。",
+    "link": "https://news.aibase.com/zh/news/27228",
+    "source": "aibase",
+    "time_ago": "1天前",
+    "category": "智能硬件",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "views": "20.9K"
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "Meta持续挖角AI初创公司，Thinking Machines再失核心成员",
+    "desc": "Meta持续从AI初创公司挖角，最新目标是Thinking Machines资深工程师Joshua Gross，他已加入Meta超级智能实验室并领导工程团队。Gross曾在OpenAI和Meta工作，并在Thinking Machines主导开发了创意软件Tinker。这反映了硅谷AI人才争夺激烈，初创公司面临人才流失挑战。",
+    "link": "https://news.aibase.com/zh/news/27227",
+    "source": "aibase",
+    "time_ago": "1天前",
+    "category": "国外AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "views": "19.2K"
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "阿里开源 Qwen3.6-35B-A3B:30亿激活参数实现编程能力跨越式升级",
+    "desc": "阿里巴巴千问团队开源稀疏混合专家模型Qwen3.6-35B-A3B，总参数量350亿，激活参数仅30亿。该模型以低计算成本在多项编程基准测试中超越Qwen3.5-27B，并显著领先前代Qwen3.5-35B-A3B，实现轻量级模型在智能体编程领域的关键突破。",
+    "link": "https://news.aibase.com/zh/news/27222",
+    "source": "aibase",
+    "time_ago": "1天前",
+    "category": "国内AI资讯",
+    "summary": "",
+    "content": "",
+    "extra": {
+      "views": "40.2K"
+    },
+    "llm_description": ""
+  }
+]

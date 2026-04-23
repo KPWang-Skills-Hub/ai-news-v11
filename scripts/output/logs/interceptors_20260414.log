@@ -1,0 +1,229 @@
+
+[2026-04-14 07:25:44] keyword_filter - INPUT: 30条
+============================================================
+  - [huxiu][] 英伟达：我们并未与个人电脑制造商戴尔进行收购谈判
+  - [huxiu][] Claude：正在调查 claude.ai 网站出现的问题
+  - [huxiu][] 微软探索OpenClaw技术应用于Microsoft 365中的在线代理团队
+  - [huxiu][] OpenAI：微软限制了其接触客户的能力
+  - [huxiu][] 算力紧缺 Anthropic AI服务在线率大幅下滑
+  - [huxiu][] Meta推出扎克伯格AI分身，与员工互动
+  - [huxiu][] 阿里宣布全力推进“智能体经济”
+  - [huxiu][] 微软Edge大改版，采用圆角设计并融合Copilot风格
+  - [huxiu][] 微软高管：AI Agent规模化部署或增加软件收入
+  - [huxiu][] “AI炼化”不可越过伦理红线
+  - [huxiu][] 苹果AI负责人将离职
+  - [infoq][] 斯坦福AI实验室转发研究：简单测试时方法可在智能体基准测试中达到SOTA
+  - [infoq][] 斯坦福研究揭示AI专家与公众对未来看法存在显著差异
+  - [infoq][] 英伟达感谢GTC 2026大会参与者，强调人的作用
+  - [infoq][] Google Cloud Tech 发布新视频，探讨专为单GPU设计的开源模型系列 Gemma 4
+  - [infoq][] 斯坦福发布《2026年人工智能指数报告》揭示AI发展现状
+  - [infoq][] 研究人员提出面向机器学习传感器的透明度数据手册框架
+  - [infoq][] PyTorch分享NVFP4与MXFP8在B200上加速图像视频生成模型的研究
+  - [infoq][] Hugging Face 发布近7TB FinePhrase 原始改写数据
+  - [infoq][] Hugging Face 使用开源 5B 模型将 27,000 篇 arXiv 论文 OCR 为 M
+  - [infoq][] SuperGemma4-26B-Uncensored GGUF v2 模型在 Hugging Fac
+  - [infoq][] Hugging Face预告智能体强化学习线上研讨会
+  - [infoq][] Hugging Face 全面重构 TRL 策略蒸馏训练器，支持百亿参数模型
+  - [infoq][] MiniMax_AI分享YC机器人黑客松见闻，祝贺Wild Robot团队使用M2.7构建项目
+  - [infoq][] Hugging Face 与 Pollen Robotics 合作将 Gemini Live 引入 
+  - [infoq][] GitHub Copilot CLI 新增远程控制会话功能
+  - [infoq][] DeepAgents 新增文件系统权限功能
+  - [infoq][] Google Cloud Tech 预告直播，回顾更新并预览 Next '26
+  - [infoq][] 微软研究院出席CHI 2026，聚焦AI如何为每个人良好工作
+  - [infoq][] 谷歌研究实验Vantage：利用GenAI评估协作等未来技能
+
+[2026-04-14 07:25:44] keyword_filter - OUTPUT: 25条 | 移除5条
+============================================================
+  - [huxiu][] Claude：正在调查 claude.ai 网站出现的问题
+  - [huxiu][] 微软探索OpenClaw技术应用于Microsoft 365中的在线代理团队
+  - [huxiu][] OpenAI：微软限制了其接触客户的能力
+  - [huxiu][] 算力紧缺 Anthropic AI服务在线率大幅下滑
+  - [huxiu][] Meta推出扎克伯格AI分身，与员工互动
+  - [huxiu][] 阿里宣布全力推进“智能体经济”
+  - [huxiu][] 微软Edge大改版，采用圆角设计并融合Copilot风格
+  - [huxiu][] 微软高管：AI Agent规模化部署或增加软件收入
+  - [huxiu][] “AI炼化”不可越过伦理红线
+  - [huxiu][] 苹果AI负责人将离职
+  - [infoq][] 斯坦福AI实验室转发研究：简单测试时方法可在智能体基准测试中达到SOTA
+  - [infoq][] Google Cloud Tech 发布新视频，探讨专为单GPU设计的开源模型系列 Gemma 4
+  - [infoq][] 斯坦福发布《2026年人工智能指数报告》揭示AI发展现状
+  - [infoq][] 研究人员提出面向机器学习传感器的透明度数据手册框架
+  - [infoq][] PyTorch分享NVFP4与MXFP8在B200上加速图像视频生成模型的研究
+  - [infoq][] Hugging Face 发布近7TB FinePhrase 原始改写数据
+  - [infoq][] Hugging Face 使用开源 5B 模型将 27,000 篇 arXiv 论文 OCR 为 M
+  - [infoq][] SuperGemma4-26B-Uncensored GGUF v2 模型在 Hugging Fac
+  - [infoq][] Hugging Face预告智能体强化学习线上研讨会
+  - [infoq][] Hugging Face 全面重构 TRL 策略蒸馏训练器，支持百亿参数模型
+  - [infoq][] Hugging Face 与 Pollen Robotics 合作将 Gemini Live 引入 
+  - [infoq][] GitHub Copilot CLI 新增远程控制会话功能
+  - [infoq][] DeepAgents 新增文件系统权限功能
+  - [infoq][] 微软研究院出席CHI 2026，聚焦AI如何为每个人良好工作
+  - [infoq][] 谷歌研究实验Vantage：利用GenAI评估协作等未来技能
+
+[2026-04-14 07:25:44] bge_dedup - INPUT: 25条
+============================================================
+  - [huxiu][] Claude：正在调查 claude.ai 网站出现的问题
+  - [huxiu][] 微软探索OpenClaw技术应用于Microsoft 365中的在线代理团队
+  - [huxiu][] OpenAI：微软限制了其接触客户的能力
+  - [huxiu][] 算力紧缺 Anthropic AI服务在线率大幅下滑
+  - [huxiu][] Meta推出扎克伯格AI分身，与员工互动
+  - [huxiu][] 阿里宣布全力推进“智能体经济”
+  - [huxiu][] 微软Edge大改版，采用圆角设计并融合Copilot风格
+  - [huxiu][] 微软高管：AI Agent规模化部署或增加软件收入
+  - [huxiu][] “AI炼化”不可越过伦理红线
+  - [huxiu][] 苹果AI负责人将离职
+  - [infoq][] 斯坦福AI实验室转发研究：简单测试时方法可在智能体基准测试中达到SOTA
+  - [infoq][] Google Cloud Tech 发布新视频，探讨专为单GPU设计的开源模型系列 Gemma 4
+  - [infoq][] 斯坦福发布《2026年人工智能指数报告》揭示AI发展现状
+  - [infoq][] 研究人员提出面向机器学习传感器的透明度数据手册框架
+  - [infoq][] PyTorch分享NVFP4与MXFP8在B200上加速图像视频生成模型的研究
+  - [infoq][] Hugging Face 发布近7TB FinePhrase 原始改写数据
+  - [infoq][] Hugging Face 使用开源 5B 模型将 27,000 篇 arXiv 论文 OCR 为 M
+  - [infoq][] SuperGemma4-26B-Uncensored GGUF v2 模型在 Hugging Fac
+  - [infoq][] Hugging Face预告智能体强化学习线上研讨会
+  - [infoq][] Hugging Face 全面重构 TRL 策略蒸馏训练器，支持百亿参数模型
+  - [infoq][] Hugging Face 与 Pollen Robotics 合作将 Gemini Live 引入 
+  - [infoq][] GitHub Copilot CLI 新增远程控制会话功能
+  - [infoq][] DeepAgents 新增文件系统权限功能
+  - [infoq][] 微软研究院出席CHI 2026，聚焦AI如何为每个人良好工作
+  - [infoq][] 谷歌研究实验Vantage：利用GenAI评估协作等未来技能
+
+[2026-04-14 07:26:00] bge_dedup - OUTPUT: 25条 | 移除0条
+============================================================
+  - [huxiu][] Claude：正在调查 claude.ai 网站出现的问题
+  - [huxiu][] 微软探索OpenClaw技术应用于Microsoft 365中的在线代理团队
+  - [huxiu][] OpenAI：微软限制了其接触客户的能力
+  - [huxiu][] 算力紧缺 Anthropic AI服务在线率大幅下滑
+  - [huxiu][] Meta推出扎克伯格AI分身，与员工互动
+  - [huxiu][] 阿里宣布全力推进“智能体经济”
+  - [huxiu][] 微软Edge大改版，采用圆角设计并融合Copilot风格
+  - [huxiu][] 微软高管：AI Agent规模化部署或增加软件收入
+  - [huxiu][] “AI炼化”不可越过伦理红线
+  - [huxiu][] 苹果AI负责人将离职
+  - [infoq][] 斯坦福AI实验室转发研究：简单测试时方法可在智能体基准测试中达到SOTA
+  - [infoq][] Google Cloud Tech 发布新视频，探讨专为单GPU设计的开源模型系列 Gemma 4
+  - [infoq][] 斯坦福发布《2026年人工智能指数报告》揭示AI发展现状
+  - [infoq][] 研究人员提出面向机器学习传感器的透明度数据手册框架
+  - [infoq][] PyTorch分享NVFP4与MXFP8在B200上加速图像视频生成模型的研究
+  - [infoq][] Hugging Face 发布近7TB FinePhrase 原始改写数据
+  - [infoq][] Hugging Face 使用开源 5B 模型将 27,000 篇 arXiv 论文 OCR 为 M
+  - [infoq][] SuperGemma4-26B-Uncensored GGUF v2 模型在 Hugging Fac
+  - [infoq][] Hugging Face预告智能体强化学习线上研讨会
+  - [infoq][] Hugging Face 全面重构 TRL 策略蒸馏训练器，支持百亿参数模型
+  - [infoq][] Hugging Face 与 Pollen Robotics 合作将 Gemini Live 引入 
+  - [infoq][] GitHub Copilot CLI 新增远程控制会话功能
+  - [infoq][] DeepAgents 新增文件系统权限功能
+  - [infoq][] 微软研究院出席CHI 2026，聚焦AI如何为每个人良好工作
+  - [infoq][] 谷歌研究实验Vantage：利用GenAI评估协作等未来技能
+
+[2026-04-14 07:26:00] llm_classify - INPUT: 25条
+============================================================
+  - [huxiu][] Claude：正在调查 claude.ai 网站出现的问题
+  - [huxiu][] 微软探索OpenClaw技术应用于Microsoft 365中的在线代理团队
+  - [huxiu][] OpenAI：微软限制了其接触客户的能力
+  - [huxiu][] 算力紧缺 Anthropic AI服务在线率大幅下滑
+  - [huxiu][] Meta推出扎克伯格AI分身，与员工互动
+  - [huxiu][] 阿里宣布全力推进“智能体经济”
+  - [huxiu][] 微软Edge大改版，采用圆角设计并融合Copilot风格
+  - [huxiu][] 微软高管：AI Agent规模化部署或增加软件收入
+  - [huxiu][] “AI炼化”不可越过伦理红线
+  - [huxiu][] 苹果AI负责人将离职
+  - [infoq][] 斯坦福AI实验室转发研究：简单测试时方法可在智能体基准测试中达到SOTA
+  - [infoq][] Google Cloud Tech 发布新视频，探讨专为单GPU设计的开源模型系列 Gemma 4
+  - [infoq][] 斯坦福发布《2026年人工智能指数报告》揭示AI发展现状
+  - [infoq][] 研究人员提出面向机器学习传感器的透明度数据手册框架
+  - [infoq][] PyTorch分享NVFP4与MXFP8在B200上加速图像视频生成模型的研究
+  - [infoq][] Hugging Face 发布近7TB FinePhrase 原始改写数据
+  - [infoq][] Hugging Face 使用开源 5B 模型将 27,000 篇 arXiv 论文 OCR 为 M
+  - [infoq][] SuperGemma4-26B-Uncensored GGUF v2 模型在 Hugging Fac
+  - [infoq][] Hugging Face预告智能体强化学习线上研讨会
+  - [infoq][] Hugging Face 全面重构 TRL 策略蒸馏训练器，支持百亿参数模型
+  - [infoq][] Hugging Face 与 Pollen Robotics 合作将 Gemini Live 引入 
+  - [infoq][] GitHub Copilot CLI 新增远程控制会话功能
+  - [infoq][] DeepAgents 新增文件系统权限功能
+  - [infoq][] 微软研究院出席CHI 2026，聚焦AI如何为每个人良好工作
+  - [infoq][] 谷歌研究实验Vantage：利用GenAI评估协作等未来技能
+
+[2026-04-14 07:26:11] llm_classify - OUTPUT: 25条 | 保留25条
+============================================================
+  - [huxiu][国外AI资讯] Claude：正在调查 claude.ai 网站出现的问题
+  - [huxiu][国外AI资讯] 微软探索OpenClaw技术应用于Microsoft 365中的在线代理团队
+  - [huxiu][国外AI资讯] OpenAI：微软限制了其接触客户的能力
+  - [huxiu][国外AI资讯] 算力紧缺 Anthropic AI服务在线率大幅下滑
+  - [huxiu][国外AI资讯] Meta推出扎克伯格AI分身，与员工互动
+  - [huxiu][国内AI资讯] 阿里宣布全力推进“智能体经济”
+  - [huxiu][国外AI资讯] 微软Edge大改版，采用圆角设计并融合Copilot风格
+  - [huxiu][国外AI资讯] 微软高管：AI Agent规模化部署或增加软件收入
+  - [huxiu][其它科技资讯] “AI炼化”不可越过伦理红线
+  - [huxiu][国外AI资讯] 苹果AI负责人将离职
+  - [infoq][国外AI资讯] 斯坦福AI实验室转发研究：简单测试时方法可在智能体基准测试中达到SOTA
+  - [infoq][国外AI资讯] Google Cloud Tech 发布新视频，探讨专为单GPU设计的开源模型系列 Gemma 4
+  - [infoq][国外AI资讯] 斯坦福发布《2026年人工智能指数报告》揭示AI发展现状
+  - [infoq][国外AI资讯] 研究人员提出面向机器学习传感器的透明度数据手册框架
+  - [infoq][国外AI资讯] PyTorch分享NVFP4与MXFP8在B200上加速图像视频生成模型的研究
+  - [infoq][国外AI资讯] Hugging Face 发布近7TB FinePhrase 原始改写数据
+  - [infoq][国外AI资讯] Hugging Face 使用开源 5B 模型将 27,000 篇 arXiv 论文 OCR 为 M
+  - [infoq][国外AI资讯] SuperGemma4-26B-Uncensored GGUF v2 模型在 Hugging Fac
+  - [infoq][国外AI资讯] Hugging Face预告智能体强化学习线上研讨会
+  - [infoq][国外AI资讯] Hugging Face 全面重构 TRL 策略蒸馏训练器，支持百亿参数模型
+  - [infoq][智能硬件] Hugging Face 与 Pollen Robotics 合作将 Gemini Live 引入 
+  - [infoq][国外AI资讯] GitHub Copilot CLI 新增远程控制会话功能
+  - [infoq][国外AI资讯] DeepAgents 新增文件系统权限功能
+  - [infoq][国外AI资讯] 微软研究院出席CHI 2026，聚焦AI如何为每个人良好工作
+  - [infoq][国外AI资讯] 谷歌研究实验Vantage：利用GenAI评估协作等未来技能
+
+[2026-04-14 07:26:11] llm_summary - INPUT: 25条
+============================================================
+  - [huxiu][国外AI资讯] Claude：正在调查 claude.ai 网站出现的问题
+  - [huxiu][国外AI资讯] 微软探索OpenClaw技术应用于Microsoft 365中的在线代理团队
+  - [huxiu][国外AI资讯] OpenAI：微软限制了其接触客户的能力
+  - [huxiu][国外AI资讯] 算力紧缺 Anthropic AI服务在线率大幅下滑
+  - [huxiu][国外AI资讯] Meta推出扎克伯格AI分身，与员工互动
+  - [huxiu][国内AI资讯] 阿里宣布全力推进“智能体经济”
+  - [huxiu][国外AI资讯] 微软Edge大改版，采用圆角设计并融合Copilot风格
+  - [huxiu][国外AI资讯] 微软高管：AI Agent规模化部署或增加软件收入
+  - [huxiu][其它科技资讯] “AI炼化”不可越过伦理红线
+  - [huxiu][国外AI资讯] 苹果AI负责人将离职
+  - [infoq][国外AI资讯] 斯坦福AI实验室转发研究：简单测试时方法可在智能体基准测试中达到SOTA
+  - [infoq][国外AI资讯] Google Cloud Tech 发布新视频，探讨专为单GPU设计的开源模型系列 Gemma 4
+  - [infoq][国外AI资讯] 斯坦福发布《2026年人工智能指数报告》揭示AI发展现状
+  - [infoq][国外AI资讯] 研究人员提出面向机器学习传感器的透明度数据手册框架
+  - [infoq][国外AI资讯] PyTorch分享NVFP4与MXFP8在B200上加速图像视频生成模型的研究
+  - [infoq][国外AI资讯] Hugging Face 发布近7TB FinePhrase 原始改写数据
+  - [infoq][国外AI资讯] Hugging Face 使用开源 5B 模型将 27,000 篇 arXiv 论文 OCR 为 M
+  - [infoq][国外AI资讯] SuperGemma4-26B-Uncensored GGUF v2 模型在 Hugging Fac
+  - [infoq][国外AI资讯] Hugging Face预告智能体强化学习线上研讨会
+  - [infoq][国外AI资讯] Hugging Face 全面重构 TRL 策略蒸馏训练器，支持百亿参数模型
+  - [infoq][智能硬件] Hugging Face 与 Pollen Robotics 合作将 Gemini Live 引入 
+  - [infoq][国外AI资讯] GitHub Copilot CLI 新增远程控制会话功能
+  - [infoq][国外AI资讯] DeepAgents 新增文件系统权限功能
+  - [infoq][国外AI资讯] 微软研究院出席CHI 2026，聚焦AI如何为每个人良好工作
+  - [infoq][国外AI资讯] 谷歌研究实验Vantage：利用GenAI评估协作等未来技能
+
+[2026-04-14 07:26:11] llm_summary - OUTPUT: 25条 | 成功0条
+============================================================
+  - [huxiu][国外AI资讯] Claude：正在调查 claude.ai 网站出现的问题
+  - [huxiu][国外AI资讯] 微软探索OpenClaw技术应用于Microsoft 365中的在线代理团队
+  - [huxiu][国外AI资讯] OpenAI：微软限制了其接触客户的能力
+  - [huxiu][国外AI资讯] 算力紧缺 Anthropic AI服务在线率大幅下滑
+  - [huxiu][国外AI资讯] Meta推出扎克伯格AI分身，与员工互动
+  - [huxiu][国内AI资讯] 阿里宣布全力推进“智能体经济”
+  - [huxiu][国外AI资讯] 微软Edge大改版，采用圆角设计并融合Copilot风格
+  - [huxiu][国外AI资讯] 微软高管：AI Agent规模化部署或增加软件收入
+  - [huxiu][其它科技资讯] “AI炼化”不可越过伦理红线
+  - [huxiu][国外AI资讯] 苹果AI负责人将离职
+  - [infoq][国外AI资讯] 斯坦福AI实验室转发研究：简单测试时方法可在智能体基准测试中达到SOTA
+  - [infoq][国外AI资讯] Google Cloud Tech 发布新视频，探讨专为单GPU设计的开源模型系列 Gemma 4
+  - [infoq][国外AI资讯] 斯坦福发布《2026年人工智能指数报告》揭示AI发展现状
+  - [infoq][国外AI资讯] 研究人员提出面向机器学习传感器的透明度数据手册框架
+  - [infoq][国外AI资讯] PyTorch分享NVFP4与MXFP8在B200上加速图像视频生成模型的研究
+  - [infoq][国外AI资讯] Hugging Face 发布近7TB FinePhrase 原始改写数据
+  - [infoq][国外AI资讯] Hugging Face 使用开源 5B 模型将 27,000 篇 arXiv 论文 OCR 为 M
+  - [infoq][国外AI资讯] SuperGemma4-26B-Uncensored GGUF v2 模型在 Hugging Fac
+  - [infoq][国外AI资讯] Hugging Face预告智能体强化学习线上研讨会
+  - [infoq][国外AI资讯] Hugging Face 全面重构 TRL 策略蒸馏训练器，支持百亿参数模型
+  - [infoq][智能硬件] Hugging Face 与 Pollen Robotics 合作将 Gemini Live 引入 
+  - [infoq][国外AI资讯] GitHub Copilot CLI 新增远程控制会话功能
+  - [infoq][国外AI资讯] DeepAgents 新增文件系统权限功能
+  - [infoq][国外AI资讯] 微软研究院出席CHI 2026，聚焦AI如何为每个人良好工作
+  - [infoq][国外AI资讯] 谷歌研究实验Vantage：利用GenAI评估协作等未来技能

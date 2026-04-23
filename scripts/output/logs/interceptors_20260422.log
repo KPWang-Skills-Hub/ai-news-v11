@@ -1,0 +1,373 @@
+
+[2026-04-22 08:00:53] keyword_filter - INPUT: 61条
+============================================================
+  - [huxiu][] 采访Sam Altman和Greg Brockman，内容涉及OpenAI重组及个人AGI等话题
+  - [huxiu][] Core Scientific拟发债33亿美元转向AI数据中心建设，并租赁给CoreWeave
+  - [huxiu][] 苹果新任CEO特努斯：人工智能将带来近乎无限的发展潜力
+  - [huxiu][] Meta用软件跟踪员工电脑操作以训练AI
+  - [huxiu][] Google整合AI编码工具至Antigravity平台，对抗Claude Code和Codex
+  - [huxiu][] OpenAI在ChatGPT中推出按点击付费广告，每次点击3至5美元
+  - [huxiu][] OpenAI奥特曼：感谢库克和苹果公司
+  - [huxiu][] 机器人完成体内自体肾移植术，北大医院李学松团队实现国内突破
+  - [huxiu][] John Ternus或将恢复乔布斯时代的果断决策风格
+  - [huxiu][] 梁文锋不在乎赢，DeepSeek不能输
+  - [huxiu][] 腾讯QClaw海外版内测，5天开发完毕，99%代码自编，内测每日赠送4000万token
+  - [huxiu][] 贝佐斯AI实验室融资接近完成，估值近380亿美元
+  - [huxiu][] 谷歌扩展Chrome浏览器Gemini功能至更多亚太国家
+  - [huxiu][] 轨道辰光完成PreA1轮股债权融资，获577亿元战略授信支持
+  - [infoq][] Cursor与SpaceX合作，旨在加速模型训练进程
+  - [infoq][] fastinoAI 发布 Pioneer，宣称为首个用于微调与推理 SLM/LLM 的智能体
+  - [infoq][] SpaceXAI 与 Cursor AI 宣布合作，共同开发编程与知识工作 AI
+  - [infoq][] Google Cloud 将在 Next '26 期间通过每日直播传递云规模公告
+  - [infoq][] Yann LeCun转发观点：开放生态是应对AI时代网络安全新范式的关键
+  - [infoq][] MIT CSAIL与IMO联合发布全球最大国际数学奥林匹克数据集MathNet
+  - [infoq][] OpenAI发布Arena趋势报告：GPT-Image-2在文本到图像模型评测中领先
+  - [infoq][] Google整合消费者与开发者生态，AI Studio纳入AI Pro/Ultra订阅
+  - [infoq][] Google为Gemini API的Deep Research功能推出两项更新
+  - [infoq][] OpenAI GPT-image-2 模型即将登陆 Microsoft Foundry 平台
+  - [infoq][] OpenClaw 发布 2026.4.20 版本，支持 Kimi K2.6 模型并修复多项问题
+  - [infoq][] HeyGen将于4月28日在伦敦举办“Infinitely Me”快闪活动
+  - [infoq][] serinachang5 两篇论文被 ACL 2026 主会接收
+  - [infoq][] Anthropic启动为期三个月的STEM研究员项目
+  - [infoq][] Anthropic AI 将获高达5吉瓦Amazon Trainium芯片，承诺十年投入超千亿美元
+  - [infoq][] OECD发布首个全球教师通用教学知识调查结果
+  - [infoq][] OpenAI 发布推文提及 ChatGPT Images 2.0
+  - [infoq][] OpenAI发布直播预告并汇总近期产品更新
+  - [infoq][] Canva 宣布 gpt-image-2 模型将登陆 Canva AI 2.0
+  - [infoq][] Google Cloud Next '26 将举办开发者每日直播活动
+  - [量子位][] 物理优先+VLA闭环进化：高德ABot-World世界模型，破解具身智能零样本泛化难题
+  - [量子位][] ISC.AI 2026创新独角兽沙盒大赛在京启动 聚焦智能体 共筑AI创新生态
+  - [量子位][] 小米宣布上线PC版龙虾，Xiaomi miclaw正式开启PC、Mac、有屏音箱多终端封测
+  - [量子位][] Agent正杀入软件研发一线！全球超60位技术专家拆解AI落地困局，2026奇点智能技术大会收官
+  - [量子位][] 技术深度揭秘｜云知声U1-OCR架构升级 + API 开放，重构 OCR 3.0 时代
+  - [量子位][] 天立启鸣AI研究院院长刘志毅，入选2025福布斯中国科创人物
+  - [量子位][] K型分化，如何破局？| 第20届中国投资年会·年度峰会即将启幕
+  - [aibase][] AI 办公新动向：Claude 完成 Office 全覆盖，修订模式成博弈焦点
+  - [aibase][] 布林亲自下场！谷歌组建Gemini精英团队，AI编程赛道开启“贴身肉搏”
+  - [aibase][] 蚂蚁数科DTClaw上线AI支付功能，一句话让“龙虾”帮你付
+  - [aibase][] ​NSA 竟然获得 Anthropic Mythos 的访问权，尽管被列为供应链风险
+  - [aibase][] 首发：量子算力正式“拥抱”AI，国产超导量子计算机“本源悟空”实现重大跨越
+  - [aibase][] ​微信鸿蒙版迎来 8.0.17.16 版本升级，AI 音乐功能闪亮登场
+  - [aibase][] 算力被“特工”耗尽？GitHub Copilot 紧急叫停个人账户注册
+  - [aibase][] 萤石发布EZVIZ AI Core X智能大模型主机：64Tops算力开启家居“大脑”时代
+  - [aibase][] 三星AI机器人“Luna”亮相：这款像点唱机的居家助手真的实用吗？
+  - [aibase][] Miclaw 多端互联重磅升级！手机、PC、Mac、小爱音箱无缝协同，共享记忆 + 远程控制一键搞定
+  - [aibase][] 天猫超市 15 周年放大招：首个AI超市智能体“超喵”正式上岗
+  - [aibase][] 腾讯 QClaw 海外版上线！一键安装独立客户端，支持全球主流模型，还能“领养”他人训练好的 AI 
+  - [aibase][] UU跑腿发布全新的“跑腿Skill” 开启AI跑腿服务
+  - [aibase][] ​亚马逊 50 亿美元加码Anthropic，千亿级“云端赌约”震撼AI圈
+  - [aibase][] ​月之暗面发布新模型K2.6：长程任务与智能体能力实现新突破
+  - [aibase][] 华为硬核上新：Pura90 系列领衔，AI眼镜与阔折叠手机齐亮相
+  - [aibase][] 贝索斯豪掷百亿美金：普罗米修斯AI实验室估值冲向 380 亿
+  - [aibase][] 华为浏览器AI播客功能上线 联手《旅行家》打造精品专栏
+  - [aibase][] 工信部：一季度机器人产量激增33.2%，AI硬科技点亮智慧生活
+  - [aibase][] 突发福利！AI Studio 彻底免费开放，Pro/Ultra会员可畅玩Gemini Pro等顶级模
+
+[2026-04-22 08:00:53] keyword_filter - OUTPUT: 45条 | 移除16条
+============================================================
+  - [huxiu][] Core Scientific拟发债33亿美元转向AI数据中心建设，并租赁给CoreWeave
+  - [huxiu][] 苹果新任CEO特努斯：人工智能将带来近乎无限的发展潜力
+  - [huxiu][] Google整合AI编码工具至Antigravity平台，对抗Claude Code和Codex
+  - [huxiu][] OpenAI在ChatGPT中推出按点击付费广告，每次点击3至5美元
+  - [huxiu][] OpenAI奥特曼：感谢库克和苹果公司
+  - [huxiu][] John Ternus或将恢复乔布斯时代的果断决策风格
+  - [huxiu][] 腾讯QClaw海外版内测，5天开发完毕，99%代码自编，内测每日赠送4000万token
+  - [huxiu][] 谷歌扩展Chrome浏览器Gemini功能至更多亚太国家
+  - [infoq][] Cursor与SpaceX合作，旨在加速模型训练进程
+  - [infoq][] fastinoAI 发布 Pioneer，宣称为首个用于微调与推理 SLM/LLM 的智能体
+  - [infoq][] SpaceXAI 与 Cursor AI 宣布合作，共同开发编程与知识工作 AI
+  - [infoq][] OpenAI发布Arena趋势报告：GPT-Image-2在文本到图像模型评测中领先
+  - [infoq][] Google整合消费者与开发者生态，AI Studio纳入AI Pro/Ultra订阅
+  - [infoq][] Google为Gemini API的Deep Research功能推出两项更新
+  - [infoq][] OpenAI GPT-image-2 模型即将登陆 Microsoft Foundry 平台
+  - [infoq][] OpenClaw 发布 2026.4.20 版本，支持 Kimi K2.6 模型并修复多项问题
+  - [infoq][] serinachang5 两篇论文被 ACL 2026 主会接收
+  - [infoq][] Anthropic启动为期三个月的STEM研究员项目
+  - [infoq][] Anthropic AI 将获高达5吉瓦Amazon Trainium芯片，承诺十年投入超千亿美元
+  - [infoq][] OpenAI 发布推文提及 ChatGPT Images 2.0
+  - [infoq][] Canva 宣布 gpt-image-2 模型将登陆 Canva AI 2.0
+  - [量子位][] 物理优先+VLA闭环进化：高德ABot-World世界模型，破解具身智能零样本泛化难题
+  - [量子位][] ISC.AI 2026创新独角兽沙盒大赛在京启动 聚焦智能体 共筑AI创新生态
+  - [量子位][] 小米宣布上线PC版龙虾，Xiaomi miclaw正式开启PC、Mac、有屏音箱多终端封测
+  - [量子位][] Agent正杀入软件研发一线！全球超60位技术专家拆解AI落地困局，2026奇点智能技术大会收官
+  - [量子位][] 技术深度揭秘｜云知声U1-OCR架构升级 + API 开放，重构 OCR 3.0 时代
+  - [量子位][] 天立启鸣AI研究院院长刘志毅，入选2025福布斯中国科创人物
+  - [aibase][] AI 办公新动向：Claude 完成 Office 全覆盖，修订模式成博弈焦点
+  - [aibase][] 布林亲自下场！谷歌组建Gemini精英团队，AI编程赛道开启“贴身肉搏”
+  - [aibase][] 蚂蚁数科DTClaw上线AI支付功能，一句话让“龙虾”帮你付
+  - [aibase][] ​NSA 竟然获得 Anthropic Mythos 的访问权，尽管被列为供应链风险
+  - [aibase][] 首发：量子算力正式“拥抱”AI，国产超导量子计算机“本源悟空”实现重大跨越
+  - [aibase][] ​微信鸿蒙版迎来 8.0.17.16 版本升级，AI 音乐功能闪亮登场
+  - [aibase][] 算力被“特工”耗尽？GitHub Copilot 紧急叫停个人账户注册
+  - [aibase][] 萤石发布EZVIZ AI Core X智能大模型主机：64Tops算力开启家居“大脑”时代
+  - [aibase][] 三星AI机器人“Luna”亮相：这款像点唱机的居家助手真的实用吗？
+  - [aibase][] Miclaw 多端互联重磅升级！手机、PC、Mac、小爱音箱无缝协同，共享记忆 + 远程控制一键搞定
+  - [aibase][] 天猫超市 15 周年放大招：首个AI超市智能体“超喵”正式上岗
+  - [aibase][] 腾讯 QClaw 海外版上线！一键安装独立客户端，支持全球主流模型，还能“领养”他人训练好的 AI 
+  - [aibase][] UU跑腿发布全新的“跑腿Skill” 开启AI跑腿服务
+  - [aibase][] ​月之暗面发布新模型K2.6：长程任务与智能体能力实现新突破
+  - [aibase][] 华为硬核上新：Pura90 系列领衔，AI眼镜与阔折叠手机齐亮相
+  - [aibase][] 华为浏览器AI播客功能上线 联手《旅行家》打造精品专栏
+  - [aibase][] 工信部：一季度机器人产量激增33.2%，AI硬科技点亮智慧生活
+  - [aibase][] 突发福利！AI Studio 彻底免费开放，Pro/Ultra会员可畅玩Gemini Pro等顶级模
+
+[2026-04-22 08:00:53] bge_dedup - INPUT: 45条
+============================================================
+  - [huxiu][] Core Scientific拟发债33亿美元转向AI数据中心建设，并租赁给CoreWeave
+  - [huxiu][] 苹果新任CEO特努斯：人工智能将带来近乎无限的发展潜力
+  - [huxiu][] Google整合AI编码工具至Antigravity平台，对抗Claude Code和Codex
+  - [huxiu][] OpenAI在ChatGPT中推出按点击付费广告，每次点击3至5美元
+  - [huxiu][] OpenAI奥特曼：感谢库克和苹果公司
+  - [huxiu][] John Ternus或将恢复乔布斯时代的果断决策风格
+  - [huxiu][] 腾讯QClaw海外版内测，5天开发完毕，99%代码自编，内测每日赠送4000万token
+  - [huxiu][] 谷歌扩展Chrome浏览器Gemini功能至更多亚太国家
+  - [infoq][] Cursor与SpaceX合作，旨在加速模型训练进程
+  - [infoq][] fastinoAI 发布 Pioneer，宣称为首个用于微调与推理 SLM/LLM 的智能体
+  - [infoq][] SpaceXAI 与 Cursor AI 宣布合作，共同开发编程与知识工作 AI
+  - [infoq][] OpenAI发布Arena趋势报告：GPT-Image-2在文本到图像模型评测中领先
+  - [infoq][] Google整合消费者与开发者生态，AI Studio纳入AI Pro/Ultra订阅
+  - [infoq][] Google为Gemini API的Deep Research功能推出两项更新
+  - [infoq][] OpenAI GPT-image-2 模型即将登陆 Microsoft Foundry 平台
+  - [infoq][] OpenClaw 发布 2026.4.20 版本，支持 Kimi K2.6 模型并修复多项问题
+  - [infoq][] serinachang5 两篇论文被 ACL 2026 主会接收
+  - [infoq][] Anthropic启动为期三个月的STEM研究员项目
+  - [infoq][] Anthropic AI 将获高达5吉瓦Amazon Trainium芯片，承诺十年投入超千亿美元
+  - [infoq][] OpenAI 发布推文提及 ChatGPT Images 2.0
+  - [infoq][] Canva 宣布 gpt-image-2 模型将登陆 Canva AI 2.0
+  - [量子位][] 物理优先+VLA闭环进化：高德ABot-World世界模型，破解具身智能零样本泛化难题
+  - [量子位][] ISC.AI 2026创新独角兽沙盒大赛在京启动 聚焦智能体 共筑AI创新生态
+  - [量子位][] 小米宣布上线PC版龙虾，Xiaomi miclaw正式开启PC、Mac、有屏音箱多终端封测
+  - [量子位][] Agent正杀入软件研发一线！全球超60位技术专家拆解AI落地困局，2026奇点智能技术大会收官
+  - [量子位][] 技术深度揭秘｜云知声U1-OCR架构升级 + API 开放，重构 OCR 3.0 时代
+  - [量子位][] 天立启鸣AI研究院院长刘志毅，入选2025福布斯中国科创人物
+  - [aibase][] AI 办公新动向：Claude 完成 Office 全覆盖，修订模式成博弈焦点
+  - [aibase][] 布林亲自下场！谷歌组建Gemini精英团队，AI编程赛道开启“贴身肉搏”
+  - [aibase][] 蚂蚁数科DTClaw上线AI支付功能，一句话让“龙虾”帮你付
+  - [aibase][] ​NSA 竟然获得 Anthropic Mythos 的访问权，尽管被列为供应链风险
+  - [aibase][] 首发：量子算力正式“拥抱”AI，国产超导量子计算机“本源悟空”实现重大跨越
+  - [aibase][] ​微信鸿蒙版迎来 8.0.17.16 版本升级，AI 音乐功能闪亮登场
+  - [aibase][] 算力被“特工”耗尽？GitHub Copilot 紧急叫停个人账户注册
+  - [aibase][] 萤石发布EZVIZ AI Core X智能大模型主机：64Tops算力开启家居“大脑”时代
+  - [aibase][] 三星AI机器人“Luna”亮相：这款像点唱机的居家助手真的实用吗？
+  - [aibase][] Miclaw 多端互联重磅升级！手机、PC、Mac、小爱音箱无缝协同，共享记忆 + 远程控制一键搞定
+  - [aibase][] 天猫超市 15 周年放大招：首个AI超市智能体“超喵”正式上岗
+  - [aibase][] 腾讯 QClaw 海外版上线！一键安装独立客户端，支持全球主流模型，还能“领养”他人训练好的 AI 
+  - [aibase][] UU跑腿发布全新的“跑腿Skill” 开启AI跑腿服务
+  - [aibase][] ​月之暗面发布新模型K2.6：长程任务与智能体能力实现新突破
+  - [aibase][] 华为硬核上新：Pura90 系列领衔，AI眼镜与阔折叠手机齐亮相
+  - [aibase][] 华为浏览器AI播客功能上线 联手《旅行家》打造精品专栏
+  - [aibase][] 工信部：一季度机器人产量激增33.2%，AI硬科技点亮智慧生活
+  - [aibase][] 突发福利！AI Studio 彻底免费开放，Pro/Ultra会员可畅玩Gemini Pro等顶级模
+
+[2026-04-22 08:01:14] bge_dedup - OUTPUT: 45条 | 移除0条
+============================================================
+  - [huxiu][] Core Scientific拟发债33亿美元转向AI数据中心建设，并租赁给CoreWeave
+  - [huxiu][] 苹果新任CEO特努斯：人工智能将带来近乎无限的发展潜力
+  - [huxiu][] Google整合AI编码工具至Antigravity平台，对抗Claude Code和Codex
+  - [huxiu][] OpenAI在ChatGPT中推出按点击付费广告，每次点击3至5美元
+  - [huxiu][] OpenAI奥特曼：感谢库克和苹果公司
+  - [huxiu][] John Ternus或将恢复乔布斯时代的果断决策风格
+  - [huxiu][] 腾讯QClaw海外版内测，5天开发完毕，99%代码自编，内测每日赠送4000万token
+  - [huxiu][] 谷歌扩展Chrome浏览器Gemini功能至更多亚太国家
+  - [infoq][] Cursor与SpaceX合作，旨在加速模型训练进程
+  - [infoq][] fastinoAI 发布 Pioneer，宣称为首个用于微调与推理 SLM/LLM 的智能体
+  - [infoq][] SpaceXAI 与 Cursor AI 宣布合作，共同开发编程与知识工作 AI
+  - [infoq][] OpenAI发布Arena趋势报告：GPT-Image-2在文本到图像模型评测中领先
+  - [infoq][] Google整合消费者与开发者生态，AI Studio纳入AI Pro/Ultra订阅
+  - [infoq][] Google为Gemini API的Deep Research功能推出两项更新
+  - [infoq][] OpenAI GPT-image-2 模型即将登陆 Microsoft Foundry 平台
+  - [infoq][] OpenClaw 发布 2026.4.20 版本，支持 Kimi K2.6 模型并修复多项问题
+  - [infoq][] serinachang5 两篇论文被 ACL 2026 主会接收
+  - [infoq][] Anthropic启动为期三个月的STEM研究员项目
+  - [infoq][] Anthropic AI 将获高达5吉瓦Amazon Trainium芯片，承诺十年投入超千亿美元
+  - [infoq][] OpenAI 发布推文提及 ChatGPT Images 2.0
+  - [infoq][] Canva 宣布 gpt-image-2 模型将登陆 Canva AI 2.0
+  - [量子位][] 物理优先+VLA闭环进化：高德ABot-World世界模型，破解具身智能零样本泛化难题
+  - [量子位][] ISC.AI 2026创新独角兽沙盒大赛在京启动 聚焦智能体 共筑AI创新生态
+  - [量子位][] 小米宣布上线PC版龙虾，Xiaomi miclaw正式开启PC、Mac、有屏音箱多终端封测
+  - [量子位][] Agent正杀入软件研发一线！全球超60位技术专家拆解AI落地困局，2026奇点智能技术大会收官
+  - [量子位][] 技术深度揭秘｜云知声U1-OCR架构升级 + API 开放，重构 OCR 3.0 时代
+  - [量子位][] 天立启鸣AI研究院院长刘志毅，入选2025福布斯中国科创人物
+  - [aibase][] AI 办公新动向：Claude 完成 Office 全覆盖，修订模式成博弈焦点
+  - [aibase][] 布林亲自下场！谷歌组建Gemini精英团队，AI编程赛道开启“贴身肉搏”
+  - [aibase][] 蚂蚁数科DTClaw上线AI支付功能，一句话让“龙虾”帮你付
+  - [aibase][] ​NSA 竟然获得 Anthropic Mythos 的访问权，尽管被列为供应链风险
+  - [aibase][] 首发：量子算力正式“拥抱”AI，国产超导量子计算机“本源悟空”实现重大跨越
+  - [aibase][] ​微信鸿蒙版迎来 8.0.17.16 版本升级，AI 音乐功能闪亮登场
+  - [aibase][] 算力被“特工”耗尽？GitHub Copilot 紧急叫停个人账户注册
+  - [aibase][] 萤石发布EZVIZ AI Core X智能大模型主机：64Tops算力开启家居“大脑”时代
+  - [aibase][] 三星AI机器人“Luna”亮相：这款像点唱机的居家助手真的实用吗？
+  - [aibase][] Miclaw 多端互联重磅升级！手机、PC、Mac、小爱音箱无缝协同，共享记忆 + 远程控制一键搞定
+  - [aibase][] 天猫超市 15 周年放大招：首个AI超市智能体“超喵”正式上岗
+  - [aibase][] 腾讯 QClaw 海外版上线！一键安装独立客户端，支持全球主流模型，还能“领养”他人训练好的 AI 
+  - [aibase][] UU跑腿发布全新的“跑腿Skill” 开启AI跑腿服务
+  - [aibase][] ​月之暗面发布新模型K2.6：长程任务与智能体能力实现新突破
+  - [aibase][] 华为硬核上新：Pura90 系列领衔，AI眼镜与阔折叠手机齐亮相
+  - [aibase][] 华为浏览器AI播客功能上线 联手《旅行家》打造精品专栏
+  - [aibase][] 工信部：一季度机器人产量激增33.2%，AI硬科技点亮智慧生活
+  - [aibase][] 突发福利！AI Studio 彻底免费开放，Pro/Ultra会员可畅玩Gemini Pro等顶级模
+
+[2026-04-22 08:01:14] llm_classify - INPUT: 45条
+============================================================
+  - [huxiu][] Core Scientific拟发债33亿美元转向AI数据中心建设，并租赁给CoreWeave
+  - [huxiu][] 苹果新任CEO特努斯：人工智能将带来近乎无限的发展潜力
+  - [huxiu][] Google整合AI编码工具至Antigravity平台，对抗Claude Code和Codex
+  - [huxiu][] OpenAI在ChatGPT中推出按点击付费广告，每次点击3至5美元
+  - [huxiu][] OpenAI奥特曼：感谢库克和苹果公司
+  - [huxiu][] John Ternus或将恢复乔布斯时代的果断决策风格
+  - [huxiu][] 腾讯QClaw海外版内测，5天开发完毕，99%代码自编，内测每日赠送4000万token
+  - [huxiu][] 谷歌扩展Chrome浏览器Gemini功能至更多亚太国家
+  - [infoq][] Cursor与SpaceX合作，旨在加速模型训练进程
+  - [infoq][] fastinoAI 发布 Pioneer，宣称为首个用于微调与推理 SLM/LLM 的智能体
+  - [infoq][] SpaceXAI 与 Cursor AI 宣布合作，共同开发编程与知识工作 AI
+  - [infoq][] OpenAI发布Arena趋势报告：GPT-Image-2在文本到图像模型评测中领先
+  - [infoq][] Google整合消费者与开发者生态，AI Studio纳入AI Pro/Ultra订阅
+  - [infoq][] Google为Gemini API的Deep Research功能推出两项更新
+  - [infoq][] OpenAI GPT-image-2 模型即将登陆 Microsoft Foundry 平台
+  - [infoq][] OpenClaw 发布 2026.4.20 版本，支持 Kimi K2.6 模型并修复多项问题
+  - [infoq][] serinachang5 两篇论文被 ACL 2026 主会接收
+  - [infoq][] Anthropic启动为期三个月的STEM研究员项目
+  - [infoq][] Anthropic AI 将获高达5吉瓦Amazon Trainium芯片，承诺十年投入超千亿美元
+  - [infoq][] OpenAI 发布推文提及 ChatGPT Images 2.0
+  - [infoq][] Canva 宣布 gpt-image-2 模型将登陆 Canva AI 2.0
+  - [量子位][] 物理优先+VLA闭环进化：高德ABot-World世界模型，破解具身智能零样本泛化难题
+  - [量子位][] ISC.AI 2026创新独角兽沙盒大赛在京启动 聚焦智能体 共筑AI创新生态
+  - [量子位][] 小米宣布上线PC版龙虾，Xiaomi miclaw正式开启PC、Mac、有屏音箱多终端封测
+  - [量子位][] Agent正杀入软件研发一线！全球超60位技术专家拆解AI落地困局，2026奇点智能技术大会收官
+  - [量子位][] 技术深度揭秘｜云知声U1-OCR架构升级 + API 开放，重构 OCR 3.0 时代
+  - [量子位][] 天立启鸣AI研究院院长刘志毅，入选2025福布斯中国科创人物
+  - [aibase][] AI 办公新动向：Claude 完成 Office 全覆盖，修订模式成博弈焦点
+  - [aibase][] 布林亲自下场！谷歌组建Gemini精英团队，AI编程赛道开启“贴身肉搏”
+  - [aibase][] 蚂蚁数科DTClaw上线AI支付功能，一句话让“龙虾”帮你付
+  - [aibase][] ​NSA 竟然获得 Anthropic Mythos 的访问权，尽管被列为供应链风险
+  - [aibase][] 首发：量子算力正式“拥抱”AI，国产超导量子计算机“本源悟空”实现重大跨越
+  - [aibase][] ​微信鸿蒙版迎来 8.0.17.16 版本升级，AI 音乐功能闪亮登场
+  - [aibase][] 算力被“特工”耗尽？GitHub Copilot 紧急叫停个人账户注册
+  - [aibase][] 萤石发布EZVIZ AI Core X智能大模型主机：64Tops算力开启家居“大脑”时代
+  - [aibase][] 三星AI机器人“Luna”亮相：这款像点唱机的居家助手真的实用吗？
+  - [aibase][] Miclaw 多端互联重磅升级！手机、PC、Mac、小爱音箱无缝协同，共享记忆 + 远程控制一键搞定
+  - [aibase][] 天猫超市 15 周年放大招：首个AI超市智能体“超喵”正式上岗
+  - [aibase][] 腾讯 QClaw 海外版上线！一键安装独立客户端，支持全球主流模型，还能“领养”他人训练好的 AI 
+  - [aibase][] UU跑腿发布全新的“跑腿Skill” 开启AI跑腿服务
+  - [aibase][] ​月之暗面发布新模型K2.6：长程任务与智能体能力实现新突破
+  - [aibase][] 华为硬核上新：Pura90 系列领衔，AI眼镜与阔折叠手机齐亮相
+  - [aibase][] 华为浏览器AI播客功能上线 联手《旅行家》打造精品专栏
+  - [aibase][] 工信部：一季度机器人产量激增33.2%，AI硬科技点亮智慧生活
+  - [aibase][] 突发福利！AI Studio 彻底免费开放，Pro/Ultra会员可畅玩Gemini Pro等顶级模
+
+[2026-04-22 08:01:50] llm_classify - OUTPUT: 36条 | 保留36条
+============================================================
+  - [huxiu][国外AI资讯] 苹果新任CEO特努斯：人工智能将带来近乎无限的发展潜力
+  - [huxiu][国外AI资讯] Google整合AI编码工具至Antigravity平台，对抗Claude Code和Codex
+  - [huxiu][国外AI资讯] OpenAI在ChatGPT中推出按点击付费广告，每次点击3至5美元
+  - [huxiu][国外AI资讯] OpenAI奥特曼：感谢库克和苹果公司
+  - [huxiu][国内AI资讯] 腾讯QClaw海外版内测，5天开发完毕，99%代码自编，内测每日赠送4000万token
+  - [huxiu][国外AI资讯] 谷歌扩展Chrome浏览器Gemini功能至更多亚太国家
+  - [infoq][国外AI资讯] Cursor与SpaceX合作，旨在加速模型训练进程
+  - [infoq][国外AI资讯] fastinoAI 发布 Pioneer，宣称为首个用于微调与推理 SLM/LLM 的智能体
+  - [infoq][国外AI资讯] SpaceXAI 与 Cursor AI 宣布合作，共同开发编程与知识工作 AI
+  - [infoq][国外AI资讯] OpenAI发布Arena趋势报告：GPT-Image-2在文本到图像模型评测中领先
+  - [infoq][国外AI资讯] Google整合消费者与开发者生态，AI Studio纳入AI Pro/Ultra订阅
+  - [infoq][国外AI资讯] Google为Gemini API的Deep Research功能推出两项更新
+  - [infoq][国外AI资讯] OpenAI GPT-image-2 模型即将登陆 Microsoft Foundry 平台
+  - [infoq][国内AI资讯] OpenClaw 发布 2026.4.20 版本，支持 Kimi K2.6 模型并修复多项问题
+  - [infoq][国外AI资讯] Anthropic启动为期三个月的STEM研究员项目
+  - [infoq][国外AI资讯] OpenAI 发布推文提及 ChatGPT Images 2.0
+  - [infoq][国外AI资讯] Canva 宣布 gpt-image-2 模型将登陆 Canva AI 2.0
+  - [量子位][国内AI资讯] 物理优先+VLA闭环进化：高德ABot-World世界模型，破解具身智能零样本泛化难题
+  - [量子位][智能硬件] 小米宣布上线PC版龙虾，Xiaomi miclaw正式开启PC、Mac、有屏音箱多终端封测
+  - [量子位][国内AI资讯] 技术深度揭秘｜云知声U1-OCR架构升级 + API 开放，重构 OCR 3.0 时代
+  - [aibase][国外AI资讯] AI 办公新动向：Claude 完成 Office 全覆盖，修订模式成博弈焦点
+  - [aibase][国外AI资讯] 布林亲自下场！谷歌组建Gemini精英团队，AI编程赛道开启“贴身肉搏”
+  - [aibase][国内AI资讯] 蚂蚁数科DTClaw上线AI支付功能，一句话让“龙虾”帮你付
+  - [aibase][其它科技资讯] 首发：量子算力正式“拥抱”AI，国产超导量子计算机“本源悟空”实现重大跨越
+  - [aibase][国内AI资讯] ​微信鸿蒙版迎来 8.0.17.16 版本升级，AI 音乐功能闪亮登场
+  - [aibase][智能硬件] 萤石发布EZVIZ AI Core X智能大模型主机：64Tops算力开启家居“大脑”时代
+  - [aibase][智能硬件] 三星AI机器人“Luna”亮相：这款像点唱机的居家助手真的实用吗？
+  - [aibase][智能硬件] Miclaw 多端互联重磅升级！手机、PC、Mac、小爱音箱无缝协同，共享记忆 + 远程控制一键搞定
+  - [aibase][国内AI资讯] 天猫超市 15 周年放大招：首个AI超市智能体“超喵”正式上岗
+  - [aibase][国内AI资讯] 腾讯 QClaw 海外版上线！一键安装独立客户端，支持全球主流模型，还能“领养”他人训练好的 AI 
+  - [aibase][国内AI资讯] UU跑腿发布全新的“跑腿Skill” 开启AI跑腿服务
+  - [aibase][国内AI资讯] ​月之暗面发布新模型K2.6：长程任务与智能体能力实现新突破
+  - [aibase][智能硬件] 华为硬核上新：Pura90 系列领衔，AI眼镜与阔折叠手机齐亮相
+  - [aibase][国内AI资讯] 华为浏览器AI播客功能上线 联手《旅行家》打造精品专栏
+  - [aibase][智能硬件] 工信部：一季度机器人产量激增33.2%，AI硬科技点亮智慧生活
+  - [aibase][国外AI资讯] 突发福利！AI Studio 彻底免费开放，Pro/Ultra会员可畅玩Gemini Pro等顶级模
+
+[2026-04-22 08:01:50] llm_summary - INPUT: 36条
+============================================================
+  - [huxiu][国外AI资讯] 苹果新任CEO特努斯：人工智能将带来近乎无限的发展潜力
+  - [huxiu][国外AI资讯] Google整合AI编码工具至Antigravity平台，对抗Claude Code和Codex
+  - [huxiu][国外AI资讯] OpenAI在ChatGPT中推出按点击付费广告，每次点击3至5美元
+  - [huxiu][国外AI资讯] OpenAI奥特曼：感谢库克和苹果公司
+  - [huxiu][国内AI资讯] 腾讯QClaw海外版内测，5天开发完毕，99%代码自编，内测每日赠送4000万token
+  - [huxiu][国外AI资讯] 谷歌扩展Chrome浏览器Gemini功能至更多亚太国家
+  - [infoq][国外AI资讯] Cursor与SpaceX合作，旨在加速模型训练进程
+  - [infoq][国外AI资讯] fastinoAI 发布 Pioneer，宣称为首个用于微调与推理 SLM/LLM 的智能体
+  - [infoq][国外AI资讯] SpaceXAI 与 Cursor AI 宣布合作，共同开发编程与知识工作 AI
+  - [infoq][国外AI资讯] OpenAI发布Arena趋势报告：GPT-Image-2在文本到图像模型评测中领先
+  - [infoq][国外AI资讯] Google整合消费者与开发者生态，AI Studio纳入AI Pro/Ultra订阅
+  - [infoq][国外AI资讯] Google为Gemini API的Deep Research功能推出两项更新
+  - [infoq][国外AI资讯] OpenAI GPT-image-2 模型即将登陆 Microsoft Foundry 平台
+  - [infoq][国内AI资讯] OpenClaw 发布 2026.4.20 版本，支持 Kimi K2.6 模型并修复多项问题
+  - [infoq][国外AI资讯] Anthropic启动为期三个月的STEM研究员项目
+  - [infoq][国外AI资讯] OpenAI 发布推文提及 ChatGPT Images 2.0
+  - [infoq][国外AI资讯] Canva 宣布 gpt-image-2 模型将登陆 Canva AI 2.0
+  - [量子位][国内AI资讯] 物理优先+VLA闭环进化：高德ABot-World世界模型，破解具身智能零样本泛化难题
+  - [量子位][智能硬件] 小米宣布上线PC版龙虾，Xiaomi miclaw正式开启PC、Mac、有屏音箱多终端封测
+  - [量子位][国内AI资讯] 技术深度揭秘｜云知声U1-OCR架构升级 + API 开放，重构 OCR 3.0 时代
+  - [aibase][国外AI资讯] AI 办公新动向：Claude 完成 Office 全覆盖，修订模式成博弈焦点
+  - [aibase][国外AI资讯] 布林亲自下场！谷歌组建Gemini精英团队，AI编程赛道开启“贴身肉搏”
+  - [aibase][国内AI资讯] 蚂蚁数科DTClaw上线AI支付功能，一句话让“龙虾”帮你付
+  - [aibase][其它科技资讯] 首发：量子算力正式“拥抱”AI，国产超导量子计算机“本源悟空”实现重大跨越
+  - [aibase][国内AI资讯] ​微信鸿蒙版迎来 8.0.17.16 版本升级，AI 音乐功能闪亮登场
+  - [aibase][智能硬件] 萤石发布EZVIZ AI Core X智能大模型主机：64Tops算力开启家居“大脑”时代
+  - [aibase][智能硬件] 三星AI机器人“Luna”亮相：这款像点唱机的居家助手真的实用吗？
+  - [aibase][智能硬件] Miclaw 多端互联重磅升级！手机、PC、Mac、小爱音箱无缝协同，共享记忆 + 远程控制一键搞定
+  - [aibase][国内AI资讯] 天猫超市 15 周年放大招：首个AI超市智能体“超喵”正式上岗
+  - [aibase][国内AI资讯] 腾讯 QClaw 海外版上线！一键安装独立客户端，支持全球主流模型，还能“领养”他人训练好的 AI 
+  - [aibase][国内AI资讯] UU跑腿发布全新的“跑腿Skill” 开启AI跑腿服务
+  - [aibase][国内AI资讯] ​月之暗面发布新模型K2.6：长程任务与智能体能力实现新突破
+  - [aibase][智能硬件] 华为硬核上新：Pura90 系列领衔，AI眼镜与阔折叠手机齐亮相
+  - [aibase][国内AI资讯] 华为浏览器AI播客功能上线 联手《旅行家》打造精品专栏
+  - [aibase][智能硬件] 工信部：一季度机器人产量激增33.2%，AI硬科技点亮智慧生活
+  - [aibase][国外AI资讯] 突发福利！AI Studio 彻底免费开放，Pro/Ultra会员可畅玩Gemini Pro等顶级模
+
+[2026-04-22 08:03:55] llm_summary - OUTPUT: 36条 | 成功35条
+============================================================
+  - [huxiu][国外AI资讯] 苹果新任CEO特努斯：人工智能将带来近乎无限的发展潜力
+  - [huxiu][国外AI资讯] Google整合AI编码工具至Antigravity平台，对抗Claude Code和Codex
+  - [huxiu][国外AI资讯] OpenAI在ChatGPT中推出按点击付费广告，每次点击3至5美元
+  - [huxiu][国外AI资讯] OpenAI奥特曼：感谢库克和苹果公司
+  - [huxiu][国内AI资讯] 腾讯QClaw海外版内测，5天开发完毕，99%代码自编，内测每日赠送4000万token
+  - [huxiu][国外AI资讯] 谷歌扩展Chrome浏览器Gemini功能至更多亚太国家
+  - [infoq][国外AI资讯] Cursor与SpaceX合作，旨在加速模型训练进程
+  - [infoq][国外AI资讯] fastinoAI 发布 Pioneer，宣称为首个用于微调与推理 SLM/LLM 的智能体
+  - [infoq][国外AI资讯] SpaceXAI 与 Cursor AI 宣布合作，共同开发编程与知识工作 AI
+  - [infoq][国外AI资讯] OpenAI发布Arena趋势报告：GPT-Image-2在文本到图像模型评测中领先
+  - [infoq][国外AI资讯] Google整合消费者与开发者生态，AI Studio纳入AI Pro/Ultra订阅
+  - [infoq][国外AI资讯] Google为Gemini API的Deep Research功能推出两项更新
+  - [infoq][国外AI资讯] OpenAI GPT-image-2 模型即将登陆 Microsoft Foundry 平台
+  - [infoq][国内AI资讯] OpenClaw 发布 2026.4.20 版本，支持 Kimi K2.6 模型并修复多项问题
+  - [infoq][国外AI资讯] Anthropic启动为期三个月的STEM研究员项目
+  - [infoq][国外AI资讯] OpenAI 发布推文提及 ChatGPT Images 2.0
+  - [infoq][国外AI资讯] Canva 宣布 gpt-image-2 模型将登陆 Canva AI 2.0
+  - [量子位][国内AI资讯] 物理优先+VLA闭环进化：高德ABot-World世界模型，破解具身智能零样本泛化难题
+  - [量子位][智能硬件] 小米宣布上线PC版龙虾，Xiaomi miclaw正式开启PC、Mac、有屏音箱多终端封测
+  - [量子位][国内AI资讯] 技术深度揭秘｜云知声U1-OCR架构升级 + API 开放，重构 OCR 3.0 时代
+  - [aibase][国外AI资讯] AI 办公新动向：Claude 完成 Office 全覆盖，修订模式成博弈焦点
+  - [aibase][国外AI资讯] 布林亲自下场！谷歌组建Gemini精英团队，AI编程赛道开启“贴身肉搏”
+  - [aibase][国内AI资讯] 蚂蚁数科DTClaw上线AI支付功能，一句话让“龙虾”帮你付
+  - [aibase][其它科技资讯] 首发：量子算力正式“拥抱”AI，国产超导量子计算机“本源悟空”实现重大跨越
+  - [aibase][国内AI资讯] ​微信鸿蒙版迎来 8.0.17.16 版本升级，AI 音乐功能闪亮登场
+  - [aibase][智能硬件] 萤石发布EZVIZ AI Core X智能大模型主机：64Tops算力开启家居“大脑”时代
+  - [aibase][智能硬件] 三星AI机器人“Luna”亮相：这款像点唱机的居家助手真的实用吗？
+  - [aibase][智能硬件] Miclaw 多端互联重磅升级！手机、PC、Mac、小爱音箱无缝协同，共享记忆 + 远程控制一键搞定
+  - [aibase][国内AI资讯] 天猫超市 15 周年放大招：首个AI超市智能体“超喵”正式上岗
+  - [aibase][国内AI资讯] 腾讯 QClaw 海外版上线！一键安装独立客户端，支持全球主流模型，还能“领养”他人训练好的 AI 
+  - [aibase][国内AI资讯] UU跑腿发布全新的“跑腿Skill” 开启AI跑腿服务
+  - [aibase][国内AI资讯] ​月之暗面发布新模型K2.6：长程任务与智能体能力实现新突破
+  - [aibase][智能硬件] 华为硬核上新：Pura90 系列领衔，AI眼镜与阔折叠手机齐亮相
+  - [aibase][国内AI资讯] 华为浏览器AI播客功能上线 联手《旅行家》打造精品专栏
+  - [aibase][智能硬件] 工信部：一季度机器人产量激增33.2%，AI硬科技点亮智慧生活
+  - [aibase][国外AI资讯] 突发福利！AI Studio 彻底免费开放，Pro/Ultra会员可畅玩Gemini Pro等顶级模

@@ -1,0 +1,225 @@
+
+[2026-04-15 07:26:06] keyword_filter - INPUT: 40条
+============================================================
+  - [huxiu][] Anthropic用AI加速弱到强监督对齐研究，弱模型指导强模型训练
+  - [huxiu][] 美国Credo收购以色列DustPhotonics，交易金额达13亿美元
+  - [huxiu][] OpenAI扩大网络安全项目访问，数千名验证网络防御人员可参与
+  - [huxiu][] 微软接管挪威Stargate数据中心，原为OpenAI准备
+  - [huxiu][] Sygaldry获1.39亿美元融资，研发量子与经典集成AI服务器
+  - [huxiu][] Anthropic反对OpenAI支持的伊州法案，免除AI实验室重大损害责任
+  - [huxiu][] Fluidstack拟以180亿美元估值募资10亿美元，较2026年增高
+  - [huxiu][] 美团、阿里、京东竞逐AI医药服务赛道
+  - [huxiu][] “蓝点触控”完成超亿元C+轮融资
+  - [huxiu][] Uber购买35000辆Lucid电动车并投资2亿美元
+  - [huxiu][] 华为猛攻医疗AI ，探路医院“AI操作系统”
+  - [huxiu][] 腾讯云率先支持Hermes Agent云端快速部署
+  - [huxiu][] 苹果加码iPhone Fold
+  - [huxiu][] 苹果MacBook Neo售罄，紧急向供应商追加订单
+  - [huxiu][] OpenAI收购AI个人理财公司Hiro Finance
+  - [huxiu][] OpenAI估值8520亿美元遭质疑，面临Anthropic和谷歌挑战
+  - [huxiu][] 华为Pura 90系列支持AI拍摄姿势推荐
+  - [huxiu][] 微软被控与OpenAI合谋涨价，申请驳回反垄断案
+  - [infoq][] Canva宣布将于4月16日举办“Canva Create”活动，整合AI进展开启创作新纪元
+  - [infoq][] Luma发布创意智能体平台，支持多格式内容创作
+  - [infoq][] Waymo 在伦敦启动有安全员监督的自动驾驶测试
+  - [infoq][] 英伟达CEO黄仁勋在斯坦福商学院分享对AI时代新一代的乐观看法
+  - [infoq][] Google发布视频庆祝世界量子日，概述量子研究演进与最新突破
+  - [infoq][] Google Cloud Tech 将直播展示修复 AI 智能体过程
+  - [infoq][] Midjourney 发布 V8.1 版本，恢复标志性美学并提升速度与效率
+  - [infoq][] OECD：供应链与电商发展需更强产品安全，呼吁跨境合作与共同责任
+  - [infoq][] 研究：稀疏自编码器可提取LLMs对人类观点的深层认知
+  - [infoq][] Epsilla 在 YC Launch YC 发布 AI 代理监控平台 ClawTrace
+  - [infoq][] 微软展示全球医疗团队运用AI提升效率的7个真实案例
+  - [infoq][] 机器人公司 PsiBot 发布基础模型 Psi-R2 与 Psi-W0 并开源数据集
+  - [infoq][] IDC：AI计算向用户端转移，桌面工作站成核心基础设施
+  - [infoq][] PyTorch宣布在Hugging Face Hub推出Kernels功能
+  - [infoq][] Google Cloud 发布预告，邀请专家回顾更新并预览 Next 大会
+  - [infoq][] Coinbase开发者平台服务超万名独立开发者，将分享AI智能体服务构建经验
+  - [infoq][] NVIDIA 发布开源 AI 模型家族 Ising，旨在变革量子计算
+  - [infoq][] Google Cloud 预告技术分享，回顾更新并预览 Google Cloud Next
+  - [infoq][] 微软宣布Word Copilot新增跟踪更改与评论功能
+  - [infoq][] 微软发布高效图像生成模型 MAI-Image-2-Efficient，开启公开预览
+  - [量子位][] 荣耀PC家族大爆发！荣耀“打洲本”“养虾本”集中亮相
+  - [量子位][] AI开始直接交付Excel，千问用Agent重构做表流程
+
+[2026-04-15 07:26:06] keyword_filter - OUTPUT: 23条 | 移除17条
+============================================================
+  - [huxiu][] Anthropic用AI加速弱到强监督对齐研究，弱模型指导强模型训练
+  - [huxiu][] OpenAI扩大网络安全项目访问，数千名验证网络防御人员可参与
+  - [huxiu][] 微软接管挪威Stargate数据中心，原为OpenAI准备
+  - [huxiu][] Anthropic反对OpenAI支持的伊州法案，免除AI实验室重大损害责任
+  - [huxiu][] 美团、阿里、京东竞逐AI医药服务赛道
+  - [huxiu][] 腾讯云率先支持Hermes Agent云端快速部署
+  - [huxiu][] 华为Pura 90系列支持AI拍摄姿势推荐
+  - [huxiu][] 微软被控与OpenAI合谋涨价，申请驳回反垄断案
+  - [infoq][] Waymo 在伦敦启动有安全员监督的自动驾驶测试
+  - [infoq][] 英伟达CEO黄仁勋在斯坦福商学院分享对AI时代新一代的乐观看法
+  - [infoq][] Google发布视频庆祝世界量子日，概述量子研究演进与最新突破
+  - [infoq][] Midjourney 发布 V8.1 版本，恢复标志性美学并提升速度与效率
+  - [infoq][] 研究：稀疏自编码器可提取LLMs对人类观点的深层认知
+  - [infoq][] Epsilla 在 YC Launch YC 发布 AI 代理监控平台 ClawTrace
+  - [infoq][] 机器人公司 PsiBot 发布基础模型 Psi-R2 与 Psi-W0 并开源数据集
+  - [infoq][] IDC：AI计算向用户端转移，桌面工作站成核心基础设施
+  - [infoq][] PyTorch宣布在Hugging Face Hub推出Kernels功能
+  - [infoq][] Coinbase开发者平台服务超万名独立开发者，将分享AI智能体服务构建经验
+  - [infoq][] NVIDIA 发布开源 AI 模型家族 Ising，旨在变革量子计算
+  - [infoq][] 微软宣布Word Copilot新增跟踪更改与评论功能
+  - [infoq][] 微软发布高效图像生成模型 MAI-Image-2-Efficient，开启公开预览
+  - [量子位][] 荣耀PC家族大爆发！荣耀“打洲本”“养虾本”集中亮相
+  - [量子位][] AI开始直接交付Excel，千问用Agent重构做表流程
+
+[2026-04-15 07:26:06] bge_dedup - INPUT: 23条
+============================================================
+  - [huxiu][] Anthropic用AI加速弱到强监督对齐研究，弱模型指导强模型训练
+  - [huxiu][] OpenAI扩大网络安全项目访问，数千名验证网络防御人员可参与
+  - [huxiu][] 微软接管挪威Stargate数据中心，原为OpenAI准备
+  - [huxiu][] Anthropic反对OpenAI支持的伊州法案，免除AI实验室重大损害责任
+  - [huxiu][] 美团、阿里、京东竞逐AI医药服务赛道
+  - [huxiu][] 腾讯云率先支持Hermes Agent云端快速部署
+  - [huxiu][] 华为Pura 90系列支持AI拍摄姿势推荐
+  - [huxiu][] 微软被控与OpenAI合谋涨价，申请驳回反垄断案
+  - [infoq][] Waymo 在伦敦启动有安全员监督的自动驾驶测试
+  - [infoq][] 英伟达CEO黄仁勋在斯坦福商学院分享对AI时代新一代的乐观看法
+  - [infoq][] Google发布视频庆祝世界量子日，概述量子研究演进与最新突破
+  - [infoq][] Midjourney 发布 V8.1 版本，恢复标志性美学并提升速度与效率
+  - [infoq][] 研究：稀疏自编码器可提取LLMs对人类观点的深层认知
+  - [infoq][] Epsilla 在 YC Launch YC 发布 AI 代理监控平台 ClawTrace
+  - [infoq][] 机器人公司 PsiBot 发布基础模型 Psi-R2 与 Psi-W0 并开源数据集
+  - [infoq][] IDC：AI计算向用户端转移，桌面工作站成核心基础设施
+  - [infoq][] PyTorch宣布在Hugging Face Hub推出Kernels功能
+  - [infoq][] Coinbase开发者平台服务超万名独立开发者，将分享AI智能体服务构建经验
+  - [infoq][] NVIDIA 发布开源 AI 模型家族 Ising，旨在变革量子计算
+  - [infoq][] 微软宣布Word Copilot新增跟踪更改与评论功能
+  - [infoq][] 微软发布高效图像生成模型 MAI-Image-2-Efficient，开启公开预览
+  - [量子位][] 荣耀PC家族大爆发！荣耀“打洲本”“养虾本”集中亮相
+  - [量子位][] AI开始直接交付Excel，千问用Agent重构做表流程
+
+[2026-04-15 07:26:20] bge_dedup - OUTPUT: 23条 | 移除0条
+============================================================
+  - [huxiu][] Anthropic用AI加速弱到强监督对齐研究，弱模型指导强模型训练
+  - [huxiu][] OpenAI扩大网络安全项目访问，数千名验证网络防御人员可参与
+  - [huxiu][] 微软接管挪威Stargate数据中心，原为OpenAI准备
+  - [huxiu][] Anthropic反对OpenAI支持的伊州法案，免除AI实验室重大损害责任
+  - [huxiu][] 美团、阿里、京东竞逐AI医药服务赛道
+  - [huxiu][] 腾讯云率先支持Hermes Agent云端快速部署
+  - [huxiu][] 华为Pura 90系列支持AI拍摄姿势推荐
+  - [huxiu][] 微软被控与OpenAI合谋涨价，申请驳回反垄断案
+  - [infoq][] Waymo 在伦敦启动有安全员监督的自动驾驶测试
+  - [infoq][] 英伟达CEO黄仁勋在斯坦福商学院分享对AI时代新一代的乐观看法
+  - [infoq][] Google发布视频庆祝世界量子日，概述量子研究演进与最新突破
+  - [infoq][] Midjourney 发布 V8.1 版本，恢复标志性美学并提升速度与效率
+  - [infoq][] 研究：稀疏自编码器可提取LLMs对人类观点的深层认知
+  - [infoq][] Epsilla 在 YC Launch YC 发布 AI 代理监控平台 ClawTrace
+  - [infoq][] 机器人公司 PsiBot 发布基础模型 Psi-R2 与 Psi-W0 并开源数据集
+  - [infoq][] IDC：AI计算向用户端转移，桌面工作站成核心基础设施
+  - [infoq][] PyTorch宣布在Hugging Face Hub推出Kernels功能
+  - [infoq][] Coinbase开发者平台服务超万名独立开发者，将分享AI智能体服务构建经验
+  - [infoq][] NVIDIA 发布开源 AI 模型家族 Ising，旨在变革量子计算
+  - [infoq][] 微软宣布Word Copilot新增跟踪更改与评论功能
+  - [infoq][] 微软发布高效图像生成模型 MAI-Image-2-Efficient，开启公开预览
+  - [量子位][] 荣耀PC家族大爆发！荣耀“打洲本”“养虾本”集中亮相
+  - [量子位][] AI开始直接交付Excel，千问用Agent重构做表流程
+
+[2026-04-15 07:26:20] llm_classify - INPUT: 23条
+============================================================
+  - [huxiu][] Anthropic用AI加速弱到强监督对齐研究，弱模型指导强模型训练
+  - [huxiu][] OpenAI扩大网络安全项目访问，数千名验证网络防御人员可参与
+  - [huxiu][] 微软接管挪威Stargate数据中心，原为OpenAI准备
+  - [huxiu][] Anthropic反对OpenAI支持的伊州法案，免除AI实验室重大损害责任
+  - [huxiu][] 美团、阿里、京东竞逐AI医药服务赛道
+  - [huxiu][] 腾讯云率先支持Hermes Agent云端快速部署
+  - [huxiu][] 华为Pura 90系列支持AI拍摄姿势推荐
+  - [huxiu][] 微软被控与OpenAI合谋涨价，申请驳回反垄断案
+  - [infoq][] Waymo 在伦敦启动有安全员监督的自动驾驶测试
+  - [infoq][] 英伟达CEO黄仁勋在斯坦福商学院分享对AI时代新一代的乐观看法
+  - [infoq][] Google发布视频庆祝世界量子日，概述量子研究演进与最新突破
+  - [infoq][] Midjourney 发布 V8.1 版本，恢复标志性美学并提升速度与效率
+  - [infoq][] 研究：稀疏自编码器可提取LLMs对人类观点的深层认知
+  - [infoq][] Epsilla 在 YC Launch YC 发布 AI 代理监控平台 ClawTrace
+  - [infoq][] 机器人公司 PsiBot 发布基础模型 Psi-R2 与 Psi-W0 并开源数据集
+  - [infoq][] IDC：AI计算向用户端转移，桌面工作站成核心基础设施
+  - [infoq][] PyTorch宣布在Hugging Face Hub推出Kernels功能
+  - [infoq][] Coinbase开发者平台服务超万名独立开发者，将分享AI智能体服务构建经验
+  - [infoq][] NVIDIA 发布开源 AI 模型家族 Ising，旨在变革量子计算
+  - [infoq][] 微软宣布Word Copilot新增跟踪更改与评论功能
+  - [infoq][] 微软发布高效图像生成模型 MAI-Image-2-Efficient，开启公开预览
+  - [量子位][] 荣耀PC家族大爆发！荣耀“打洲本”“养虾本”集中亮相
+  - [量子位][] AI开始直接交付Excel，千问用Agent重构做表流程
+
+[2026-04-15 07:26:41] llm_classify - OUTPUT: 23条 | 保留23条
+============================================================
+  - [huxiu][国外AI资讯] Anthropic用AI加速弱到强监督对齐研究，弱模型指导强模型训练
+  - [huxiu][国外AI资讯] OpenAI扩大网络安全项目访问，数千名验证网络防御人员可参与
+  - [huxiu][国外AI资讯] 微软接管挪威Stargate数据中心，原为OpenAI准备
+  - [huxiu][国外AI资讯] Anthropic反对OpenAI支持的伊州法案，免除AI实验室重大损害责任
+  - [huxiu][国内AI资讯] 美团、阿里、京东竞逐AI医药服务赛道
+  - [huxiu][国内AI资讯] 腾讯云率先支持Hermes Agent云端快速部署
+  - [huxiu][智能硬件] 华为Pura 90系列支持AI拍摄姿势推荐
+  - [huxiu][国外AI资讯] 微软被控与OpenAI合谋涨价，申请驳回反垄断案
+  - [infoq][智能硬件] Waymo 在伦敦启动有安全员监督的自动驾驶测试
+  - [infoq][国外AI资讯] 英伟达CEO黄仁勋在斯坦福商学院分享对AI时代新一代的乐观看法
+  - [infoq][国外AI资讯] Google发布视频庆祝世界量子日，概述量子研究演进与最新突破
+  - [infoq][国外AI资讯] Midjourney 发布 V8.1 版本，恢复标志性美学并提升速度与效率
+  - [infoq][国外AI资讯] 研究：稀疏自编码器可提取LLMs对人类观点的深层认知
+  - [infoq][国外AI资讯] Epsilla 在 YC Launch YC 发布 AI 代理监控平台 ClawTrace
+  - [infoq][智能硬件] 机器人公司 PsiBot 发布基础模型 Psi-R2 与 Psi-W0 并开源数据集
+  - [infoq][其它科技资讯] IDC：AI计算向用户端转移，桌面工作站成核心基础设施
+  - [infoq][国外AI资讯] PyTorch宣布在Hugging Face Hub推出Kernels功能
+  - [infoq][国外AI资讯] Coinbase开发者平台服务超万名独立开发者，将分享AI智能体服务构建经验
+  - [infoq][国外AI资讯] NVIDIA 发布开源 AI 模型家族 Ising，旨在变革量子计算
+  - [infoq][其它科技资讯] 微软宣布Word Copilot新增跟踪更改与评论功能
+  - [infoq][国外AI资讯] 微软发布高效图像生成模型 MAI-Image-2-Efficient，开启公开预览
+  - [量子位][智能硬件] 荣耀PC家族大爆发！荣耀“打洲本”“养虾本”集中亮相
+  - [量子位][国内AI资讯] AI开始直接交付Excel，千问用Agent重构做表流程
+
+[2026-04-15 07:26:41] llm_summary - INPUT: 23条
+============================================================
+  - [huxiu][国外AI资讯] Anthropic用AI加速弱到强监督对齐研究，弱模型指导强模型训练
+  - [huxiu][国外AI资讯] OpenAI扩大网络安全项目访问，数千名验证网络防御人员可参与
+  - [huxiu][国外AI资讯] 微软接管挪威Stargate数据中心，原为OpenAI准备
+  - [huxiu][国外AI资讯] Anthropic反对OpenAI支持的伊州法案，免除AI实验室重大损害责任
+  - [huxiu][国内AI资讯] 美团、阿里、京东竞逐AI医药服务赛道
+  - [huxiu][国内AI资讯] 腾讯云率先支持Hermes Agent云端快速部署
+  - [huxiu][智能硬件] 华为Pura 90系列支持AI拍摄姿势推荐
+  - [huxiu][国外AI资讯] 微软被控与OpenAI合谋涨价，申请驳回反垄断案
+  - [infoq][智能硬件] Waymo 在伦敦启动有安全员监督的自动驾驶测试
+  - [infoq][国外AI资讯] 英伟达CEO黄仁勋在斯坦福商学院分享对AI时代新一代的乐观看法
+  - [infoq][国外AI资讯] Google发布视频庆祝世界量子日，概述量子研究演进与最新突破
+  - [infoq][国外AI资讯] Midjourney 发布 V8.1 版本，恢复标志性美学并提升速度与效率
+  - [infoq][国外AI资讯] 研究：稀疏自编码器可提取LLMs对人类观点的深层认知
+  - [infoq][国外AI资讯] Epsilla 在 YC Launch YC 发布 AI 代理监控平台 ClawTrace
+  - [infoq][智能硬件] 机器人公司 PsiBot 发布基础模型 Psi-R2 与 Psi-W0 并开源数据集
+  - [infoq][其它科技资讯] IDC：AI计算向用户端转移，桌面工作站成核心基础设施
+  - [infoq][国外AI资讯] PyTorch宣布在Hugging Face Hub推出Kernels功能
+  - [infoq][国外AI资讯] Coinbase开发者平台服务超万名独立开发者，将分享AI智能体服务构建经验
+  - [infoq][国外AI资讯] NVIDIA 发布开源 AI 模型家族 Ising，旨在变革量子计算
+  - [infoq][其它科技资讯] 微软宣布Word Copilot新增跟踪更改与评论功能
+  - [infoq][国外AI资讯] 微软发布高效图像生成模型 MAI-Image-2-Efficient，开启公开预览
+  - [量子位][智能硬件] 荣耀PC家族大爆发！荣耀“打洲本”“养虾本”集中亮相
+  - [量子位][国内AI资讯] AI开始直接交付Excel，千问用Agent重构做表流程
+
+[2026-04-15 07:26:44] llm_summary - OUTPUT: 23条 | 成功2条
+============================================================
+  - [huxiu][国外AI资讯] Anthropic用AI加速弱到强监督对齐研究，弱模型指导强模型训练
+  - [huxiu][国外AI资讯] OpenAI扩大网络安全项目访问，数千名验证网络防御人员可参与
+  - [huxiu][国外AI资讯] 微软接管挪威Stargate数据中心，原为OpenAI准备
+  - [huxiu][国外AI资讯] Anthropic反对OpenAI支持的伊州法案，免除AI实验室重大损害责任
+  - [huxiu][国内AI资讯] 美团、阿里、京东竞逐AI医药服务赛道
+  - [huxiu][国内AI资讯] 腾讯云率先支持Hermes Agent云端快速部署
+  - [huxiu][智能硬件] 华为Pura 90系列支持AI拍摄姿势推荐
+  - [huxiu][国外AI资讯] 微软被控与OpenAI合谋涨价，申请驳回反垄断案
+  - [infoq][智能硬件] Waymo 在伦敦启动有安全员监督的自动驾驶测试
+  - [infoq][国外AI资讯] 英伟达CEO黄仁勋在斯坦福商学院分享对AI时代新一代的乐观看法
+  - [infoq][国外AI资讯] Google发布视频庆祝世界量子日，概述量子研究演进与最新突破
+  - [infoq][国外AI资讯] Midjourney 发布 V8.1 版本，恢复标志性美学并提升速度与效率
+  - [infoq][国外AI资讯] 研究：稀疏自编码器可提取LLMs对人类观点的深层认知
+  - [infoq][国外AI资讯] Epsilla 在 YC Launch YC 发布 AI 代理监控平台 ClawTrace
+  - [infoq][智能硬件] 机器人公司 PsiBot 发布基础模型 Psi-R2 与 Psi-W0 并开源数据集
+  - [infoq][其它科技资讯] IDC：AI计算向用户端转移，桌面工作站成核心基础设施
+  - [infoq][国外AI资讯] PyTorch宣布在Hugging Face Hub推出Kernels功能
+  - [infoq][国外AI资讯] Coinbase开发者平台服务超万名独立开发者，将分享AI智能体服务构建经验
+  - [infoq][国外AI资讯] NVIDIA 发布开源 AI 模型家族 Ising，旨在变革量子计算
+  - [infoq][其它科技资讯] 微软宣布Word Copilot新增跟踪更改与评论功能
+  - [infoq][国外AI资讯] 微软发布高效图像生成模型 MAI-Image-2-Efficient，开启公开预览
+  - [量子位][智能硬件] 荣耀PC家族大爆发！荣耀“打洲本”“养虾本”集中亮相
+  - [量子位][国内AI资讯] AI开始直接交付Excel，千问用Agent重构做表流程

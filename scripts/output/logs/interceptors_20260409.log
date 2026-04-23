@@ -1,0 +1,751 @@
+
+[2026-04-09 07:26:55] keyword_filter - INPUT: 33条
+============================================================
+  - [] DeepMind CEO建议所有生成式AI公司使用水印技术防范深度伪造和虚假信息
+  - [] 阿里告别诸侯割据：吴泳铭为蒋凡接上AI大脑
+  - [] 阿里电商AI重构围绕Token，组织调整迎新动向
+  - [] 谷歌CEO皮查伊：2027年将是AI重塑生产方式的关键拐点
+  - [] 淘宝直播2026新品目标成交增幅100%
+  - [] 特斯拉推送FSD V14.3版本：反应速度提升20%
+  - [] “两仪万象”完成亿级A轮融资
+  - [] 马斯克称SpaceXAI的Colossus 2正在训练6个模型
+  - [] 苹果自研AI服务器芯片Baltra曝光，直接采购三星玻璃基板
+  - [] 壁仞科技完成智谱新一代旗舰模型适配
+  - [] 字节豪掷33亿在北京再次拿地
+  - [] 地瓜机器人完成1.5亿美元B2轮融资
+  - [] PIMCO考虑为甲骨文密歇根数据中心提供140亿美元债务融资
+  - [] Meta AI发布全新模型Muse Spark，集成全新技术栈
+  - [] 斯坦福AI实验室转发Bloom LLM健康教练研究获CHI最佳论文奖
+  - [] 研究人员在单硅芯片上实现128个双量子点自动调谐
+  - [] Gemma 4发布一周下载量超千万，Gemma系列累计下载破5亿
+  - [] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [] Google Cloud 发布 Vertex AI Agent Engine，助力 AI 智能体生产
+  - [] 评测显示 Meta Muse Spark 在复杂查询综合表现中领先
+  - [] Google在Gemini中推出笔记本功能以组织项目
+  - [] Meta 模型在多项基准测试中表现突出，被评价为顶级多模态模型
+  - [] IDC Directions 2026会议聚焦AI就绪基础设施等关键议题
+  - [] Epoch AI Research 评估 Meta 新模型 Muse Spark 在 Frontie
+  - [] Meta AI 发布 Muse Spark 模型，CritPt 基准得分大幅提升
+  - [] Meta发布首个自研AI模型Muse Spark，支持其AI助手
+  - [] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [] MIT CSAIL提出ChromoLCD工具概念，旨在通过LCD/LED技术改变物体外观
+  - [] NVIDIA系统工程师Thomas Chen谈复杂计算系统的发布管理
+  - [] 亚马逊发布开源且形式化验证的后量子密码实现 mlkem-native
+  - [] 微软宣布Azure Cosmos DB Conf 2026将于4月28日线上举行
+  - [] AI模型DISCO提出，旨在设计自然界未曾见过的酶
+  - [] Meta AI 模型 Muse Spark 展示从图片中提取资产并生成代码的能力
+
+[2026-04-09 07:26:55] keyword_filter - OUTPUT: 29条 | 移除4条
+============================================================
+  - [] DeepMind CEO建议所有生成式AI公司使用水印技术防范深度伪造和虚假信息
+  - [] 阿里告别诸侯割据：吴泳铭为蒋凡接上AI大脑
+  - [] 阿里电商AI重构围绕Token，组织调整迎新动向
+  - [] 谷歌CEO皮查伊：2027年将是AI重塑生产方式的关键拐点
+  - [] 淘宝直播2026新品目标成交增幅100%
+  - [] 特斯拉推送FSD V14.3版本：反应速度提升20%
+  - [] 马斯克称SpaceXAI的Colossus 2正在训练6个模型
+  - [] 苹果自研AI服务器芯片Baltra曝光，直接采购三星玻璃基板
+  - [] 壁仞科技完成智谱新一代旗舰模型适配
+  - [] 字节豪掷33亿在北京再次拿地
+  - [] Meta AI发布全新模型Muse Spark，集成全新技术栈
+  - [] 斯坦福AI实验室转发Bloom LLM健康教练研究获CHI最佳论文奖
+  - [] 研究人员在单硅芯片上实现128个双量子点自动调谐
+  - [] Gemma 4发布一周下载量超千万，Gemma系列累计下载破5亿
+  - [] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [] Google Cloud 发布 Vertex AI Agent Engine，助力 AI 智能体生产
+  - [] 评测显示 Meta Muse Spark 在复杂查询综合表现中领先
+  - [] Google在Gemini中推出笔记本功能以组织项目
+  - [] Meta 模型在多项基准测试中表现突出，被评价为顶级多模态模型
+  - [] IDC Directions 2026会议聚焦AI就绪基础设施等关键议题
+  - [] Epoch AI Research 评估 Meta 新模型 Muse Spark 在 Frontie
+  - [] Meta AI 发布 Muse Spark 模型，CritPt 基准得分大幅提升
+  - [] Meta发布首个自研AI模型Muse Spark，支持其AI助手
+  - [] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [] MIT CSAIL提出ChromoLCD工具概念，旨在通过LCD/LED技术改变物体外观
+  - [] NVIDIA系统工程师Thomas Chen谈复杂计算系统的发布管理
+  - [] 亚马逊发布开源且形式化验证的后量子密码实现 mlkem-native
+  - [] AI模型DISCO提出，旨在设计自然界未曾见过的酶
+  - [] Meta AI 模型 Muse Spark 展示从图片中提取资产并生成代码的能力
+
+[2026-04-09 07:26:55] bge_dedup - INPUT: 29条
+============================================================
+  - [] DeepMind CEO建议所有生成式AI公司使用水印技术防范深度伪造和虚假信息
+  - [] 阿里告别诸侯割据：吴泳铭为蒋凡接上AI大脑
+  - [] 阿里电商AI重构围绕Token，组织调整迎新动向
+  - [] 谷歌CEO皮查伊：2027年将是AI重塑生产方式的关键拐点
+  - [] 淘宝直播2026新品目标成交增幅100%
+  - [] 特斯拉推送FSD V14.3版本：反应速度提升20%
+  - [] 马斯克称SpaceXAI的Colossus 2正在训练6个模型
+  - [] 苹果自研AI服务器芯片Baltra曝光，直接采购三星玻璃基板
+  - [] 壁仞科技完成智谱新一代旗舰模型适配
+  - [] 字节豪掷33亿在北京再次拿地
+  - [] Meta AI发布全新模型Muse Spark，集成全新技术栈
+  - [] 斯坦福AI实验室转发Bloom LLM健康教练研究获CHI最佳论文奖
+  - [] 研究人员在单硅芯片上实现128个双量子点自动调谐
+  - [] Gemma 4发布一周下载量超千万，Gemma系列累计下载破5亿
+  - [] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [] Google Cloud 发布 Vertex AI Agent Engine，助力 AI 智能体生产
+  - [] 评测显示 Meta Muse Spark 在复杂查询综合表现中领先
+  - [] Google在Gemini中推出笔记本功能以组织项目
+  - [] Meta 模型在多项基准测试中表现突出，被评价为顶级多模态模型
+  - [] IDC Directions 2026会议聚焦AI就绪基础设施等关键议题
+  - [] Epoch AI Research 评估 Meta 新模型 Muse Spark 在 Frontie
+  - [] Meta AI 发布 Muse Spark 模型，CritPt 基准得分大幅提升
+  - [] Meta发布首个自研AI模型Muse Spark，支持其AI助手
+  - [] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [] MIT CSAIL提出ChromoLCD工具概念，旨在通过LCD/LED技术改变物体外观
+  - [] NVIDIA系统工程师Thomas Chen谈复杂计算系统的发布管理
+  - [] 亚马逊发布开源且形式化验证的后量子密码实现 mlkem-native
+  - [] AI模型DISCO提出，旨在设计自然界未曾见过的酶
+  - [] Meta AI 模型 Muse Spark 展示从图片中提取资产并生成代码的能力
+
+[2026-04-09 07:27:10] bge_dedup - OUTPUT: 27条 | 移除2条
+============================================================
+  - [] DeepMind CEO建议所有生成式AI公司使用水印技术防范深度伪造和虚假信息
+  - [] 阿里告别诸侯割据：吴泳铭为蒋凡接上AI大脑
+  - [] 阿里电商AI重构围绕Token，组织调整迎新动向
+  - [] 谷歌CEO皮查伊：2027年将是AI重塑生产方式的关键拐点
+  - [] 淘宝直播2026新品目标成交增幅100%
+  - [] 特斯拉推送FSD V14.3版本：反应速度提升20%
+  - [] 马斯克称SpaceXAI的Colossus 2正在训练6个模型
+  - [] 苹果自研AI服务器芯片Baltra曝光，直接采购三星玻璃基板
+  - [] 壁仞科技完成智谱新一代旗舰模型适配
+  - [] 字节豪掷33亿在北京再次拿地
+  - [] Meta AI发布全新模型Muse Spark，集成全新技术栈
+  - [] 斯坦福AI实验室转发Bloom LLM健康教练研究获CHI最佳论文奖
+  - [] 研究人员在单硅芯片上实现128个双量子点自动调谐
+  - [] Gemma 4发布一周下载量超千万，Gemma系列累计下载破5亿
+  - [] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [] Google Cloud 发布 Vertex AI Agent Engine，助力 AI 智能体生产
+  - [] 评测显示 Meta Muse Spark 在复杂查询综合表现中领先
+  - [] Google在Gemini中推出笔记本功能以组织项目
+  - [] Meta 模型在多项基准测试中表现突出，被评价为顶级多模态模型
+  - [] IDC Directions 2026会议聚焦AI就绪基础设施等关键议题
+  - [] Epoch AI Research 评估 Meta 新模型 Muse Spark 在 Frontie
+  - [] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [] MIT CSAIL提出ChromoLCD工具概念，旨在通过LCD/LED技术改变物体外观
+  - [] NVIDIA系统工程师Thomas Chen谈复杂计算系统的发布管理
+  - [] 亚马逊发布开源且形式化验证的后量子密码实现 mlkem-native
+  - [] AI模型DISCO提出，旨在设计自然界未曾见过的酶
+  - [] Meta AI 模型 Muse Spark 展示从图片中提取资产并生成代码的能力
+
+[2026-04-09 07:27:10] llm_classify - INPUT: 27条
+============================================================
+  - [] DeepMind CEO建议所有生成式AI公司使用水印技术防范深度伪造和虚假信息
+  - [] 阿里告别诸侯割据：吴泳铭为蒋凡接上AI大脑
+  - [] 阿里电商AI重构围绕Token，组织调整迎新动向
+  - [] 谷歌CEO皮查伊：2027年将是AI重塑生产方式的关键拐点
+  - [] 淘宝直播2026新品目标成交增幅100%
+  - [] 特斯拉推送FSD V14.3版本：反应速度提升20%
+  - [] 马斯克称SpaceXAI的Colossus 2正在训练6个模型
+  - [] 苹果自研AI服务器芯片Baltra曝光，直接采购三星玻璃基板
+  - [] 壁仞科技完成智谱新一代旗舰模型适配
+  - [] 字节豪掷33亿在北京再次拿地
+  - [] Meta AI发布全新模型Muse Spark，集成全新技术栈
+  - [] 斯坦福AI实验室转发Bloom LLM健康教练研究获CHI最佳论文奖
+  - [] 研究人员在单硅芯片上实现128个双量子点自动调谐
+  - [] Gemma 4发布一周下载量超千万，Gemma系列累计下载破5亿
+  - [] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [] Google Cloud 发布 Vertex AI Agent Engine，助力 AI 智能体生产
+  - [] 评测显示 Meta Muse Spark 在复杂查询综合表现中领先
+  - [] Google在Gemini中推出笔记本功能以组织项目
+  - [] Meta 模型在多项基准测试中表现突出，被评价为顶级多模态模型
+  - [] IDC Directions 2026会议聚焦AI就绪基础设施等关键议题
+  - [] Epoch AI Research 评估 Meta 新模型 Muse Spark 在 Frontie
+  - [] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [] MIT CSAIL提出ChromoLCD工具概念，旨在通过LCD/LED技术改变物体外观
+  - [] NVIDIA系统工程师Thomas Chen谈复杂计算系统的发布管理
+  - [] 亚马逊发布开源且形式化验证的后量子密码实现 mlkem-native
+  - [] AI模型DISCO提出，旨在设计自然界未曾见过的酶
+  - [] Meta AI 模型 Muse Spark 展示从图片中提取资产并生成代码的能力
+
+[2026-04-09 07:27:18] llm_classify - OUTPUT: 27条 | 保留27条
+============================================================
+  - [国外AI资讯] DeepMind CEO建议所有生成式AI公司使用水印技术防范深度伪造和虚假信息
+  - [国内AI资讯] 阿里告别诸侯割据：吴泳铭为蒋凡接上AI大脑
+  - [国内AI资讯] 阿里电商AI重构围绕Token，组织调整迎新动向
+  - [国外AI资讯] 谷歌CEO皮查伊：2027年将是AI重塑生产方式的关键拐点
+  - [其它科技资讯] 淘宝直播2026新品目标成交增幅100%
+  - [智能硬件] 特斯拉推送FSD V14.3版本：反应速度提升20%
+  - [国外AI资讯] 马斯克称SpaceXAI的Colossus 2正在训练6个模型
+  - [国外AI资讯] 苹果自研AI服务器芯片Baltra曝光，直接采购三星玻璃基板
+  - [国内AI资讯] 壁仞科技完成智谱新一代旗舰模型适配
+  - [其它科技资讯] 字节豪掷33亿在北京再次拿地
+  - [国外AI资讯] Meta AI发布全新模型Muse Spark，集成全新技术栈
+  - [其它科技资讯] 斯坦福AI实验室转发Bloom LLM健康教练研究获CHI最佳论文奖
+  - [其它科技资讯] 研究人员在单硅芯片上实现128个双量子点自动调谐
+  - [国外AI资讯] Gemma 4发布一周下载量超千万，Gemma系列累计下载破5亿
+  - [国外AI资讯] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [国外AI资讯] Google Cloud 发布 Vertex AI Agent Engine，助力 AI 智能体生产
+  - [国外AI资讯] 评测显示 Meta Muse Spark 在复杂查询综合表现中领先
+  - [国外AI资讯] Google在Gemini中推出笔记本功能以组织项目
+  - [国外AI资讯] Meta 模型在多项基准测试中表现突出，被评价为顶级多模态模型
+  - [其它科技资讯] IDC Directions 2026会议聚焦AI就绪基础设施等关键议题
+  - [国外AI资讯] Epoch AI Research 评估 Meta 新模型 Muse Spark 在 Frontie
+  - [其它科技资讯] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [智能硬件] MIT CSAIL提出ChromoLCD工具概念，旨在通过LCD/LED技术改变物体外观
+  - [其它科技资讯] NVIDIA系统工程师Thomas Chen谈复杂计算系统的发布管理
+  - [其它科技资讯] 亚马逊发布开源且形式化验证的后量子密码实现 mlkem-native
+  - [其它科技资讯] AI模型DISCO提出，旨在设计自然界未曾见过的酶
+  - [国外AI资讯] Meta AI 模型 Muse Spark 展示从图片中提取资产并生成代码的能力
+
+[2026-04-09 07:27:18] llm_summary - INPUT: 27条
+============================================================
+  - [国外AI资讯] DeepMind CEO建议所有生成式AI公司使用水印技术防范深度伪造和虚假信息
+  - [国内AI资讯] 阿里告别诸侯割据：吴泳铭为蒋凡接上AI大脑
+  - [国内AI资讯] 阿里电商AI重构围绕Token，组织调整迎新动向
+  - [国外AI资讯] 谷歌CEO皮查伊：2027年将是AI重塑生产方式的关键拐点
+  - [其它科技资讯] 淘宝直播2026新品目标成交增幅100%
+  - [智能硬件] 特斯拉推送FSD V14.3版本：反应速度提升20%
+  - [国外AI资讯] 马斯克称SpaceXAI的Colossus 2正在训练6个模型
+  - [国外AI资讯] 苹果自研AI服务器芯片Baltra曝光，直接采购三星玻璃基板
+  - [国内AI资讯] 壁仞科技完成智谱新一代旗舰模型适配
+  - [其它科技资讯] 字节豪掷33亿在北京再次拿地
+  - [国外AI资讯] Meta AI发布全新模型Muse Spark，集成全新技术栈
+  - [其它科技资讯] 斯坦福AI实验室转发Bloom LLM健康教练研究获CHI最佳论文奖
+  - [其它科技资讯] 研究人员在单硅芯片上实现128个双量子点自动调谐
+  - [国外AI资讯] Gemma 4发布一周下载量超千万，Gemma系列累计下载破5亿
+  - [国外AI资讯] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [国外AI资讯] Google Cloud 发布 Vertex AI Agent Engine，助力 AI 智能体生产
+  - [国外AI资讯] 评测显示 Meta Muse Spark 在复杂查询综合表现中领先
+  - [国外AI资讯] Google在Gemini中推出笔记本功能以组织项目
+  - [国外AI资讯] Meta 模型在多项基准测试中表现突出，被评价为顶级多模态模型
+  - [其它科技资讯] IDC Directions 2026会议聚焦AI就绪基础设施等关键议题
+  - [国外AI资讯] Epoch AI Research 评估 Meta 新模型 Muse Spark 在 Frontie
+  - [其它科技资讯] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [智能硬件] MIT CSAIL提出ChromoLCD工具概念，旨在通过LCD/LED技术改变物体外观
+  - [其它科技资讯] NVIDIA系统工程师Thomas Chen谈复杂计算系统的发布管理
+  - [其它科技资讯] 亚马逊发布开源且形式化验证的后量子密码实现 mlkem-native
+  - [其它科技资讯] AI模型DISCO提出，旨在设计自然界未曾见过的酶
+  - [国外AI资讯] Meta AI 模型 Muse Spark 展示从图片中提取资产并生成代码的能力
+
+[2026-04-09 07:28:52] keyword_filter - INPUT: 33条
+============================================================
+  - [] DeepMind CEO建议所有生成式AI公司使用水印技术防范深度伪造和虚假信息
+  - [] 阿里告别诸侯割据：吴泳铭为蒋凡接上AI大脑
+  - [] 阿里电商AI重构围绕Token，组织调整迎新动向
+  - [] 谷歌CEO皮查伊：2027年将是AI重塑生产方式的关键拐点
+  - [] 淘宝直播2026新品目标成交增幅100%
+  - [] 特斯拉推送FSD V14.3版本：反应速度提升20%
+  - [] “两仪万象”完成亿级A轮融资
+  - [] 马斯克称SpaceXAI的Colossus 2正在训练6个模型
+  - [] 苹果自研AI服务器芯片Baltra曝光，直接采购三星玻璃基板
+  - [] 壁仞科技完成智谱新一代旗舰模型适配
+  - [] 字节豪掷33亿在北京再次拿地
+  - [] 地瓜机器人完成1.5亿美元B2轮融资
+  - [] PIMCO考虑为甲骨文密歇根数据中心提供140亿美元债务融资
+  - [] Meta AI发布全新模型Muse Spark，集成全新技术栈
+  - [] 斯坦福AI实验室转发Bloom LLM健康教练研究获CHI最佳论文奖
+  - [] 研究人员在单硅芯片上实现128个双量子点自动调谐
+  - [] Gemma 4发布一周下载量超千万，Gemma系列累计下载破5亿
+  - [] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [] Google Cloud 发布 Vertex AI Agent Engine，助力 AI 智能体生产
+  - [] 评测显示 Meta Muse Spark 在复杂查询综合表现中领先
+  - [] Google在Gemini中推出笔记本功能以组织项目
+  - [] Meta 模型在多项基准测试中表现突出，被评价为顶级多模态模型
+  - [] IDC Directions 2026会议聚焦AI就绪基础设施等关键议题
+  - [] Epoch AI Research 评估 Meta 新模型 Muse Spark 在 Frontie
+  - [] Meta AI 发布 Muse Spark 模型，CritPt 基准得分大幅提升
+  - [] Meta发布首个自研AI模型Muse Spark，支持其AI助手
+  - [] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [] MIT CSAIL提出ChromoLCD工具概念，旨在通过LCD/LED技术改变物体外观
+  - [] NVIDIA系统工程师Thomas Chen谈复杂计算系统的发布管理
+  - [] 亚马逊发布开源且形式化验证的后量子密码实现 mlkem-native
+  - [] 微软宣布Azure Cosmos DB Conf 2026将于4月28日线上举行
+  - [] AI模型DISCO提出，旨在设计自然界未曾见过的酶
+  - [] Meta AI 模型 Muse Spark 展示从图片中提取资产并生成代码的能力
+
+[2026-04-09 07:28:52] keyword_filter - OUTPUT: 29条 | 移除4条
+============================================================
+  - [] DeepMind CEO建议所有生成式AI公司使用水印技术防范深度伪造和虚假信息
+  - [] 阿里告别诸侯割据：吴泳铭为蒋凡接上AI大脑
+  - [] 阿里电商AI重构围绕Token，组织调整迎新动向
+  - [] 谷歌CEO皮查伊：2027年将是AI重塑生产方式的关键拐点
+  - [] 淘宝直播2026新品目标成交增幅100%
+  - [] 特斯拉推送FSD V14.3版本：反应速度提升20%
+  - [] 马斯克称SpaceXAI的Colossus 2正在训练6个模型
+  - [] 苹果自研AI服务器芯片Baltra曝光，直接采购三星玻璃基板
+  - [] 壁仞科技完成智谱新一代旗舰模型适配
+  - [] 字节豪掷33亿在北京再次拿地
+  - [] Meta AI发布全新模型Muse Spark，集成全新技术栈
+  - [] 斯坦福AI实验室转发Bloom LLM健康教练研究获CHI最佳论文奖
+  - [] 研究人员在单硅芯片上实现128个双量子点自动调谐
+  - [] Gemma 4发布一周下载量超千万，Gemma系列累计下载破5亿
+  - [] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [] Google Cloud 发布 Vertex AI Agent Engine，助力 AI 智能体生产
+  - [] 评测显示 Meta Muse Spark 在复杂查询综合表现中领先
+  - [] Google在Gemini中推出笔记本功能以组织项目
+  - [] Meta 模型在多项基准测试中表现突出，被评价为顶级多模态模型
+  - [] IDC Directions 2026会议聚焦AI就绪基础设施等关键议题
+  - [] Epoch AI Research 评估 Meta 新模型 Muse Spark 在 Frontie
+  - [] Meta AI 发布 Muse Spark 模型，CritPt 基准得分大幅提升
+  - [] Meta发布首个自研AI模型Muse Spark，支持其AI助手
+  - [] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [] MIT CSAIL提出ChromoLCD工具概念，旨在通过LCD/LED技术改变物体外观
+  - [] NVIDIA系统工程师Thomas Chen谈复杂计算系统的发布管理
+  - [] 亚马逊发布开源且形式化验证的后量子密码实现 mlkem-native
+  - [] AI模型DISCO提出，旨在设计自然界未曾见过的酶
+  - [] Meta AI 模型 Muse Spark 展示从图片中提取资产并生成代码的能力
+
+[2026-04-09 07:28:52] bge_dedup - INPUT: 29条
+============================================================
+  - [] DeepMind CEO建议所有生成式AI公司使用水印技术防范深度伪造和虚假信息
+  - [] 阿里告别诸侯割据：吴泳铭为蒋凡接上AI大脑
+  - [] 阿里电商AI重构围绕Token，组织调整迎新动向
+  - [] 谷歌CEO皮查伊：2027年将是AI重塑生产方式的关键拐点
+  - [] 淘宝直播2026新品目标成交增幅100%
+  - [] 特斯拉推送FSD V14.3版本：反应速度提升20%
+  - [] 马斯克称SpaceXAI的Colossus 2正在训练6个模型
+  - [] 苹果自研AI服务器芯片Baltra曝光，直接采购三星玻璃基板
+  - [] 壁仞科技完成智谱新一代旗舰模型适配
+  - [] 字节豪掷33亿在北京再次拿地
+  - [] Meta AI发布全新模型Muse Spark，集成全新技术栈
+  - [] 斯坦福AI实验室转发Bloom LLM健康教练研究获CHI最佳论文奖
+  - [] 研究人员在单硅芯片上实现128个双量子点自动调谐
+  - [] Gemma 4发布一周下载量超千万，Gemma系列累计下载破5亿
+  - [] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [] Google Cloud 发布 Vertex AI Agent Engine，助力 AI 智能体生产
+  - [] 评测显示 Meta Muse Spark 在复杂查询综合表现中领先
+  - [] Google在Gemini中推出笔记本功能以组织项目
+  - [] Meta 模型在多项基准测试中表现突出，被评价为顶级多模态模型
+  - [] IDC Directions 2026会议聚焦AI就绪基础设施等关键议题
+  - [] Epoch AI Research 评估 Meta 新模型 Muse Spark 在 Frontie
+  - [] Meta AI 发布 Muse Spark 模型，CritPt 基准得分大幅提升
+  - [] Meta发布首个自研AI模型Muse Spark，支持其AI助手
+  - [] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [] MIT CSAIL提出ChromoLCD工具概念，旨在通过LCD/LED技术改变物体外观
+  - [] NVIDIA系统工程师Thomas Chen谈复杂计算系统的发布管理
+  - [] 亚马逊发布开源且形式化验证的后量子密码实现 mlkem-native
+  - [] AI模型DISCO提出，旨在设计自然界未曾见过的酶
+  - [] Meta AI 模型 Muse Spark 展示从图片中提取资产并生成代码的能力
+
+[2026-04-09 07:29:05] bge_dedup - OUTPUT: 27条 | 移除2条
+============================================================
+  - [] DeepMind CEO建议所有生成式AI公司使用水印技术防范深度伪造和虚假信息
+  - [] 阿里告别诸侯割据：吴泳铭为蒋凡接上AI大脑
+  - [] 阿里电商AI重构围绕Token，组织调整迎新动向
+  - [] 谷歌CEO皮查伊：2027年将是AI重塑生产方式的关键拐点
+  - [] 淘宝直播2026新品目标成交增幅100%
+  - [] 特斯拉推送FSD V14.3版本：反应速度提升20%
+  - [] 马斯克称SpaceXAI的Colossus 2正在训练6个模型
+  - [] 苹果自研AI服务器芯片Baltra曝光，直接采购三星玻璃基板
+  - [] 壁仞科技完成智谱新一代旗舰模型适配
+  - [] 字节豪掷33亿在北京再次拿地
+  - [] Meta AI发布全新模型Muse Spark，集成全新技术栈
+  - [] 斯坦福AI实验室转发Bloom LLM健康教练研究获CHI最佳论文奖
+  - [] 研究人员在单硅芯片上实现128个双量子点自动调谐
+  - [] Gemma 4发布一周下载量超千万，Gemma系列累计下载破5亿
+  - [] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [] Google Cloud 发布 Vertex AI Agent Engine，助力 AI 智能体生产
+  - [] 评测显示 Meta Muse Spark 在复杂查询综合表现中领先
+  - [] Google在Gemini中推出笔记本功能以组织项目
+  - [] Meta 模型在多项基准测试中表现突出，被评价为顶级多模态模型
+  - [] IDC Directions 2026会议聚焦AI就绪基础设施等关键议题
+  - [] Epoch AI Research 评估 Meta 新模型 Muse Spark 在 Frontie
+  - [] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [] MIT CSAIL提出ChromoLCD工具概念，旨在通过LCD/LED技术改变物体外观
+  - [] NVIDIA系统工程师Thomas Chen谈复杂计算系统的发布管理
+  - [] 亚马逊发布开源且形式化验证的后量子密码实现 mlkem-native
+  - [] AI模型DISCO提出，旨在设计自然界未曾见过的酶
+  - [] Meta AI 模型 Muse Spark 展示从图片中提取资产并生成代码的能力
+
+[2026-04-09 07:29:05] llm_classify - INPUT: 27条
+============================================================
+  - [] DeepMind CEO建议所有生成式AI公司使用水印技术防范深度伪造和虚假信息
+  - [] 阿里告别诸侯割据：吴泳铭为蒋凡接上AI大脑
+  - [] 阿里电商AI重构围绕Token，组织调整迎新动向
+  - [] 谷歌CEO皮查伊：2027年将是AI重塑生产方式的关键拐点
+  - [] 淘宝直播2026新品目标成交增幅100%
+  - [] 特斯拉推送FSD V14.3版本：反应速度提升20%
+  - [] 马斯克称SpaceXAI的Colossus 2正在训练6个模型
+  - [] 苹果自研AI服务器芯片Baltra曝光，直接采购三星玻璃基板
+  - [] 壁仞科技完成智谱新一代旗舰模型适配
+  - [] 字节豪掷33亿在北京再次拿地
+  - [] Meta AI发布全新模型Muse Spark，集成全新技术栈
+  - [] 斯坦福AI实验室转发Bloom LLM健康教练研究获CHI最佳论文奖
+  - [] 研究人员在单硅芯片上实现128个双量子点自动调谐
+  - [] Gemma 4发布一周下载量超千万，Gemma系列累计下载破5亿
+  - [] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [] Google Cloud 发布 Vertex AI Agent Engine，助力 AI 智能体生产
+  - [] 评测显示 Meta Muse Spark 在复杂查询综合表现中领先
+  - [] Google在Gemini中推出笔记本功能以组织项目
+  - [] Meta 模型在多项基准测试中表现突出，被评价为顶级多模态模型
+  - [] IDC Directions 2026会议聚焦AI就绪基础设施等关键议题
+  - [] Epoch AI Research 评估 Meta 新模型 Muse Spark 在 Frontie
+  - [] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [] MIT CSAIL提出ChromoLCD工具概念，旨在通过LCD/LED技术改变物体外观
+  - [] NVIDIA系统工程师Thomas Chen谈复杂计算系统的发布管理
+  - [] 亚马逊发布开源且形式化验证的后量子密码实现 mlkem-native
+  - [] AI模型DISCO提出，旨在设计自然界未曾见过的酶
+  - [] Meta AI 模型 Muse Spark 展示从图片中提取资产并生成代码的能力
+
+[2026-04-09 07:29:24] llm_classify - OUTPUT: 27条 | 保留27条
+============================================================
+  - [国外AI资讯] DeepMind CEO建议所有生成式AI公司使用水印技术防范深度伪造和虚假信息
+  - [国内AI资讯] 阿里告别诸侯割据：吴泳铭为蒋凡接上AI大脑
+  - [国内AI资讯] 阿里电商AI重构围绕Token，组织调整迎新动向
+  - [国外AI资讯] 谷歌CEO皮查伊：2027年将是AI重塑生产方式的关键拐点
+  - [国内AI资讯] 淘宝直播2026新品目标成交增幅100%
+  - [智能硬件] 特斯拉推送FSD V14.3版本：反应速度提升20%
+  - [国外AI资讯] 马斯克称SpaceXAI的Colossus 2正在训练6个模型
+  - [国外AI资讯] 苹果自研AI服务器芯片Baltra曝光，直接采购三星玻璃基板
+  - [国内AI资讯] 壁仞科技完成智谱新一代旗舰模型适配
+  - [其它科技资讯] 字节豪掷33亿在北京再次拿地
+  - [国外AI资讯] Meta AI发布全新模型Muse Spark，集成全新技术栈
+  - [国外AI资讯] 斯坦福AI实验室转发Bloom LLM健康教练研究获CHI最佳论文奖
+  - [其它科技资讯] 研究人员在单硅芯片上实现128个双量子点自动调谐
+  - [国外AI资讯] Gemma 4发布一周下载量超千万，Gemma系列累计下载破5亿
+  - [国外AI资讯] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [国外AI资讯] Google Cloud 发布 Vertex AI Agent Engine，助力 AI 智能体生产
+  - [国外AI资讯] 评测显示 Meta Muse Spark 在复杂查询综合表现中领先
+  - [国外AI资讯] Google在Gemini中推出笔记本功能以组织项目
+  - [国外AI资讯] Meta 模型在多项基准测试中表现突出，被评价为顶级多模态模型
+  - [其它科技资讯] IDC Directions 2026会议聚焦AI就绪基础设施等关键议题
+  - [国外AI资讯] Epoch AI Research 评估 Meta 新模型 Muse Spark 在 Frontie
+  - [国外AI资讯] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [其它科技资讯] MIT CSAIL提出ChromoLCD工具概念，旨在通过LCD/LED技术改变物体外观
+  - [国外AI资讯] NVIDIA系统工程师Thomas Chen谈复杂计算系统的发布管理
+  - [国外AI资讯] 亚马逊发布开源且形式化验证的后量子密码实现 mlkem-native
+  - [国外AI资讯] AI模型DISCO提出，旨在设计自然界未曾见过的酶
+  - [国外AI资讯] Meta AI 模型 Muse Spark 展示从图片中提取资产并生成代码的能力
+
+[2026-04-09 07:29:24] llm_summary - INPUT: 27条
+============================================================
+  - [国外AI资讯] DeepMind CEO建议所有生成式AI公司使用水印技术防范深度伪造和虚假信息
+  - [国内AI资讯] 阿里告别诸侯割据：吴泳铭为蒋凡接上AI大脑
+  - [国内AI资讯] 阿里电商AI重构围绕Token，组织调整迎新动向
+  - [国外AI资讯] 谷歌CEO皮查伊：2027年将是AI重塑生产方式的关键拐点
+  - [国内AI资讯] 淘宝直播2026新品目标成交增幅100%
+  - [智能硬件] 特斯拉推送FSD V14.3版本：反应速度提升20%
+  - [国外AI资讯] 马斯克称SpaceXAI的Colossus 2正在训练6个模型
+  - [国外AI资讯] 苹果自研AI服务器芯片Baltra曝光，直接采购三星玻璃基板
+  - [国内AI资讯] 壁仞科技完成智谱新一代旗舰模型适配
+  - [其它科技资讯] 字节豪掷33亿在北京再次拿地
+  - [国外AI资讯] Meta AI发布全新模型Muse Spark，集成全新技术栈
+  - [国外AI资讯] 斯坦福AI实验室转发Bloom LLM健康教练研究获CHI最佳论文奖
+  - [其它科技资讯] 研究人员在单硅芯片上实现128个双量子点自动调谐
+  - [国外AI资讯] Gemma 4发布一周下载量超千万，Gemma系列累计下载破5亿
+  - [国外AI资讯] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [国外AI资讯] Google Cloud 发布 Vertex AI Agent Engine，助力 AI 智能体生产
+  - [国外AI资讯] 评测显示 Meta Muse Spark 在复杂查询综合表现中领先
+  - [国外AI资讯] Google在Gemini中推出笔记本功能以组织项目
+  - [国外AI资讯] Meta 模型在多项基准测试中表现突出，被评价为顶级多模态模型
+  - [其它科技资讯] IDC Directions 2026会议聚焦AI就绪基础设施等关键议题
+  - [国外AI资讯] Epoch AI Research 评估 Meta 新模型 Muse Spark 在 Frontie
+  - [国外AI资讯] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [其它科技资讯] MIT CSAIL提出ChromoLCD工具概念，旨在通过LCD/LED技术改变物体外观
+  - [国外AI资讯] NVIDIA系统工程师Thomas Chen谈复杂计算系统的发布管理
+  - [国外AI资讯] 亚马逊发布开源且形式化验证的后量子密码实现 mlkem-native
+  - [国外AI资讯] AI模型DISCO提出，旨在设计自然界未曾见过的酶
+  - [国外AI资讯] Meta AI 模型 Muse Spark 展示从图片中提取资产并生成代码的能力
+
+[2026-04-09 07:29:59] llm_summary - OUTPUT: 27条 | 成功0条
+============================================================
+  - [国外AI资讯] DeepMind CEO建议所有生成式AI公司使用水印技术防范深度伪造和虚假信息
+  - [国内AI资讯] 阿里告别诸侯割据：吴泳铭为蒋凡接上AI大脑
+  - [国内AI资讯] 阿里电商AI重构围绕Token，组织调整迎新动向
+  - [国外AI资讯] 谷歌CEO皮查伊：2027年将是AI重塑生产方式的关键拐点
+  - [其它科技资讯] 淘宝直播2026新品目标成交增幅100%
+  - [智能硬件] 特斯拉推送FSD V14.3版本：反应速度提升20%
+  - [国外AI资讯] 马斯克称SpaceXAI的Colossus 2正在训练6个模型
+  - [国外AI资讯] 苹果自研AI服务器芯片Baltra曝光，直接采购三星玻璃基板
+  - [国内AI资讯] 壁仞科技完成智谱新一代旗舰模型适配
+  - [其它科技资讯] 字节豪掷33亿在北京再次拿地
+  - [国外AI资讯] Meta AI发布全新模型Muse Spark，集成全新技术栈
+  - [其它科技资讯] 斯坦福AI实验室转发Bloom LLM健康教练研究获CHI最佳论文奖
+  - [其它科技资讯] 研究人员在单硅芯片上实现128个双量子点自动调谐
+  - [国外AI资讯] Gemma 4发布一周下载量超千万，Gemma系列累计下载破5亿
+  - [国外AI资讯] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [国外AI资讯] Google Cloud 发布 Vertex AI Agent Engine，助力 AI 智能体生产
+  - [国外AI资讯] 评测显示 Meta Muse Spark 在复杂查询综合表现中领先
+  - [国外AI资讯] Google在Gemini中推出笔记本功能以组织项目
+  - [国外AI资讯] Meta 模型在多项基准测试中表现突出，被评价为顶级多模态模型
+  - [其它科技资讯] IDC Directions 2026会议聚焦AI就绪基础设施等关键议题
+  - [国外AI资讯] Epoch AI Research 评估 Meta 新模型 Muse Spark 在 Frontie
+  - [其它科技资讯] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [智能硬件] MIT CSAIL提出ChromoLCD工具概念，旨在通过LCD/LED技术改变物体外观
+  - [其它科技资讯] NVIDIA系统工程师Thomas Chen谈复杂计算系统的发布管理
+  - [其它科技资讯] 亚马逊发布开源且形式化验证的后量子密码实现 mlkem-native
+  - [其它科技资讯] AI模型DISCO提出，旨在设计自然界未曾见过的酶
+  - [国外AI资讯] Meta AI 模型 Muse Spark 展示从图片中提取资产并生成代码的能力
+
+[2026-04-09 07:31:56] llm_summary - OUTPUT: 27条 | 成功0条
+============================================================
+  - [国外AI资讯] DeepMind CEO建议所有生成式AI公司使用水印技术防范深度伪造和虚假信息
+  - [国内AI资讯] 阿里告别诸侯割据：吴泳铭为蒋凡接上AI大脑
+  - [国内AI资讯] 阿里电商AI重构围绕Token，组织调整迎新动向
+  - [国外AI资讯] 谷歌CEO皮查伊：2027年将是AI重塑生产方式的关键拐点
+  - [国内AI资讯] 淘宝直播2026新品目标成交增幅100%
+  - [智能硬件] 特斯拉推送FSD V14.3版本：反应速度提升20%
+  - [国外AI资讯] 马斯克称SpaceXAI的Colossus 2正在训练6个模型
+  - [国外AI资讯] 苹果自研AI服务器芯片Baltra曝光，直接采购三星玻璃基板
+  - [国内AI资讯] 壁仞科技完成智谱新一代旗舰模型适配
+  - [其它科技资讯] 字节豪掷33亿在北京再次拿地
+  - [国外AI资讯] Meta AI发布全新模型Muse Spark，集成全新技术栈
+  - [国外AI资讯] 斯坦福AI实验室转发Bloom LLM健康教练研究获CHI最佳论文奖
+  - [其它科技资讯] 研究人员在单硅芯片上实现128个双量子点自动调谐
+  - [国外AI资讯] Gemma 4发布一周下载量超千万，Gemma系列累计下载破5亿
+  - [国外AI资讯] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [国外AI资讯] Google Cloud 发布 Vertex AI Agent Engine，助力 AI 智能体生产
+  - [国外AI资讯] 评测显示 Meta Muse Spark 在复杂查询综合表现中领先
+  - [国外AI资讯] Google在Gemini中推出笔记本功能以组织项目
+  - [国外AI资讯] Meta 模型在多项基准测试中表现突出，被评价为顶级多模态模型
+  - [其它科技资讯] IDC Directions 2026会议聚焦AI就绪基础设施等关键议题
+  - [国外AI资讯] Epoch AI Research 评估 Meta 新模型 Muse Spark 在 Frontie
+  - [国外AI资讯] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [其它科技资讯] MIT CSAIL提出ChromoLCD工具概念，旨在通过LCD/LED技术改变物体外观
+  - [国外AI资讯] NVIDIA系统工程师Thomas Chen谈复杂计算系统的发布管理
+  - [国外AI资讯] 亚马逊发布开源且形式化验证的后量子密码实现 mlkem-native
+  - [国外AI资讯] AI模型DISCO提出，旨在设计自然界未曾见过的酶
+  - [国外AI资讯] Meta AI 模型 Muse Spark 展示从图片中提取资产并生成代码的能力
+
+[2026-04-09 08:38:29] keyword_filter - INPUT: 32条
+============================================================
+  - [] DeepMind CEO建议所有生成式AI公司使用水印技术防范深度伪造和虚假信息
+  - [] 阿里告别诸侯割据：吴泳铭为蒋凡接上AI大脑
+  - [] 阿里电商AI重构围绕Token，组织调整迎新动向
+  - [] 谷歌CEO皮查伊：2027年将是AI重塑生产方式的关键拐点
+  - [] 淘宝直播2026新品目标成交增幅100%
+  - [] 特斯拉推送FSD V14.3版本：反应速度提升20%
+  - [] “两仪万象”完成亿级A轮融资
+  - [] 马斯克称SpaceXAI的Colossus 2正在训练6个模型
+  - [] 苹果自研AI服务器芯片Baltra曝光，直接采购三星玻璃基板
+  - [] 壁仞科技完成智谱新一代旗舰模型适配
+  - [] 字节豪掷33亿在北京再次拿地
+  - [] 地瓜机器人完成1.5亿美元B2轮融资
+  - [] Google AI负责人Jeff Dean称Gemma 4模型反响热烈，下载量超千万
+  - [] Mythos Preview 在 SWE-bench 基准测试中表现显著提升
+  - [] Zai 发布 GLM-5.1，在主要编码基准测试中开源模型排名第一
+  - [] Conductorquant 在单硅芯片上实现跨64器件调谐128个双量子点
+  - [] 加州交通部采用波士顿动力Spot机器人检查隐蔽基础设施
+  - [] Meta AI发布全新模型Muse Spark，集成全新技术栈
+  - [] 斯坦福AI实验室转发Bloom LLM健康教练研究获CHI最佳论文奖
+  - [] 研究人员在单硅芯片上实现128个双量子点自动调谐
+  - [] Gemma 4发布一周下载量超千万，Gemma系列累计下载破5亿
+  - [] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [] Google Cloud 发布 Vertex AI Agent Engine，助力 AI 智能体生产
+  - [] 评测显示 Meta Muse Spark 在复杂查询综合表现中领先
+  - [] Google在Gemini中推出笔记本功能以组织项目
+  - [] Meta 模型在多项基准测试中表现突出，被评价为顶级多模态模型
+  - [] IDC Directions 2026会议聚焦AI就绪基础设施等关键议题
+  - [] Epoch AI Research 评估 Meta 新模型 Muse Spark 在 Frontie
+  - [] Meta AI 发布 Muse Spark 模型，CritPt 基准得分大幅提升
+  - [] Meta发布首个自研AI模型Muse Spark，支持其AI助手
+  - [] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [] MIT CSAIL提出ChromoLCD工具概念，旨在通过LCD/LED技术改变物体外观
+
+[2026-04-09 08:38:29] keyword_filter - OUTPUT: 30条 | 移除2条
+============================================================
+  - [] DeepMind CEO建议所有生成式AI公司使用水印技术防范深度伪造和虚假信息
+  - [] 阿里告别诸侯割据：吴泳铭为蒋凡接上AI大脑
+  - [] 阿里电商AI重构围绕Token，组织调整迎新动向
+  - [] 谷歌CEO皮查伊：2027年将是AI重塑生产方式的关键拐点
+  - [] 淘宝直播2026新品目标成交增幅100%
+  - [] 特斯拉推送FSD V14.3版本：反应速度提升20%
+  - [] 马斯克称SpaceXAI的Colossus 2正在训练6个模型
+  - [] 苹果自研AI服务器芯片Baltra曝光，直接采购三星玻璃基板
+  - [] 壁仞科技完成智谱新一代旗舰模型适配
+  - [] 字节豪掷33亿在北京再次拿地
+  - [] Google AI负责人Jeff Dean称Gemma 4模型反响热烈，下载量超千万
+  - [] Mythos Preview 在 SWE-bench 基准测试中表现显著提升
+  - [] Zai 发布 GLM-5.1，在主要编码基准测试中开源模型排名第一
+  - [] Conductorquant 在单硅芯片上实现跨64器件调谐128个双量子点
+  - [] 加州交通部采用波士顿动力Spot机器人检查隐蔽基础设施
+  - [] Meta AI发布全新模型Muse Spark，集成全新技术栈
+  - [] 斯坦福AI实验室转发Bloom LLM健康教练研究获CHI最佳论文奖
+  - [] 研究人员在单硅芯片上实现128个双量子点自动调谐
+  - [] Gemma 4发布一周下载量超千万，Gemma系列累计下载破5亿
+  - [] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [] Google Cloud 发布 Vertex AI Agent Engine，助力 AI 智能体生产
+  - [] 评测显示 Meta Muse Spark 在复杂查询综合表现中领先
+  - [] Google在Gemini中推出笔记本功能以组织项目
+  - [] Meta 模型在多项基准测试中表现突出，被评价为顶级多模态模型
+  - [] IDC Directions 2026会议聚焦AI就绪基础设施等关键议题
+  - [] Epoch AI Research 评估 Meta 新模型 Muse Spark 在 Frontie
+  - [] Meta AI 发布 Muse Spark 模型，CritPt 基准得分大幅提升
+  - [] Meta发布首个自研AI模型Muse Spark，支持其AI助手
+  - [] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [] MIT CSAIL提出ChromoLCD工具概念，旨在通过LCD/LED技术改变物体外观
+
+[2026-04-09 08:38:29] bge_dedup - INPUT: 30条
+============================================================
+  - [] DeepMind CEO建议所有生成式AI公司使用水印技术防范深度伪造和虚假信息
+  - [] 阿里告别诸侯割据：吴泳铭为蒋凡接上AI大脑
+  - [] 阿里电商AI重构围绕Token，组织调整迎新动向
+  - [] 谷歌CEO皮查伊：2027年将是AI重塑生产方式的关键拐点
+  - [] 淘宝直播2026新品目标成交增幅100%
+  - [] 特斯拉推送FSD V14.3版本：反应速度提升20%
+  - [] 马斯克称SpaceXAI的Colossus 2正在训练6个模型
+  - [] 苹果自研AI服务器芯片Baltra曝光，直接采购三星玻璃基板
+  - [] 壁仞科技完成智谱新一代旗舰模型适配
+  - [] 字节豪掷33亿在北京再次拿地
+  - [] Google AI负责人Jeff Dean称Gemma 4模型反响热烈，下载量超千万
+  - [] Mythos Preview 在 SWE-bench 基准测试中表现显著提升
+  - [] Zai 发布 GLM-5.1，在主要编码基准测试中开源模型排名第一
+  - [] Conductorquant 在单硅芯片上实现跨64器件调谐128个双量子点
+  - [] 加州交通部采用波士顿动力Spot机器人检查隐蔽基础设施
+  - [] Meta AI发布全新模型Muse Spark，集成全新技术栈
+  - [] 斯坦福AI实验室转发Bloom LLM健康教练研究获CHI最佳论文奖
+  - [] 研究人员在单硅芯片上实现128个双量子点自动调谐
+  - [] Gemma 4发布一周下载量超千万，Gemma系列累计下载破5亿
+  - [] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [] Google Cloud 发布 Vertex AI Agent Engine，助力 AI 智能体生产
+  - [] 评测显示 Meta Muse Spark 在复杂查询综合表现中领先
+  - [] Google在Gemini中推出笔记本功能以组织项目
+  - [] Meta 模型在多项基准测试中表现突出，被评价为顶级多模态模型
+  - [] IDC Directions 2026会议聚焦AI就绪基础设施等关键议题
+  - [] Epoch AI Research 评估 Meta 新模型 Muse Spark 在 Frontie
+  - [] Meta AI 发布 Muse Spark 模型，CritPt 基准得分大幅提升
+  - [] Meta发布首个自研AI模型Muse Spark，支持其AI助手
+  - [] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [] MIT CSAIL提出ChromoLCD工具概念，旨在通过LCD/LED技术改变物体外观
+
+[2026-04-09 08:38:45] bge_dedup - OUTPUT: 27条 | 移除3条
+============================================================
+  - [] DeepMind CEO建议所有生成式AI公司使用水印技术防范深度伪造和虚假信息
+  - [] 阿里告别诸侯割据：吴泳铭为蒋凡接上AI大脑
+  - [] 阿里电商AI重构围绕Token，组织调整迎新动向
+  - [] 谷歌CEO皮查伊：2027年将是AI重塑生产方式的关键拐点
+  - [] 淘宝直播2026新品目标成交增幅100%
+  - [] 特斯拉推送FSD V14.3版本：反应速度提升20%
+  - [] 马斯克称SpaceXAI的Colossus 2正在训练6个模型
+  - [] 苹果自研AI服务器芯片Baltra曝光，直接采购三星玻璃基板
+  - [] 壁仞科技完成智谱新一代旗舰模型适配
+  - [] 字节豪掷33亿在北京再次拿地
+  - [] Google AI负责人Jeff Dean称Gemma 4模型反响热烈，下载量超千万
+  - [] Mythos Preview 在 SWE-bench 基准测试中表现显著提升
+  - [] Zai 发布 GLM-5.1，在主要编码基准测试中开源模型排名第一
+  - [] Conductorquant 在单硅芯片上实现跨64器件调谐128个双量子点
+  - [] 加州交通部采用波士顿动力Spot机器人检查隐蔽基础设施
+  - [] Meta AI发布全新模型Muse Spark，集成全新技术栈
+  - [] 斯坦福AI实验室转发Bloom LLM健康教练研究获CHI最佳论文奖
+  - [] Gemma 4发布一周下载量超千万，Gemma系列累计下载破5亿
+  - [] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [] Google Cloud 发布 Vertex AI Agent Engine，助力 AI 智能体生产
+  - [] 评测显示 Meta Muse Spark 在复杂查询综合表现中领先
+  - [] Google在Gemini中推出笔记本功能以组织项目
+  - [] Meta 模型在多项基准测试中表现突出，被评价为顶级多模态模型
+  - [] IDC Directions 2026会议聚焦AI就绪基础设施等关键议题
+  - [] Epoch AI Research 评估 Meta 新模型 Muse Spark 在 Frontie
+  - [] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [] MIT CSAIL提出ChromoLCD工具概念，旨在通过LCD/LED技术改变物体外观
+
+[2026-04-09 08:38:45] llm_classify - INPUT: 27条
+============================================================
+  - [] DeepMind CEO建议所有生成式AI公司使用水印技术防范深度伪造和虚假信息
+  - [] 阿里告别诸侯割据：吴泳铭为蒋凡接上AI大脑
+  - [] 阿里电商AI重构围绕Token，组织调整迎新动向
+  - [] 谷歌CEO皮查伊：2027年将是AI重塑生产方式的关键拐点
+  - [] 淘宝直播2026新品目标成交增幅100%
+  - [] 特斯拉推送FSD V14.3版本：反应速度提升20%
+  - [] 马斯克称SpaceXAI的Colossus 2正在训练6个模型
+  - [] 苹果自研AI服务器芯片Baltra曝光，直接采购三星玻璃基板
+  - [] 壁仞科技完成智谱新一代旗舰模型适配
+  - [] 字节豪掷33亿在北京再次拿地
+  - [] Google AI负责人Jeff Dean称Gemma 4模型反响热烈，下载量超千万
+  - [] Mythos Preview 在 SWE-bench 基准测试中表现显著提升
+  - [] Zai 发布 GLM-5.1，在主要编码基准测试中开源模型排名第一
+  - [] Conductorquant 在单硅芯片上实现跨64器件调谐128个双量子点
+  - [] 加州交通部采用波士顿动力Spot机器人检查隐蔽基础设施
+  - [] Meta AI发布全新模型Muse Spark，集成全新技术栈
+  - [] 斯坦福AI实验室转发Bloom LLM健康教练研究获CHI最佳论文奖
+  - [] Gemma 4发布一周下载量超千万，Gemma系列累计下载破5亿
+  - [] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [] Google Cloud 发布 Vertex AI Agent Engine，助力 AI 智能体生产
+  - [] 评测显示 Meta Muse Spark 在复杂查询综合表现中领先
+  - [] Google在Gemini中推出笔记本功能以组织项目
+  - [] Meta 模型在多项基准测试中表现突出，被评价为顶级多模态模型
+  - [] IDC Directions 2026会议聚焦AI就绪基础设施等关键议题
+  - [] Epoch AI Research 评估 Meta 新模型 Muse Spark 在 Frontie
+  - [] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [] MIT CSAIL提出ChromoLCD工具概念，旨在通过LCD/LED技术改变物体外观
+
+[2026-04-09 08:39:13] llm_classify - OUTPUT: 27条 | 保留27条
+============================================================
+  - [国外AI资讯] DeepMind CEO建议所有生成式AI公司使用水印技术防范深度伪造和虚假信息
+  - [国内AI资讯] 阿里告别诸侯割据：吴泳铭为蒋凡接上AI大脑
+  - [国内AI资讯] 阿里电商AI重构围绕Token，组织调整迎新动向
+  - [国外AI资讯] 谷歌CEO皮查伊：2027年将是AI重塑生产方式的关键拐点
+  - [其它科技资讯] 淘宝直播2026新品目标成交增幅100%
+  - [智能硬件] 特斯拉推送FSD V14.3版本：反应速度提升20%
+  - [国外AI资讯] 马斯克称SpaceXAI的Colossus 2正在训练6个模型
+  - [智能硬件] 苹果自研AI服务器芯片Baltra曝光，直接采购三星玻璃基板
+  - [国内AI资讯] 壁仞科技完成智谱新一代旗舰模型适配
+  - [其它科技资讯] 字节豪掷33亿在北京再次拿地
+  - [国外AI资讯] Google AI负责人Jeff Dean称Gemma 4模型反响热烈，下载量超千万
+  - [国外AI资讯] Mythos Preview 在 SWE-bench 基准测试中表现显著提升
+  - [国内AI资讯] Zai 发布 GLM-5.1，在主要编码基准测试中开源模型排名第一
+  - [智能硬件] Conductorquant 在单硅芯片上实现跨64器件调谐128个双量子点
+  - [智能硬件] 加州交通部采用波士顿动力Spot机器人检查隐蔽基础设施
+  - [国外AI资讯] Meta AI发布全新模型Muse Spark，集成全新技术栈
+  - [其它科技资讯] 斯坦福AI实验室转发Bloom LLM健康教练研究获CHI最佳论文奖
+  - [国外AI资讯] Gemma 4发布一周下载量超千万，Gemma系列累计下载破5亿
+  - [国外AI资讯] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [国外AI资讯] Google Cloud 发布 Vertex AI Agent Engine，助力 AI 智能体生产
+  - [国外AI资讯] 评测显示 Meta Muse Spark 在复杂查询综合表现中领先
+  - [国外AI资讯] Google在Gemini中推出笔记本功能以组织项目
+  - [国外AI资讯] Meta 模型在多项基准测试中表现突出，被评价为顶级多模态模型
+  - [其它科技资讯] IDC Directions 2026会议聚焦AI就绪基础设施等关键议题
+  - [国外AI资讯] Epoch AI Research 评估 Meta 新模型 Muse Spark 在 Frontie
+  - [其它科技资讯] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [其它科技资讯] MIT CSAIL提出ChromoLCD工具概念，旨在通过LCD/LED技术改变物体外观
+
+[2026-04-09 08:39:13] llm_summary - INPUT: 27条
+============================================================
+  - [国外AI资讯] DeepMind CEO建议所有生成式AI公司使用水印技术防范深度伪造和虚假信息
+  - [国内AI资讯] 阿里告别诸侯割据：吴泳铭为蒋凡接上AI大脑
+  - [国内AI资讯] 阿里电商AI重构围绕Token，组织调整迎新动向
+  - [国外AI资讯] 谷歌CEO皮查伊：2027年将是AI重塑生产方式的关键拐点
+  - [其它科技资讯] 淘宝直播2026新品目标成交增幅100%
+  - [智能硬件] 特斯拉推送FSD V14.3版本：反应速度提升20%
+  - [国外AI资讯] 马斯克称SpaceXAI的Colossus 2正在训练6个模型
+  - [智能硬件] 苹果自研AI服务器芯片Baltra曝光，直接采购三星玻璃基板
+  - [国内AI资讯] 壁仞科技完成智谱新一代旗舰模型适配
+  - [其它科技资讯] 字节豪掷33亿在北京再次拿地
+  - [国外AI资讯] Google AI负责人Jeff Dean称Gemma 4模型反响热烈，下载量超千万
+  - [国外AI资讯] Mythos Preview 在 SWE-bench 基准测试中表现显著提升
+  - [国内AI资讯] Zai 发布 GLM-5.1，在主要编码基准测试中开源模型排名第一
+  - [智能硬件] Conductorquant 在单硅芯片上实现跨64器件调谐128个双量子点
+  - [智能硬件] 加州交通部采用波士顿动力Spot机器人检查隐蔽基础设施
+  - [国外AI资讯] Meta AI发布全新模型Muse Spark，集成全新技术栈
+  - [其它科技资讯] 斯坦福AI实验室转发Bloom LLM健康教练研究获CHI最佳论文奖
+  - [国外AI资讯] Gemma 4发布一周下载量超千万，Gemma系列累计下载破5亿
+  - [国外AI资讯] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [国外AI资讯] Google Cloud 发布 Vertex AI Agent Engine，助力 AI 智能体生产
+  - [国外AI资讯] 评测显示 Meta Muse Spark 在复杂查询综合表现中领先
+  - [国外AI资讯] Google在Gemini中推出笔记本功能以组织项目
+  - [国外AI资讯] Meta 模型在多项基准测试中表现突出，被评价为顶级多模态模型
+  - [其它科技资讯] IDC Directions 2026会议聚焦AI就绪基础设施等关键议题
+  - [国外AI资讯] Epoch AI Research 评估 Meta 新模型 Muse Spark 在 Frontie
+  - [其它科技资讯] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [其它科技资讯] MIT CSAIL提出ChromoLCD工具概念，旨在通过LCD/LED技术改变物体外观
+
+[2026-04-09 08:41:52] llm_summary - OUTPUT: 27条 | 成功0条
+============================================================
+  - [国外AI资讯] DeepMind CEO建议所有生成式AI公司使用水印技术防范深度伪造和虚假信息
+  - [国内AI资讯] 阿里告别诸侯割据：吴泳铭为蒋凡接上AI大脑
+  - [国内AI资讯] 阿里电商AI重构围绕Token，组织调整迎新动向
+  - [国外AI资讯] 谷歌CEO皮查伊：2027年将是AI重塑生产方式的关键拐点
+  - [其它科技资讯] 淘宝直播2026新品目标成交增幅100%
+  - [智能硬件] 特斯拉推送FSD V14.3版本：反应速度提升20%
+  - [国外AI资讯] 马斯克称SpaceXAI的Colossus 2正在训练6个模型
+  - [智能硬件] 苹果自研AI服务器芯片Baltra曝光，直接采购三星玻璃基板
+  - [国内AI资讯] 壁仞科技完成智谱新一代旗舰模型适配
+  - [其它科技资讯] 字节豪掷33亿在北京再次拿地
+  - [国外AI资讯] Google AI负责人Jeff Dean称Gemma 4模型反响热烈，下载量超千万
+  - [国外AI资讯] Mythos Preview 在 SWE-bench 基准测试中表现显著提升
+  - [国内AI资讯] Zai 发布 GLM-5.1，在主要编码基准测试中开源模型排名第一
+  - [智能硬件] Conductorquant 在单硅芯片上实现跨64器件调谐128个双量子点
+  - [智能硬件] 加州交通部采用波士顿动力Spot机器人检查隐蔽基础设施
+  - [国外AI资讯] Meta AI发布全新模型Muse Spark，集成全新技术栈
+  - [其它科技资讯] 斯坦福AI实验室转发Bloom LLM健康教练研究获CHI最佳论文奖
+  - [国外AI资讯] Gemma 4发布一周下载量超千万，Gemma系列累计下载破5亿
+  - [国外AI资讯] Meta Superintelligence Labs 发布原生多模态推理模型 Muse Spark
+  - [国外AI资讯] Google Cloud 发布 Vertex AI Agent Engine，助力 AI 智能体生产
+  - [国外AI资讯] 评测显示 Meta Muse Spark 在复杂查询综合表现中领先
+  - [国外AI资讯] Google在Gemini中推出笔记本功能以组织项目
+  - [国外AI资讯] Meta 模型在多项基准测试中表现突出，被评价为顶级多模态模型
+  - [其它科技资讯] IDC Directions 2026会议聚焦AI就绪基础设施等关键议题
+  - [国外AI资讯] Epoch AI Research 评估 Meta 新模型 Muse Spark 在 Frontie
+  - [其它科技资讯] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [其它科技资讯] MIT CSAIL提出ChromoLCD工具概念，旨在通过LCD/LED技术改变物体外观

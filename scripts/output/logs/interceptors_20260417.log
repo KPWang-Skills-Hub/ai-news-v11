@@ -1,0 +1,2062 @@
+
+[2026-04-17 08:01:05] keyword_filter - INPUT: 61条
+============================================================
+  - [huxiu][] 商汤拟折价8.6%配售股份筹资逾32亿港元
+  - [huxiu][] OpenAI高管称AI末日论有后果，传播需谨慎
+  - [huxiu][] OpenAI更新Codex应用，增加计算机控制、应用内浏览器、图像生成等新功能
+  - [huxiu][] 谷歌将Gemini应用集成于AI工具，提升用户个性化图像生成
+  - [huxiu][] 微软与斯特兰蒂斯组建联合团队共同开发人工智能项目
+  - [huxiu][] 金融初创公司Slash筹集1亿美元，估值14亿，年化收入近3亿
+  - [huxiu][] 亚马逊支持的X-Energy计划IPO融资8亿美元
+  - [huxiu][] 谷歌TurboQuant提升模型效率或扩大内存芯片需求
+  - [huxiu][] 纽约梅隆银行获OpenAI与安索潘先进模型访问权限
+  - [huxiu][] 华为云OfficeClaw办公智能体发起邀测
+  - [huxiu][] 京东首批开放2000小时高精标注具身智能数据集
+  - [huxiu][] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [huxiu][] 5800亿顺德家电巨头猛攻机器人
+  - [infoq][] OpenClaw 发布 2026.4.15 版本，支持 Anthropic Opus 4.7 模型
+  - [infoq][] OpenAI CEO 对用户转向Codex表示欢迎，同时表达对潜在限制的担忧
+  - [infoq][] Gemini 应用集成 Personal Intelligence 功能以理解用户偏好生成图像
+  - [infoq][] Codex推出集成评论模式的应用内浏览器功能
+  - [infoq][] NVIDIA 发布 Lyra 2.0 AI 框架，可从单张图像生成可探索 3D 环境
+  - [infoq][] NVIDIA Omniverse预告制造业专题讨论，聚焦AI、机器人及仿真技术
+  - [infoq][] Luma AI与Wonder Project成立制作公司，推出实时混合电影制作方法
+  - [infoq][] gdb宣布推出面向生命科学研究的GPT-Rosalind模型
+  - [infoq][] Relativity Space 测试活动与基础设施随硬件生产同步扩展
+  - [infoq][] Stripe Projects 新增 Hugging Face、Cloudflare 等多家服务提供
+  - [infoq][] CoreWeave 一周内与 Meta、AnthropicAI 及 Jane Street 达成三项
+  - [infoq][] Anthropic宣布Opus 4.7文档推理能力达80.6%，较前版大幅提升
+  - [infoq][] Cadence 宣布与 NVIDIA 合作推进 AI 工程设计
+  - [infoq][] Google Cloud 宣布 Gemma 4 26B 模型在 Vertex AI 模型即服务中正式
+  - [infoq][] IDC：B2B技术买家加速决策，但对AI成果与ROI审查趋严
+  - [infoq][] Anthropic 推出 Claude Opus 4.7，强化自主长时任务执行能力
+  - [infoq][] Runway 发布 Seedance 2.0 的 1080p 版本
+  - [infoq][] NVIDIA祝贺OpenAI将Codex扩展至更多软件工作流程
+  - [infoq][] Google 将 Gemini 应用的 Personal Intelligence 功能与 Nano
+  - [infoq][] Google Research提出Simula框架，将合成数据生成视为数据集机制设计问题
+  - [量子位][] PPIO上线PPHermes：云端沙箱一键部署Hermes Agent
+  - [量子位][] 打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施
+  - [量子位][] 世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场
+  - [量子位][] 它石智航Pre-A轮融资4.55亿美金破中国具身智能纪录，高瓴红杉美团联合领投
+  - [量子位][] 智象未来完成新一轮融资，全力打造下一代原生全模态世界模型
+  - [量子位][] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [aibase][] 波士顿动力机器狗 “Spot” 新升级：搭载谷歌Gemini模型
+  - [aibase][] 阿里ATH事业群开放式世界模型“Happy Oyster”启动内测申请
+  - [aibase][] 科大讯飞新发布的 AI 智能鼠标 AM50 Pro
+  - [aibase][] ​微软补丁引发 Claude Desktop 大崩溃，Anthropic 拒绝修复引争议
+  - [aibase][] 开源AI接口系统NewAPI曝高危支付漏洞 未配置密钥可致“零成本”无限充值
+  - [aibase][] 苹果公司差点将 Grok 踢出应用商店，因其未能控制性别化深度伪造内容
+  - [aibase][] ​NVIDIA 推出全球首个开源量子 AI 模型，量子纠错技术提升三倍
+  - [aibase][] 谷歌DeepMind新研究TIPSv2：让AI真正"看懂"图片，而不只是"扫一眼"
+  - [aibase][] 京东发布JoyEgoCam超高清采集终端 构建具身智能训练闭环
+  - [aibase][] 腾讯混元开源视频生成加速方案，11. 8 倍提速，被CVPR2026 收录
+  - [aibase][] 调查显示：美国员工每周因使用 AI 浪费近 8 小时
+  - [aibase][] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][] 阿里巴巴 ATH 推出开放世界模型 Happy Oyster，开启实时交互体验申请
+  - [aibase][] Anthropic即将发布Claude Opus 4.7及全新AI设计工具 传闻本周内推出
+  - [aibase][] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+
+[2026-04-17 08:01:05] keyword_filter - OUTPUT: 49条 | 移除12条
+============================================================
+  - [huxiu][] OpenAI高管称AI末日论有后果，传播需谨慎
+  - [huxiu][] OpenAI更新Codex应用，增加计算机控制、应用内浏览器、图像生成等新功能
+  - [huxiu][] 谷歌将Gemini应用集成于AI工具，提升用户个性化图像生成
+  - [huxiu][] 微软与斯特兰蒂斯组建联合团队共同开发人工智能项目
+  - [huxiu][] 谷歌TurboQuant提升模型效率或扩大内存芯片需求
+  - [huxiu][] 华为云OfficeClaw办公智能体发起邀测
+  - [huxiu][] 京东首批开放2000小时高精标注具身智能数据集
+  - [huxiu][] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [infoq][] OpenClaw 发布 2026.4.15 版本，支持 Anthropic Opus 4.7 模型
+  - [infoq][] OpenAI CEO 对用户转向Codex表示欢迎，同时表达对潜在限制的担忧
+  - [infoq][] Gemini 应用集成 Personal Intelligence 功能以理解用户偏好生成图像
+  - [infoq][] Codex推出集成评论模式的应用内浏览器功能
+  - [infoq][] NVIDIA 发布 Lyra 2.0 AI 框架，可从单张图像生成可探索 3D 环境
+  - [infoq][] NVIDIA Omniverse预告制造业专题讨论，聚焦AI、机器人及仿真技术
+  - [infoq][] Luma AI与Wonder Project成立制作公司，推出实时混合电影制作方法
+  - [infoq][] Stripe Projects 新增 Hugging Face、Cloudflare 等多家服务提供
+  - [infoq][] CoreWeave 一周内与 Meta、AnthropicAI 及 Jane Street 达成三项
+  - [infoq][] Anthropic宣布Opus 4.7文档推理能力达80.6%，较前版大幅提升
+  - [infoq][] Cadence 宣布与 NVIDIA 合作推进 AI 工程设计
+  - [infoq][] Google Cloud 宣布 Gemma 4 26B 模型在 Vertex AI 模型即服务中正式
+  - [infoq][] Anthropic 推出 Claude Opus 4.7，强化自主长时任务执行能力
+  - [infoq][] Runway 发布 Seedance 2.0 的 1080p 版本
+  - [infoq][] NVIDIA祝贺OpenAI将Codex扩展至更多软件工作流程
+  - [infoq][] Google 将 Gemini 应用的 Personal Intelligence 功能与 Nano
+  - [infoq][] Google Research提出Simula框架，将合成数据生成视为数据集机制设计问题
+  - [量子位][] PPIO上线PPHermes：云端沙箱一键部署Hermes Agent
+  - [量子位][] 打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施
+  - [量子位][] 世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场
+  - [量子位][] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [aibase][] 波士顿动力机器狗 “Spot” 新升级：搭载谷歌Gemini模型
+  - [aibase][] 阿里ATH事业群开放式世界模型“Happy Oyster”启动内测申请
+  - [aibase][] 科大讯飞新发布的 AI 智能鼠标 AM50 Pro
+  - [aibase][] ​微软补丁引发 Claude Desktop 大崩溃，Anthropic 拒绝修复引争议
+  - [aibase][] 苹果公司差点将 Grok 踢出应用商店，因其未能控制性别化深度伪造内容
+  - [aibase][] ​NVIDIA 推出全球首个开源量子 AI 模型，量子纠错技术提升三倍
+  - [aibase][] 谷歌DeepMind新研究TIPSv2：让AI真正"看懂"图片，而不只是"扫一眼"
+  - [aibase][] 京东发布JoyEgoCam超高清采集终端 构建具身智能训练闭环
+  - [aibase][] 腾讯混元开源视频生成加速方案，11. 8 倍提速，被CVPR2026 收录
+  - [aibase][] 调查显示：美国员工每周因使用 AI 浪费近 8 小时
+  - [aibase][] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][] 阿里巴巴 ATH 推出开放世界模型 Happy Oyster，开启实时交互体验申请
+  - [aibase][] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+
+[2026-04-17 08:01:05] bge_dedup - INPUT: 49条
+============================================================
+  - [huxiu][] OpenAI高管称AI末日论有后果，传播需谨慎
+  - [huxiu][] OpenAI更新Codex应用，增加计算机控制、应用内浏览器、图像生成等新功能
+  - [huxiu][] 谷歌将Gemini应用集成于AI工具，提升用户个性化图像生成
+  - [huxiu][] 微软与斯特兰蒂斯组建联合团队共同开发人工智能项目
+  - [huxiu][] 谷歌TurboQuant提升模型效率或扩大内存芯片需求
+  - [huxiu][] 华为云OfficeClaw办公智能体发起邀测
+  - [huxiu][] 京东首批开放2000小时高精标注具身智能数据集
+  - [huxiu][] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [infoq][] OpenClaw 发布 2026.4.15 版本，支持 Anthropic Opus 4.7 模型
+  - [infoq][] OpenAI CEO 对用户转向Codex表示欢迎，同时表达对潜在限制的担忧
+  - [infoq][] Gemini 应用集成 Personal Intelligence 功能以理解用户偏好生成图像
+  - [infoq][] Codex推出集成评论模式的应用内浏览器功能
+  - [infoq][] NVIDIA 发布 Lyra 2.0 AI 框架，可从单张图像生成可探索 3D 环境
+  - [infoq][] NVIDIA Omniverse预告制造业专题讨论，聚焦AI、机器人及仿真技术
+  - [infoq][] Luma AI与Wonder Project成立制作公司，推出实时混合电影制作方法
+  - [infoq][] Stripe Projects 新增 Hugging Face、Cloudflare 等多家服务提供
+  - [infoq][] CoreWeave 一周内与 Meta、AnthropicAI 及 Jane Street 达成三项
+  - [infoq][] Anthropic宣布Opus 4.7文档推理能力达80.6%，较前版大幅提升
+  - [infoq][] Cadence 宣布与 NVIDIA 合作推进 AI 工程设计
+  - [infoq][] Google Cloud 宣布 Gemma 4 26B 模型在 Vertex AI 模型即服务中正式
+  - [infoq][] Anthropic 推出 Claude Opus 4.7，强化自主长时任务执行能力
+  - [infoq][] Runway 发布 Seedance 2.0 的 1080p 版本
+  - [infoq][] NVIDIA祝贺OpenAI将Codex扩展至更多软件工作流程
+  - [infoq][] Google 将 Gemini 应用的 Personal Intelligence 功能与 Nano
+  - [infoq][] Google Research提出Simula框架，将合成数据生成视为数据集机制设计问题
+  - [量子位][] PPIO上线PPHermes：云端沙箱一键部署Hermes Agent
+  - [量子位][] 打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施
+  - [量子位][] 世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场
+  - [量子位][] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [aibase][] 波士顿动力机器狗 “Spot” 新升级：搭载谷歌Gemini模型
+  - [aibase][] 阿里ATH事业群开放式世界模型“Happy Oyster”启动内测申请
+  - [aibase][] 科大讯飞新发布的 AI 智能鼠标 AM50 Pro
+  - [aibase][] ​微软补丁引发 Claude Desktop 大崩溃，Anthropic 拒绝修复引争议
+  - [aibase][] 苹果公司差点将 Grok 踢出应用商店，因其未能控制性别化深度伪造内容
+  - [aibase][] ​NVIDIA 推出全球首个开源量子 AI 模型，量子纠错技术提升三倍
+  - [aibase][] 谷歌DeepMind新研究TIPSv2：让AI真正"看懂"图片，而不只是"扫一眼"
+  - [aibase][] 京东发布JoyEgoCam超高清采集终端 构建具身智能训练闭环
+  - [aibase][] 腾讯混元开源视频生成加速方案，11. 8 倍提速，被CVPR2026 收录
+  - [aibase][] 调查显示：美国员工每周因使用 AI 浪费近 8 小时
+  - [aibase][] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][] 阿里巴巴 ATH 推出开放世界模型 Happy Oyster，开启实时交互体验申请
+  - [aibase][] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+
+[2026-04-17 08:01:27] bge_dedup - OUTPUT: 47条 | 移除2条
+============================================================
+  - [huxiu][] OpenAI高管称AI末日论有后果，传播需谨慎
+  - [huxiu][] OpenAI更新Codex应用，增加计算机控制、应用内浏览器、图像生成等新功能
+  - [huxiu][] 谷歌将Gemini应用集成于AI工具，提升用户个性化图像生成
+  - [huxiu][] 微软与斯特兰蒂斯组建联合团队共同开发人工智能项目
+  - [huxiu][] 谷歌TurboQuant提升模型效率或扩大内存芯片需求
+  - [huxiu][] 华为云OfficeClaw办公智能体发起邀测
+  - [huxiu][] 京东首批开放2000小时高精标注具身智能数据集
+  - [huxiu][] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [infoq][] OpenClaw 发布 2026.4.15 版本，支持 Anthropic Opus 4.7 模型
+  - [infoq][] OpenAI CEO 对用户转向Codex表示欢迎，同时表达对潜在限制的担忧
+  - [infoq][] Codex推出集成评论模式的应用内浏览器功能
+  - [infoq][] NVIDIA 发布 Lyra 2.0 AI 框架，可从单张图像生成可探索 3D 环境
+  - [infoq][] NVIDIA Omniverse预告制造业专题讨论，聚焦AI、机器人及仿真技术
+  - [infoq][] Luma AI与Wonder Project成立制作公司，推出实时混合电影制作方法
+  - [infoq][] Stripe Projects 新增 Hugging Face、Cloudflare 等多家服务提供
+  - [infoq][] CoreWeave 一周内与 Meta、AnthropicAI 及 Jane Street 达成三项
+  - [infoq][] Anthropic宣布Opus 4.7文档推理能力达80.6%，较前版大幅提升
+  - [infoq][] Cadence 宣布与 NVIDIA 合作推进 AI 工程设计
+  - [infoq][] Google Cloud 宣布 Gemma 4 26B 模型在 Vertex AI 模型即服务中正式
+  - [infoq][] Anthropic 推出 Claude Opus 4.7，强化自主长时任务执行能力
+  - [infoq][] Runway 发布 Seedance 2.0 的 1080p 版本
+  - [infoq][] NVIDIA祝贺OpenAI将Codex扩展至更多软件工作流程
+  - [infoq][] Google 将 Gemini 应用的 Personal Intelligence 功能与 Nano
+  - [infoq][] Google Research提出Simula框架，将合成数据生成视为数据集机制设计问题
+  - [量子位][] PPIO上线PPHermes：云端沙箱一键部署Hermes Agent
+  - [量子位][] 打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施
+  - [量子位][] 世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场
+  - [量子位][] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [aibase][] 波士顿动力机器狗 “Spot” 新升级：搭载谷歌Gemini模型
+  - [aibase][] 阿里ATH事业群开放式世界模型“Happy Oyster”启动内测申请
+  - [aibase][] 科大讯飞新发布的 AI 智能鼠标 AM50 Pro
+  - [aibase][] ​微软补丁引发 Claude Desktop 大崩溃，Anthropic 拒绝修复引争议
+  - [aibase][] 苹果公司差点将 Grok 踢出应用商店，因其未能控制性别化深度伪造内容
+  - [aibase][] ​NVIDIA 推出全球首个开源量子 AI 模型，量子纠错技术提升三倍
+  - [aibase][] 谷歌DeepMind新研究TIPSv2：让AI真正"看懂"图片，而不只是"扫一眼"
+  - [aibase][] 京东发布JoyEgoCam超高清采集终端 构建具身智能训练闭环
+  - [aibase][] 腾讯混元开源视频生成加速方案，11. 8 倍提速，被CVPR2026 收录
+  - [aibase][] 调查显示：美国员工每周因使用 AI 浪费近 8 小时
+  - [aibase][] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+
+[2026-04-17 08:01:27] llm_classify - INPUT: 47条
+============================================================
+  - [huxiu][] OpenAI高管称AI末日论有后果，传播需谨慎
+  - [huxiu][] OpenAI更新Codex应用，增加计算机控制、应用内浏览器、图像生成等新功能
+  - [huxiu][] 谷歌将Gemini应用集成于AI工具，提升用户个性化图像生成
+  - [huxiu][] 微软与斯特兰蒂斯组建联合团队共同开发人工智能项目
+  - [huxiu][] 谷歌TurboQuant提升模型效率或扩大内存芯片需求
+  - [huxiu][] 华为云OfficeClaw办公智能体发起邀测
+  - [huxiu][] 京东首批开放2000小时高精标注具身智能数据集
+  - [huxiu][] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [infoq][] OpenClaw 发布 2026.4.15 版本，支持 Anthropic Opus 4.7 模型
+  - [infoq][] OpenAI CEO 对用户转向Codex表示欢迎，同时表达对潜在限制的担忧
+  - [infoq][] Codex推出集成评论模式的应用内浏览器功能
+  - [infoq][] NVIDIA 发布 Lyra 2.0 AI 框架，可从单张图像生成可探索 3D 环境
+  - [infoq][] NVIDIA Omniverse预告制造业专题讨论，聚焦AI、机器人及仿真技术
+  - [infoq][] Luma AI与Wonder Project成立制作公司，推出实时混合电影制作方法
+  - [infoq][] Stripe Projects 新增 Hugging Face、Cloudflare 等多家服务提供
+  - [infoq][] CoreWeave 一周内与 Meta、AnthropicAI 及 Jane Street 达成三项
+  - [infoq][] Anthropic宣布Opus 4.7文档推理能力达80.6%，较前版大幅提升
+  - [infoq][] Cadence 宣布与 NVIDIA 合作推进 AI 工程设计
+  - [infoq][] Google Cloud 宣布 Gemma 4 26B 模型在 Vertex AI 模型即服务中正式
+  - [infoq][] Anthropic 推出 Claude Opus 4.7，强化自主长时任务执行能力
+  - [infoq][] Runway 发布 Seedance 2.0 的 1080p 版本
+  - [infoq][] NVIDIA祝贺OpenAI将Codex扩展至更多软件工作流程
+  - [infoq][] Google 将 Gemini 应用的 Personal Intelligence 功能与 Nano
+  - [infoq][] Google Research提出Simula框架，将合成数据生成视为数据集机制设计问题
+  - [量子位][] PPIO上线PPHermes：云端沙箱一键部署Hermes Agent
+  - [量子位][] 打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施
+  - [量子位][] 世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场
+  - [量子位][] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [aibase][] 波士顿动力机器狗 “Spot” 新升级：搭载谷歌Gemini模型
+  - [aibase][] 阿里ATH事业群开放式世界模型“Happy Oyster”启动内测申请
+  - [aibase][] 科大讯飞新发布的 AI 智能鼠标 AM50 Pro
+  - [aibase][] ​微软补丁引发 Claude Desktop 大崩溃，Anthropic 拒绝修复引争议
+  - [aibase][] 苹果公司差点将 Grok 踢出应用商店，因其未能控制性别化深度伪造内容
+  - [aibase][] ​NVIDIA 推出全球首个开源量子 AI 模型，量子纠错技术提升三倍
+  - [aibase][] 谷歌DeepMind新研究TIPSv2：让AI真正"看懂"图片，而不只是"扫一眼"
+  - [aibase][] 京东发布JoyEgoCam超高清采集终端 构建具身智能训练闭环
+  - [aibase][] 腾讯混元开源视频生成加速方案，11. 8 倍提速，被CVPR2026 收录
+  - [aibase][] 调查显示：美国员工每周因使用 AI 浪费近 8 小时
+  - [aibase][] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+
+[2026-04-17 08:01:56] llm_classify - OUTPUT: 47条 | 保留47条
+============================================================
+  - [huxiu][国外AI资讯] OpenAI高管称AI末日论有后果，传播需谨慎
+  - [huxiu][国外AI资讯] OpenAI更新Codex应用，增加计算机控制、应用内浏览器、图像生成等新功能
+  - [huxiu][国外AI资讯] 谷歌将Gemini应用集成于AI工具，提升用户个性化图像生成
+  - [huxiu][国外AI资讯] 微软与斯特兰蒂斯组建联合团队共同开发人工智能项目
+  - [huxiu][国外AI资讯] 谷歌TurboQuant提升模型效率或扩大内存芯片需求
+  - [huxiu][国内AI资讯] 华为云OfficeClaw办公智能体发起邀测
+  - [huxiu][国内AI资讯] 京东首批开放2000小时高精标注具身智能数据集
+  - [huxiu][国外AI资讯] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][国内AI资讯] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [infoq][国外AI资讯] OpenClaw 发布 2026.4.15 版本，支持 Anthropic Opus 4.7 模型
+  - [infoq][国外AI资讯] OpenAI CEO 对用户转向Codex表示欢迎，同时表达对潜在限制的担忧
+  - [infoq][国外AI资讯] Codex推出集成评论模式的应用内浏览器功能
+  - [infoq][国外AI资讯] NVIDIA 发布 Lyra 2.0 AI 框架，可从单张图像生成可探索 3D 环境
+  - [infoq][国外AI资讯] NVIDIA Omniverse预告制造业专题讨论，聚焦AI、机器人及仿真技术
+  - [infoq][国外AI资讯] Luma AI与Wonder Project成立制作公司，推出实时混合电影制作方法
+  - [infoq][其它科技资讯] Stripe Projects 新增 Hugging Face、Cloudflare 等多家服务提供
+  - [infoq][国外AI资讯] CoreWeave 一周内与 Meta、AnthropicAI 及 Jane Street 达成三项
+  - [infoq][国外AI资讯] Anthropic宣布Opus 4.7文档推理能力达80.6%，较前版大幅提升
+  - [infoq][国外AI资讯] Cadence 宣布与 NVIDIA 合作推进 AI 工程设计
+  - [infoq][国外AI资讯] Google Cloud 宣布 Gemma 4 26B 模型在 Vertex AI 模型即服务中正式
+  - [infoq][国外AI资讯] Anthropic 推出 Claude Opus 4.7，强化自主长时任务执行能力
+  - [infoq][国外AI资讯] Runway 发布 Seedance 2.0 的 1080p 版本
+  - [infoq][国外AI资讯] NVIDIA祝贺OpenAI将Codex扩展至更多软件工作流程
+  - [infoq][国外AI资讯] Google 将 Gemini 应用的 Personal Intelligence 功能与 Nano
+  - [infoq][国外AI资讯] Google Research提出Simula框架，将合成数据生成视为数据集机制设计问题
+  - [量子位][国内AI资讯] PPIO上线PPHermes：云端沙箱一键部署Hermes Agent
+  - [量子位][国内AI资讯] 打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施
+  - [量子位][智能硬件] 世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场
+  - [量子位][国内AI资讯] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][国内AI资讯] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [aibase][智能硬件] 波士顿动力机器狗 “Spot” 新升级：搭载谷歌Gemini模型
+  - [aibase][国内AI资讯] 阿里ATH事业群开放式世界模型“Happy Oyster”启动内测申请
+  - [aibase][智能硬件] 科大讯飞新发布的 AI 智能鼠标 AM50 Pro
+  - [aibase][国外AI资讯] ​微软补丁引发 Claude Desktop 大崩溃，Anthropic 拒绝修复引争议
+  - [aibase][国外AI资讯] 苹果公司差点将 Grok 踢出应用商店，因其未能控制性别化深度伪造内容
+  - [aibase][国外AI资讯] ​NVIDIA 推出全球首个开源量子 AI 模型，量子纠错技术提升三倍
+  - [aibase][国外AI资讯] 谷歌DeepMind新研究TIPSv2：让AI真正"看懂"图片，而不只是"扫一眼"
+  - [aibase][智能硬件] 京东发布JoyEgoCam超高清采集终端 构建具身智能训练闭环
+  - [aibase][国内AI资讯] 腾讯混元开源视频生成加速方案，11. 8 倍提速，被CVPR2026 收录
+  - [aibase][国外AI资讯] 调查显示：美国员工每周因使用 AI 浪费近 8 小时
+  - [aibase][国外AI资讯] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][国外AI资讯] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][国外AI资讯] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][国内AI资讯] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][国内AI资讯] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][国内AI资讯] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][智能硬件] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+
+[2026-04-17 08:01:56] llm_summary - INPUT: 47条
+============================================================
+  - [huxiu][国外AI资讯] OpenAI高管称AI末日论有后果，传播需谨慎
+  - [huxiu][国外AI资讯] OpenAI更新Codex应用，增加计算机控制、应用内浏览器、图像生成等新功能
+  - [huxiu][国外AI资讯] 谷歌将Gemini应用集成于AI工具，提升用户个性化图像生成
+  - [huxiu][国外AI资讯] 微软与斯特兰蒂斯组建联合团队共同开发人工智能项目
+  - [huxiu][国外AI资讯] 谷歌TurboQuant提升模型效率或扩大内存芯片需求
+  - [huxiu][国内AI资讯] 华为云OfficeClaw办公智能体发起邀测
+  - [huxiu][国内AI资讯] 京东首批开放2000小时高精标注具身智能数据集
+  - [huxiu][国外AI资讯] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][国内AI资讯] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [infoq][国外AI资讯] OpenClaw 发布 2026.4.15 版本，支持 Anthropic Opus 4.7 模型
+  - [infoq][国外AI资讯] OpenAI CEO 对用户转向Codex表示欢迎，同时表达对潜在限制的担忧
+  - [infoq][国外AI资讯] Codex推出集成评论模式的应用内浏览器功能
+  - [infoq][国外AI资讯] NVIDIA 发布 Lyra 2.0 AI 框架，可从单张图像生成可探索 3D 环境
+  - [infoq][国外AI资讯] NVIDIA Omniverse预告制造业专题讨论，聚焦AI、机器人及仿真技术
+  - [infoq][国外AI资讯] Luma AI与Wonder Project成立制作公司，推出实时混合电影制作方法
+  - [infoq][其它科技资讯] Stripe Projects 新增 Hugging Face、Cloudflare 等多家服务提供
+  - [infoq][国外AI资讯] CoreWeave 一周内与 Meta、AnthropicAI 及 Jane Street 达成三项
+  - [infoq][国外AI资讯] Anthropic宣布Opus 4.7文档推理能力达80.6%，较前版大幅提升
+  - [infoq][国外AI资讯] Cadence 宣布与 NVIDIA 合作推进 AI 工程设计
+  - [infoq][国外AI资讯] Google Cloud 宣布 Gemma 4 26B 模型在 Vertex AI 模型即服务中正式
+  - [infoq][国外AI资讯] Anthropic 推出 Claude Opus 4.7，强化自主长时任务执行能力
+  - [infoq][国外AI资讯] Runway 发布 Seedance 2.0 的 1080p 版本
+  - [infoq][国外AI资讯] NVIDIA祝贺OpenAI将Codex扩展至更多软件工作流程
+  - [infoq][国外AI资讯] Google 将 Gemini 应用的 Personal Intelligence 功能与 Nano
+  - [infoq][国外AI资讯] Google Research提出Simula框架，将合成数据生成视为数据集机制设计问题
+  - [量子位][国内AI资讯] PPIO上线PPHermes：云端沙箱一键部署Hermes Agent
+  - [量子位][国内AI资讯] 打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施
+  - [量子位][智能硬件] 世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场
+  - [量子位][国内AI资讯] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][国内AI资讯] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [aibase][智能硬件] 波士顿动力机器狗 “Spot” 新升级：搭载谷歌Gemini模型
+  - [aibase][国内AI资讯] 阿里ATH事业群开放式世界模型“Happy Oyster”启动内测申请
+  - [aibase][智能硬件] 科大讯飞新发布的 AI 智能鼠标 AM50 Pro
+  - [aibase][国外AI资讯] ​微软补丁引发 Claude Desktop 大崩溃，Anthropic 拒绝修复引争议
+  - [aibase][国外AI资讯] 苹果公司差点将 Grok 踢出应用商店，因其未能控制性别化深度伪造内容
+  - [aibase][国外AI资讯] ​NVIDIA 推出全球首个开源量子 AI 模型，量子纠错技术提升三倍
+  - [aibase][国外AI资讯] 谷歌DeepMind新研究TIPSv2：让AI真正"看懂"图片，而不只是"扫一眼"
+  - [aibase][智能硬件] 京东发布JoyEgoCam超高清采集终端 构建具身智能训练闭环
+  - [aibase][国内AI资讯] 腾讯混元开源视频生成加速方案，11. 8 倍提速，被CVPR2026 收录
+  - [aibase][国外AI资讯] 调查显示：美国员工每周因使用 AI 浪费近 8 小时
+  - [aibase][国外AI资讯] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][国外AI资讯] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][国外AI资讯] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][国内AI资讯] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][国内AI资讯] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][国内AI资讯] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][智能硬件] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+
+[2026-04-17 08:02:19] llm_summary - OUTPUT: 47条 | 成功1条
+============================================================
+  - [huxiu][国外AI资讯] OpenAI高管称AI末日论有后果，传播需谨慎
+  - [huxiu][国外AI资讯] OpenAI更新Codex应用，增加计算机控制、应用内浏览器、图像生成等新功能
+  - [huxiu][国外AI资讯] 谷歌将Gemini应用集成于AI工具，提升用户个性化图像生成
+  - [huxiu][国外AI资讯] 微软与斯特兰蒂斯组建联合团队共同开发人工智能项目
+  - [huxiu][国外AI资讯] 谷歌TurboQuant提升模型效率或扩大内存芯片需求
+  - [huxiu][国内AI资讯] 华为云OfficeClaw办公智能体发起邀测
+  - [huxiu][国内AI资讯] 京东首批开放2000小时高精标注具身智能数据集
+  - [huxiu][国外AI资讯] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][国内AI资讯] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [infoq][国外AI资讯] OpenClaw 发布 2026.4.15 版本，支持 Anthropic Opus 4.7 模型
+  - [infoq][国外AI资讯] OpenAI CEO 对用户转向Codex表示欢迎，同时表达对潜在限制的担忧
+  - [infoq][国外AI资讯] Codex推出集成评论模式的应用内浏览器功能
+  - [infoq][国外AI资讯] NVIDIA 发布 Lyra 2.0 AI 框架，可从单张图像生成可探索 3D 环境
+  - [infoq][国外AI资讯] NVIDIA Omniverse预告制造业专题讨论，聚焦AI、机器人及仿真技术
+  - [infoq][国外AI资讯] Luma AI与Wonder Project成立制作公司，推出实时混合电影制作方法
+  - [infoq][其它科技资讯] Stripe Projects 新增 Hugging Face、Cloudflare 等多家服务提供
+  - [infoq][国外AI资讯] CoreWeave 一周内与 Meta、AnthropicAI 及 Jane Street 达成三项
+  - [infoq][国外AI资讯] Anthropic宣布Opus 4.7文档推理能力达80.6%，较前版大幅提升
+  - [infoq][国外AI资讯] Cadence 宣布与 NVIDIA 合作推进 AI 工程设计
+  - [infoq][国外AI资讯] Google Cloud 宣布 Gemma 4 26B 模型在 Vertex AI 模型即服务中正式
+  - [infoq][国外AI资讯] Anthropic 推出 Claude Opus 4.7，强化自主长时任务执行能力
+  - [infoq][国外AI资讯] Runway 发布 Seedance 2.0 的 1080p 版本
+  - [infoq][国外AI资讯] NVIDIA祝贺OpenAI将Codex扩展至更多软件工作流程
+  - [infoq][国外AI资讯] Google 将 Gemini 应用的 Personal Intelligence 功能与 Nano
+  - [infoq][国外AI资讯] Google Research提出Simula框架，将合成数据生成视为数据集机制设计问题
+  - [量子位][国内AI资讯] PPIO上线PPHermes：云端沙箱一键部署Hermes Agent
+  - [量子位][国内AI资讯] 打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施
+  - [量子位][智能硬件] 世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场
+  - [量子位][国内AI资讯] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][国内AI资讯] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [aibase][智能硬件] 波士顿动力机器狗 “Spot” 新升级：搭载谷歌Gemini模型
+  - [aibase][国内AI资讯] 阿里ATH事业群开放式世界模型“Happy Oyster”启动内测申请
+  - [aibase][智能硬件] 科大讯飞新发布的 AI 智能鼠标 AM50 Pro
+  - [aibase][国外AI资讯] ​微软补丁引发 Claude Desktop 大崩溃，Anthropic 拒绝修复引争议
+  - [aibase][国外AI资讯] 苹果公司差点将 Grok 踢出应用商店，因其未能控制性别化深度伪造内容
+  - [aibase][国外AI资讯] ​NVIDIA 推出全球首个开源量子 AI 模型，量子纠错技术提升三倍
+  - [aibase][国外AI资讯] 谷歌DeepMind新研究TIPSv2：让AI真正"看懂"图片，而不只是"扫一眼"
+  - [aibase][智能硬件] 京东发布JoyEgoCam超高清采集终端 构建具身智能训练闭环
+  - [aibase][国内AI资讯] 腾讯混元开源视频生成加速方案，11. 8 倍提速，被CVPR2026 收录
+  - [aibase][国外AI资讯] 调查显示：美国员工每周因使用 AI 浪费近 8 小时
+  - [aibase][国外AI资讯] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][国外AI资讯] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][国外AI资讯] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][国内AI资讯] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][国内AI资讯] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][国内AI资讯] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][智能硬件] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+
+[2026-04-17 08:10:11] keyword_filter - INPUT: 61条
+============================================================
+  - [huxiu][] 商汤拟折价8.6%配售股份筹资逾32亿港元
+  - [huxiu][] OpenAI高管称AI末日论有后果，传播需谨慎
+  - [huxiu][] OpenAI更新Codex应用，增加计算机控制、应用内浏览器、图像生成等新功能
+  - [huxiu][] 谷歌将Gemini应用集成于AI工具，提升用户个性化图像生成
+  - [huxiu][] 微软与斯特兰蒂斯组建联合团队共同开发人工智能项目
+  - [huxiu][] 金融初创公司Slash筹集1亿美元，估值14亿，年化收入近3亿
+  - [huxiu][] 亚马逊支持的X-Energy计划IPO融资8亿美元
+  - [huxiu][] 谷歌TurboQuant提升模型效率或扩大内存芯片需求
+  - [huxiu][] 纽约梅隆银行获OpenAI与安索潘先进模型访问权限
+  - [huxiu][] 华为云OfficeClaw办公智能体发起邀测
+  - [huxiu][] 京东首批开放2000小时高精标注具身智能数据集
+  - [huxiu][] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [huxiu][] 5800亿顺德家电巨头猛攻机器人
+  - [infoq][] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [infoq][] Google Cloud Tech 预告 #GoogleCloudNext 开发者主题演讲后深度技术
+  - [infoq][] OpenClaw 发布 2026.4.15 版本，支持 Anthropic Opus 4.7 模型
+  - [infoq][] OpenAI CEO 对用户转向Codex表示欢迎，同时表达对潜在限制的担忧
+  - [infoq][] Gemini 应用集成 Personal Intelligence 功能以理解用户偏好生成图像
+  - [infoq][] Codex推出集成评论模式的应用内浏览器功能
+  - [infoq][] NVIDIA 发布 Lyra 2.0 AI 框架，可从单张图像生成可探索 3D 环境
+  - [infoq][] NVIDIA Omniverse预告制造业专题讨论，聚焦AI、机器人及仿真技术
+  - [infoq][] Luma AI与Wonder Project成立制作公司，推出实时混合电影制作方法
+  - [infoq][] gdb宣布推出面向生命科学研究的GPT-Rosalind模型
+  - [infoq][] Relativity Space 测试活动与基础设施随硬件生产同步扩展
+  - [infoq][] Stripe Projects 新增 Hugging Face、Cloudflare 等多家服务提供
+  - [infoq][] CoreWeave 一周内与 Meta、AnthropicAI 及 Jane Street 达成三项
+  - [infoq][] Anthropic宣布Opus 4.7文档推理能力达80.6%，较前版大幅提升
+  - [infoq][] Cadence 宣布与 NVIDIA 合作推进 AI 工程设计
+  - [infoq][] Google Cloud 宣布 Gemma 4 26B 模型在 Vertex AI 模型即服务中正式
+  - [infoq][] IDC：B2B技术买家加速决策，但对AI成果与ROI审查趋严
+  - [infoq][] Anthropic 推出 Claude Opus 4.7，强化自主长时任务执行能力
+  - [infoq][] Runway 发布 Seedance 2.0 的 1080p 版本
+  - [infoq][] NVIDIA祝贺OpenAI将Codex扩展至更多软件工作流程
+  - [量子位][] PPIO上线PPHermes：云端沙箱一键部署Hermes Agent
+  - [量子位][] 打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施
+  - [量子位][] 世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场
+  - [量子位][] 它石智航Pre-A轮融资4.55亿美金破中国具身智能纪录，高瓴红杉美团联合领投
+  - [量子位][] 智象未来完成新一轮融资，全力打造下一代原生全模态世界模型
+  - [量子位][] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [aibase][] 波士顿动力机器狗 “Spot” 新升级：搭载谷歌Gemini模型
+  - [aibase][] 阿里ATH事业群开放式世界模型“Happy Oyster”启动内测申请
+  - [aibase][] 科大讯飞新发布的 AI 智能鼠标 AM50 Pro
+  - [aibase][] ​微软补丁引发 Claude Desktop 大崩溃，Anthropic 拒绝修复引争议
+  - [aibase][] 开源AI接口系统NewAPI曝高危支付漏洞 未配置密钥可致“零成本”无限充值
+  - [aibase][] 苹果公司差点将 Grok 踢出应用商店，因其未能控制性别化深度伪造内容
+  - [aibase][] ​NVIDIA 推出全球首个开源量子 AI 模型，量子纠错技术提升三倍
+  - [aibase][] 谷歌DeepMind新研究TIPSv2：让AI真正"看懂"图片，而不只是"扫一眼"
+  - [aibase][] 京东发布JoyEgoCam超高清采集终端 构建具身智能训练闭环
+  - [aibase][] 腾讯混元开源视频生成加速方案，11. 8 倍提速，被CVPR2026 收录
+  - [aibase][] 调查显示：美国员工每周因使用 AI 浪费近 8 小时
+  - [aibase][] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][] 阿里巴巴 ATH 推出开放世界模型 Happy Oyster，开启实时交互体验申请
+  - [aibase][] Anthropic即将发布Claude Opus 4.7及全新AI设计工具 传闻本周内推出
+  - [aibase][] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+
+[2026-04-17 08:10:11] keyword_filter - OUTPUT: 48条 | 移除13条
+============================================================
+  - [huxiu][] OpenAI高管称AI末日论有后果，传播需谨慎
+  - [huxiu][] OpenAI更新Codex应用，增加计算机控制、应用内浏览器、图像生成等新功能
+  - [huxiu][] 谷歌将Gemini应用集成于AI工具，提升用户个性化图像生成
+  - [huxiu][] 微软与斯特兰蒂斯组建联合团队共同开发人工智能项目
+  - [huxiu][] 谷歌TurboQuant提升模型效率或扩大内存芯片需求
+  - [huxiu][] 华为云OfficeClaw办公智能体发起邀测
+  - [huxiu][] 京东首批开放2000小时高精标注具身智能数据集
+  - [huxiu][] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [infoq][] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [infoq][] OpenClaw 发布 2026.4.15 版本，支持 Anthropic Opus 4.7 模型
+  - [infoq][] OpenAI CEO 对用户转向Codex表示欢迎，同时表达对潜在限制的担忧
+  - [infoq][] Gemini 应用集成 Personal Intelligence 功能以理解用户偏好生成图像
+  - [infoq][] Codex推出集成评论模式的应用内浏览器功能
+  - [infoq][] NVIDIA 发布 Lyra 2.0 AI 框架，可从单张图像生成可探索 3D 环境
+  - [infoq][] NVIDIA Omniverse预告制造业专题讨论，聚焦AI、机器人及仿真技术
+  - [infoq][] Luma AI与Wonder Project成立制作公司，推出实时混合电影制作方法
+  - [infoq][] Stripe Projects 新增 Hugging Face、Cloudflare 等多家服务提供
+  - [infoq][] CoreWeave 一周内与 Meta、AnthropicAI 及 Jane Street 达成三项
+  - [infoq][] Anthropic宣布Opus 4.7文档推理能力达80.6%，较前版大幅提升
+  - [infoq][] Cadence 宣布与 NVIDIA 合作推进 AI 工程设计
+  - [infoq][] Google Cloud 宣布 Gemma 4 26B 模型在 Vertex AI 模型即服务中正式
+  - [infoq][] Anthropic 推出 Claude Opus 4.7，强化自主长时任务执行能力
+  - [infoq][] Runway 发布 Seedance 2.0 的 1080p 版本
+  - [infoq][] NVIDIA祝贺OpenAI将Codex扩展至更多软件工作流程
+  - [量子位][] PPIO上线PPHermes：云端沙箱一键部署Hermes Agent
+  - [量子位][] 打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施
+  - [量子位][] 世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场
+  - [量子位][] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [aibase][] 波士顿动力机器狗 “Spot” 新升级：搭载谷歌Gemini模型
+  - [aibase][] 阿里ATH事业群开放式世界模型“Happy Oyster”启动内测申请
+  - [aibase][] 科大讯飞新发布的 AI 智能鼠标 AM50 Pro
+  - [aibase][] ​微软补丁引发 Claude Desktop 大崩溃，Anthropic 拒绝修复引争议
+  - [aibase][] 苹果公司差点将 Grok 踢出应用商店，因其未能控制性别化深度伪造内容
+  - [aibase][] ​NVIDIA 推出全球首个开源量子 AI 模型，量子纠错技术提升三倍
+  - [aibase][] 谷歌DeepMind新研究TIPSv2：让AI真正"看懂"图片，而不只是"扫一眼"
+  - [aibase][] 京东发布JoyEgoCam超高清采集终端 构建具身智能训练闭环
+  - [aibase][] 腾讯混元开源视频生成加速方案，11. 8 倍提速，被CVPR2026 收录
+  - [aibase][] 调查显示：美国员工每周因使用 AI 浪费近 8 小时
+  - [aibase][] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][] 阿里巴巴 ATH 推出开放世界模型 Happy Oyster，开启实时交互体验申请
+  - [aibase][] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+
+[2026-04-17 08:10:11] bge_dedup - INPUT: 48条
+============================================================
+  - [huxiu][] OpenAI高管称AI末日论有后果，传播需谨慎
+  - [huxiu][] OpenAI更新Codex应用，增加计算机控制、应用内浏览器、图像生成等新功能
+  - [huxiu][] 谷歌将Gemini应用集成于AI工具，提升用户个性化图像生成
+  - [huxiu][] 微软与斯特兰蒂斯组建联合团队共同开发人工智能项目
+  - [huxiu][] 谷歌TurboQuant提升模型效率或扩大内存芯片需求
+  - [huxiu][] 华为云OfficeClaw办公智能体发起邀测
+  - [huxiu][] 京东首批开放2000小时高精标注具身智能数据集
+  - [huxiu][] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [infoq][] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [infoq][] OpenClaw 发布 2026.4.15 版本，支持 Anthropic Opus 4.7 模型
+  - [infoq][] OpenAI CEO 对用户转向Codex表示欢迎，同时表达对潜在限制的担忧
+  - [infoq][] Gemini 应用集成 Personal Intelligence 功能以理解用户偏好生成图像
+  - [infoq][] Codex推出集成评论模式的应用内浏览器功能
+  - [infoq][] NVIDIA 发布 Lyra 2.0 AI 框架，可从单张图像生成可探索 3D 环境
+  - [infoq][] NVIDIA Omniverse预告制造业专题讨论，聚焦AI、机器人及仿真技术
+  - [infoq][] Luma AI与Wonder Project成立制作公司，推出实时混合电影制作方法
+  - [infoq][] Stripe Projects 新增 Hugging Face、Cloudflare 等多家服务提供
+  - [infoq][] CoreWeave 一周内与 Meta、AnthropicAI 及 Jane Street 达成三项
+  - [infoq][] Anthropic宣布Opus 4.7文档推理能力达80.6%，较前版大幅提升
+  - [infoq][] Cadence 宣布与 NVIDIA 合作推进 AI 工程设计
+  - [infoq][] Google Cloud 宣布 Gemma 4 26B 模型在 Vertex AI 模型即服务中正式
+  - [infoq][] Anthropic 推出 Claude Opus 4.7，强化自主长时任务执行能力
+  - [infoq][] Runway 发布 Seedance 2.0 的 1080p 版本
+  - [infoq][] NVIDIA祝贺OpenAI将Codex扩展至更多软件工作流程
+  - [量子位][] PPIO上线PPHermes：云端沙箱一键部署Hermes Agent
+  - [量子位][] 打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施
+  - [量子位][] 世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场
+  - [量子位][] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [aibase][] 波士顿动力机器狗 “Spot” 新升级：搭载谷歌Gemini模型
+  - [aibase][] 阿里ATH事业群开放式世界模型“Happy Oyster”启动内测申请
+  - [aibase][] 科大讯飞新发布的 AI 智能鼠标 AM50 Pro
+  - [aibase][] ​微软补丁引发 Claude Desktop 大崩溃，Anthropic 拒绝修复引争议
+  - [aibase][] 苹果公司差点将 Grok 踢出应用商店，因其未能控制性别化深度伪造内容
+  - [aibase][] ​NVIDIA 推出全球首个开源量子 AI 模型，量子纠错技术提升三倍
+  - [aibase][] 谷歌DeepMind新研究TIPSv2：让AI真正"看懂"图片，而不只是"扫一眼"
+  - [aibase][] 京东发布JoyEgoCam超高清采集终端 构建具身智能训练闭环
+  - [aibase][] 腾讯混元开源视频生成加速方案，11. 8 倍提速，被CVPR2026 收录
+  - [aibase][] 调查显示：美国员工每周因使用 AI 浪费近 8 小时
+  - [aibase][] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][] 阿里巴巴 ATH 推出开放世界模型 Happy Oyster，开启实时交互体验申请
+  - [aibase][] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+
+[2026-04-17 08:10:27] bge_dedup - OUTPUT: 46条 | 移除2条
+============================================================
+  - [huxiu][] OpenAI高管称AI末日论有后果，传播需谨慎
+  - [huxiu][] OpenAI更新Codex应用，增加计算机控制、应用内浏览器、图像生成等新功能
+  - [huxiu][] 谷歌将Gemini应用集成于AI工具，提升用户个性化图像生成
+  - [huxiu][] 微软与斯特兰蒂斯组建联合团队共同开发人工智能项目
+  - [huxiu][] 谷歌TurboQuant提升模型效率或扩大内存芯片需求
+  - [huxiu][] 华为云OfficeClaw办公智能体发起邀测
+  - [huxiu][] 京东首批开放2000小时高精标注具身智能数据集
+  - [huxiu][] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [infoq][] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [infoq][] OpenClaw 发布 2026.4.15 版本，支持 Anthropic Opus 4.7 模型
+  - [infoq][] OpenAI CEO 对用户转向Codex表示欢迎，同时表达对潜在限制的担忧
+  - [infoq][] Codex推出集成评论模式的应用内浏览器功能
+  - [infoq][] NVIDIA 发布 Lyra 2.0 AI 框架，可从单张图像生成可探索 3D 环境
+  - [infoq][] NVIDIA Omniverse预告制造业专题讨论，聚焦AI、机器人及仿真技术
+  - [infoq][] Luma AI与Wonder Project成立制作公司，推出实时混合电影制作方法
+  - [infoq][] Stripe Projects 新增 Hugging Face、Cloudflare 等多家服务提供
+  - [infoq][] CoreWeave 一周内与 Meta、AnthropicAI 及 Jane Street 达成三项
+  - [infoq][] Anthropic宣布Opus 4.7文档推理能力达80.6%，较前版大幅提升
+  - [infoq][] Cadence 宣布与 NVIDIA 合作推进 AI 工程设计
+  - [infoq][] Google Cloud 宣布 Gemma 4 26B 模型在 Vertex AI 模型即服务中正式
+  - [infoq][] Anthropic 推出 Claude Opus 4.7，强化自主长时任务执行能力
+  - [infoq][] Runway 发布 Seedance 2.0 的 1080p 版本
+  - [infoq][] NVIDIA祝贺OpenAI将Codex扩展至更多软件工作流程
+  - [量子位][] PPIO上线PPHermes：云端沙箱一键部署Hermes Agent
+  - [量子位][] 打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施
+  - [量子位][] 世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场
+  - [量子位][] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [aibase][] 波士顿动力机器狗 “Spot” 新升级：搭载谷歌Gemini模型
+  - [aibase][] 阿里ATH事业群开放式世界模型“Happy Oyster”启动内测申请
+  - [aibase][] 科大讯飞新发布的 AI 智能鼠标 AM50 Pro
+  - [aibase][] ​微软补丁引发 Claude Desktop 大崩溃，Anthropic 拒绝修复引争议
+  - [aibase][] 苹果公司差点将 Grok 踢出应用商店，因其未能控制性别化深度伪造内容
+  - [aibase][] ​NVIDIA 推出全球首个开源量子 AI 模型，量子纠错技术提升三倍
+  - [aibase][] 谷歌DeepMind新研究TIPSv2：让AI真正"看懂"图片，而不只是"扫一眼"
+  - [aibase][] 京东发布JoyEgoCam超高清采集终端 构建具身智能训练闭环
+  - [aibase][] 腾讯混元开源视频生成加速方案，11. 8 倍提速，被CVPR2026 收录
+  - [aibase][] 调查显示：美国员工每周因使用 AI 浪费近 8 小时
+  - [aibase][] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+
+[2026-04-17 08:10:27] llm_classify - INPUT: 46条
+============================================================
+  - [huxiu][] OpenAI高管称AI末日论有后果，传播需谨慎
+  - [huxiu][] OpenAI更新Codex应用，增加计算机控制、应用内浏览器、图像生成等新功能
+  - [huxiu][] 谷歌将Gemini应用集成于AI工具，提升用户个性化图像生成
+  - [huxiu][] 微软与斯特兰蒂斯组建联合团队共同开发人工智能项目
+  - [huxiu][] 谷歌TurboQuant提升模型效率或扩大内存芯片需求
+  - [huxiu][] 华为云OfficeClaw办公智能体发起邀测
+  - [huxiu][] 京东首批开放2000小时高精标注具身智能数据集
+  - [huxiu][] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [infoq][] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [infoq][] OpenClaw 发布 2026.4.15 版本，支持 Anthropic Opus 4.7 模型
+  - [infoq][] OpenAI CEO 对用户转向Codex表示欢迎，同时表达对潜在限制的担忧
+  - [infoq][] Codex推出集成评论模式的应用内浏览器功能
+  - [infoq][] NVIDIA 发布 Lyra 2.0 AI 框架，可从单张图像生成可探索 3D 环境
+  - [infoq][] NVIDIA Omniverse预告制造业专题讨论，聚焦AI、机器人及仿真技术
+  - [infoq][] Luma AI与Wonder Project成立制作公司，推出实时混合电影制作方法
+  - [infoq][] Stripe Projects 新增 Hugging Face、Cloudflare 等多家服务提供
+  - [infoq][] CoreWeave 一周内与 Meta、AnthropicAI 及 Jane Street 达成三项
+  - [infoq][] Anthropic宣布Opus 4.7文档推理能力达80.6%，较前版大幅提升
+  - [infoq][] Cadence 宣布与 NVIDIA 合作推进 AI 工程设计
+  - [infoq][] Google Cloud 宣布 Gemma 4 26B 模型在 Vertex AI 模型即服务中正式
+  - [infoq][] Anthropic 推出 Claude Opus 4.7，强化自主长时任务执行能力
+  - [infoq][] Runway 发布 Seedance 2.0 的 1080p 版本
+  - [infoq][] NVIDIA祝贺OpenAI将Codex扩展至更多软件工作流程
+  - [量子位][] PPIO上线PPHermes：云端沙箱一键部署Hermes Agent
+  - [量子位][] 打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施
+  - [量子位][] 世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场
+  - [量子位][] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [aibase][] 波士顿动力机器狗 “Spot” 新升级：搭载谷歌Gemini模型
+  - [aibase][] 阿里ATH事业群开放式世界模型“Happy Oyster”启动内测申请
+  - [aibase][] 科大讯飞新发布的 AI 智能鼠标 AM50 Pro
+  - [aibase][] ​微软补丁引发 Claude Desktop 大崩溃，Anthropic 拒绝修复引争议
+  - [aibase][] 苹果公司差点将 Grok 踢出应用商店，因其未能控制性别化深度伪造内容
+  - [aibase][] ​NVIDIA 推出全球首个开源量子 AI 模型，量子纠错技术提升三倍
+  - [aibase][] 谷歌DeepMind新研究TIPSv2：让AI真正"看懂"图片，而不只是"扫一眼"
+  - [aibase][] 京东发布JoyEgoCam超高清采集终端 构建具身智能训练闭环
+  - [aibase][] 腾讯混元开源视频生成加速方案，11. 8 倍提速，被CVPR2026 收录
+  - [aibase][] 调查显示：美国员工每周因使用 AI 浪费近 8 小时
+  - [aibase][] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+
+[2026-04-17 08:11:17] llm_classify - OUTPUT: 46条 | 保留46条
+============================================================
+  - [huxiu][国外AI资讯] OpenAI高管称AI末日论有后果，传播需谨慎
+  - [huxiu][国外AI资讯] OpenAI更新Codex应用，增加计算机控制、应用内浏览器、图像生成等新功能
+  - [huxiu][国外AI资讯] 谷歌将Gemini应用集成于AI工具，提升用户个性化图像生成
+  - [huxiu][国外AI资讯] 微软与斯特兰蒂斯组建联合团队共同开发人工智能项目
+  - [huxiu][国外AI资讯] 谷歌TurboQuant提升模型效率或扩大内存芯片需求
+  - [huxiu][国内AI资讯] 华为云OfficeClaw办公智能体发起邀测
+  - [huxiu][国内AI资讯] 京东首批开放2000小时高精标注具身智能数据集
+  - [huxiu][国外AI资讯] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][国内AI资讯] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [infoq][国外AI资讯] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [infoq][国外AI资讯] OpenClaw 发布 2026.4.15 版本，支持 Anthropic Opus 4.7 模型
+  - [infoq][国外AI资讯] OpenAI CEO 对用户转向Codex表示欢迎，同时表达对潜在限制的担忧
+  - [infoq][国外AI资讯] Codex推出集成评论模式的应用内浏览器功能
+  - [infoq][国外AI资讯] NVIDIA 发布 Lyra 2.0 AI 框架，可从单张图像生成可探索 3D 环境
+  - [infoq][国外AI资讯] NVIDIA Omniverse预告制造业专题讨论，聚焦AI、机器人及仿真技术
+  - [infoq][国外AI资讯] Luma AI与Wonder Project成立制作公司，推出实时混合电影制作方法
+  - [infoq][国外AI资讯] Stripe Projects 新增 Hugging Face、Cloudflare 等多家服务提供
+  - [infoq][国外AI资讯] CoreWeave 一周内与 Meta、AnthropicAI 及 Jane Street 达成三项
+  - [infoq][国外AI资讯] Anthropic宣布Opus 4.7文档推理能力达80.6%，较前版大幅提升
+  - [infoq][国外AI资讯] Cadence 宣布与 NVIDIA 合作推进 AI 工程设计
+  - [infoq][国外AI资讯] Google Cloud 宣布 Gemma 4 26B 模型在 Vertex AI 模型即服务中正式
+  - [infoq][国外AI资讯] Anthropic 推出 Claude Opus 4.7，强化自主长时任务执行能力
+  - [infoq][国外AI资讯] Runway 发布 Seedance 2.0 的 1080p 版本
+  - [infoq][国外AI资讯] NVIDIA祝贺OpenAI将Codex扩展至更多软件工作流程
+  - [量子位][国内AI资讯] PPIO上线PPHermes：云端沙箱一键部署Hermes Agent
+  - [量子位][国内AI资讯] 打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施
+  - [量子位][智能硬件] 世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场
+  - [量子位][国内AI资讯] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][国内AI资讯] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [aibase][智能硬件] 波士顿动力机器狗 “Spot” 新升级：搭载谷歌Gemini模型
+  - [aibase][国内AI资讯] 阿里ATH事业群开放式世界模型“Happy Oyster”启动内测申请
+  - [aibase][智能硬件] 科大讯飞新发布的 AI 智能鼠标 AM50 Pro
+  - [aibase][国外AI资讯] ​微软补丁引发 Claude Desktop 大崩溃，Anthropic 拒绝修复引争议
+  - [aibase][国外AI资讯] 苹果公司差点将 Grok 踢出应用商店，因其未能控制性别化深度伪造内容
+  - [aibase][国外AI资讯] ​NVIDIA 推出全球首个开源量子 AI 模型，量子纠错技术提升三倍
+  - [aibase][国外AI资讯] 谷歌DeepMind新研究TIPSv2：让AI真正"看懂"图片，而不只是"扫一眼"
+  - [aibase][智能硬件] 京东发布JoyEgoCam超高清采集终端 构建具身智能训练闭环
+  - [aibase][国内AI资讯] 腾讯混元开源视频生成加速方案，11. 8 倍提速，被CVPR2026 收录
+  - [aibase][其它科技资讯] 调查显示：美国员工每周因使用 AI 浪费近 8 小时
+  - [aibase][国外AI资讯] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][国外AI资讯] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][其它科技资讯] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][国内AI资讯] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][国内AI资讯] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][国外AI资讯] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][智能硬件] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+
+[2026-04-17 08:11:17] llm_summary - INPUT: 46条
+============================================================
+  - [huxiu][国外AI资讯] OpenAI高管称AI末日论有后果，传播需谨慎
+  - [huxiu][国外AI资讯] OpenAI更新Codex应用，增加计算机控制、应用内浏览器、图像生成等新功能
+  - [huxiu][国外AI资讯] 谷歌将Gemini应用集成于AI工具，提升用户个性化图像生成
+  - [huxiu][国外AI资讯] 微软与斯特兰蒂斯组建联合团队共同开发人工智能项目
+  - [huxiu][国外AI资讯] 谷歌TurboQuant提升模型效率或扩大内存芯片需求
+  - [huxiu][国内AI资讯] 华为云OfficeClaw办公智能体发起邀测
+  - [huxiu][国内AI资讯] 京东首批开放2000小时高精标注具身智能数据集
+  - [huxiu][国外AI资讯] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][国内AI资讯] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [infoq][国外AI资讯] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [infoq][国外AI资讯] OpenClaw 发布 2026.4.15 版本，支持 Anthropic Opus 4.7 模型
+  - [infoq][国外AI资讯] OpenAI CEO 对用户转向Codex表示欢迎，同时表达对潜在限制的担忧
+  - [infoq][国外AI资讯] Codex推出集成评论模式的应用内浏览器功能
+  - [infoq][国外AI资讯] NVIDIA 发布 Lyra 2.0 AI 框架，可从单张图像生成可探索 3D 环境
+  - [infoq][国外AI资讯] NVIDIA Omniverse预告制造业专题讨论，聚焦AI、机器人及仿真技术
+  - [infoq][国外AI资讯] Luma AI与Wonder Project成立制作公司，推出实时混合电影制作方法
+  - [infoq][国外AI资讯] Stripe Projects 新增 Hugging Face、Cloudflare 等多家服务提供
+  - [infoq][国外AI资讯] CoreWeave 一周内与 Meta、AnthropicAI 及 Jane Street 达成三项
+  - [infoq][国外AI资讯] Anthropic宣布Opus 4.7文档推理能力达80.6%，较前版大幅提升
+  - [infoq][国外AI资讯] Cadence 宣布与 NVIDIA 合作推进 AI 工程设计
+  - [infoq][国外AI资讯] Google Cloud 宣布 Gemma 4 26B 模型在 Vertex AI 模型即服务中正式
+  - [infoq][国外AI资讯] Anthropic 推出 Claude Opus 4.7，强化自主长时任务执行能力
+  - [infoq][国外AI资讯] Runway 发布 Seedance 2.0 的 1080p 版本
+  - [infoq][国外AI资讯] NVIDIA祝贺OpenAI将Codex扩展至更多软件工作流程
+  - [量子位][国内AI资讯] PPIO上线PPHermes：云端沙箱一键部署Hermes Agent
+  - [量子位][国内AI资讯] 打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施
+  - [量子位][智能硬件] 世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场
+  - [量子位][国内AI资讯] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][国内AI资讯] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [aibase][智能硬件] 波士顿动力机器狗 “Spot” 新升级：搭载谷歌Gemini模型
+  - [aibase][国内AI资讯] 阿里ATH事业群开放式世界模型“Happy Oyster”启动内测申请
+  - [aibase][智能硬件] 科大讯飞新发布的 AI 智能鼠标 AM50 Pro
+  - [aibase][国外AI资讯] ​微软补丁引发 Claude Desktop 大崩溃，Anthropic 拒绝修复引争议
+  - [aibase][国外AI资讯] 苹果公司差点将 Grok 踢出应用商店，因其未能控制性别化深度伪造内容
+  - [aibase][国外AI资讯] ​NVIDIA 推出全球首个开源量子 AI 模型，量子纠错技术提升三倍
+  - [aibase][国外AI资讯] 谷歌DeepMind新研究TIPSv2：让AI真正"看懂"图片，而不只是"扫一眼"
+  - [aibase][智能硬件] 京东发布JoyEgoCam超高清采集终端 构建具身智能训练闭环
+  - [aibase][国内AI资讯] 腾讯混元开源视频生成加速方案，11. 8 倍提速，被CVPR2026 收录
+  - [aibase][其它科技资讯] 调查显示：美国员工每周因使用 AI 浪费近 8 小时
+  - [aibase][国外AI资讯] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][国外AI资讯] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][其它科技资讯] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][国内AI资讯] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][国内AI资讯] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][国外AI资讯] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][智能硬件] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+
+[2026-04-17 08:11:38] llm_summary - OUTPUT: 46条 | 成功3条
+============================================================
+  - [huxiu][国外AI资讯] OpenAI高管称AI末日论有后果，传播需谨慎
+  - [huxiu][国外AI资讯] OpenAI更新Codex应用，增加计算机控制、应用内浏览器、图像生成等新功能
+  - [huxiu][国外AI资讯] 谷歌将Gemini应用集成于AI工具，提升用户个性化图像生成
+  - [huxiu][国外AI资讯] 微软与斯特兰蒂斯组建联合团队共同开发人工智能项目
+  - [huxiu][国外AI资讯] 谷歌TurboQuant提升模型效率或扩大内存芯片需求
+  - [huxiu][国内AI资讯] 华为云OfficeClaw办公智能体发起邀测
+  - [huxiu][国内AI资讯] 京东首批开放2000小时高精标注具身智能数据集
+  - [huxiu][国外AI资讯] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][国内AI资讯] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [infoq][国外AI资讯] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [infoq][国外AI资讯] OpenClaw 发布 2026.4.15 版本，支持 Anthropic Opus 4.7 模型
+  - [infoq][国外AI资讯] OpenAI CEO 对用户转向Codex表示欢迎，同时表达对潜在限制的担忧
+  - [infoq][国外AI资讯] Codex推出集成评论模式的应用内浏览器功能
+  - [infoq][国外AI资讯] NVIDIA 发布 Lyra 2.0 AI 框架，可从单张图像生成可探索 3D 环境
+  - [infoq][国外AI资讯] NVIDIA Omniverse预告制造业专题讨论，聚焦AI、机器人及仿真技术
+  - [infoq][国外AI资讯] Luma AI与Wonder Project成立制作公司，推出实时混合电影制作方法
+  - [infoq][国外AI资讯] Stripe Projects 新增 Hugging Face、Cloudflare 等多家服务提供
+  - [infoq][国外AI资讯] CoreWeave 一周内与 Meta、AnthropicAI 及 Jane Street 达成三项
+  - [infoq][国外AI资讯] Anthropic宣布Opus 4.7文档推理能力达80.6%，较前版大幅提升
+  - [infoq][国外AI资讯] Cadence 宣布与 NVIDIA 合作推进 AI 工程设计
+  - [infoq][国外AI资讯] Google Cloud 宣布 Gemma 4 26B 模型在 Vertex AI 模型即服务中正式
+  - [infoq][国外AI资讯] Anthropic 推出 Claude Opus 4.7，强化自主长时任务执行能力
+  - [infoq][国外AI资讯] Runway 发布 Seedance 2.0 的 1080p 版本
+  - [infoq][国外AI资讯] NVIDIA祝贺OpenAI将Codex扩展至更多软件工作流程
+  - [量子位][国内AI资讯] PPIO上线PPHermes：云端沙箱一键部署Hermes Agent
+  - [量子位][国内AI资讯] 打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施
+  - [量子位][智能硬件] 世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场
+  - [量子位][国内AI资讯] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][国内AI资讯] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [aibase][智能硬件] 波士顿动力机器狗 “Spot” 新升级：搭载谷歌Gemini模型
+  - [aibase][国内AI资讯] 阿里ATH事业群开放式世界模型“Happy Oyster”启动内测申请
+  - [aibase][智能硬件] 科大讯飞新发布的 AI 智能鼠标 AM50 Pro
+  - [aibase][国外AI资讯] ​微软补丁引发 Claude Desktop 大崩溃，Anthropic 拒绝修复引争议
+  - [aibase][国外AI资讯] 苹果公司差点将 Grok 踢出应用商店，因其未能控制性别化深度伪造内容
+  - [aibase][国外AI资讯] ​NVIDIA 推出全球首个开源量子 AI 模型，量子纠错技术提升三倍
+  - [aibase][国外AI资讯] 谷歌DeepMind新研究TIPSv2：让AI真正"看懂"图片，而不只是"扫一眼"
+  - [aibase][智能硬件] 京东发布JoyEgoCam超高清采集终端 构建具身智能训练闭环
+  - [aibase][国内AI资讯] 腾讯混元开源视频生成加速方案，11. 8 倍提速，被CVPR2026 收录
+  - [aibase][其它科技资讯] 调查显示：美国员工每周因使用 AI 浪费近 8 小时
+  - [aibase][国外AI资讯] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][国外AI资讯] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][其它科技资讯] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][国内AI资讯] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][国内AI资讯] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][国外AI资讯] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][智能硬件] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+
+[2026-04-17 08:12:24] keyword_filter - INPUT: 61条
+============================================================
+  - [huxiu][] 商汤拟折价8.6%配售股份筹资逾32亿港元
+  - [huxiu][] OpenAI高管称AI末日论有后果，传播需谨慎
+  - [huxiu][] OpenAI更新Codex应用，增加计算机控制、应用内浏览器、图像生成等新功能
+  - [huxiu][] 谷歌将Gemini应用集成于AI工具，提升用户个性化图像生成
+  - [huxiu][] 微软与斯特兰蒂斯组建联合团队共同开发人工智能项目
+  - [huxiu][] 金融初创公司Slash筹集1亿美元，估值14亿，年化收入近3亿
+  - [huxiu][] 亚马逊支持的X-Energy计划IPO融资8亿美元
+  - [huxiu][] 谷歌TurboQuant提升模型效率或扩大内存芯片需求
+  - [huxiu][] 纽约梅隆银行获OpenAI与安索潘先进模型访问权限
+  - [huxiu][] 华为云OfficeClaw办公智能体发起邀测
+  - [huxiu][] 京东首批开放2000小时高精标注具身智能数据集
+  - [huxiu][] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [huxiu][] 5800亿顺德家电巨头猛攻机器人
+  - [infoq][] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [infoq][] Google Cloud Tech 预告 #GoogleCloudNext 开发者主题演讲后深度技术
+  - [infoq][] OpenClaw 发布 2026.4.15 版本，支持 Anthropic Opus 4.7 模型
+  - [infoq][] OpenAI CEO 对用户转向Codex表示欢迎，同时表达对潜在限制的担忧
+  - [infoq][] Gemini 应用集成 Personal Intelligence 功能以理解用户偏好生成图像
+  - [infoq][] Codex推出集成评论模式的应用内浏览器功能
+  - [infoq][] NVIDIA 发布 Lyra 2.0 AI 框架，可从单张图像生成可探索 3D 环境
+  - [infoq][] NVIDIA Omniverse预告制造业专题讨论，聚焦AI、机器人及仿真技术
+  - [infoq][] Luma AI与Wonder Project成立制作公司，推出实时混合电影制作方法
+  - [infoq][] gdb宣布推出面向生命科学研究的GPT-Rosalind模型
+  - [infoq][] Relativity Space 测试活动与基础设施随硬件生产同步扩展
+  - [infoq][] Stripe Projects 新增 Hugging Face、Cloudflare 等多家服务提供
+  - [infoq][] CoreWeave 一周内与 Meta、AnthropicAI 及 Jane Street 达成三项
+  - [infoq][] Anthropic宣布Opus 4.7文档推理能力达80.6%，较前版大幅提升
+  - [infoq][] Cadence 宣布与 NVIDIA 合作推进 AI 工程设计
+  - [infoq][] Google Cloud 宣布 Gemma 4 26B 模型在 Vertex AI 模型即服务中正式
+  - [infoq][] IDC：B2B技术买家加速决策，但对AI成果与ROI审查趋严
+  - [infoq][] Anthropic 推出 Claude Opus 4.7，强化自主长时任务执行能力
+  - [infoq][] Runway 发布 Seedance 2.0 的 1080p 版本
+  - [infoq][] NVIDIA祝贺OpenAI将Codex扩展至更多软件工作流程
+  - [量子位][] PPIO上线PPHermes：云端沙箱一键部署Hermes Agent
+  - [量子位][] 打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施
+  - [量子位][] 世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场
+  - [量子位][] 它石智航Pre-A轮融资4.55亿美金破中国具身智能纪录，高瓴红杉美团联合领投
+  - [量子位][] 智象未来完成新一轮融资，全力打造下一代原生全模态世界模型
+  - [量子位][] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [aibase][] 波士顿动力机器狗 “Spot” 新升级：搭载谷歌Gemini模型
+  - [aibase][] 阿里ATH事业群开放式世界模型“Happy Oyster”启动内测申请
+  - [aibase][] 科大讯飞新发布的 AI 智能鼠标 AM50 Pro
+  - [aibase][] ​微软补丁引发 Claude Desktop 大崩溃，Anthropic 拒绝修复引争议
+  - [aibase][] 开源AI接口系统NewAPI曝高危支付漏洞 未配置密钥可致“零成本”无限充值
+  - [aibase][] 苹果公司差点将 Grok 踢出应用商店，因其未能控制性别化深度伪造内容
+  - [aibase][] ​NVIDIA 推出全球首个开源量子 AI 模型，量子纠错技术提升三倍
+  - [aibase][] 谷歌DeepMind新研究TIPSv2：让AI真正"看懂"图片，而不只是"扫一眼"
+  - [aibase][] 京东发布JoyEgoCam超高清采集终端 构建具身智能训练闭环
+  - [aibase][] 腾讯混元开源视频生成加速方案，11. 8 倍提速，被CVPR2026 收录
+  - [aibase][] 调查显示：美国员工每周因使用 AI 浪费近 8 小时
+  - [aibase][] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][] 阿里巴巴 ATH 推出开放世界模型 Happy Oyster，开启实时交互体验申请
+  - [aibase][] Anthropic即将发布Claude Opus 4.7及全新AI设计工具 传闻本周内推出
+  - [aibase][] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+
+[2026-04-17 08:12:24] keyword_filter - OUTPUT: 48条 | 移除13条
+============================================================
+  - [huxiu][] OpenAI高管称AI末日论有后果，传播需谨慎
+  - [huxiu][] OpenAI更新Codex应用，增加计算机控制、应用内浏览器、图像生成等新功能
+  - [huxiu][] 谷歌将Gemini应用集成于AI工具，提升用户个性化图像生成
+  - [huxiu][] 微软与斯特兰蒂斯组建联合团队共同开发人工智能项目
+  - [huxiu][] 谷歌TurboQuant提升模型效率或扩大内存芯片需求
+  - [huxiu][] 华为云OfficeClaw办公智能体发起邀测
+  - [huxiu][] 京东首批开放2000小时高精标注具身智能数据集
+  - [huxiu][] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [infoq][] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [infoq][] OpenClaw 发布 2026.4.15 版本，支持 Anthropic Opus 4.7 模型
+  - [infoq][] OpenAI CEO 对用户转向Codex表示欢迎，同时表达对潜在限制的担忧
+  - [infoq][] Gemini 应用集成 Personal Intelligence 功能以理解用户偏好生成图像
+  - [infoq][] Codex推出集成评论模式的应用内浏览器功能
+  - [infoq][] NVIDIA 发布 Lyra 2.0 AI 框架，可从单张图像生成可探索 3D 环境
+  - [infoq][] NVIDIA Omniverse预告制造业专题讨论，聚焦AI、机器人及仿真技术
+  - [infoq][] Luma AI与Wonder Project成立制作公司，推出实时混合电影制作方法
+  - [infoq][] Stripe Projects 新增 Hugging Face、Cloudflare 等多家服务提供
+  - [infoq][] CoreWeave 一周内与 Meta、AnthropicAI 及 Jane Street 达成三项
+  - [infoq][] Anthropic宣布Opus 4.7文档推理能力达80.6%，较前版大幅提升
+  - [infoq][] Cadence 宣布与 NVIDIA 合作推进 AI 工程设计
+  - [infoq][] Google Cloud 宣布 Gemma 4 26B 模型在 Vertex AI 模型即服务中正式
+  - [infoq][] Anthropic 推出 Claude Opus 4.7，强化自主长时任务执行能力
+  - [infoq][] Runway 发布 Seedance 2.0 的 1080p 版本
+  - [infoq][] NVIDIA祝贺OpenAI将Codex扩展至更多软件工作流程
+  - [量子位][] PPIO上线PPHermes：云端沙箱一键部署Hermes Agent
+  - [量子位][] 打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施
+  - [量子位][] 世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场
+  - [量子位][] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [aibase][] 波士顿动力机器狗 “Spot” 新升级：搭载谷歌Gemini模型
+  - [aibase][] 阿里ATH事业群开放式世界模型“Happy Oyster”启动内测申请
+  - [aibase][] 科大讯飞新发布的 AI 智能鼠标 AM50 Pro
+  - [aibase][] ​微软补丁引发 Claude Desktop 大崩溃，Anthropic 拒绝修复引争议
+  - [aibase][] 苹果公司差点将 Grok 踢出应用商店，因其未能控制性别化深度伪造内容
+  - [aibase][] ​NVIDIA 推出全球首个开源量子 AI 模型，量子纠错技术提升三倍
+  - [aibase][] 谷歌DeepMind新研究TIPSv2：让AI真正"看懂"图片，而不只是"扫一眼"
+  - [aibase][] 京东发布JoyEgoCam超高清采集终端 构建具身智能训练闭环
+  - [aibase][] 腾讯混元开源视频生成加速方案，11. 8 倍提速，被CVPR2026 收录
+  - [aibase][] 调查显示：美国员工每周因使用 AI 浪费近 8 小时
+  - [aibase][] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][] 阿里巴巴 ATH 推出开放世界模型 Happy Oyster，开启实时交互体验申请
+  - [aibase][] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+
+[2026-04-17 08:12:24] bge_dedup - INPUT: 48条
+============================================================
+  - [huxiu][] OpenAI高管称AI末日论有后果，传播需谨慎
+  - [huxiu][] OpenAI更新Codex应用，增加计算机控制、应用内浏览器、图像生成等新功能
+  - [huxiu][] 谷歌将Gemini应用集成于AI工具，提升用户个性化图像生成
+  - [huxiu][] 微软与斯特兰蒂斯组建联合团队共同开发人工智能项目
+  - [huxiu][] 谷歌TurboQuant提升模型效率或扩大内存芯片需求
+  - [huxiu][] 华为云OfficeClaw办公智能体发起邀测
+  - [huxiu][] 京东首批开放2000小时高精标注具身智能数据集
+  - [huxiu][] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [infoq][] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [infoq][] OpenClaw 发布 2026.4.15 版本，支持 Anthropic Opus 4.7 模型
+  - [infoq][] OpenAI CEO 对用户转向Codex表示欢迎，同时表达对潜在限制的担忧
+  - [infoq][] Gemini 应用集成 Personal Intelligence 功能以理解用户偏好生成图像
+  - [infoq][] Codex推出集成评论模式的应用内浏览器功能
+  - [infoq][] NVIDIA 发布 Lyra 2.0 AI 框架，可从单张图像生成可探索 3D 环境
+  - [infoq][] NVIDIA Omniverse预告制造业专题讨论，聚焦AI、机器人及仿真技术
+  - [infoq][] Luma AI与Wonder Project成立制作公司，推出实时混合电影制作方法
+  - [infoq][] Stripe Projects 新增 Hugging Face、Cloudflare 等多家服务提供
+  - [infoq][] CoreWeave 一周内与 Meta、AnthropicAI 及 Jane Street 达成三项
+  - [infoq][] Anthropic宣布Opus 4.7文档推理能力达80.6%，较前版大幅提升
+  - [infoq][] Cadence 宣布与 NVIDIA 合作推进 AI 工程设计
+  - [infoq][] Google Cloud 宣布 Gemma 4 26B 模型在 Vertex AI 模型即服务中正式
+  - [infoq][] Anthropic 推出 Claude Opus 4.7，强化自主长时任务执行能力
+  - [infoq][] Runway 发布 Seedance 2.0 的 1080p 版本
+  - [infoq][] NVIDIA祝贺OpenAI将Codex扩展至更多软件工作流程
+  - [量子位][] PPIO上线PPHermes：云端沙箱一键部署Hermes Agent
+  - [量子位][] 打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施
+  - [量子位][] 世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场
+  - [量子位][] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [aibase][] 波士顿动力机器狗 “Spot” 新升级：搭载谷歌Gemini模型
+  - [aibase][] 阿里ATH事业群开放式世界模型“Happy Oyster”启动内测申请
+  - [aibase][] 科大讯飞新发布的 AI 智能鼠标 AM50 Pro
+  - [aibase][] ​微软补丁引发 Claude Desktop 大崩溃，Anthropic 拒绝修复引争议
+  - [aibase][] 苹果公司差点将 Grok 踢出应用商店，因其未能控制性别化深度伪造内容
+  - [aibase][] ​NVIDIA 推出全球首个开源量子 AI 模型，量子纠错技术提升三倍
+  - [aibase][] 谷歌DeepMind新研究TIPSv2：让AI真正"看懂"图片，而不只是"扫一眼"
+  - [aibase][] 京东发布JoyEgoCam超高清采集终端 构建具身智能训练闭环
+  - [aibase][] 腾讯混元开源视频生成加速方案，11. 8 倍提速，被CVPR2026 收录
+  - [aibase][] 调查显示：美国员工每周因使用 AI 浪费近 8 小时
+  - [aibase][] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][] 阿里巴巴 ATH 推出开放世界模型 Happy Oyster，开启实时交互体验申请
+  - [aibase][] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+
+[2026-04-17 08:12:40] bge_dedup - OUTPUT: 46条 | 移除2条
+============================================================
+  - [huxiu][] OpenAI高管称AI末日论有后果，传播需谨慎
+  - [huxiu][] OpenAI更新Codex应用，增加计算机控制、应用内浏览器、图像生成等新功能
+  - [huxiu][] 谷歌将Gemini应用集成于AI工具，提升用户个性化图像生成
+  - [huxiu][] 微软与斯特兰蒂斯组建联合团队共同开发人工智能项目
+  - [huxiu][] 谷歌TurboQuant提升模型效率或扩大内存芯片需求
+  - [huxiu][] 华为云OfficeClaw办公智能体发起邀测
+  - [huxiu][] 京东首批开放2000小时高精标注具身智能数据集
+  - [huxiu][] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [infoq][] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [infoq][] OpenClaw 发布 2026.4.15 版本，支持 Anthropic Opus 4.7 模型
+  - [infoq][] OpenAI CEO 对用户转向Codex表示欢迎，同时表达对潜在限制的担忧
+  - [infoq][] Codex推出集成评论模式的应用内浏览器功能
+  - [infoq][] NVIDIA 发布 Lyra 2.0 AI 框架，可从单张图像生成可探索 3D 环境
+  - [infoq][] NVIDIA Omniverse预告制造业专题讨论，聚焦AI、机器人及仿真技术
+  - [infoq][] Luma AI与Wonder Project成立制作公司，推出实时混合电影制作方法
+  - [infoq][] Stripe Projects 新增 Hugging Face、Cloudflare 等多家服务提供
+  - [infoq][] CoreWeave 一周内与 Meta、AnthropicAI 及 Jane Street 达成三项
+  - [infoq][] Anthropic宣布Opus 4.7文档推理能力达80.6%，较前版大幅提升
+  - [infoq][] Cadence 宣布与 NVIDIA 合作推进 AI 工程设计
+  - [infoq][] Google Cloud 宣布 Gemma 4 26B 模型在 Vertex AI 模型即服务中正式
+  - [infoq][] Anthropic 推出 Claude Opus 4.7，强化自主长时任务执行能力
+  - [infoq][] Runway 发布 Seedance 2.0 的 1080p 版本
+  - [infoq][] NVIDIA祝贺OpenAI将Codex扩展至更多软件工作流程
+  - [量子位][] PPIO上线PPHermes：云端沙箱一键部署Hermes Agent
+  - [量子位][] 打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施
+  - [量子位][] 世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场
+  - [量子位][] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [aibase][] 波士顿动力机器狗 “Spot” 新升级：搭载谷歌Gemini模型
+  - [aibase][] 阿里ATH事业群开放式世界模型“Happy Oyster”启动内测申请
+  - [aibase][] 科大讯飞新发布的 AI 智能鼠标 AM50 Pro
+  - [aibase][] ​微软补丁引发 Claude Desktop 大崩溃，Anthropic 拒绝修复引争议
+  - [aibase][] 苹果公司差点将 Grok 踢出应用商店，因其未能控制性别化深度伪造内容
+  - [aibase][] ​NVIDIA 推出全球首个开源量子 AI 模型，量子纠错技术提升三倍
+  - [aibase][] 谷歌DeepMind新研究TIPSv2：让AI真正"看懂"图片，而不只是"扫一眼"
+  - [aibase][] 京东发布JoyEgoCam超高清采集终端 构建具身智能训练闭环
+  - [aibase][] 腾讯混元开源视频生成加速方案，11. 8 倍提速，被CVPR2026 收录
+  - [aibase][] 调查显示：美国员工每周因使用 AI 浪费近 8 小时
+  - [aibase][] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+
+[2026-04-17 08:12:40] llm_classify - INPUT: 46条
+============================================================
+  - [huxiu][] OpenAI高管称AI末日论有后果，传播需谨慎
+  - [huxiu][] OpenAI更新Codex应用，增加计算机控制、应用内浏览器、图像生成等新功能
+  - [huxiu][] 谷歌将Gemini应用集成于AI工具，提升用户个性化图像生成
+  - [huxiu][] 微软与斯特兰蒂斯组建联合团队共同开发人工智能项目
+  - [huxiu][] 谷歌TurboQuant提升模型效率或扩大内存芯片需求
+  - [huxiu][] 华为云OfficeClaw办公智能体发起邀测
+  - [huxiu][] 京东首批开放2000小时高精标注具身智能数据集
+  - [huxiu][] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [infoq][] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [infoq][] OpenClaw 发布 2026.4.15 版本，支持 Anthropic Opus 4.7 模型
+  - [infoq][] OpenAI CEO 对用户转向Codex表示欢迎，同时表达对潜在限制的担忧
+  - [infoq][] Codex推出集成评论模式的应用内浏览器功能
+  - [infoq][] NVIDIA 发布 Lyra 2.0 AI 框架，可从单张图像生成可探索 3D 环境
+  - [infoq][] NVIDIA Omniverse预告制造业专题讨论，聚焦AI、机器人及仿真技术
+  - [infoq][] Luma AI与Wonder Project成立制作公司，推出实时混合电影制作方法
+  - [infoq][] Stripe Projects 新增 Hugging Face、Cloudflare 等多家服务提供
+  - [infoq][] CoreWeave 一周内与 Meta、AnthropicAI 及 Jane Street 达成三项
+  - [infoq][] Anthropic宣布Opus 4.7文档推理能力达80.6%，较前版大幅提升
+  - [infoq][] Cadence 宣布与 NVIDIA 合作推进 AI 工程设计
+  - [infoq][] Google Cloud 宣布 Gemma 4 26B 模型在 Vertex AI 模型即服务中正式
+  - [infoq][] Anthropic 推出 Claude Opus 4.7，强化自主长时任务执行能力
+  - [infoq][] Runway 发布 Seedance 2.0 的 1080p 版本
+  - [infoq][] NVIDIA祝贺OpenAI将Codex扩展至更多软件工作流程
+  - [量子位][] PPIO上线PPHermes：云端沙箱一键部署Hermes Agent
+  - [量子位][] 打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施
+  - [量子位][] 世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场
+  - [量子位][] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [aibase][] 波士顿动力机器狗 “Spot” 新升级：搭载谷歌Gemini模型
+  - [aibase][] 阿里ATH事业群开放式世界模型“Happy Oyster”启动内测申请
+  - [aibase][] 科大讯飞新发布的 AI 智能鼠标 AM50 Pro
+  - [aibase][] ​微软补丁引发 Claude Desktop 大崩溃，Anthropic 拒绝修复引争议
+  - [aibase][] 苹果公司差点将 Grok 踢出应用商店，因其未能控制性别化深度伪造内容
+  - [aibase][] ​NVIDIA 推出全球首个开源量子 AI 模型，量子纠错技术提升三倍
+  - [aibase][] 谷歌DeepMind新研究TIPSv2：让AI真正"看懂"图片，而不只是"扫一眼"
+  - [aibase][] 京东发布JoyEgoCam超高清采集终端 构建具身智能训练闭环
+  - [aibase][] 腾讯混元开源视频生成加速方案，11. 8 倍提速，被CVPR2026 收录
+  - [aibase][] 调查显示：美国员工每周因使用 AI 浪费近 8 小时
+  - [aibase][] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+
+[2026-04-17 08:13:51] llm_classify - OUTPUT: 46条 | 保留46条
+============================================================
+  - [huxiu][国外AI资讯] OpenAI高管称AI末日论有后果，传播需谨慎
+  - [huxiu][国外AI资讯] OpenAI更新Codex应用，增加计算机控制、应用内浏览器、图像生成等新功能
+  - [huxiu][国外AI资讯] 谷歌将Gemini应用集成于AI工具，提升用户个性化图像生成
+  - [huxiu][国外AI资讯] 微软与斯特兰蒂斯组建联合团队共同开发人工智能项目
+  - [huxiu][国外AI资讯] 谷歌TurboQuant提升模型效率或扩大内存芯片需求
+  - [huxiu][国内AI资讯] 华为云OfficeClaw办公智能体发起邀测
+  - [huxiu][国内AI资讯] 京东首批开放2000小时高精标注具身智能数据集
+  - [huxiu][智能硬件] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][国内AI资讯] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [infoq][国外AI资讯] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [infoq][国外AI资讯] OpenClaw 发布 2026.4.15 版本，支持 Anthropic Opus 4.7 模型
+  - [infoq][国外AI资讯] OpenAI CEO 对用户转向Codex表示欢迎，同时表达对潜在限制的担忧
+  - [infoq][国外AI资讯] Codex推出集成评论模式的应用内浏览器功能
+  - [infoq][国外AI资讯] NVIDIA 发布 Lyra 2.0 AI 框架，可从单张图像生成可探索 3D 环境
+  - [infoq][智能硬件] NVIDIA Omniverse预告制造业专题讨论，聚焦AI、机器人及仿真技术
+  - [infoq][国外AI资讯] Luma AI与Wonder Project成立制作公司，推出实时混合电影制作方法
+  - [infoq][其它科技资讯] Stripe Projects 新增 Hugging Face、Cloudflare 等多家服务提供
+  - [infoq][其它科技资讯] CoreWeave 一周内与 Meta、AnthropicAI 及 Jane Street 达成三项
+  - [infoq][国外AI资讯] Anthropic宣布Opus 4.7文档推理能力达80.6%，较前版大幅提升
+  - [infoq][国外AI资讯] Cadence 宣布与 NVIDIA 合作推进 AI 工程设计
+  - [infoq][国外AI资讯] Google Cloud 宣布 Gemma 4 26B 模型在 Vertex AI 模型即服务中正式
+  - [infoq][国外AI资讯] Anthropic 推出 Claude Opus 4.7，强化自主长时任务执行能力
+  - [infoq][国外AI资讯] Runway 发布 Seedance 2.0 的 1080p 版本
+  - [infoq][国外AI资讯] NVIDIA祝贺OpenAI将Codex扩展至更多软件工作流程
+  - [量子位][国外AI资讯] PPIO上线PPHermes：云端沙箱一键部署Hermes Agent
+  - [量子位][国内AI资讯] 打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施
+  - [量子位][智能硬件] 世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场
+  - [量子位][国内AI资讯] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][国内AI资讯] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [aibase][智能硬件] 波士顿动力机器狗 “Spot” 新升级：搭载谷歌Gemini模型
+  - [aibase][国内AI资讯] 阿里ATH事业群开放式世界模型“Happy Oyster”启动内测申请
+  - [aibase][智能硬件] 科大讯飞新发布的 AI 智能鼠标 AM50 Pro
+  - [aibase][国外AI资讯] ​微软补丁引发 Claude Desktop 大崩溃，Anthropic 拒绝修复引争议
+  - [aibase][国外AI资讯] 苹果公司差点将 Grok 踢出应用商店，因其未能控制性别化深度伪造内容
+  - [aibase][国外AI资讯] ​NVIDIA 推出全球首个开源量子 AI 模型，量子纠错技术提升三倍
+  - [aibase][国外AI资讯] 谷歌DeepMind新研究TIPSv2：让AI真正"看懂"图片，而不只是"扫一眼"
+  - [aibase][智能硬件] 京东发布JoyEgoCam超高清采集终端 构建具身智能训练闭环
+  - [aibase][国内AI资讯] 腾讯混元开源视频生成加速方案，11. 8 倍提速，被CVPR2026 收录
+  - [aibase][其它科技资讯] 调查显示：美国员工每周因使用 AI 浪费近 8 小时
+  - [aibase][其它科技资讯] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][国外AI资讯] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][其它科技资讯] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][国内AI资讯] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][国内AI资讯] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][国外AI资讯] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][智能硬件] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+
+[2026-04-17 08:13:51] llm_summary - INPUT: 46条
+============================================================
+  - [huxiu][国外AI资讯] OpenAI高管称AI末日论有后果，传播需谨慎
+  - [huxiu][国外AI资讯] OpenAI更新Codex应用，增加计算机控制、应用内浏览器、图像生成等新功能
+  - [huxiu][国外AI资讯] 谷歌将Gemini应用集成于AI工具，提升用户个性化图像生成
+  - [huxiu][国外AI资讯] 微软与斯特兰蒂斯组建联合团队共同开发人工智能项目
+  - [huxiu][国外AI资讯] 谷歌TurboQuant提升模型效率或扩大内存芯片需求
+  - [huxiu][国内AI资讯] 华为云OfficeClaw办公智能体发起邀测
+  - [huxiu][国内AI资讯] 京东首批开放2000小时高精标注具身智能数据集
+  - [huxiu][智能硬件] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][国内AI资讯] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [infoq][国外AI资讯] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [infoq][国外AI资讯] OpenClaw 发布 2026.4.15 版本，支持 Anthropic Opus 4.7 模型
+  - [infoq][国外AI资讯] OpenAI CEO 对用户转向Codex表示欢迎，同时表达对潜在限制的担忧
+  - [infoq][国外AI资讯] Codex推出集成评论模式的应用内浏览器功能
+  - [infoq][国外AI资讯] NVIDIA 发布 Lyra 2.0 AI 框架，可从单张图像生成可探索 3D 环境
+  - [infoq][智能硬件] NVIDIA Omniverse预告制造业专题讨论，聚焦AI、机器人及仿真技术
+  - [infoq][国外AI资讯] Luma AI与Wonder Project成立制作公司，推出实时混合电影制作方法
+  - [infoq][其它科技资讯] Stripe Projects 新增 Hugging Face、Cloudflare 等多家服务提供
+  - [infoq][其它科技资讯] CoreWeave 一周内与 Meta、AnthropicAI 及 Jane Street 达成三项
+  - [infoq][国外AI资讯] Anthropic宣布Opus 4.7文档推理能力达80.6%，较前版大幅提升
+  - [infoq][国外AI资讯] Cadence 宣布与 NVIDIA 合作推进 AI 工程设计
+  - [infoq][国外AI资讯] Google Cloud 宣布 Gemma 4 26B 模型在 Vertex AI 模型即服务中正式
+  - [infoq][国外AI资讯] Anthropic 推出 Claude Opus 4.7，强化自主长时任务执行能力
+  - [infoq][国外AI资讯] Runway 发布 Seedance 2.0 的 1080p 版本
+  - [infoq][国外AI资讯] NVIDIA祝贺OpenAI将Codex扩展至更多软件工作流程
+  - [量子位][国外AI资讯] PPIO上线PPHermes：云端沙箱一键部署Hermes Agent
+  - [量子位][国内AI资讯] 打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施
+  - [量子位][智能硬件] 世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场
+  - [量子位][国内AI资讯] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][国内AI资讯] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [aibase][智能硬件] 波士顿动力机器狗 “Spot” 新升级：搭载谷歌Gemini模型
+  - [aibase][国内AI资讯] 阿里ATH事业群开放式世界模型“Happy Oyster”启动内测申请
+  - [aibase][智能硬件] 科大讯飞新发布的 AI 智能鼠标 AM50 Pro
+  - [aibase][国外AI资讯] ​微软补丁引发 Claude Desktop 大崩溃，Anthropic 拒绝修复引争议
+  - [aibase][国外AI资讯] 苹果公司差点将 Grok 踢出应用商店，因其未能控制性别化深度伪造内容
+  - [aibase][国外AI资讯] ​NVIDIA 推出全球首个开源量子 AI 模型，量子纠错技术提升三倍
+  - [aibase][国外AI资讯] 谷歌DeepMind新研究TIPSv2：让AI真正"看懂"图片，而不只是"扫一眼"
+  - [aibase][智能硬件] 京东发布JoyEgoCam超高清采集终端 构建具身智能训练闭环
+  - [aibase][国内AI资讯] 腾讯混元开源视频生成加速方案，11. 8 倍提速，被CVPR2026 收录
+  - [aibase][其它科技资讯] 调查显示：美国员工每周因使用 AI 浪费近 8 小时
+  - [aibase][其它科技资讯] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][国外AI资讯] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][其它科技资讯] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][国内AI资讯] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][国内AI资讯] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][国外AI资讯] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][智能硬件] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+
+[2026-04-17 08:14:09] llm_summary - OUTPUT: 46条 | 成功3条
+============================================================
+  - [huxiu][国外AI资讯] OpenAI高管称AI末日论有后果，传播需谨慎
+  - [huxiu][国外AI资讯] OpenAI更新Codex应用，增加计算机控制、应用内浏览器、图像生成等新功能
+  - [huxiu][国外AI资讯] 谷歌将Gemini应用集成于AI工具，提升用户个性化图像生成
+  - [huxiu][国外AI资讯] 微软与斯特兰蒂斯组建联合团队共同开发人工智能项目
+  - [huxiu][国外AI资讯] 谷歌TurboQuant提升模型效率或扩大内存芯片需求
+  - [huxiu][国内AI资讯] 华为云OfficeClaw办公智能体发起邀测
+  - [huxiu][国内AI资讯] 京东首批开放2000小时高精标注具身智能数据集
+  - [huxiu][智能硬件] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][国内AI资讯] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [infoq][国外AI资讯] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [infoq][国外AI资讯] OpenClaw 发布 2026.4.15 版本，支持 Anthropic Opus 4.7 模型
+  - [infoq][国外AI资讯] OpenAI CEO 对用户转向Codex表示欢迎，同时表达对潜在限制的担忧
+  - [infoq][国外AI资讯] Codex推出集成评论模式的应用内浏览器功能
+  - [infoq][国外AI资讯] NVIDIA 发布 Lyra 2.0 AI 框架，可从单张图像生成可探索 3D 环境
+  - [infoq][智能硬件] NVIDIA Omniverse预告制造业专题讨论，聚焦AI、机器人及仿真技术
+  - [infoq][国外AI资讯] Luma AI与Wonder Project成立制作公司，推出实时混合电影制作方法
+  - [infoq][其它科技资讯] Stripe Projects 新增 Hugging Face、Cloudflare 等多家服务提供
+  - [infoq][其它科技资讯] CoreWeave 一周内与 Meta、AnthropicAI 及 Jane Street 达成三项
+  - [infoq][国外AI资讯] Anthropic宣布Opus 4.7文档推理能力达80.6%，较前版大幅提升
+  - [infoq][国外AI资讯] Cadence 宣布与 NVIDIA 合作推进 AI 工程设计
+  - [infoq][国外AI资讯] Google Cloud 宣布 Gemma 4 26B 模型在 Vertex AI 模型即服务中正式
+  - [infoq][国外AI资讯] Anthropic 推出 Claude Opus 4.7，强化自主长时任务执行能力
+  - [infoq][国外AI资讯] Runway 发布 Seedance 2.0 的 1080p 版本
+  - [infoq][国外AI资讯] NVIDIA祝贺OpenAI将Codex扩展至更多软件工作流程
+  - [量子位][国外AI资讯] PPIO上线PPHermes：云端沙箱一键部署Hermes Agent
+  - [量子位][国内AI资讯] 打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施
+  - [量子位][智能硬件] 世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场
+  - [量子位][国内AI资讯] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][国内AI资讯] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [aibase][智能硬件] 波士顿动力机器狗 “Spot” 新升级：搭载谷歌Gemini模型
+  - [aibase][国内AI资讯] 阿里ATH事业群开放式世界模型“Happy Oyster”启动内测申请
+  - [aibase][智能硬件] 科大讯飞新发布的 AI 智能鼠标 AM50 Pro
+  - [aibase][国外AI资讯] ​微软补丁引发 Claude Desktop 大崩溃，Anthropic 拒绝修复引争议
+  - [aibase][国外AI资讯] 苹果公司差点将 Grok 踢出应用商店，因其未能控制性别化深度伪造内容
+  - [aibase][国外AI资讯] ​NVIDIA 推出全球首个开源量子 AI 模型，量子纠错技术提升三倍
+  - [aibase][国外AI资讯] 谷歌DeepMind新研究TIPSv2：让AI真正"看懂"图片，而不只是"扫一眼"
+  - [aibase][智能硬件] 京东发布JoyEgoCam超高清采集终端 构建具身智能训练闭环
+  - [aibase][国内AI资讯] 腾讯混元开源视频生成加速方案，11. 8 倍提速，被CVPR2026 收录
+  - [aibase][其它科技资讯] 调查显示：美国员工每周因使用 AI 浪费近 8 小时
+  - [aibase][其它科技资讯] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][国外AI资讯] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][其它科技资讯] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][国内AI资讯] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][国内AI资讯] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][国外AI资讯] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][智能硬件] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+
+[2026-04-17 08:15:46] keyword_filter - INPUT: 61条
+============================================================
+  - [huxiu][] 商汤拟折价8.6%配售股份筹资逾32亿港元
+  - [huxiu][] OpenAI高管称AI末日论有后果，传播需谨慎
+  - [huxiu][] OpenAI更新Codex应用，增加计算机控制、应用内浏览器、图像生成等新功能
+  - [huxiu][] 谷歌将Gemini应用集成于AI工具，提升用户个性化图像生成
+  - [huxiu][] 微软与斯特兰蒂斯组建联合团队共同开发人工智能项目
+  - [huxiu][] 金融初创公司Slash筹集1亿美元，估值14亿，年化收入近3亿
+  - [huxiu][] 亚马逊支持的X-Energy计划IPO融资8亿美元
+  - [huxiu][] 谷歌TurboQuant提升模型效率或扩大内存芯片需求
+  - [huxiu][] 纽约梅隆银行获OpenAI与安索潘先进模型访问权限
+  - [huxiu][] 华为云OfficeClaw办公智能体发起邀测
+  - [huxiu][] 京东首批开放2000小时高精标注具身智能数据集
+  - [huxiu][] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [huxiu][] 5800亿顺德家电巨头猛攻机器人
+  - [infoq][] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [infoq][] Google Cloud Tech 预告 #GoogleCloudNext 开发者主题演讲后深度技术
+  - [infoq][] OpenClaw 发布 2026.4.15 版本，支持 Anthropic Opus 4.7 模型
+  - [infoq][] OpenAI CEO 对用户转向Codex表示欢迎，同时表达对潜在限制的担忧
+  - [infoq][] Gemini 应用集成 Personal Intelligence 功能以理解用户偏好生成图像
+  - [infoq][] Codex推出集成评论模式的应用内浏览器功能
+  - [infoq][] NVIDIA 发布 Lyra 2.0 AI 框架，可从单张图像生成可探索 3D 环境
+  - [infoq][] NVIDIA Omniverse预告制造业专题讨论，聚焦AI、机器人及仿真技术
+  - [infoq][] Luma AI与Wonder Project成立制作公司，推出实时混合电影制作方法
+  - [infoq][] gdb宣布推出面向生命科学研究的GPT-Rosalind模型
+  - [infoq][] Relativity Space 测试活动与基础设施随硬件生产同步扩展
+  - [infoq][] Stripe Projects 新增 Hugging Face、Cloudflare 等多家服务提供
+  - [infoq][] CoreWeave 一周内与 Meta、AnthropicAI 及 Jane Street 达成三项
+  - [infoq][] Anthropic宣布Opus 4.7文档推理能力达80.6%，较前版大幅提升
+  - [infoq][] Cadence 宣布与 NVIDIA 合作推进 AI 工程设计
+  - [infoq][] Google Cloud 宣布 Gemma 4 26B 模型在 Vertex AI 模型即服务中正式
+  - [infoq][] IDC：B2B技术买家加速决策，但对AI成果与ROI审查趋严
+  - [infoq][] Anthropic 推出 Claude Opus 4.7，强化自主长时任务执行能力
+  - [infoq][] Runway 发布 Seedance 2.0 的 1080p 版本
+  - [infoq][] NVIDIA祝贺OpenAI将Codex扩展至更多软件工作流程
+  - [量子位][] PPIO上线PPHermes：云端沙箱一键部署Hermes Agent
+  - [量子位][] 打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施
+  - [量子位][] 世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场
+  - [量子位][] 它石智航Pre-A轮融资4.55亿美金破中国具身智能纪录，高瓴红杉美团联合领投
+  - [量子位][] 智象未来完成新一轮融资，全力打造下一代原生全模态世界模型
+  - [量子位][] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [aibase][] 波士顿动力机器狗 “Spot” 新升级：搭载谷歌Gemini模型
+  - [aibase][] 阿里ATH事业群开放式世界模型“Happy Oyster”启动内测申请
+  - [aibase][] 科大讯飞新发布的 AI 智能鼠标 AM50 Pro
+  - [aibase][] ​微软补丁引发 Claude Desktop 大崩溃，Anthropic 拒绝修复引争议
+  - [aibase][] 开源AI接口系统NewAPI曝高危支付漏洞 未配置密钥可致“零成本”无限充值
+  - [aibase][] 苹果公司差点将 Grok 踢出应用商店，因其未能控制性别化深度伪造内容
+  - [aibase][] ​NVIDIA 推出全球首个开源量子 AI 模型，量子纠错技术提升三倍
+  - [aibase][] 谷歌DeepMind新研究TIPSv2：让AI真正"看懂"图片，而不只是"扫一眼"
+  - [aibase][] 京东发布JoyEgoCam超高清采集终端 构建具身智能训练闭环
+  - [aibase][] 腾讯混元开源视频生成加速方案，11. 8 倍提速，被CVPR2026 收录
+  - [aibase][] 调查显示：美国员工每周因使用 AI 浪费近 8 小时
+  - [aibase][] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][] 阿里巴巴 ATH 推出开放世界模型 Happy Oyster，开启实时交互体验申请
+  - [aibase][] Anthropic即将发布Claude Opus 4.7及全新AI设计工具 传闻本周内推出
+  - [aibase][] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+
+[2026-04-17 08:15:46] keyword_filter - OUTPUT: 48条 | 移除13条
+============================================================
+  - [huxiu][] OpenAI高管称AI末日论有后果，传播需谨慎
+  - [huxiu][] OpenAI更新Codex应用，增加计算机控制、应用内浏览器、图像生成等新功能
+  - [huxiu][] 谷歌将Gemini应用集成于AI工具，提升用户个性化图像生成
+  - [huxiu][] 微软与斯特兰蒂斯组建联合团队共同开发人工智能项目
+  - [huxiu][] 谷歌TurboQuant提升模型效率或扩大内存芯片需求
+  - [huxiu][] 华为云OfficeClaw办公智能体发起邀测
+  - [huxiu][] 京东首批开放2000小时高精标注具身智能数据集
+  - [huxiu][] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [infoq][] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [infoq][] OpenClaw 发布 2026.4.15 版本，支持 Anthropic Opus 4.7 模型
+  - [infoq][] OpenAI CEO 对用户转向Codex表示欢迎，同时表达对潜在限制的担忧
+  - [infoq][] Gemini 应用集成 Personal Intelligence 功能以理解用户偏好生成图像
+  - [infoq][] Codex推出集成评论模式的应用内浏览器功能
+  - [infoq][] NVIDIA 发布 Lyra 2.0 AI 框架，可从单张图像生成可探索 3D 环境
+  - [infoq][] NVIDIA Omniverse预告制造业专题讨论，聚焦AI、机器人及仿真技术
+  - [infoq][] Luma AI与Wonder Project成立制作公司，推出实时混合电影制作方法
+  - [infoq][] Stripe Projects 新增 Hugging Face、Cloudflare 等多家服务提供
+  - [infoq][] CoreWeave 一周内与 Meta、AnthropicAI 及 Jane Street 达成三项
+  - [infoq][] Anthropic宣布Opus 4.7文档推理能力达80.6%，较前版大幅提升
+  - [infoq][] Cadence 宣布与 NVIDIA 合作推进 AI 工程设计
+  - [infoq][] Google Cloud 宣布 Gemma 4 26B 模型在 Vertex AI 模型即服务中正式
+  - [infoq][] Anthropic 推出 Claude Opus 4.7，强化自主长时任务执行能力
+  - [infoq][] Runway 发布 Seedance 2.0 的 1080p 版本
+  - [infoq][] NVIDIA祝贺OpenAI将Codex扩展至更多软件工作流程
+  - [量子位][] PPIO上线PPHermes：云端沙箱一键部署Hermes Agent
+  - [量子位][] 打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施
+  - [量子位][] 世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场
+  - [量子位][] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [aibase][] 波士顿动力机器狗 “Spot” 新升级：搭载谷歌Gemini模型
+  - [aibase][] 阿里ATH事业群开放式世界模型“Happy Oyster”启动内测申请
+  - [aibase][] 科大讯飞新发布的 AI 智能鼠标 AM50 Pro
+  - [aibase][] ​微软补丁引发 Claude Desktop 大崩溃，Anthropic 拒绝修复引争议
+  - [aibase][] 苹果公司差点将 Grok 踢出应用商店，因其未能控制性别化深度伪造内容
+  - [aibase][] ​NVIDIA 推出全球首个开源量子 AI 模型，量子纠错技术提升三倍
+  - [aibase][] 谷歌DeepMind新研究TIPSv2：让AI真正"看懂"图片，而不只是"扫一眼"
+  - [aibase][] 京东发布JoyEgoCam超高清采集终端 构建具身智能训练闭环
+  - [aibase][] 腾讯混元开源视频生成加速方案，11. 8 倍提速，被CVPR2026 收录
+  - [aibase][] 调查显示：美国员工每周因使用 AI 浪费近 8 小时
+  - [aibase][] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][] 阿里巴巴 ATH 推出开放世界模型 Happy Oyster，开启实时交互体验申请
+  - [aibase][] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+
+[2026-04-17 08:15:46] bge_dedup - INPUT: 48条
+============================================================
+  - [huxiu][] OpenAI高管称AI末日论有后果，传播需谨慎
+  - [huxiu][] OpenAI更新Codex应用，增加计算机控制、应用内浏览器、图像生成等新功能
+  - [huxiu][] 谷歌将Gemini应用集成于AI工具，提升用户个性化图像生成
+  - [huxiu][] 微软与斯特兰蒂斯组建联合团队共同开发人工智能项目
+  - [huxiu][] 谷歌TurboQuant提升模型效率或扩大内存芯片需求
+  - [huxiu][] 华为云OfficeClaw办公智能体发起邀测
+  - [huxiu][] 京东首批开放2000小时高精标注具身智能数据集
+  - [huxiu][] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [infoq][] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [infoq][] OpenClaw 发布 2026.4.15 版本，支持 Anthropic Opus 4.7 模型
+  - [infoq][] OpenAI CEO 对用户转向Codex表示欢迎，同时表达对潜在限制的担忧
+  - [infoq][] Gemini 应用集成 Personal Intelligence 功能以理解用户偏好生成图像
+  - [infoq][] Codex推出集成评论模式的应用内浏览器功能
+  - [infoq][] NVIDIA 发布 Lyra 2.0 AI 框架，可从单张图像生成可探索 3D 环境
+  - [infoq][] NVIDIA Omniverse预告制造业专题讨论，聚焦AI、机器人及仿真技术
+  - [infoq][] Luma AI与Wonder Project成立制作公司，推出实时混合电影制作方法
+  - [infoq][] Stripe Projects 新增 Hugging Face、Cloudflare 等多家服务提供
+  - [infoq][] CoreWeave 一周内与 Meta、AnthropicAI 及 Jane Street 达成三项
+  - [infoq][] Anthropic宣布Opus 4.7文档推理能力达80.6%，较前版大幅提升
+  - [infoq][] Cadence 宣布与 NVIDIA 合作推进 AI 工程设计
+  - [infoq][] Google Cloud 宣布 Gemma 4 26B 模型在 Vertex AI 模型即服务中正式
+  - [infoq][] Anthropic 推出 Claude Opus 4.7，强化自主长时任务执行能力
+  - [infoq][] Runway 发布 Seedance 2.0 的 1080p 版本
+  - [infoq][] NVIDIA祝贺OpenAI将Codex扩展至更多软件工作流程
+  - [量子位][] PPIO上线PPHermes：云端沙箱一键部署Hermes Agent
+  - [量子位][] 打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施
+  - [量子位][] 世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场
+  - [量子位][] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [aibase][] 波士顿动力机器狗 “Spot” 新升级：搭载谷歌Gemini模型
+  - [aibase][] 阿里ATH事业群开放式世界模型“Happy Oyster”启动内测申请
+  - [aibase][] 科大讯飞新发布的 AI 智能鼠标 AM50 Pro
+  - [aibase][] ​微软补丁引发 Claude Desktop 大崩溃，Anthropic 拒绝修复引争议
+  - [aibase][] 苹果公司差点将 Grok 踢出应用商店，因其未能控制性别化深度伪造内容
+  - [aibase][] ​NVIDIA 推出全球首个开源量子 AI 模型，量子纠错技术提升三倍
+  - [aibase][] 谷歌DeepMind新研究TIPSv2：让AI真正"看懂"图片，而不只是"扫一眼"
+  - [aibase][] 京东发布JoyEgoCam超高清采集终端 构建具身智能训练闭环
+  - [aibase][] 腾讯混元开源视频生成加速方案，11. 8 倍提速，被CVPR2026 收录
+  - [aibase][] 调查显示：美国员工每周因使用 AI 浪费近 8 小时
+  - [aibase][] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][] 阿里巴巴 ATH 推出开放世界模型 Happy Oyster，开启实时交互体验申请
+  - [aibase][] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+
+[2026-04-17 08:16:01] bge_dedup - OUTPUT: 46条 | 移除2条
+============================================================
+  - [huxiu][] OpenAI高管称AI末日论有后果，传播需谨慎
+  - [huxiu][] OpenAI更新Codex应用，增加计算机控制、应用内浏览器、图像生成等新功能
+  - [huxiu][] 谷歌将Gemini应用集成于AI工具，提升用户个性化图像生成
+  - [huxiu][] 微软与斯特兰蒂斯组建联合团队共同开发人工智能项目
+  - [huxiu][] 谷歌TurboQuant提升模型效率或扩大内存芯片需求
+  - [huxiu][] 华为云OfficeClaw办公智能体发起邀测
+  - [huxiu][] 京东首批开放2000小时高精标注具身智能数据集
+  - [huxiu][] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [infoq][] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [infoq][] OpenClaw 发布 2026.4.15 版本，支持 Anthropic Opus 4.7 模型
+  - [infoq][] OpenAI CEO 对用户转向Codex表示欢迎，同时表达对潜在限制的担忧
+  - [infoq][] Codex推出集成评论模式的应用内浏览器功能
+  - [infoq][] NVIDIA 发布 Lyra 2.0 AI 框架，可从单张图像生成可探索 3D 环境
+  - [infoq][] NVIDIA Omniverse预告制造业专题讨论，聚焦AI、机器人及仿真技术
+  - [infoq][] Luma AI与Wonder Project成立制作公司，推出实时混合电影制作方法
+  - [infoq][] Stripe Projects 新增 Hugging Face、Cloudflare 等多家服务提供
+  - [infoq][] CoreWeave 一周内与 Meta、AnthropicAI 及 Jane Street 达成三项
+  - [infoq][] Anthropic宣布Opus 4.7文档推理能力达80.6%，较前版大幅提升
+  - [infoq][] Cadence 宣布与 NVIDIA 合作推进 AI 工程设计
+  - [infoq][] Google Cloud 宣布 Gemma 4 26B 模型在 Vertex AI 模型即服务中正式
+  - [infoq][] Anthropic 推出 Claude Opus 4.7，强化自主长时任务执行能力
+  - [infoq][] Runway 发布 Seedance 2.0 的 1080p 版本
+  - [infoq][] NVIDIA祝贺OpenAI将Codex扩展至更多软件工作流程
+  - [量子位][] PPIO上线PPHermes：云端沙箱一键部署Hermes Agent
+  - [量子位][] 打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施
+  - [量子位][] 世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场
+  - [量子位][] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [aibase][] 波士顿动力机器狗 “Spot” 新升级：搭载谷歌Gemini模型
+  - [aibase][] 阿里ATH事业群开放式世界模型“Happy Oyster”启动内测申请
+  - [aibase][] 科大讯飞新发布的 AI 智能鼠标 AM50 Pro
+  - [aibase][] ​微软补丁引发 Claude Desktop 大崩溃，Anthropic 拒绝修复引争议
+  - [aibase][] 苹果公司差点将 Grok 踢出应用商店，因其未能控制性别化深度伪造内容
+  - [aibase][] ​NVIDIA 推出全球首个开源量子 AI 模型，量子纠错技术提升三倍
+  - [aibase][] 谷歌DeepMind新研究TIPSv2：让AI真正"看懂"图片，而不只是"扫一眼"
+  - [aibase][] 京东发布JoyEgoCam超高清采集终端 构建具身智能训练闭环
+  - [aibase][] 腾讯混元开源视频生成加速方案，11. 8 倍提速，被CVPR2026 收录
+  - [aibase][] 调查显示：美国员工每周因使用 AI 浪费近 8 小时
+  - [aibase][] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+
+[2026-04-17 08:16:01] llm_classify - INPUT: 46条
+============================================================
+  - [huxiu][] OpenAI高管称AI末日论有后果，传播需谨慎
+  - [huxiu][] OpenAI更新Codex应用，增加计算机控制、应用内浏览器、图像生成等新功能
+  - [huxiu][] 谷歌将Gemini应用集成于AI工具，提升用户个性化图像生成
+  - [huxiu][] 微软与斯特兰蒂斯组建联合团队共同开发人工智能项目
+  - [huxiu][] 谷歌TurboQuant提升模型效率或扩大内存芯片需求
+  - [huxiu][] 华为云OfficeClaw办公智能体发起邀测
+  - [huxiu][] 京东首批开放2000小时高精标注具身智能数据集
+  - [huxiu][] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [infoq][] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [infoq][] OpenClaw 发布 2026.4.15 版本，支持 Anthropic Opus 4.7 模型
+  - [infoq][] OpenAI CEO 对用户转向Codex表示欢迎，同时表达对潜在限制的担忧
+  - [infoq][] Codex推出集成评论模式的应用内浏览器功能
+  - [infoq][] NVIDIA 发布 Lyra 2.0 AI 框架，可从单张图像生成可探索 3D 环境
+  - [infoq][] NVIDIA Omniverse预告制造业专题讨论，聚焦AI、机器人及仿真技术
+  - [infoq][] Luma AI与Wonder Project成立制作公司，推出实时混合电影制作方法
+  - [infoq][] Stripe Projects 新增 Hugging Face、Cloudflare 等多家服务提供
+  - [infoq][] CoreWeave 一周内与 Meta、AnthropicAI 及 Jane Street 达成三项
+  - [infoq][] Anthropic宣布Opus 4.7文档推理能力达80.6%，较前版大幅提升
+  - [infoq][] Cadence 宣布与 NVIDIA 合作推进 AI 工程设计
+  - [infoq][] Google Cloud 宣布 Gemma 4 26B 模型在 Vertex AI 模型即服务中正式
+  - [infoq][] Anthropic 推出 Claude Opus 4.7，强化自主长时任务执行能力
+  - [infoq][] Runway 发布 Seedance 2.0 的 1080p 版本
+  - [infoq][] NVIDIA祝贺OpenAI将Codex扩展至更多软件工作流程
+  - [量子位][] PPIO上线PPHermes：云端沙箱一键部署Hermes Agent
+  - [量子位][] 打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施
+  - [量子位][] 世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场
+  - [量子位][] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [aibase][] 波士顿动力机器狗 “Spot” 新升级：搭载谷歌Gemini模型
+  - [aibase][] 阿里ATH事业群开放式世界模型“Happy Oyster”启动内测申请
+  - [aibase][] 科大讯飞新发布的 AI 智能鼠标 AM50 Pro
+  - [aibase][] ​微软补丁引发 Claude Desktop 大崩溃，Anthropic 拒绝修复引争议
+  - [aibase][] 苹果公司差点将 Grok 踢出应用商店，因其未能控制性别化深度伪造内容
+  - [aibase][] ​NVIDIA 推出全球首个开源量子 AI 模型，量子纠错技术提升三倍
+  - [aibase][] 谷歌DeepMind新研究TIPSv2：让AI真正"看懂"图片，而不只是"扫一眼"
+  - [aibase][] 京东发布JoyEgoCam超高清采集终端 构建具身智能训练闭环
+  - [aibase][] 腾讯混元开源视频生成加速方案，11. 8 倍提速，被CVPR2026 收录
+  - [aibase][] 调查显示：美国员工每周因使用 AI 浪费近 8 小时
+  - [aibase][] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+
+[2026-04-17 08:16:18] llm_classify - OUTPUT: 46条 | 保留46条
+============================================================
+  - [huxiu][国外AI资讯] OpenAI高管称AI末日论有后果，传播需谨慎
+  - [huxiu][国外AI资讯] OpenAI更新Codex应用，增加计算机控制、应用内浏览器、图像生成等新功能
+  - [huxiu][国外AI资讯] 谷歌将Gemini应用集成于AI工具，提升用户个性化图像生成
+  - [huxiu][国外AI资讯] 微软与斯特兰蒂斯组建联合团队共同开发人工智能项目
+  - [huxiu][其它科技资讯] 谷歌TurboQuant提升模型效率或扩大内存芯片需求
+  - [huxiu][国内AI资讯] 华为云OfficeClaw办公智能体发起邀测
+  - [huxiu][国内AI资讯] 京东首批开放2000小时高精标注具身智能数据集
+  - [huxiu][智能硬件] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][国内AI资讯] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [infoq][国外AI资讯] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [infoq][国外AI资讯] OpenClaw 发布 2026.4.15 版本，支持 Anthropic Opus 4.7 模型
+  - [infoq][国外AI资讯] OpenAI CEO 对用户转向Codex表示欢迎，同时表达对潜在限制的担忧
+  - [infoq][国外AI资讯] Codex推出集成评论模式的应用内浏览器功能
+  - [infoq][国外AI资讯] NVIDIA 发布 Lyra 2.0 AI 框架，可从单张图像生成可探索 3D 环境
+  - [infoq][国外AI资讯] NVIDIA Omniverse预告制造业专题讨论，聚焦AI、机器人及仿真技术
+  - [infoq][国外AI资讯] Luma AI与Wonder Project成立制作公司，推出实时混合电影制作方法
+  - [infoq][国外AI资讯] Stripe Projects 新增 Hugging Face、Cloudflare 等多家服务提供
+  - [infoq][国外AI资讯] CoreWeave 一周内与 Meta、AnthropicAI 及 Jane Street 达成三项
+  - [infoq][国外AI资讯] Anthropic宣布Opus 4.7文档推理能力达80.6%，较前版大幅提升
+  - [infoq][国外AI资讯] Cadence 宣布与 NVIDIA 合作推进 AI 工程设计
+  - [infoq][国外AI资讯] Google Cloud 宣布 Gemma 4 26B 模型在 Vertex AI 模型即服务中正式
+  - [infoq][国外AI资讯] Anthropic 推出 Claude Opus 4.7，强化自主长时任务执行能力
+  - [infoq][国外AI资讯] Runway 发布 Seedance 2.0 的 1080p 版本
+  - [infoq][国外AI资讯] NVIDIA祝贺OpenAI将Codex扩展至更多软件工作流程
+  - [量子位][国内AI资讯] PPIO上线PPHermes：云端沙箱一键部署Hermes Agent
+  - [量子位][国内AI资讯] 打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施
+  - [量子位][智能硬件] 世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场
+  - [量子位][国内AI资讯] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][国内AI资讯] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [aibase][智能硬件] 波士顿动力机器狗 “Spot” 新升级：搭载谷歌Gemini模型
+  - [aibase][国内AI资讯] 阿里ATH事业群开放式世界模型“Happy Oyster”启动内测申请
+  - [aibase][智能硬件] 科大讯飞新发布的 AI 智能鼠标 AM50 Pro
+  - [aibase][国外AI资讯] ​微软补丁引发 Claude Desktop 大崩溃，Anthropic 拒绝修复引争议
+  - [aibase][国外AI资讯] 苹果公司差点将 Grok 踢出应用商店，因其未能控制性别化深度伪造内容
+  - [aibase][国外AI资讯] ​NVIDIA 推出全球首个开源量子 AI 模型，量子纠错技术提升三倍
+  - [aibase][国外AI资讯] 谷歌DeepMind新研究TIPSv2：让AI真正"看懂"图片，而不只是"扫一眼"
+  - [aibase][智能硬件] 京东发布JoyEgoCam超高清采集终端 构建具身智能训练闭环
+  - [aibase][国内AI资讯] 腾讯混元开源视频生成加速方案，11. 8 倍提速，被CVPR2026 收录
+  - [aibase][国外AI资讯] 调查显示：美国员工每周因使用 AI 浪费近 8 小时
+  - [aibase][国外AI资讯] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][国外AI资讯] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][其它科技资讯] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][国内AI资讯] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][国内AI资讯] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][国外AI资讯] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][智能硬件] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+
+[2026-04-17 08:16:18] llm_summary - INPUT: 46条
+============================================================
+  - [huxiu][国外AI资讯] OpenAI高管称AI末日论有后果，传播需谨慎
+  - [huxiu][国外AI资讯] OpenAI更新Codex应用，增加计算机控制、应用内浏览器、图像生成等新功能
+  - [huxiu][国外AI资讯] 谷歌将Gemini应用集成于AI工具，提升用户个性化图像生成
+  - [huxiu][国外AI资讯] 微软与斯特兰蒂斯组建联合团队共同开发人工智能项目
+  - [huxiu][其它科技资讯] 谷歌TurboQuant提升模型效率或扩大内存芯片需求
+  - [huxiu][国内AI资讯] 华为云OfficeClaw办公智能体发起邀测
+  - [huxiu][国内AI资讯] 京东首批开放2000小时高精标注具身智能数据集
+  - [huxiu][智能硬件] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][国内AI资讯] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [infoq][国外AI资讯] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [infoq][国外AI资讯] OpenClaw 发布 2026.4.15 版本，支持 Anthropic Opus 4.7 模型
+  - [infoq][国外AI资讯] OpenAI CEO 对用户转向Codex表示欢迎，同时表达对潜在限制的担忧
+  - [infoq][国外AI资讯] Codex推出集成评论模式的应用内浏览器功能
+  - [infoq][国外AI资讯] NVIDIA 发布 Lyra 2.0 AI 框架，可从单张图像生成可探索 3D 环境
+  - [infoq][国外AI资讯] NVIDIA Omniverse预告制造业专题讨论，聚焦AI、机器人及仿真技术
+  - [infoq][国外AI资讯] Luma AI与Wonder Project成立制作公司，推出实时混合电影制作方法
+  - [infoq][国外AI资讯] Stripe Projects 新增 Hugging Face、Cloudflare 等多家服务提供
+  - [infoq][国外AI资讯] CoreWeave 一周内与 Meta、AnthropicAI 及 Jane Street 达成三项
+  - [infoq][国外AI资讯] Anthropic宣布Opus 4.7文档推理能力达80.6%，较前版大幅提升
+  - [infoq][国外AI资讯] Cadence 宣布与 NVIDIA 合作推进 AI 工程设计
+  - [infoq][国外AI资讯] Google Cloud 宣布 Gemma 4 26B 模型在 Vertex AI 模型即服务中正式
+  - [infoq][国外AI资讯] Anthropic 推出 Claude Opus 4.7，强化自主长时任务执行能力
+  - [infoq][国外AI资讯] Runway 发布 Seedance 2.0 的 1080p 版本
+  - [infoq][国外AI资讯] NVIDIA祝贺OpenAI将Codex扩展至更多软件工作流程
+  - [量子位][国内AI资讯] PPIO上线PPHermes：云端沙箱一键部署Hermes Agent
+  - [量子位][国内AI资讯] 打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施
+  - [量子位][智能硬件] 世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场
+  - [量子位][国内AI资讯] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][国内AI资讯] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [aibase][智能硬件] 波士顿动力机器狗 “Spot” 新升级：搭载谷歌Gemini模型
+  - [aibase][国内AI资讯] 阿里ATH事业群开放式世界模型“Happy Oyster”启动内测申请
+  - [aibase][智能硬件] 科大讯飞新发布的 AI 智能鼠标 AM50 Pro
+  - [aibase][国外AI资讯] ​微软补丁引发 Claude Desktop 大崩溃，Anthropic 拒绝修复引争议
+  - [aibase][国外AI资讯] 苹果公司差点将 Grok 踢出应用商店，因其未能控制性别化深度伪造内容
+  - [aibase][国外AI资讯] ​NVIDIA 推出全球首个开源量子 AI 模型，量子纠错技术提升三倍
+  - [aibase][国外AI资讯] 谷歌DeepMind新研究TIPSv2：让AI真正"看懂"图片，而不只是"扫一眼"
+  - [aibase][智能硬件] 京东发布JoyEgoCam超高清采集终端 构建具身智能训练闭环
+  - [aibase][国内AI资讯] 腾讯混元开源视频生成加速方案，11. 8 倍提速，被CVPR2026 收录
+  - [aibase][国外AI资讯] 调查显示：美国员工每周因使用 AI 浪费近 8 小时
+  - [aibase][国外AI资讯] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][国外AI资讯] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][其它科技资讯] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][国内AI资讯] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][国内AI资讯] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][国外AI资讯] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][智能硬件] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+
+[2026-04-17 08:16:38] llm_summary - OUTPUT: 46条 | 成功3条
+============================================================
+  - [huxiu][国外AI资讯] OpenAI高管称AI末日论有后果，传播需谨慎
+  - [huxiu][国外AI资讯] OpenAI更新Codex应用，增加计算机控制、应用内浏览器、图像生成等新功能
+  - [huxiu][国外AI资讯] 谷歌将Gemini应用集成于AI工具，提升用户个性化图像生成
+  - [huxiu][国外AI资讯] 微软与斯特兰蒂斯组建联合团队共同开发人工智能项目
+  - [huxiu][其它科技资讯] 谷歌TurboQuant提升模型效率或扩大内存芯片需求
+  - [huxiu][国内AI资讯] 华为云OfficeClaw办公智能体发起邀测
+  - [huxiu][国内AI资讯] 京东首批开放2000小时高精标注具身智能数据集
+  - [huxiu][智能硬件] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][国内AI资讯] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [infoq][国外AI资讯] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [infoq][国外AI资讯] OpenClaw 发布 2026.4.15 版本，支持 Anthropic Opus 4.7 模型
+  - [infoq][国外AI资讯] OpenAI CEO 对用户转向Codex表示欢迎，同时表达对潜在限制的担忧
+  - [infoq][国外AI资讯] Codex推出集成评论模式的应用内浏览器功能
+  - [infoq][国外AI资讯] NVIDIA 发布 Lyra 2.0 AI 框架，可从单张图像生成可探索 3D 环境
+  - [infoq][国外AI资讯] NVIDIA Omniverse预告制造业专题讨论，聚焦AI、机器人及仿真技术
+  - [infoq][国外AI资讯] Luma AI与Wonder Project成立制作公司，推出实时混合电影制作方法
+  - [infoq][国外AI资讯] Stripe Projects 新增 Hugging Face、Cloudflare 等多家服务提供
+  - [infoq][国外AI资讯] CoreWeave 一周内与 Meta、AnthropicAI 及 Jane Street 达成三项
+  - [infoq][国外AI资讯] Anthropic宣布Opus 4.7文档推理能力达80.6%，较前版大幅提升
+  - [infoq][国外AI资讯] Cadence 宣布与 NVIDIA 合作推进 AI 工程设计
+  - [infoq][国外AI资讯] Google Cloud 宣布 Gemma 4 26B 模型在 Vertex AI 模型即服务中正式
+  - [infoq][国外AI资讯] Anthropic 推出 Claude Opus 4.7，强化自主长时任务执行能力
+  - [infoq][国外AI资讯] Runway 发布 Seedance 2.0 的 1080p 版本
+  - [infoq][国外AI资讯] NVIDIA祝贺OpenAI将Codex扩展至更多软件工作流程
+  - [量子位][国内AI资讯] PPIO上线PPHermes：云端沙箱一键部署Hermes Agent
+  - [量子位][国内AI资讯] 打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施
+  - [量子位][智能硬件] 世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场
+  - [量子位][国内AI资讯] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][国内AI资讯] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [aibase][智能硬件] 波士顿动力机器狗 “Spot” 新升级：搭载谷歌Gemini模型
+  - [aibase][国内AI资讯] 阿里ATH事业群开放式世界模型“Happy Oyster”启动内测申请
+  - [aibase][智能硬件] 科大讯飞新发布的 AI 智能鼠标 AM50 Pro
+  - [aibase][国外AI资讯] ​微软补丁引发 Claude Desktop 大崩溃，Anthropic 拒绝修复引争议
+  - [aibase][国外AI资讯] 苹果公司差点将 Grok 踢出应用商店，因其未能控制性别化深度伪造内容
+  - [aibase][国外AI资讯] ​NVIDIA 推出全球首个开源量子 AI 模型，量子纠错技术提升三倍
+  - [aibase][国外AI资讯] 谷歌DeepMind新研究TIPSv2：让AI真正"看懂"图片，而不只是"扫一眼"
+  - [aibase][智能硬件] 京东发布JoyEgoCam超高清采集终端 构建具身智能训练闭环
+  - [aibase][国内AI资讯] 腾讯混元开源视频生成加速方案，11. 8 倍提速，被CVPR2026 收录
+  - [aibase][国外AI资讯] 调查显示：美国员工每周因使用 AI 浪费近 8 小时
+  - [aibase][国外AI资讯] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][国外AI资讯] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][其它科技资讯] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][国内AI资讯] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][国内AI资讯] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][国外AI资讯] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][智能硬件] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+
+[2026-04-17 08:18:06] keyword_filter - INPUT: 61条
+============================================================
+  - [huxiu][] 商汤拟折价8.6%配售股份筹资逾32亿港元
+  - [huxiu][] OpenAI高管称AI末日论有后果，传播需谨慎
+  - [huxiu][] OpenAI更新Codex应用，增加计算机控制、应用内浏览器、图像生成等新功能
+  - [huxiu][] 谷歌将Gemini应用集成于AI工具，提升用户个性化图像生成
+  - [huxiu][] 微软与斯特兰蒂斯组建联合团队共同开发人工智能项目
+  - [huxiu][] 金融初创公司Slash筹集1亿美元，估值14亿，年化收入近3亿
+  - [huxiu][] 亚马逊支持的X-Energy计划IPO融资8亿美元
+  - [huxiu][] 谷歌TurboQuant提升模型效率或扩大内存芯片需求
+  - [huxiu][] 纽约梅隆银行获OpenAI与安索潘先进模型访问权限
+  - [huxiu][] 华为云OfficeClaw办公智能体发起邀测
+  - [huxiu][] 京东首批开放2000小时高精标注具身智能数据集
+  - [huxiu][] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [huxiu][] 5800亿顺德家电巨头猛攻机器人
+  - [infoq][] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [infoq][] Google Cloud Tech 预告 #GoogleCloudNext 开发者主题演讲后深度技术
+  - [infoq][] OpenClaw 发布 2026.4.15 版本，支持 Anthropic Opus 4.7 模型
+  - [infoq][] OpenAI CEO 对用户转向Codex表示欢迎，同时表达对潜在限制的担忧
+  - [infoq][] Gemini 应用集成 Personal Intelligence 功能以理解用户偏好生成图像
+  - [infoq][] Codex推出集成评论模式的应用内浏览器功能
+  - [infoq][] NVIDIA 发布 Lyra 2.0 AI 框架，可从单张图像生成可探索 3D 环境
+  - [infoq][] NVIDIA Omniverse预告制造业专题讨论，聚焦AI、机器人及仿真技术
+  - [infoq][] Luma AI与Wonder Project成立制作公司，推出实时混合电影制作方法
+  - [infoq][] gdb宣布推出面向生命科学研究的GPT-Rosalind模型
+  - [infoq][] Relativity Space 测试活动与基础设施随硬件生产同步扩展
+  - [infoq][] Stripe Projects 新增 Hugging Face、Cloudflare 等多家服务提供
+  - [infoq][] CoreWeave 一周内与 Meta、AnthropicAI 及 Jane Street 达成三项
+  - [infoq][] Anthropic宣布Opus 4.7文档推理能力达80.6%，较前版大幅提升
+  - [infoq][] Cadence 宣布与 NVIDIA 合作推进 AI 工程设计
+  - [infoq][] Google Cloud 宣布 Gemma 4 26B 模型在 Vertex AI 模型即服务中正式
+  - [infoq][] IDC：B2B技术买家加速决策，但对AI成果与ROI审查趋严
+  - [infoq][] Anthropic 推出 Claude Opus 4.7，强化自主长时任务执行能力
+  - [infoq][] Runway 发布 Seedance 2.0 的 1080p 版本
+  - [infoq][] NVIDIA祝贺OpenAI将Codex扩展至更多软件工作流程
+  - [量子位][] PPIO上线PPHermes：云端沙箱一键部署Hermes Agent
+  - [量子位][] 打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施
+  - [量子位][] 世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场
+  - [量子位][] 它石智航Pre-A轮融资4.55亿美金破中国具身智能纪录，高瓴红杉美团联合领投
+  - [量子位][] 智象未来完成新一轮融资，全力打造下一代原生全模态世界模型
+  - [量子位][] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [aibase][] 波士顿动力机器狗 “Spot” 新升级：搭载谷歌Gemini模型
+  - [aibase][] 阿里ATH事业群开放式世界模型“Happy Oyster”启动内测申请
+  - [aibase][] 科大讯飞新发布的 AI 智能鼠标 AM50 Pro
+  - [aibase][] ​微软补丁引发 Claude Desktop 大崩溃，Anthropic 拒绝修复引争议
+  - [aibase][] 开源AI接口系统NewAPI曝高危支付漏洞 未配置密钥可致“零成本”无限充值
+  - [aibase][] 苹果公司差点将 Grok 踢出应用商店，因其未能控制性别化深度伪造内容
+  - [aibase][] ​NVIDIA 推出全球首个开源量子 AI 模型，量子纠错技术提升三倍
+  - [aibase][] 谷歌DeepMind新研究TIPSv2：让AI真正"看懂"图片，而不只是"扫一眼"
+  - [aibase][] 京东发布JoyEgoCam超高清采集终端 构建具身智能训练闭环
+  - [aibase][] 腾讯混元开源视频生成加速方案，11. 8 倍提速，被CVPR2026 收录
+  - [aibase][] 调查显示：美国员工每周因使用 AI 浪费近 8 小时
+  - [aibase][] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][] 阿里巴巴 ATH 推出开放世界模型 Happy Oyster，开启实时交互体验申请
+  - [aibase][] Anthropic即将发布Claude Opus 4.7及全新AI设计工具 传闻本周内推出
+  - [aibase][] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+
+[2026-04-17 08:18:06] keyword_filter - OUTPUT: 48条 | 移除13条
+============================================================
+  - [huxiu][] OpenAI高管称AI末日论有后果，传播需谨慎
+  - [huxiu][] OpenAI更新Codex应用，增加计算机控制、应用内浏览器、图像生成等新功能
+  - [huxiu][] 谷歌将Gemini应用集成于AI工具，提升用户个性化图像生成
+  - [huxiu][] 微软与斯特兰蒂斯组建联合团队共同开发人工智能项目
+  - [huxiu][] 谷歌TurboQuant提升模型效率或扩大内存芯片需求
+  - [huxiu][] 华为云OfficeClaw办公智能体发起邀测
+  - [huxiu][] 京东首批开放2000小时高精标注具身智能数据集
+  - [huxiu][] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [infoq][] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [infoq][] OpenClaw 发布 2026.4.15 版本，支持 Anthropic Opus 4.7 模型
+  - [infoq][] OpenAI CEO 对用户转向Codex表示欢迎，同时表达对潜在限制的担忧
+  - [infoq][] Gemini 应用集成 Personal Intelligence 功能以理解用户偏好生成图像
+  - [infoq][] Codex推出集成评论模式的应用内浏览器功能
+  - [infoq][] NVIDIA 发布 Lyra 2.0 AI 框架，可从单张图像生成可探索 3D 环境
+  - [infoq][] NVIDIA Omniverse预告制造业专题讨论，聚焦AI、机器人及仿真技术
+  - [infoq][] Luma AI与Wonder Project成立制作公司，推出实时混合电影制作方法
+  - [infoq][] Stripe Projects 新增 Hugging Face、Cloudflare 等多家服务提供
+  - [infoq][] CoreWeave 一周内与 Meta、AnthropicAI 及 Jane Street 达成三项
+  - [infoq][] Anthropic宣布Opus 4.7文档推理能力达80.6%，较前版大幅提升
+  - [infoq][] Cadence 宣布与 NVIDIA 合作推进 AI 工程设计
+  - [infoq][] Google Cloud 宣布 Gemma 4 26B 模型在 Vertex AI 模型即服务中正式
+  - [infoq][] Anthropic 推出 Claude Opus 4.7，强化自主长时任务执行能力
+  - [infoq][] Runway 发布 Seedance 2.0 的 1080p 版本
+  - [infoq][] NVIDIA祝贺OpenAI将Codex扩展至更多软件工作流程
+  - [量子位][] PPIO上线PPHermes：云端沙箱一键部署Hermes Agent
+  - [量子位][] 打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施
+  - [量子位][] 世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场
+  - [量子位][] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [aibase][] 波士顿动力机器狗 “Spot” 新升级：搭载谷歌Gemini模型
+  - [aibase][] 阿里ATH事业群开放式世界模型“Happy Oyster”启动内测申请
+  - [aibase][] 科大讯飞新发布的 AI 智能鼠标 AM50 Pro
+  - [aibase][] ​微软补丁引发 Claude Desktop 大崩溃，Anthropic 拒绝修复引争议
+  - [aibase][] 苹果公司差点将 Grok 踢出应用商店，因其未能控制性别化深度伪造内容
+  - [aibase][] ​NVIDIA 推出全球首个开源量子 AI 模型，量子纠错技术提升三倍
+  - [aibase][] 谷歌DeepMind新研究TIPSv2：让AI真正"看懂"图片，而不只是"扫一眼"
+  - [aibase][] 京东发布JoyEgoCam超高清采集终端 构建具身智能训练闭环
+  - [aibase][] 腾讯混元开源视频生成加速方案，11. 8 倍提速，被CVPR2026 收录
+  - [aibase][] 调查显示：美国员工每周因使用 AI 浪费近 8 小时
+  - [aibase][] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][] 阿里巴巴 ATH 推出开放世界模型 Happy Oyster，开启实时交互体验申请
+  - [aibase][] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+
+[2026-04-17 08:18:06] bge_dedup - INPUT: 48条
+============================================================
+  - [huxiu][] OpenAI高管称AI末日论有后果，传播需谨慎
+  - [huxiu][] OpenAI更新Codex应用，增加计算机控制、应用内浏览器、图像生成等新功能
+  - [huxiu][] 谷歌将Gemini应用集成于AI工具，提升用户个性化图像生成
+  - [huxiu][] 微软与斯特兰蒂斯组建联合团队共同开发人工智能项目
+  - [huxiu][] 谷歌TurboQuant提升模型效率或扩大内存芯片需求
+  - [huxiu][] 华为云OfficeClaw办公智能体发起邀测
+  - [huxiu][] 京东首批开放2000小时高精标注具身智能数据集
+  - [huxiu][] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [infoq][] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [infoq][] OpenClaw 发布 2026.4.15 版本，支持 Anthropic Opus 4.7 模型
+  - [infoq][] OpenAI CEO 对用户转向Codex表示欢迎，同时表达对潜在限制的担忧
+  - [infoq][] Gemini 应用集成 Personal Intelligence 功能以理解用户偏好生成图像
+  - [infoq][] Codex推出集成评论模式的应用内浏览器功能
+  - [infoq][] NVIDIA 发布 Lyra 2.0 AI 框架，可从单张图像生成可探索 3D 环境
+  - [infoq][] NVIDIA Omniverse预告制造业专题讨论，聚焦AI、机器人及仿真技术
+  - [infoq][] Luma AI与Wonder Project成立制作公司，推出实时混合电影制作方法
+  - [infoq][] Stripe Projects 新增 Hugging Face、Cloudflare 等多家服务提供
+  - [infoq][] CoreWeave 一周内与 Meta、AnthropicAI 及 Jane Street 达成三项
+  - [infoq][] Anthropic宣布Opus 4.7文档推理能力达80.6%，较前版大幅提升
+  - [infoq][] Cadence 宣布与 NVIDIA 合作推进 AI 工程设计
+  - [infoq][] Google Cloud 宣布 Gemma 4 26B 模型在 Vertex AI 模型即服务中正式
+  - [infoq][] Anthropic 推出 Claude Opus 4.7，强化自主长时任务执行能力
+  - [infoq][] Runway 发布 Seedance 2.0 的 1080p 版本
+  - [infoq][] NVIDIA祝贺OpenAI将Codex扩展至更多软件工作流程
+  - [量子位][] PPIO上线PPHermes：云端沙箱一键部署Hermes Agent
+  - [量子位][] 打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施
+  - [量子位][] 世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场
+  - [量子位][] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [aibase][] 波士顿动力机器狗 “Spot” 新升级：搭载谷歌Gemini模型
+  - [aibase][] 阿里ATH事业群开放式世界模型“Happy Oyster”启动内测申请
+  - [aibase][] 科大讯飞新发布的 AI 智能鼠标 AM50 Pro
+  - [aibase][] ​微软补丁引发 Claude Desktop 大崩溃，Anthropic 拒绝修复引争议
+  - [aibase][] 苹果公司差点将 Grok 踢出应用商店，因其未能控制性别化深度伪造内容
+  - [aibase][] ​NVIDIA 推出全球首个开源量子 AI 模型，量子纠错技术提升三倍
+  - [aibase][] 谷歌DeepMind新研究TIPSv2：让AI真正"看懂"图片，而不只是"扫一眼"
+  - [aibase][] 京东发布JoyEgoCam超高清采集终端 构建具身智能训练闭环
+  - [aibase][] 腾讯混元开源视频生成加速方案，11. 8 倍提速，被CVPR2026 收录
+  - [aibase][] 调查显示：美国员工每周因使用 AI 浪费近 8 小时
+  - [aibase][] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][] 阿里巴巴 ATH 推出开放世界模型 Happy Oyster，开启实时交互体验申请
+  - [aibase][] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+
+[2026-04-17 08:18:24] bge_dedup - OUTPUT: 46条 | 移除2条
+============================================================
+  - [huxiu][] OpenAI高管称AI末日论有后果，传播需谨慎
+  - [huxiu][] OpenAI更新Codex应用，增加计算机控制、应用内浏览器、图像生成等新功能
+  - [huxiu][] 谷歌将Gemini应用集成于AI工具，提升用户个性化图像生成
+  - [huxiu][] 微软与斯特兰蒂斯组建联合团队共同开发人工智能项目
+  - [huxiu][] 谷歌TurboQuant提升模型效率或扩大内存芯片需求
+  - [huxiu][] 华为云OfficeClaw办公智能体发起邀测
+  - [huxiu][] 京东首批开放2000小时高精标注具身智能数据集
+  - [huxiu][] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [infoq][] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [infoq][] OpenClaw 发布 2026.4.15 版本，支持 Anthropic Opus 4.7 模型
+  - [infoq][] OpenAI CEO 对用户转向Codex表示欢迎，同时表达对潜在限制的担忧
+  - [infoq][] Codex推出集成评论模式的应用内浏览器功能
+  - [infoq][] NVIDIA 发布 Lyra 2.0 AI 框架，可从单张图像生成可探索 3D 环境
+  - [infoq][] NVIDIA Omniverse预告制造业专题讨论，聚焦AI、机器人及仿真技术
+  - [infoq][] Luma AI与Wonder Project成立制作公司，推出实时混合电影制作方法
+  - [infoq][] Stripe Projects 新增 Hugging Face、Cloudflare 等多家服务提供
+  - [infoq][] CoreWeave 一周内与 Meta、AnthropicAI 及 Jane Street 达成三项
+  - [infoq][] Anthropic宣布Opus 4.7文档推理能力达80.6%，较前版大幅提升
+  - [infoq][] Cadence 宣布与 NVIDIA 合作推进 AI 工程设计
+  - [infoq][] Google Cloud 宣布 Gemma 4 26B 模型在 Vertex AI 模型即服务中正式
+  - [infoq][] Anthropic 推出 Claude Opus 4.7，强化自主长时任务执行能力
+  - [infoq][] Runway 发布 Seedance 2.0 的 1080p 版本
+  - [infoq][] NVIDIA祝贺OpenAI将Codex扩展至更多软件工作流程
+  - [量子位][] PPIO上线PPHermes：云端沙箱一键部署Hermes Agent
+  - [量子位][] 打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施
+  - [量子位][] 世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场
+  - [量子位][] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [aibase][] 波士顿动力机器狗 “Spot” 新升级：搭载谷歌Gemini模型
+  - [aibase][] 阿里ATH事业群开放式世界模型“Happy Oyster”启动内测申请
+  - [aibase][] 科大讯飞新发布的 AI 智能鼠标 AM50 Pro
+  - [aibase][] ​微软补丁引发 Claude Desktop 大崩溃，Anthropic 拒绝修复引争议
+  - [aibase][] 苹果公司差点将 Grok 踢出应用商店，因其未能控制性别化深度伪造内容
+  - [aibase][] ​NVIDIA 推出全球首个开源量子 AI 模型，量子纠错技术提升三倍
+  - [aibase][] 谷歌DeepMind新研究TIPSv2：让AI真正"看懂"图片，而不只是"扫一眼"
+  - [aibase][] 京东发布JoyEgoCam超高清采集终端 构建具身智能训练闭环
+  - [aibase][] 腾讯混元开源视频生成加速方案，11. 8 倍提速，被CVPR2026 收录
+  - [aibase][] 调查显示：美国员工每周因使用 AI 浪费近 8 小时
+  - [aibase][] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+
+[2026-04-17 08:18:24] llm_classify - INPUT: 46条
+============================================================
+  - [huxiu][] OpenAI高管称AI末日论有后果，传播需谨慎
+  - [huxiu][] OpenAI更新Codex应用，增加计算机控制、应用内浏览器、图像生成等新功能
+  - [huxiu][] 谷歌将Gemini应用集成于AI工具，提升用户个性化图像生成
+  - [huxiu][] 微软与斯特兰蒂斯组建联合团队共同开发人工智能项目
+  - [huxiu][] 谷歌TurboQuant提升模型效率或扩大内存芯片需求
+  - [huxiu][] 华为云OfficeClaw办公智能体发起邀测
+  - [huxiu][] 京东首批开放2000小时高精标注具身智能数据集
+  - [huxiu][] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [infoq][] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [infoq][] OpenClaw 发布 2026.4.15 版本，支持 Anthropic Opus 4.7 模型
+  - [infoq][] OpenAI CEO 对用户转向Codex表示欢迎，同时表达对潜在限制的担忧
+  - [infoq][] Codex推出集成评论模式的应用内浏览器功能
+  - [infoq][] NVIDIA 发布 Lyra 2.0 AI 框架，可从单张图像生成可探索 3D 环境
+  - [infoq][] NVIDIA Omniverse预告制造业专题讨论，聚焦AI、机器人及仿真技术
+  - [infoq][] Luma AI与Wonder Project成立制作公司，推出实时混合电影制作方法
+  - [infoq][] Stripe Projects 新增 Hugging Face、Cloudflare 等多家服务提供
+  - [infoq][] CoreWeave 一周内与 Meta、AnthropicAI 及 Jane Street 达成三项
+  - [infoq][] Anthropic宣布Opus 4.7文档推理能力达80.6%，较前版大幅提升
+  - [infoq][] Cadence 宣布与 NVIDIA 合作推进 AI 工程设计
+  - [infoq][] Google Cloud 宣布 Gemma 4 26B 模型在 Vertex AI 模型即服务中正式
+  - [infoq][] Anthropic 推出 Claude Opus 4.7，强化自主长时任务执行能力
+  - [infoq][] Runway 发布 Seedance 2.0 的 1080p 版本
+  - [infoq][] NVIDIA祝贺OpenAI将Codex扩展至更多软件工作流程
+  - [量子位][] PPIO上线PPHermes：云端沙箱一键部署Hermes Agent
+  - [量子位][] 打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施
+  - [量子位][] 世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场
+  - [量子位][] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [aibase][] 波士顿动力机器狗 “Spot” 新升级：搭载谷歌Gemini模型
+  - [aibase][] 阿里ATH事业群开放式世界模型“Happy Oyster”启动内测申请
+  - [aibase][] 科大讯飞新发布的 AI 智能鼠标 AM50 Pro
+  - [aibase][] ​微软补丁引发 Claude Desktop 大崩溃，Anthropic 拒绝修复引争议
+  - [aibase][] 苹果公司差点将 Grok 踢出应用商店，因其未能控制性别化深度伪造内容
+  - [aibase][] ​NVIDIA 推出全球首个开源量子 AI 模型，量子纠错技术提升三倍
+  - [aibase][] 谷歌DeepMind新研究TIPSv2：让AI真正"看懂"图片，而不只是"扫一眼"
+  - [aibase][] 京东发布JoyEgoCam超高清采集终端 构建具身智能训练闭环
+  - [aibase][] 腾讯混元开源视频生成加速方案，11. 8 倍提速，被CVPR2026 收录
+  - [aibase][] 调查显示：美国员工每周因使用 AI 浪费近 8 小时
+  - [aibase][] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+
+[2026-04-17 08:19:46] llm_classify - OUTPUT: 46条 | 保留46条
+============================================================
+  - [huxiu][国外AI资讯] OpenAI高管称AI末日论有后果，传播需谨慎
+  - [huxiu][国外AI资讯] OpenAI更新Codex应用，增加计算机控制、应用内浏览器、图像生成等新功能
+  - [huxiu][国外AI资讯] 谷歌将Gemini应用集成于AI工具，提升用户个性化图像生成
+  - [huxiu][国外AI资讯] 微软与斯特兰蒂斯组建联合团队共同开发人工智能项目
+  - [huxiu][其它科技资讯] 谷歌TurboQuant提升模型效率或扩大内存芯片需求
+  - [huxiu][国内AI资讯] 华为云OfficeClaw办公智能体发起邀测
+  - [huxiu][国内AI资讯] 京东首批开放2000小时高精标注具身智能数据集
+  - [huxiu][国外AI资讯] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][国内AI资讯] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [infoq][国外AI资讯] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [infoq][国外AI资讯] OpenClaw 发布 2026.4.15 版本，支持 Anthropic Opus 4.7 模型
+  - [infoq][国外AI资讯] OpenAI CEO 对用户转向Codex表示欢迎，同时表达对潜在限制的担忧
+  - [infoq][国外AI资讯] Codex推出集成评论模式的应用内浏览器功能
+  - [infoq][智能硬件] NVIDIA 发布 Lyra 2.0 AI 框架，可从单张图像生成可探索 3D 环境
+  - [infoq][智能硬件] NVIDIA Omniverse预告制造业专题讨论，聚焦AI、机器人及仿真技术
+  - [infoq][智能硬件] Luma AI与Wonder Project成立制作公司，推出实时混合电影制作方法
+  - [infoq][其它科技资讯] Stripe Projects 新增 Hugging Face、Cloudflare 等多家服务提供
+  - [infoq][其它科技资讯] CoreWeave 一周内与 Meta、AnthropicAI 及 Jane Street 达成三项
+  - [infoq][国外AI资讯] Anthropic宣布Opus 4.7文档推理能力达80.6%，较前版大幅提升
+  - [infoq][国外AI资讯] Cadence 宣布与 NVIDIA 合作推进 AI 工程设计
+  - [infoq][国外AI资讯] Google Cloud 宣布 Gemma 4 26B 模型在 Vertex AI 模型即服务中正式
+  - [infoq][国外AI资讯] Anthropic 推出 Claude Opus 4.7，强化自主长时任务执行能力
+  - [infoq][智能硬件] Runway 发布 Seedance 2.0 的 1080p 版本
+  - [infoq][国外AI资讯] NVIDIA祝贺OpenAI将Codex扩展至更多软件工作流程
+  - [量子位][其它科技资讯] PPIO上线PPHermes：云端沙箱一键部署Hermes Agent
+  - [量子位][国内AI资讯] 打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施
+  - [量子位][智能硬件] 世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场
+  - [量子位][国内AI资讯] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][国内AI资讯] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [aibase][智能硬件] 波士顿动力机器狗 “Spot” 新升级：搭载谷歌Gemini模型
+  - [aibase][国内AI资讯] 阿里ATH事业群开放式世界模型“Happy Oyster”启动内测申请
+  - [aibase][智能硬件] 科大讯飞新发布的 AI 智能鼠标 AM50 Pro
+  - [aibase][国外AI资讯] ​微软补丁引发 Claude Desktop 大崩溃，Anthropic 拒绝修复引争议
+  - [aibase][国外AI资讯] 苹果公司差点将 Grok 踢出应用商店，因其未能控制性别化深度伪造内容
+  - [aibase][国外AI资讯] ​NVIDIA 推出全球首个开源量子 AI 模型，量子纠错技术提升三倍
+  - [aibase][国外AI资讯] 谷歌DeepMind新研究TIPSv2：让AI真正"看懂"图片，而不只是"扫一眼"
+  - [aibase][智能硬件] 京东发布JoyEgoCam超高清采集终端 构建具身智能训练闭环
+  - [aibase][国内AI资讯] 腾讯混元开源视频生成加速方案，11. 8 倍提速，被CVPR2026 收录
+  - [aibase][其它科技资讯] 调查显示：美国员工每周因使用 AI 浪费近 8 小时
+  - [aibase][其它科技资讯] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][国外AI资讯] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][其它科技资讯] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][国内AI资讯] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][国内AI资讯] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][国外AI资讯] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][智能硬件] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+
+[2026-04-17 08:19:46] llm_summary - INPUT: 46条
+============================================================
+  - [huxiu][国外AI资讯] OpenAI高管称AI末日论有后果，传播需谨慎
+  - [huxiu][国外AI资讯] OpenAI更新Codex应用，增加计算机控制、应用内浏览器、图像生成等新功能
+  - [huxiu][国外AI资讯] 谷歌将Gemini应用集成于AI工具，提升用户个性化图像生成
+  - [huxiu][国外AI资讯] 微软与斯特兰蒂斯组建联合团队共同开发人工智能项目
+  - [huxiu][其它科技资讯] 谷歌TurboQuant提升模型效率或扩大内存芯片需求
+  - [huxiu][国内AI资讯] 华为云OfficeClaw办公智能体发起邀测
+  - [huxiu][国内AI资讯] 京东首批开放2000小时高精标注具身智能数据集
+  - [huxiu][国外AI资讯] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][国内AI资讯] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [infoq][国外AI资讯] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [infoq][国外AI资讯] OpenClaw 发布 2026.4.15 版本，支持 Anthropic Opus 4.7 模型
+  - [infoq][国外AI资讯] OpenAI CEO 对用户转向Codex表示欢迎，同时表达对潜在限制的担忧
+  - [infoq][国外AI资讯] Codex推出集成评论模式的应用内浏览器功能
+  - [infoq][智能硬件] NVIDIA 发布 Lyra 2.0 AI 框架，可从单张图像生成可探索 3D 环境
+  - [infoq][智能硬件] NVIDIA Omniverse预告制造业专题讨论，聚焦AI、机器人及仿真技术
+  - [infoq][智能硬件] Luma AI与Wonder Project成立制作公司，推出实时混合电影制作方法
+  - [infoq][其它科技资讯] Stripe Projects 新增 Hugging Face、Cloudflare 等多家服务提供
+  - [infoq][其它科技资讯] CoreWeave 一周内与 Meta、AnthropicAI 及 Jane Street 达成三项
+  - [infoq][国外AI资讯] Anthropic宣布Opus 4.7文档推理能力达80.6%，较前版大幅提升
+  - [infoq][国外AI资讯] Cadence 宣布与 NVIDIA 合作推进 AI 工程设计
+  - [infoq][国外AI资讯] Google Cloud 宣布 Gemma 4 26B 模型在 Vertex AI 模型即服务中正式
+  - [infoq][国外AI资讯] Anthropic 推出 Claude Opus 4.7，强化自主长时任务执行能力
+  - [infoq][智能硬件] Runway 发布 Seedance 2.0 的 1080p 版本
+  - [infoq][国外AI资讯] NVIDIA祝贺OpenAI将Codex扩展至更多软件工作流程
+  - [量子位][其它科技资讯] PPIO上线PPHermes：云端沙箱一键部署Hermes Agent
+  - [量子位][国内AI资讯] 打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施
+  - [量子位][智能硬件] 世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场
+  - [量子位][国内AI资讯] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][国内AI资讯] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [aibase][智能硬件] 波士顿动力机器狗 “Spot” 新升级：搭载谷歌Gemini模型
+  - [aibase][国内AI资讯] 阿里ATH事业群开放式世界模型“Happy Oyster”启动内测申请
+  - [aibase][智能硬件] 科大讯飞新发布的 AI 智能鼠标 AM50 Pro
+  - [aibase][国外AI资讯] ​微软补丁引发 Claude Desktop 大崩溃，Anthropic 拒绝修复引争议
+  - [aibase][国外AI资讯] 苹果公司差点将 Grok 踢出应用商店，因其未能控制性别化深度伪造内容
+  - [aibase][国外AI资讯] ​NVIDIA 推出全球首个开源量子 AI 模型，量子纠错技术提升三倍
+  - [aibase][国外AI资讯] 谷歌DeepMind新研究TIPSv2：让AI真正"看懂"图片，而不只是"扫一眼"
+  - [aibase][智能硬件] 京东发布JoyEgoCam超高清采集终端 构建具身智能训练闭环
+  - [aibase][国内AI资讯] 腾讯混元开源视频生成加速方案，11. 8 倍提速，被CVPR2026 收录
+  - [aibase][其它科技资讯] 调查显示：美国员工每周因使用 AI 浪费近 8 小时
+  - [aibase][其它科技资讯] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][国外AI资讯] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][其它科技资讯] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][国内AI资讯] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][国内AI资讯] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][国外AI资讯] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][智能硬件] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+
+[2026-04-17 08:20:06] llm_summary - OUTPUT: 46条 | 成功3条
+============================================================
+  - [huxiu][国外AI资讯] OpenAI高管称AI末日论有后果，传播需谨慎
+  - [huxiu][国外AI资讯] OpenAI更新Codex应用，增加计算机控制、应用内浏览器、图像生成等新功能
+  - [huxiu][国外AI资讯] 谷歌将Gemini应用集成于AI工具，提升用户个性化图像生成
+  - [huxiu][国外AI资讯] 微软与斯特兰蒂斯组建联合团队共同开发人工智能项目
+  - [huxiu][其它科技资讯] 谷歌TurboQuant提升模型效率或扩大内存芯片需求
+  - [huxiu][国内AI资讯] 华为云OfficeClaw办公智能体发起邀测
+  - [huxiu][国内AI资讯] 京东首批开放2000小时高精标注具身智能数据集
+  - [huxiu][国外AI资讯] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][国内AI资讯] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [infoq][国外AI资讯] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [infoq][国外AI资讯] OpenClaw 发布 2026.4.15 版本，支持 Anthropic Opus 4.7 模型
+  - [infoq][国外AI资讯] OpenAI CEO 对用户转向Codex表示欢迎，同时表达对潜在限制的担忧
+  - [infoq][国外AI资讯] Codex推出集成评论模式的应用内浏览器功能
+  - [infoq][智能硬件] NVIDIA 发布 Lyra 2.0 AI 框架，可从单张图像生成可探索 3D 环境
+  - [infoq][智能硬件] NVIDIA Omniverse预告制造业专题讨论，聚焦AI、机器人及仿真技术
+  - [infoq][智能硬件] Luma AI与Wonder Project成立制作公司，推出实时混合电影制作方法
+  - [infoq][其它科技资讯] Stripe Projects 新增 Hugging Face、Cloudflare 等多家服务提供
+  - [infoq][其它科技资讯] CoreWeave 一周内与 Meta、AnthropicAI 及 Jane Street 达成三项
+  - [infoq][国外AI资讯] Anthropic宣布Opus 4.7文档推理能力达80.6%，较前版大幅提升
+  - [infoq][国外AI资讯] Cadence 宣布与 NVIDIA 合作推进 AI 工程设计
+  - [infoq][国外AI资讯] Google Cloud 宣布 Gemma 4 26B 模型在 Vertex AI 模型即服务中正式
+  - [infoq][国外AI资讯] Anthropic 推出 Claude Opus 4.7，强化自主长时任务执行能力
+  - [infoq][智能硬件] Runway 发布 Seedance 2.0 的 1080p 版本
+  - [infoq][国外AI资讯] NVIDIA祝贺OpenAI将Codex扩展至更多软件工作流程
+  - [量子位][其它科技资讯] PPIO上线PPHermes：云端沙箱一键部署Hermes Agent
+  - [量子位][国内AI资讯] 打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施
+  - [量子位][智能硬件] 世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场
+  - [量子位][国内AI资讯] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][国内AI资讯] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [aibase][智能硬件] 波士顿动力机器狗 “Spot” 新升级：搭载谷歌Gemini模型
+  - [aibase][国内AI资讯] 阿里ATH事业群开放式世界模型“Happy Oyster”启动内测申请
+  - [aibase][智能硬件] 科大讯飞新发布的 AI 智能鼠标 AM50 Pro
+  - [aibase][国外AI资讯] ​微软补丁引发 Claude Desktop 大崩溃，Anthropic 拒绝修复引争议
+  - [aibase][国外AI资讯] 苹果公司差点将 Grok 踢出应用商店，因其未能控制性别化深度伪造内容
+  - [aibase][国外AI资讯] ​NVIDIA 推出全球首个开源量子 AI 模型，量子纠错技术提升三倍
+  - [aibase][国外AI资讯] 谷歌DeepMind新研究TIPSv2：让AI真正"看懂"图片，而不只是"扫一眼"
+  - [aibase][智能硬件] 京东发布JoyEgoCam超高清采集终端 构建具身智能训练闭环
+  - [aibase][国内AI资讯] 腾讯混元开源视频生成加速方案，11. 8 倍提速，被CVPR2026 收录
+  - [aibase][其它科技资讯] 调查显示：美国员工每周因使用 AI 浪费近 8 小时
+  - [aibase][其它科技资讯] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][国外AI资讯] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][其它科技资讯] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][国内AI资讯] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][国内AI资讯] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][国外AI资讯] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][智能硬件] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车

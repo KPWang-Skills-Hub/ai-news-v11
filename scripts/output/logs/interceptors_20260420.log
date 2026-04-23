@@ -1,0 +1,189 @@
+
+[2026-04-20 08:00:52] keyword_filter - INPUT: 25条
+============================================================
+  - [huxiu][] 礼来制药接近完成20亿美元收购凯洛尼亚疗法公司
+  - [huxiu][] 谷歌与迈威尔科技合作开发新型AI TPU及内存处理单元
+  - [huxiu][] 北京产权交易所去年交易规模超10万亿元
+  - [huxiu][] 宇树打破人类1500米世界纪录
+  - [infoq][] 英伟达CEO黄仁勋与Cadence CEO对话，探讨塑造AI未来的公司特质
+  - [infoq][] Google 在 GKE 推出 Cloud Storage FUSE 配置文件以加速 AI/ML 工
+  - [infoq][] Hugging Face平台修复coding agent traces viewer消息重复渲染问题
+  - [infoq][] StanfordAILab：WildChat 数据集已更新至2025年7月
+  - [infoq][] 斯坦福研究提出ELEPHANT基准，量化大型语言模型的社会谄媚行为
+  - [infoq][] Jacob Lee 使用 Deep Agents 与 ACP 构建定制化 AI 编码代理
+  - [infoq][] AI工程师通过LangGraph等技术将RAG聊天机器人成本降低90%
+  - [infoq][] Luma与Wonder Project成立Innovative Dreams，推出实时混合电影制作方
+  - [infoq][] 经合组织初步数据显示官方发展援助减少，人道主义援助下降35.8%
+  - [infoq][] 经合组织发布AI与中小企业研究报告，指出应用仍处基础水平
+  - [infoq][] LangChain发布技术指南：详解LangSmith中LLM-as-Judge自动化评估
+  - [infoq][] Jürgen Schmidhuber发布Mila 2026世界模型研讨会开幕演讲视频
+  - [infoq][] MIT CSAIL与哈佛大学合作开发新技术，大幅压缩电子显微镜成像时间
+  - [infoq][] Google Cloud为Apigee API中心新增两项功能以应对API蔓延
+  - [infoq][] UNESCO推动国际可持续发展科学十年，将于2026年7月举办首届全球会议
+  - [infoq][] 腾讯开源HY-World 2.0多模态世界模型
+  - [infoq][] Anthropic推出Claude Design研究预览版，支持对话生成原型与演示文稿
+  - [infoq][] OECD发布长寿准备度工具，助雇主评估老龄化员工支持
+  - [infoq][] 微软将Claude Opus 4.7集成至Microsoft 365 Copilot模型生态
+  - [infoq][] Artificial Analysis 将 Claude Opus 4.7 评为 GDPval-AA
+  - [量子位][] 高德发布全球首个面向AGI的全栈具身技术体系“ABot”：15项SOTA，构建持续进化的具身智能闭环
+
+[2026-04-20 08:00:52] keyword_filter - OUTPUT: 20条 | 移除5条
+============================================================
+  - [huxiu][] 谷歌与迈威尔科技合作开发新型AI TPU及内存处理单元
+  - [huxiu][] 北京产权交易所去年交易规模超10万亿元
+  - [huxiu][] 宇树打破人类1500米世界纪录
+  - [infoq][] Google 在 GKE 推出 Cloud Storage FUSE 配置文件以加速 AI/ML 工
+  - [infoq][] Hugging Face平台修复coding agent traces viewer消息重复渲染问题
+  - [infoq][] StanfordAILab：WildChat 数据集已更新至2025年7月
+  - [infoq][] 斯坦福研究提出ELEPHANT基准，量化大型语言模型的社会谄媚行为
+  - [infoq][] Jacob Lee 使用 Deep Agents 与 ACP 构建定制化 AI 编码代理
+  - [infoq][] AI工程师通过LangGraph等技术将RAG聊天机器人成本降低90%
+  - [infoq][] Luma与Wonder Project成立Innovative Dreams，推出实时混合电影制作方
+  - [infoq][] 经合组织初步数据显示官方发展援助减少，人道主义援助下降35.8%
+  - [infoq][] LangChain发布技术指南：详解LangSmith中LLM-as-Judge自动化评估
+  - [infoq][] Jürgen Schmidhuber发布Mila 2026世界模型研讨会开幕演讲视频
+  - [infoq][] Google Cloud为Apigee API中心新增两项功能以应对API蔓延
+  - [infoq][] UNESCO推动国际可持续发展科学十年，将于2026年7月举办首届全球会议
+  - [infoq][] 腾讯开源HY-World 2.0多模态世界模型
+  - [infoq][] Anthropic推出Claude Design研究预览版，支持对话生成原型与演示文稿
+  - [infoq][] 微软将Claude Opus 4.7集成至Microsoft 365 Copilot模型生态
+  - [infoq][] Artificial Analysis 将 Claude Opus 4.7 评为 GDPval-AA
+  - [量子位][] 高德发布全球首个面向AGI的全栈具身技术体系“ABot”：15项SOTA，构建持续进化的具身智能闭环
+
+[2026-04-20 08:00:52] bge_dedup - INPUT: 20条
+============================================================
+  - [huxiu][] 谷歌与迈威尔科技合作开发新型AI TPU及内存处理单元
+  - [huxiu][] 北京产权交易所去年交易规模超10万亿元
+  - [huxiu][] 宇树打破人类1500米世界纪录
+  - [infoq][] Google 在 GKE 推出 Cloud Storage FUSE 配置文件以加速 AI/ML 工
+  - [infoq][] Hugging Face平台修复coding agent traces viewer消息重复渲染问题
+  - [infoq][] StanfordAILab：WildChat 数据集已更新至2025年7月
+  - [infoq][] 斯坦福研究提出ELEPHANT基准，量化大型语言模型的社会谄媚行为
+  - [infoq][] Jacob Lee 使用 Deep Agents 与 ACP 构建定制化 AI 编码代理
+  - [infoq][] AI工程师通过LangGraph等技术将RAG聊天机器人成本降低90%
+  - [infoq][] Luma与Wonder Project成立Innovative Dreams，推出实时混合电影制作方
+  - [infoq][] 经合组织初步数据显示官方发展援助减少，人道主义援助下降35.8%
+  - [infoq][] LangChain发布技术指南：详解LangSmith中LLM-as-Judge自动化评估
+  - [infoq][] Jürgen Schmidhuber发布Mila 2026世界模型研讨会开幕演讲视频
+  - [infoq][] Google Cloud为Apigee API中心新增两项功能以应对API蔓延
+  - [infoq][] UNESCO推动国际可持续发展科学十年，将于2026年7月举办首届全球会议
+  - [infoq][] 腾讯开源HY-World 2.0多模态世界模型
+  - [infoq][] Anthropic推出Claude Design研究预览版，支持对话生成原型与演示文稿
+  - [infoq][] 微软将Claude Opus 4.7集成至Microsoft 365 Copilot模型生态
+  - [infoq][] Artificial Analysis 将 Claude Opus 4.7 评为 GDPval-AA
+  - [量子位][] 高德发布全球首个面向AGI的全栈具身技术体系“ABot”：15项SOTA，构建持续进化的具身智能闭环
+
+[2026-04-20 08:01:17] bge_dedup - OUTPUT: 20条 | 移除0条
+============================================================
+  - [huxiu][] 谷歌与迈威尔科技合作开发新型AI TPU及内存处理单元
+  - [huxiu][] 北京产权交易所去年交易规模超10万亿元
+  - [huxiu][] 宇树打破人类1500米世界纪录
+  - [infoq][] Google 在 GKE 推出 Cloud Storage FUSE 配置文件以加速 AI/ML 工
+  - [infoq][] Hugging Face平台修复coding agent traces viewer消息重复渲染问题
+  - [infoq][] StanfordAILab：WildChat 数据集已更新至2025年7月
+  - [infoq][] 斯坦福研究提出ELEPHANT基准，量化大型语言模型的社会谄媚行为
+  - [infoq][] Jacob Lee 使用 Deep Agents 与 ACP 构建定制化 AI 编码代理
+  - [infoq][] AI工程师通过LangGraph等技术将RAG聊天机器人成本降低90%
+  - [infoq][] Luma与Wonder Project成立Innovative Dreams，推出实时混合电影制作方
+  - [infoq][] 经合组织初步数据显示官方发展援助减少，人道主义援助下降35.8%
+  - [infoq][] LangChain发布技术指南：详解LangSmith中LLM-as-Judge自动化评估
+  - [infoq][] Jürgen Schmidhuber发布Mila 2026世界模型研讨会开幕演讲视频
+  - [infoq][] Google Cloud为Apigee API中心新增两项功能以应对API蔓延
+  - [infoq][] UNESCO推动国际可持续发展科学十年，将于2026年7月举办首届全球会议
+  - [infoq][] 腾讯开源HY-World 2.0多模态世界模型
+  - [infoq][] Anthropic推出Claude Design研究预览版，支持对话生成原型与演示文稿
+  - [infoq][] 微软将Claude Opus 4.7集成至Microsoft 365 Copilot模型生态
+  - [infoq][] Artificial Analysis 将 Claude Opus 4.7 评为 GDPval-AA
+  - [量子位][] 高德发布全球首个面向AGI的全栈具身技术体系“ABot”：15项SOTA，构建持续进化的具身智能闭环
+
+[2026-04-20 08:01:17] llm_classify - INPUT: 20条
+============================================================
+  - [huxiu][] 谷歌与迈威尔科技合作开发新型AI TPU及内存处理单元
+  - [huxiu][] 北京产权交易所去年交易规模超10万亿元
+  - [huxiu][] 宇树打破人类1500米世界纪录
+  - [infoq][] Google 在 GKE 推出 Cloud Storage FUSE 配置文件以加速 AI/ML 工
+  - [infoq][] Hugging Face平台修复coding agent traces viewer消息重复渲染问题
+  - [infoq][] StanfordAILab：WildChat 数据集已更新至2025年7月
+  - [infoq][] 斯坦福研究提出ELEPHANT基准，量化大型语言模型的社会谄媚行为
+  - [infoq][] Jacob Lee 使用 Deep Agents 与 ACP 构建定制化 AI 编码代理
+  - [infoq][] AI工程师通过LangGraph等技术将RAG聊天机器人成本降低90%
+  - [infoq][] Luma与Wonder Project成立Innovative Dreams，推出实时混合电影制作方
+  - [infoq][] 经合组织初步数据显示官方发展援助减少，人道主义援助下降35.8%
+  - [infoq][] LangChain发布技术指南：详解LangSmith中LLM-as-Judge自动化评估
+  - [infoq][] Jürgen Schmidhuber发布Mila 2026世界模型研讨会开幕演讲视频
+  - [infoq][] Google Cloud为Apigee API中心新增两项功能以应对API蔓延
+  - [infoq][] UNESCO推动国际可持续发展科学十年，将于2026年7月举办首届全球会议
+  - [infoq][] 腾讯开源HY-World 2.0多模态世界模型
+  - [infoq][] Anthropic推出Claude Design研究预览版，支持对话生成原型与演示文稿
+  - [infoq][] 微软将Claude Opus 4.7集成至Microsoft 365 Copilot模型生态
+  - [infoq][] Artificial Analysis 将 Claude Opus 4.7 评为 GDPval-AA
+  - [量子位][] 高德发布全球首个面向AGI的全栈具身技术体系“ABot”：15项SOTA，构建持续进化的具身智能闭环
+
+[2026-04-20 08:01:39] llm_classify - OUTPUT: 20条 | 保留20条
+============================================================
+  - [huxiu][国外AI资讯] 谷歌与迈威尔科技合作开发新型AI TPU及内存处理单元
+  - [huxiu][其它科技资讯] 北京产权交易所去年交易规模超10万亿元
+  - [huxiu][智能硬件] 宇树打破人类1500米世界纪录
+  - [infoq][国外AI资讯] Google 在 GKE 推出 Cloud Storage FUSE 配置文件以加速 AI/ML 工
+  - [infoq][国外AI资讯] Hugging Face平台修复coding agent traces viewer消息重复渲染问题
+  - [infoq][国外AI资讯] StanfordAILab：WildChat 数据集已更新至2025年7月
+  - [infoq][国外AI资讯] 斯坦福研究提出ELEPHANT基准，量化大型语言模型的社会谄媚行为
+  - [infoq][国外AI资讯] Jacob Lee 使用 Deep Agents 与 ACP 构建定制化 AI 编码代理
+  - [infoq][国外AI资讯] AI工程师通过LangGraph等技术将RAG聊天机器人成本降低90%
+  - [infoq][国外AI资讯] Luma与Wonder Project成立Innovative Dreams，推出实时混合电影制作方
+  - [infoq][其它科技资讯] 经合组织初步数据显示官方发展援助减少，人道主义援助下降35.8%
+  - [infoq][国外AI资讯] LangChain发布技术指南：详解LangSmith中LLM-as-Judge自动化评估
+  - [infoq][国外AI资讯] Jürgen Schmidhuber发布Mila 2026世界模型研讨会开幕演讲视频
+  - [infoq][国外AI资讯] Google Cloud为Apigee API中心新增两项功能以应对API蔓延
+  - [infoq][其它科技资讯] UNESCO推动国际可持续发展科学十年，将于2026年7月举办首届全球会议
+  - [infoq][国内AI资讯] 腾讯开源HY-World 2.0多模态世界模型
+  - [infoq][国外AI资讯] Anthropic推出Claude Design研究预览版，支持对话生成原型与演示文稿
+  - [infoq][国外AI资讯] 微软将Claude Opus 4.7集成至Microsoft 365 Copilot模型生态
+  - [infoq][国外AI资讯] Artificial Analysis 将 Claude Opus 4.7 评为 GDPval-AA
+  - [量子位][国内AI资讯] 高德发布全球首个面向AGI的全栈具身技术体系“ABot”：15项SOTA，构建持续进化的具身智能闭环
+
+[2026-04-20 08:01:39] llm_summary - INPUT: 20条
+============================================================
+  - [huxiu][国外AI资讯] 谷歌与迈威尔科技合作开发新型AI TPU及内存处理单元
+  - [huxiu][其它科技资讯] 北京产权交易所去年交易规模超10万亿元
+  - [huxiu][智能硬件] 宇树打破人类1500米世界纪录
+  - [infoq][国外AI资讯] Google 在 GKE 推出 Cloud Storage FUSE 配置文件以加速 AI/ML 工
+  - [infoq][国外AI资讯] Hugging Face平台修复coding agent traces viewer消息重复渲染问题
+  - [infoq][国外AI资讯] StanfordAILab：WildChat 数据集已更新至2025年7月
+  - [infoq][国外AI资讯] 斯坦福研究提出ELEPHANT基准，量化大型语言模型的社会谄媚行为
+  - [infoq][国外AI资讯] Jacob Lee 使用 Deep Agents 与 ACP 构建定制化 AI 编码代理
+  - [infoq][国外AI资讯] AI工程师通过LangGraph等技术将RAG聊天机器人成本降低90%
+  - [infoq][国外AI资讯] Luma与Wonder Project成立Innovative Dreams，推出实时混合电影制作方
+  - [infoq][其它科技资讯] 经合组织初步数据显示官方发展援助减少，人道主义援助下降35.8%
+  - [infoq][国外AI资讯] LangChain发布技术指南：详解LangSmith中LLM-as-Judge自动化评估
+  - [infoq][国外AI资讯] Jürgen Schmidhuber发布Mila 2026世界模型研讨会开幕演讲视频
+  - [infoq][国外AI资讯] Google Cloud为Apigee API中心新增两项功能以应对API蔓延
+  - [infoq][其它科技资讯] UNESCO推动国际可持续发展科学十年，将于2026年7月举办首届全球会议
+  - [infoq][国内AI资讯] 腾讯开源HY-World 2.0多模态世界模型
+  - [infoq][国外AI资讯] Anthropic推出Claude Design研究预览版，支持对话生成原型与演示文稿
+  - [infoq][国外AI资讯] 微软将Claude Opus 4.7集成至Microsoft 365 Copilot模型生态
+  - [infoq][国外AI资讯] Artificial Analysis 将 Claude Opus 4.7 评为 GDPval-AA
+  - [量子位][国内AI资讯] 高德发布全球首个面向AGI的全栈具身技术体系“ABot”：15项SOTA，构建持续进化的具身智能闭环
+
+[2026-04-20 08:01:43] llm_summary - OUTPUT: 20条 | 成功1条
+============================================================
+  - [huxiu][国外AI资讯] 谷歌与迈威尔科技合作开发新型AI TPU及内存处理单元
+  - [huxiu][其它科技资讯] 北京产权交易所去年交易规模超10万亿元
+  - [huxiu][智能硬件] 宇树打破人类1500米世界纪录
+  - [infoq][国外AI资讯] Google 在 GKE 推出 Cloud Storage FUSE 配置文件以加速 AI/ML 工
+  - [infoq][国外AI资讯] Hugging Face平台修复coding agent traces viewer消息重复渲染问题
+  - [infoq][国外AI资讯] StanfordAILab：WildChat 数据集已更新至2025年7月
+  - [infoq][国外AI资讯] 斯坦福研究提出ELEPHANT基准，量化大型语言模型的社会谄媚行为
+  - [infoq][国外AI资讯] Jacob Lee 使用 Deep Agents 与 ACP 构建定制化 AI 编码代理
+  - [infoq][国外AI资讯] AI工程师通过LangGraph等技术将RAG聊天机器人成本降低90%
+  - [infoq][国外AI资讯] Luma与Wonder Project成立Innovative Dreams，推出实时混合电影制作方
+  - [infoq][其它科技资讯] 经合组织初步数据显示官方发展援助减少，人道主义援助下降35.8%
+  - [infoq][国外AI资讯] LangChain发布技术指南：详解LangSmith中LLM-as-Judge自动化评估
+  - [infoq][国外AI资讯] Jürgen Schmidhuber发布Mila 2026世界模型研讨会开幕演讲视频
+  - [infoq][国外AI资讯] Google Cloud为Apigee API中心新增两项功能以应对API蔓延
+  - [infoq][其它科技资讯] UNESCO推动国际可持续发展科学十年，将于2026年7月举办首届全球会议
+  - [infoq][国内AI资讯] 腾讯开源HY-World 2.0多模态世界模型
+  - [infoq][国外AI资讯] Anthropic推出Claude Design研究预览版，支持对话生成原型与演示文稿
+  - [infoq][国外AI资讯] 微软将Claude Opus 4.7集成至Microsoft 365 Copilot模型生态
+  - [infoq][国外AI资讯] Artificial Analysis 将 Claude Opus 4.7 评为 GDPval-AA
+  - [量子位][国内AI资讯] 高德发布全球首个面向AGI的全栈具身技术体系“ABot”：15项SOTA，构建持续进化的具身智能闭环

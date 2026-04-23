@@ -1,0 +1,522 @@
+
+[2026-04-05 07:26:49] keyword_filter - INPUT: 24条
+============================================================
+  - [] 伯晓晨团队推出药物靶标亲和力预测AI新范式
+  - [] 扎克伯格重拾编程，向Meta提交代码并常用Claude Code CLI
+  - [] OpenAI奥尔特曼:希望孩子玩泥巴,不愿过早接触AI
+  - [] Meta组建独立硬件团队，开发多形态智能体
+  - [] ClementDelangue 演示使用 llama-server 加载特定量化版 Gemma 模型
+  - [] 谷歌云发布面向RAG应用的私有连接参考架构
+  - [] OECD将于近日发布《增长与竞争力基础》报告
+  - [] LeJEPA 模型 SigReg 优化过程可视化代码发布
+  - [] Google Cloud Tech 发布生成式AI领导者入门课程
+  - [] Anthropic研究科学家利用Claude Code发现Linux内核23年旧漏洞
+  - [] Google Cloud发布结合LLM与传统协同过滤的个性化推荐架构方案
+  - [] 独立评估显示 MiniMax M2.7 在核心智能体任务上媲美闭源前沿模型
+  - [] MiniMax与Teknium合作，旨在增强下一代模型在Hermes Agent中的能力
+  - [] Gartner：CIO需重塑人才、流程与技术以引领AI时代
+  - [] Google DeepMind Gemma 后训练团队负责人将分享扩展强化学习与设备端AI模型见解
+  - [] OECD宣布2026年性别平等论坛将聚焦数字化转型与包容性
+  - [] UNESCO与编程猫合作启动青年编程倡议，提升全球青少年数字素养
+  - [] Pika推出面向任意AI智能体的视频聊天技能测试版
+  - [] Qwen 3.6 Plus 成为 OpenRouter 平台首个单日处理超万亿 token 模型
+  - [] 阿里通义千问 Qwen3.6-Plus 登顶 OpenRouter 榜单，单日处理量破万亿 toke
+  - [] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+
+[2026-04-05 07:26:49] keyword_filter - OUTPUT: 18条 | 移除6条
+============================================================
+  - [] 扎克伯格重拾编程，向Meta提交代码并常用Claude Code CLI
+  - [] ClementDelangue 演示使用 llama-server 加载特定量化版 Gemma 模型
+  - [] 谷歌云发布面向RAG应用的私有连接参考架构
+  - [] LeJEPA 模型 SigReg 优化过程可视化代码发布
+  - [] Google Cloud Tech 发布生成式AI领导者入门课程
+  - [] Anthropic研究科学家利用Claude Code发现Linux内核23年旧漏洞
+  - [] Google Cloud发布结合LLM与传统协同过滤的个性化推荐架构方案
+  - [] 独立评估显示 MiniMax M2.7 在核心智能体任务上媲美闭源前沿模型
+  - [] MiniMax与Teknium合作，旨在增强下一代模型在Hermes Agent中的能力
+  - [] Google DeepMind Gemma 后训练团队负责人将分享扩展强化学习与设备端AI模型见解
+  - [] UNESCO与编程猫合作启动青年编程倡议，提升全球青少年数字素养
+  - [] Pika推出面向任意AI智能体的视频聊天技能测试版
+  - [] Qwen 3.6 Plus 成为 OpenRouter 平台首个单日处理超万亿 token 模型
+  - [] 阿里通义千问 Qwen3.6-Plus 登顶 OpenRouter 榜单，单日处理量破万亿 toke
+  - [] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+
+[2026-04-05 07:26:49] bge_dedup - INPUT: 18条
+============================================================
+  - [] 扎克伯格重拾编程，向Meta提交代码并常用Claude Code CLI
+  - [] ClementDelangue 演示使用 llama-server 加载特定量化版 Gemma 模型
+  - [] 谷歌云发布面向RAG应用的私有连接参考架构
+  - [] LeJEPA 模型 SigReg 优化过程可视化代码发布
+  - [] Google Cloud Tech 发布生成式AI领导者入门课程
+  - [] Anthropic研究科学家利用Claude Code发现Linux内核23年旧漏洞
+  - [] Google Cloud发布结合LLM与传统协同过滤的个性化推荐架构方案
+  - [] 独立评估显示 MiniMax M2.7 在核心智能体任务上媲美闭源前沿模型
+  - [] MiniMax与Teknium合作，旨在增强下一代模型在Hermes Agent中的能力
+  - [] Google DeepMind Gemma 后训练团队负责人将分享扩展强化学习与设备端AI模型见解
+  - [] UNESCO与编程猫合作启动青年编程倡议，提升全球青少年数字素养
+  - [] Pika推出面向任意AI智能体的视频聊天技能测试版
+  - [] Qwen 3.6 Plus 成为 OpenRouter 平台首个单日处理超万亿 token 模型
+  - [] 阿里通义千问 Qwen3.6-Plus 登顶 OpenRouter 榜单，单日处理量破万亿 toke
+  - [] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+
+[2026-04-05 07:27:05] bge_dedup - OUTPUT: 18条 | 移除0条
+============================================================
+  - [] 扎克伯格重拾编程，向Meta提交代码并常用Claude Code CLI
+  - [] ClementDelangue 演示使用 llama-server 加载特定量化版 Gemma 模型
+  - [] 谷歌云发布面向RAG应用的私有连接参考架构
+  - [] LeJEPA 模型 SigReg 优化过程可视化代码发布
+  - [] Google Cloud Tech 发布生成式AI领导者入门课程
+  - [] Anthropic研究科学家利用Claude Code发现Linux内核23年旧漏洞
+  - [] Google Cloud发布结合LLM与传统协同过滤的个性化推荐架构方案
+  - [] 独立评估显示 MiniMax M2.7 在核心智能体任务上媲美闭源前沿模型
+  - [] MiniMax与Teknium合作，旨在增强下一代模型在Hermes Agent中的能力
+  - [] Google DeepMind Gemma 后训练团队负责人将分享扩展强化学习与设备端AI模型见解
+  - [] UNESCO与编程猫合作启动青年编程倡议，提升全球青少年数字素养
+  - [] Pika推出面向任意AI智能体的视频聊天技能测试版
+  - [] Qwen 3.6 Plus 成为 OpenRouter 平台首个单日处理超万亿 token 模型
+  - [] 阿里通义千问 Qwen3.6-Plus 登顶 OpenRouter 榜单，单日处理量破万亿 toke
+  - [] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+
+[2026-04-05 07:27:05] llm_classify - INPUT: 18条
+============================================================
+  - [] 扎克伯格重拾编程，向Meta提交代码并常用Claude Code CLI
+  - [] ClementDelangue 演示使用 llama-server 加载特定量化版 Gemma 模型
+  - [] 谷歌云发布面向RAG应用的私有连接参考架构
+  - [] LeJEPA 模型 SigReg 优化过程可视化代码发布
+  - [] Google Cloud Tech 发布生成式AI领导者入门课程
+  - [] Anthropic研究科学家利用Claude Code发现Linux内核23年旧漏洞
+  - [] Google Cloud发布结合LLM与传统协同过滤的个性化推荐架构方案
+  - [] 独立评估显示 MiniMax M2.7 在核心智能体任务上媲美闭源前沿模型
+  - [] MiniMax与Teknium合作，旨在增强下一代模型在Hermes Agent中的能力
+  - [] Google DeepMind Gemma 后训练团队负责人将分享扩展强化学习与设备端AI模型见解
+  - [] UNESCO与编程猫合作启动青年编程倡议，提升全球青少年数字素养
+  - [] Pika推出面向任意AI智能体的视频聊天技能测试版
+  - [] Qwen 3.6 Plus 成为 OpenRouter 平台首个单日处理超万亿 token 模型
+  - [] 阿里通义千问 Qwen3.6-Plus 登顶 OpenRouter 榜单，单日处理量破万亿 toke
+  - [] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+
+[2026-04-05 07:27:19] llm_classify - OUTPUT: 18条 | 保留18条
+============================================================
+  - [国外AI资讯] 扎克伯格重拾编程，向Meta提交代码并常用Claude Code CLI
+  - [国外AI资讯] ClementDelangue 演示使用 llama-server 加载特定量化版 Gemma 模型
+  - [国外AI资讯] 谷歌云发布面向RAG应用的私有连接参考架构
+  - [国外AI资讯] LeJEPA 模型 SigReg 优化过程可视化代码发布
+  - [国外AI资讯] Google Cloud Tech 发布生成式AI领导者入门课程
+  - [国外AI资讯] Anthropic研究科学家利用Claude Code发现Linux内核23年旧漏洞
+  - [国外AI资讯] Google Cloud发布结合LLM与传统协同过滤的个性化推荐架构方案
+  - [国内AI资讯] 独立评估显示 MiniMax M2.7 在核心智能体任务上媲美闭源前沿模型
+  - [国内AI资讯] MiniMax与Teknium合作，旨在增强下一代模型在Hermes Agent中的能力
+  - [国外AI资讯] Google DeepMind Gemma 后训练团队负责人将分享扩展强化学习与设备端AI模型见解
+  - [国外AI资讯] UNESCO与编程猫合作启动青年编程倡议，提升全球青少年数字素养
+  - [国外AI资讯] Pika推出面向任意AI智能体的视频聊天技能测试版
+  - [国内AI资讯] Qwen 3.6 Plus 成为 OpenRouter 平台首个单日处理超万亿 token 模型
+  - [国内AI资讯] 阿里通义千问 Qwen3.6-Plus 登顶 OpenRouter 榜单，单日处理量破万亿 toke
+  - [国外AI资讯] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [国外AI资讯] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [国外AI资讯] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [国外AI资讯] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+
+[2026-04-05 07:27:19] llm_summary - INPUT: 18条
+============================================================
+  - [国外AI资讯] 扎克伯格重拾编程，向Meta提交代码并常用Claude Code CLI
+  - [国外AI资讯] ClementDelangue 演示使用 llama-server 加载特定量化版 Gemma 模型
+  - [国外AI资讯] 谷歌云发布面向RAG应用的私有连接参考架构
+  - [国外AI资讯] LeJEPA 模型 SigReg 优化过程可视化代码发布
+  - [国外AI资讯] Google Cloud Tech 发布生成式AI领导者入门课程
+  - [国外AI资讯] Anthropic研究科学家利用Claude Code发现Linux内核23年旧漏洞
+  - [国外AI资讯] Google Cloud发布结合LLM与传统协同过滤的个性化推荐架构方案
+  - [国内AI资讯] 独立评估显示 MiniMax M2.7 在核心智能体任务上媲美闭源前沿模型
+  - [国内AI资讯] MiniMax与Teknium合作，旨在增强下一代模型在Hermes Agent中的能力
+  - [国外AI资讯] Google DeepMind Gemma 后训练团队负责人将分享扩展强化学习与设备端AI模型见解
+  - [国外AI资讯] UNESCO与编程猫合作启动青年编程倡议，提升全球青少年数字素养
+  - [国外AI资讯] Pika推出面向任意AI智能体的视频聊天技能测试版
+  - [国内AI资讯] Qwen 3.6 Plus 成为 OpenRouter 平台首个单日处理超万亿 token 模型
+  - [国内AI资讯] 阿里通义千问 Qwen3.6-Plus 登顶 OpenRouter 榜单，单日处理量破万亿 toke
+  - [国外AI资讯] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [国外AI资讯] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [国外AI资讯] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [国外AI资讯] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+
+[2026-04-05 07:27:41] llm_summary - OUTPUT: 18条 | 成功0条
+============================================================
+  - [国外AI资讯] 扎克伯格重拾编程，向Meta提交代码并常用Claude Code CLI
+  - [国外AI资讯] ClementDelangue 演示使用 llama-server 加载特定量化版 Gemma 模型
+  - [国外AI资讯] 谷歌云发布面向RAG应用的私有连接参考架构
+  - [国外AI资讯] LeJEPA 模型 SigReg 优化过程可视化代码发布
+  - [国外AI资讯] Google Cloud Tech 发布生成式AI领导者入门课程
+  - [国外AI资讯] Anthropic研究科学家利用Claude Code发现Linux内核23年旧漏洞
+  - [国外AI资讯] Google Cloud发布结合LLM与传统协同过滤的个性化推荐架构方案
+  - [国内AI资讯] 独立评估显示 MiniMax M2.7 在核心智能体任务上媲美闭源前沿模型
+  - [国内AI资讯] MiniMax与Teknium合作，旨在增强下一代模型在Hermes Agent中的能力
+  - [国外AI资讯] Google DeepMind Gemma 后训练团队负责人将分享扩展强化学习与设备端AI模型见解
+  - [国外AI资讯] UNESCO与编程猫合作启动青年编程倡议，提升全球青少年数字素养
+  - [国外AI资讯] Pika推出面向任意AI智能体的视频聊天技能测试版
+  - [国内AI资讯] Qwen 3.6 Plus 成为 OpenRouter 平台首个单日处理超万亿 token 模型
+  - [国内AI资讯] 阿里通义千问 Qwen3.6-Plus 登顶 OpenRouter 榜单，单日处理量破万亿 toke
+  - [国外AI资讯] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [国外AI资讯] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [国外AI资讯] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [国外AI资讯] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+
+[2026-04-05 07:28:37] keyword_filter - INPUT: 24条
+============================================================
+  - [] 伯晓晨团队推出药物靶标亲和力预测AI新范式
+  - [] 扎克伯格重拾编程，向Meta提交代码并常用Claude Code CLI
+  - [] OpenAI奥尔特曼:希望孩子玩泥巴,不愿过早接触AI
+  - [] Meta组建独立硬件团队，开发多形态智能体
+  - [] ClementDelangue 演示使用 llama-server 加载特定量化版 Gemma 模型
+  - [] 谷歌云发布面向RAG应用的私有连接参考架构
+  - [] OECD将于近日发布《增长与竞争力基础》报告
+  - [] LeJEPA 模型 SigReg 优化过程可视化代码发布
+  - [] Google Cloud Tech 发布生成式AI领导者入门课程
+  - [] Anthropic研究科学家利用Claude Code发现Linux内核23年旧漏洞
+  - [] Google Cloud发布结合LLM与传统协同过滤的个性化推荐架构方案
+  - [] 独立评估显示 MiniMax M2.7 在核心智能体任务上媲美闭源前沿模型
+  - [] MiniMax与Teknium合作，旨在增强下一代模型在Hermes Agent中的能力
+  - [] Gartner：CIO需重塑人才、流程与技术以引领AI时代
+  - [] Google DeepMind Gemma 后训练团队负责人将分享扩展强化学习与设备端AI模型见解
+  - [] OECD宣布2026年性别平等论坛将聚焦数字化转型与包容性
+  - [] UNESCO与编程猫合作启动青年编程倡议，提升全球青少年数字素养
+  - [] Pika推出面向任意AI智能体的视频聊天技能测试版
+  - [] Qwen 3.6 Plus 成为 OpenRouter 平台首个单日处理超万亿 token 模型
+  - [] 阿里通义千问 Qwen3.6-Plus 登顶 OpenRouter 榜单，单日处理量破万亿 toke
+  - [] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+
+[2026-04-05 07:28:37] keyword_filter - OUTPUT: 18条 | 移除6条
+============================================================
+  - [] 扎克伯格重拾编程，向Meta提交代码并常用Claude Code CLI
+  - [] ClementDelangue 演示使用 llama-server 加载特定量化版 Gemma 模型
+  - [] 谷歌云发布面向RAG应用的私有连接参考架构
+  - [] LeJEPA 模型 SigReg 优化过程可视化代码发布
+  - [] Google Cloud Tech 发布生成式AI领导者入门课程
+  - [] Anthropic研究科学家利用Claude Code发现Linux内核23年旧漏洞
+  - [] Google Cloud发布结合LLM与传统协同过滤的个性化推荐架构方案
+  - [] 独立评估显示 MiniMax M2.7 在核心智能体任务上媲美闭源前沿模型
+  - [] MiniMax与Teknium合作，旨在增强下一代模型在Hermes Agent中的能力
+  - [] Google DeepMind Gemma 后训练团队负责人将分享扩展强化学习与设备端AI模型见解
+  - [] UNESCO与编程猫合作启动青年编程倡议，提升全球青少年数字素养
+  - [] Pika推出面向任意AI智能体的视频聊天技能测试版
+  - [] Qwen 3.6 Plus 成为 OpenRouter 平台首个单日处理超万亿 token 模型
+  - [] 阿里通义千问 Qwen3.6-Plus 登顶 OpenRouter 榜单，单日处理量破万亿 toke
+  - [] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+
+[2026-04-05 07:28:37] bge_dedup - INPUT: 18条
+============================================================
+  - [] 扎克伯格重拾编程，向Meta提交代码并常用Claude Code CLI
+  - [] ClementDelangue 演示使用 llama-server 加载特定量化版 Gemma 模型
+  - [] 谷歌云发布面向RAG应用的私有连接参考架构
+  - [] LeJEPA 模型 SigReg 优化过程可视化代码发布
+  - [] Google Cloud Tech 发布生成式AI领导者入门课程
+  - [] Anthropic研究科学家利用Claude Code发现Linux内核23年旧漏洞
+  - [] Google Cloud发布结合LLM与传统协同过滤的个性化推荐架构方案
+  - [] 独立评估显示 MiniMax M2.7 在核心智能体任务上媲美闭源前沿模型
+  - [] MiniMax与Teknium合作，旨在增强下一代模型在Hermes Agent中的能力
+  - [] Google DeepMind Gemma 后训练团队负责人将分享扩展强化学习与设备端AI模型见解
+  - [] UNESCO与编程猫合作启动青年编程倡议，提升全球青少年数字素养
+  - [] Pika推出面向任意AI智能体的视频聊天技能测试版
+  - [] Qwen 3.6 Plus 成为 OpenRouter 平台首个单日处理超万亿 token 模型
+  - [] 阿里通义千问 Qwen3.6-Plus 登顶 OpenRouter 榜单，单日处理量破万亿 toke
+  - [] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+
+[2026-04-05 07:28:49] bge_dedup - OUTPUT: 18条 | 移除0条
+============================================================
+  - [] 扎克伯格重拾编程，向Meta提交代码并常用Claude Code CLI
+  - [] ClementDelangue 演示使用 llama-server 加载特定量化版 Gemma 模型
+  - [] 谷歌云发布面向RAG应用的私有连接参考架构
+  - [] LeJEPA 模型 SigReg 优化过程可视化代码发布
+  - [] Google Cloud Tech 发布生成式AI领导者入门课程
+  - [] Anthropic研究科学家利用Claude Code发现Linux内核23年旧漏洞
+  - [] Google Cloud发布结合LLM与传统协同过滤的个性化推荐架构方案
+  - [] 独立评估显示 MiniMax M2.7 在核心智能体任务上媲美闭源前沿模型
+  - [] MiniMax与Teknium合作，旨在增强下一代模型在Hermes Agent中的能力
+  - [] Google DeepMind Gemma 后训练团队负责人将分享扩展强化学习与设备端AI模型见解
+  - [] UNESCO与编程猫合作启动青年编程倡议，提升全球青少年数字素养
+  - [] Pika推出面向任意AI智能体的视频聊天技能测试版
+  - [] Qwen 3.6 Plus 成为 OpenRouter 平台首个单日处理超万亿 token 模型
+  - [] 阿里通义千问 Qwen3.6-Plus 登顶 OpenRouter 榜单，单日处理量破万亿 toke
+  - [] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+
+[2026-04-05 07:28:49] llm_classify - INPUT: 18条
+============================================================
+  - [] 扎克伯格重拾编程，向Meta提交代码并常用Claude Code CLI
+  - [] ClementDelangue 演示使用 llama-server 加载特定量化版 Gemma 模型
+  - [] 谷歌云发布面向RAG应用的私有连接参考架构
+  - [] LeJEPA 模型 SigReg 优化过程可视化代码发布
+  - [] Google Cloud Tech 发布生成式AI领导者入门课程
+  - [] Anthropic研究科学家利用Claude Code发现Linux内核23年旧漏洞
+  - [] Google Cloud发布结合LLM与传统协同过滤的个性化推荐架构方案
+  - [] 独立评估显示 MiniMax M2.7 在核心智能体任务上媲美闭源前沿模型
+  - [] MiniMax与Teknium合作，旨在增强下一代模型在Hermes Agent中的能力
+  - [] Google DeepMind Gemma 后训练团队负责人将分享扩展强化学习与设备端AI模型见解
+  - [] UNESCO与编程猫合作启动青年编程倡议，提升全球青少年数字素养
+  - [] Pika推出面向任意AI智能体的视频聊天技能测试版
+  - [] Qwen 3.6 Plus 成为 OpenRouter 平台首个单日处理超万亿 token 模型
+  - [] 阿里通义千问 Qwen3.6-Plus 登顶 OpenRouter 榜单，单日处理量破万亿 toke
+  - [] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+
+[2026-04-05 07:28:56] llm_classify - OUTPUT: 18条 | 保留18条
+============================================================
+  - [国外AI资讯] 扎克伯格重拾编程，向Meta提交代码并常用Claude Code CLI
+  - [国外AI资讯] ClementDelangue 演示使用 llama-server 加载特定量化版 Gemma 模型
+  - [国外AI资讯] 谷歌云发布面向RAG应用的私有连接参考架构
+  - [国外AI资讯] LeJEPA 模型 SigReg 优化过程可视化代码发布
+  - [国外AI资讯] Google Cloud Tech 发布生成式AI领导者入门课程
+  - [国外AI资讯] Anthropic研究科学家利用Claude Code发现Linux内核23年旧漏洞
+  - [国外AI资讯] Google Cloud发布结合LLM与传统协同过滤的个性化推荐架构方案
+  - [国内AI资讯] 独立评估显示 MiniMax M2.7 在核心智能体任务上媲美闭源前沿模型
+  - [国内AI资讯] MiniMax与Teknium合作，旨在增强下一代模型在Hermes Agent中的能力
+  - [国外AI资讯] Google DeepMind Gemma 后训练团队负责人将分享扩展强化学习与设备端AI模型见解
+  - [其它科技资讯] UNESCO与编程猫合作启动青年编程倡议，提升全球青少年数字素养
+  - [国外AI资讯] Pika推出面向任意AI智能体的视频聊天技能测试版
+  - [国内AI资讯] Qwen 3.6 Plus 成为 OpenRouter 平台首个单日处理超万亿 token 模型
+  - [国内AI资讯] 阿里通义千问 Qwen3.6-Plus 登顶 OpenRouter 榜单，单日处理量破万亿 toke
+  - [国外AI资讯] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [国外AI资讯] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [国外AI资讯] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [国外AI资讯] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+
+[2026-04-05 07:28:56] llm_summary - INPUT: 18条
+============================================================
+  - [国外AI资讯] 扎克伯格重拾编程，向Meta提交代码并常用Claude Code CLI
+  - [国外AI资讯] ClementDelangue 演示使用 llama-server 加载特定量化版 Gemma 模型
+  - [国外AI资讯] 谷歌云发布面向RAG应用的私有连接参考架构
+  - [国外AI资讯] LeJEPA 模型 SigReg 优化过程可视化代码发布
+  - [国外AI资讯] Google Cloud Tech 发布生成式AI领导者入门课程
+  - [国外AI资讯] Anthropic研究科学家利用Claude Code发现Linux内核23年旧漏洞
+  - [国外AI资讯] Google Cloud发布结合LLM与传统协同过滤的个性化推荐架构方案
+  - [国内AI资讯] 独立评估显示 MiniMax M2.7 在核心智能体任务上媲美闭源前沿模型
+  - [国内AI资讯] MiniMax与Teknium合作，旨在增强下一代模型在Hermes Agent中的能力
+  - [国外AI资讯] Google DeepMind Gemma 后训练团队负责人将分享扩展强化学习与设备端AI模型见解
+  - [其它科技资讯] UNESCO与编程猫合作启动青年编程倡议，提升全球青少年数字素养
+  - [国外AI资讯] Pika推出面向任意AI智能体的视频聊天技能测试版
+  - [国内AI资讯] Qwen 3.6 Plus 成为 OpenRouter 平台首个单日处理超万亿 token 模型
+  - [国内AI资讯] 阿里通义千问 Qwen3.6-Plus 登顶 OpenRouter 榜单，单日处理量破万亿 toke
+  - [国外AI资讯] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [国外AI资讯] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [国外AI资讯] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [国外AI资讯] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+
+[2026-04-05 07:29:16] llm_summary - OUTPUT: 18条 | 成功0条
+============================================================
+  - [国外AI资讯] 扎克伯格重拾编程，向Meta提交代码并常用Claude Code CLI
+  - [国外AI资讯] ClementDelangue 演示使用 llama-server 加载特定量化版 Gemma 模型
+  - [国外AI资讯] 谷歌云发布面向RAG应用的私有连接参考架构
+  - [国外AI资讯] LeJEPA 模型 SigReg 优化过程可视化代码发布
+  - [国外AI资讯] Google Cloud Tech 发布生成式AI领导者入门课程
+  - [国外AI资讯] Anthropic研究科学家利用Claude Code发现Linux内核23年旧漏洞
+  - [国外AI资讯] Google Cloud发布结合LLM与传统协同过滤的个性化推荐架构方案
+  - [国内AI资讯] 独立评估显示 MiniMax M2.7 在核心智能体任务上媲美闭源前沿模型
+  - [国内AI资讯] MiniMax与Teknium合作，旨在增强下一代模型在Hermes Agent中的能力
+  - [国外AI资讯] Google DeepMind Gemma 后训练团队负责人将分享扩展强化学习与设备端AI模型见解
+  - [其它科技资讯] UNESCO与编程猫合作启动青年编程倡议，提升全球青少年数字素养
+  - [国外AI资讯] Pika推出面向任意AI智能体的视频聊天技能测试版
+  - [国内AI资讯] Qwen 3.6 Plus 成为 OpenRouter 平台首个单日处理超万亿 token 模型
+  - [国内AI资讯] 阿里通义千问 Qwen3.6-Plus 登顶 OpenRouter 榜单，单日处理量破万亿 toke
+  - [国外AI资讯] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [国外AI资讯] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [国外AI资讯] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [国外AI资讯] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+
+[2026-04-05 07:31:00] keyword_filter - INPUT: 24条
+============================================================
+  - [] 伯晓晨团队推出药物靶标亲和力预测AI新范式
+  - [] 扎克伯格重拾编程，向Meta提交代码并常用Claude Code CLI
+  - [] OpenAI奥尔特曼:希望孩子玩泥巴,不愿过早接触AI
+  - [] Meta组建独立硬件团队，开发多形态智能体
+  - [] ClementDelangue 演示使用 llama-server 加载特定量化版 Gemma 模型
+  - [] 谷歌云发布面向RAG应用的私有连接参考架构
+  - [] OECD将于近日发布《增长与竞争力基础》报告
+  - [] LeJEPA 模型 SigReg 优化过程可视化代码发布
+  - [] Google Cloud Tech 发布生成式AI领导者入门课程
+  - [] Anthropic研究科学家利用Claude Code发现Linux内核23年旧漏洞
+  - [] Google Cloud发布结合LLM与传统协同过滤的个性化推荐架构方案
+  - [] 独立评估显示 MiniMax M2.7 在核心智能体任务上媲美闭源前沿模型
+  - [] MiniMax与Teknium合作，旨在增强下一代模型在Hermes Agent中的能力
+  - [] Gartner：CIO需重塑人才、流程与技术以引领AI时代
+  - [] Google DeepMind Gemma 后训练团队负责人将分享扩展强化学习与设备端AI模型见解
+  - [] OECD宣布2026年性别平等论坛将聚焦数字化转型与包容性
+  - [] UNESCO与编程猫合作启动青年编程倡议，提升全球青少年数字素养
+  - [] Pika推出面向任意AI智能体的视频聊天技能测试版
+  - [] Qwen 3.6 Plus 成为 OpenRouter 平台首个单日处理超万亿 token 模型
+  - [] 阿里通义千问 Qwen3.6-Plus 登顶 OpenRouter 榜单，单日处理量破万亿 toke
+  - [] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+
+[2026-04-05 07:31:00] keyword_filter - OUTPUT: 18条 | 移除6条
+============================================================
+  - [] 扎克伯格重拾编程，向Meta提交代码并常用Claude Code CLI
+  - [] ClementDelangue 演示使用 llama-server 加载特定量化版 Gemma 模型
+  - [] 谷歌云发布面向RAG应用的私有连接参考架构
+  - [] LeJEPA 模型 SigReg 优化过程可视化代码发布
+  - [] Google Cloud Tech 发布生成式AI领导者入门课程
+  - [] Anthropic研究科学家利用Claude Code发现Linux内核23年旧漏洞
+  - [] Google Cloud发布结合LLM与传统协同过滤的个性化推荐架构方案
+  - [] 独立评估显示 MiniMax M2.7 在核心智能体任务上媲美闭源前沿模型
+  - [] MiniMax与Teknium合作，旨在增强下一代模型在Hermes Agent中的能力
+  - [] Google DeepMind Gemma 后训练团队负责人将分享扩展强化学习与设备端AI模型见解
+  - [] UNESCO与编程猫合作启动青年编程倡议，提升全球青少年数字素养
+  - [] Pika推出面向任意AI智能体的视频聊天技能测试版
+  - [] Qwen 3.6 Plus 成为 OpenRouter 平台首个单日处理超万亿 token 模型
+  - [] 阿里通义千问 Qwen3.6-Plus 登顶 OpenRouter 榜单，单日处理量破万亿 toke
+  - [] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+
+[2026-04-05 07:31:00] bge_dedup - INPUT: 18条
+============================================================
+  - [] 扎克伯格重拾编程，向Meta提交代码并常用Claude Code CLI
+  - [] ClementDelangue 演示使用 llama-server 加载特定量化版 Gemma 模型
+  - [] 谷歌云发布面向RAG应用的私有连接参考架构
+  - [] LeJEPA 模型 SigReg 优化过程可视化代码发布
+  - [] Google Cloud Tech 发布生成式AI领导者入门课程
+  - [] Anthropic研究科学家利用Claude Code发现Linux内核23年旧漏洞
+  - [] Google Cloud发布结合LLM与传统协同过滤的个性化推荐架构方案
+  - [] 独立评估显示 MiniMax M2.7 在核心智能体任务上媲美闭源前沿模型
+  - [] MiniMax与Teknium合作，旨在增强下一代模型在Hermes Agent中的能力
+  - [] Google DeepMind Gemma 后训练团队负责人将分享扩展强化学习与设备端AI模型见解
+  - [] UNESCO与编程猫合作启动青年编程倡议，提升全球青少年数字素养
+  - [] Pika推出面向任意AI智能体的视频聊天技能测试版
+  - [] Qwen 3.6 Plus 成为 OpenRouter 平台首个单日处理超万亿 token 模型
+  - [] 阿里通义千问 Qwen3.6-Plus 登顶 OpenRouter 榜单，单日处理量破万亿 toke
+  - [] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+
+[2026-04-05 07:31:10] bge_dedup - OUTPUT: 18条 | 移除0条
+============================================================
+  - [] 扎克伯格重拾编程，向Meta提交代码并常用Claude Code CLI
+  - [] ClementDelangue 演示使用 llama-server 加载特定量化版 Gemma 模型
+  - [] 谷歌云发布面向RAG应用的私有连接参考架构
+  - [] LeJEPA 模型 SigReg 优化过程可视化代码发布
+  - [] Google Cloud Tech 发布生成式AI领导者入门课程
+  - [] Anthropic研究科学家利用Claude Code发现Linux内核23年旧漏洞
+  - [] Google Cloud发布结合LLM与传统协同过滤的个性化推荐架构方案
+  - [] 独立评估显示 MiniMax M2.7 在核心智能体任务上媲美闭源前沿模型
+  - [] MiniMax与Teknium合作，旨在增强下一代模型在Hermes Agent中的能力
+  - [] Google DeepMind Gemma 后训练团队负责人将分享扩展强化学习与设备端AI模型见解
+  - [] UNESCO与编程猫合作启动青年编程倡议，提升全球青少年数字素养
+  - [] Pika推出面向任意AI智能体的视频聊天技能测试版
+  - [] Qwen 3.6 Plus 成为 OpenRouter 平台首个单日处理超万亿 token 模型
+  - [] 阿里通义千问 Qwen3.6-Plus 登顶 OpenRouter 榜单，单日处理量破万亿 toke
+  - [] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+
+[2026-04-05 07:31:10] llm_classify - INPUT: 18条
+============================================================
+  - [] 扎克伯格重拾编程，向Meta提交代码并常用Claude Code CLI
+  - [] ClementDelangue 演示使用 llama-server 加载特定量化版 Gemma 模型
+  - [] 谷歌云发布面向RAG应用的私有连接参考架构
+  - [] LeJEPA 模型 SigReg 优化过程可视化代码发布
+  - [] Google Cloud Tech 发布生成式AI领导者入门课程
+  - [] Anthropic研究科学家利用Claude Code发现Linux内核23年旧漏洞
+  - [] Google Cloud发布结合LLM与传统协同过滤的个性化推荐架构方案
+  - [] 独立评估显示 MiniMax M2.7 在核心智能体任务上媲美闭源前沿模型
+  - [] MiniMax与Teknium合作，旨在增强下一代模型在Hermes Agent中的能力
+  - [] Google DeepMind Gemma 后训练团队负责人将分享扩展强化学习与设备端AI模型见解
+  - [] UNESCO与编程猫合作启动青年编程倡议，提升全球青少年数字素养
+  - [] Pika推出面向任意AI智能体的视频聊天技能测试版
+  - [] Qwen 3.6 Plus 成为 OpenRouter 平台首个单日处理超万亿 token 模型
+  - [] 阿里通义千问 Qwen3.6-Plus 登顶 OpenRouter 榜单，单日处理量破万亿 toke
+  - [] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+
+[2026-04-05 07:31:22] llm_classify - OUTPUT: 18条 | 保留18条
+============================================================
+  - [国外AI资讯] 扎克伯格重拾编程，向Meta提交代码并常用Claude Code CLI
+  - [国外AI资讯] ClementDelangue 演示使用 llama-server 加载特定量化版 Gemma 模型
+  - [国外AI资讯] 谷歌云发布面向RAG应用的私有连接参考架构
+  - [国外AI资讯] LeJEPA 模型 SigReg 优化过程可视化代码发布
+  - [国外AI资讯] Google Cloud Tech 发布生成式AI领导者入门课程
+  - [国外AI资讯] Anthropic研究科学家利用Claude Code发现Linux内核23年旧漏洞
+  - [国外AI资讯] Google Cloud发布结合LLM与传统协同过滤的个性化推荐架构方案
+  - [国内AI资讯] 独立评估显示 MiniMax M2.7 在核心智能体任务上媲美闭源前沿模型
+  - [国内AI资讯] MiniMax与Teknium合作，旨在增强下一代模型在Hermes Agent中的能力
+  - [国外AI资讯] Google DeepMind Gemma 后训练团队负责人将分享扩展强化学习与设备端AI模型见解
+  - [其它科技资讯] UNESCO与编程猫合作启动青年编程倡议，提升全球青少年数字素养
+  - [国外AI资讯] Pika推出面向任意AI智能体的视频聊天技能测试版
+  - [国内AI资讯] Qwen 3.6 Plus 成为 OpenRouter 平台首个单日处理超万亿 token 模型
+  - [国内AI资讯] 阿里通义千问 Qwen3.6-Plus 登顶 OpenRouter 榜单，单日处理量破万亿 toke
+  - [国外AI资讯] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [国外AI资讯] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [国外AI资讯] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [国外AI资讯] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+
+[2026-04-05 07:31:22] llm_summary - INPUT: 18条
+============================================================
+  - [国外AI资讯] 扎克伯格重拾编程，向Meta提交代码并常用Claude Code CLI
+  - [国外AI资讯] ClementDelangue 演示使用 llama-server 加载特定量化版 Gemma 模型
+  - [国外AI资讯] 谷歌云发布面向RAG应用的私有连接参考架构
+  - [国外AI资讯] LeJEPA 模型 SigReg 优化过程可视化代码发布
+  - [国外AI资讯] Google Cloud Tech 发布生成式AI领导者入门课程
+  - [国外AI资讯] Anthropic研究科学家利用Claude Code发现Linux内核23年旧漏洞
+  - [国外AI资讯] Google Cloud发布结合LLM与传统协同过滤的个性化推荐架构方案
+  - [国内AI资讯] 独立评估显示 MiniMax M2.7 在核心智能体任务上媲美闭源前沿模型
+  - [国内AI资讯] MiniMax与Teknium合作，旨在增强下一代模型在Hermes Agent中的能力
+  - [国外AI资讯] Google DeepMind Gemma 后训练团队负责人将分享扩展强化学习与设备端AI模型见解
+  - [其它科技资讯] UNESCO与编程猫合作启动青年编程倡议，提升全球青少年数字素养
+  - [国外AI资讯] Pika推出面向任意AI智能体的视频聊天技能测试版
+  - [国内AI资讯] Qwen 3.6 Plus 成为 OpenRouter 平台首个单日处理超万亿 token 模型
+  - [国内AI资讯] 阿里通义千问 Qwen3.6-Plus 登顶 OpenRouter 榜单，单日处理量破万亿 toke
+  - [国外AI资讯] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [国外AI资讯] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [国外AI资讯] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [国外AI资讯] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 
+
+[2026-04-05 07:31:42] llm_summary - OUTPUT: 18条 | 成功0条
+============================================================
+  - [国外AI资讯] 扎克伯格重拾编程，向Meta提交代码并常用Claude Code CLI
+  - [国外AI资讯] ClementDelangue 演示使用 llama-server 加载特定量化版 Gemma 模型
+  - [国外AI资讯] 谷歌云发布面向RAG应用的私有连接参考架构
+  - [国外AI资讯] LeJEPA 模型 SigReg 优化过程可视化代码发布
+  - [国外AI资讯] Google Cloud Tech 发布生成式AI领导者入门课程
+  - [国外AI资讯] Anthropic研究科学家利用Claude Code发现Linux内核23年旧漏洞
+  - [国外AI资讯] Google Cloud发布结合LLM与传统协同过滤的个性化推荐架构方案
+  - [国内AI资讯] 独立评估显示 MiniMax M2.7 在核心智能体任务上媲美闭源前沿模型
+  - [国内AI资讯] MiniMax与Teknium合作，旨在增强下一代模型在Hermes Agent中的能力
+  - [国外AI资讯] Google DeepMind Gemma 后训练团队负责人将分享扩展强化学习与设备端AI模型见解
+  - [其它科技资讯] UNESCO与编程猫合作启动青年编程倡议，提升全球青少年数字素养
+  - [国外AI资讯] Pika推出面向任意AI智能体的视频聊天技能测试版
+  - [国内AI资讯] Qwen 3.6 Plus 成为 OpenRouter 平台首个单日处理超万亿 token 模型
+  - [国内AI资讯] 阿里通义千问 Qwen3.6-Plus 登顶 OpenRouter 榜单，单日处理量破万亿 toke
+  - [国外AI资讯] Anthropic限制Claude访问后，Hugging Face提供开源模型迁移方案
+  - [国外AI资讯] llama-server 支持加载 Gemma 4-26B 模型 GGUF 格式文件
+  - [国外AI资讯] Hugging Face 分享使用 llama-server 部署 Gemma 量化模型配置
+  - [国外AI资讯] bartowski 发布基于 Gemma-4 26B-A4B-it MoE 的 IQ4_NL 量化 

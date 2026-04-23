@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet">
+    <title>GitHub Trending Weekly Digest</title>
+    <style>
+        :root {
+            --primary-color: #2563eb;
+            --bg-page: #f3f4f6;
+            --bg-card: #ffffff;
+            --text-main: #1f2937;
+            --text-main: #1f2937;
+            --text-sub: #4b5563;
+            --border-radius: 12px;
+            --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Noto Sans SC', -apple-system, BlinkMacSystemFont, sans-serif;
+            background-color: var(--bg-page);
+            color: var(--text-main);
+            width: 800px;
+            padding: 32px 40px;
+            line-height: 1.6;
+        }
+
+        .card {
+            background: var(--bg-card);
+            border-radius: var(--border-radius);
+            box-shadow: var(--shadow);
+            padding: 24px 28px;
+            margin-bottom: 16px;
+            position: relative;
+            transition: transform 0.2s ease, border-left-color 0.2s ease;
+            border-left: 5px solid transparent;
+        }
+
+        .card:hover {
+            transform: translateY(-3px);
+            border-left-color: var(--primary-color);
+        }
+
+        .card-top {
+            display: flex;
+            align-items: flex-start;
+            justify-content: space-between;
+            margin-bottom: 10px;
+        }
+
+        .rank-badge {
+            background: linear-gradient(135deg, #3b82f6, #6366f1);
+            color: white;
+            font-size: 12px;
+            font-weight: 700;
+            padding: 4px 12px;
+            border-radius: 20px;
+            min-width: 46px;
+            text-align: center;
+        }
+
+        .rank-badge.gold { background: linear-gradient(135deg, #f59e0b, #d97706); }
+        .rank-badge.silver { background: linear-gradient(135deg, #94a3b8, #64748b); }
+        .rank-badge.bronze { background: linear-gradient(135deg, #cd7f32, #a0522d); }
+
+        .meta { display: flex; align-items: center; gap: 8px; }
+
+        .lang-tag {
+            font-size: 0.75rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            padding: 4px 8px;
+            border-radius: 6px;
+            color: #fff;
+        }
+
+        .lang-python { background-color: #3776ab; }
+        .lang-javascript { background-color: #f7df1e; color: #000; }
+        .lang-typescript { background-color: #3178c6; }
+        .lang-go { background-color: #00ADD8; }
+        .lang-rust { background-color: #dea584; color: #000; }
+        .lang-java { background-color: #b07219; }
+        .lang-cpp { background-color: #f34b7d; }
+        .lang-c { background-color: #555555; }
+        .lang-html { background-color: #6e7681; }
+        .lang-shell { background-color: #6e7681; }
+        .lang-default { background-color: #6e7681; }
+
+        .stars {
+            color: #fbbf24;
+            font-weight: bold;
+            font-size: 0.9rem;
+            display: flex;
+            align-items: center;
+        }
+
+        .stars span { color: var(--text-sub); margin-left: 4px; font-weight: normal; }
+
+        .name { font-size: 17px; font-weight: 700; color: var(--text-main); margin-bottom: 4px; }
+        .description { color: var(--text-sub); font-size: 0.95rem; line-height: 1.7; margin: 0; }
+    </style>
+</head>
+<body>
+
+    {% for repo in repos %}
+    <div class="card">
+        <div class="card-top">
+            <div class="rank-badge {% if repo.rank == 1 %}gold{% elif repo.rank == 2 %}silver{% elif repo.rank == 3 %}bronze{% endif %}">#{{ repo.rank }}</div>
+            <div class="meta">
+                {% if repo.language and repo.language != '-' %}
+                <span class="lang-tag lang-{{ repo.language|lower }}">{{ repo.language }}</span>
+                {% endif %}
+                <div class="stars">新增 ★ <span>{{ repo.stars }}</span></div>
+            </div>
+        </div>
+        <div class="name">{{ repo.name }}</div>
+        <p class="description">{{ repo.description }}</p>
+    </div>
+    {% endfor %}
+
+</body>
+</html>

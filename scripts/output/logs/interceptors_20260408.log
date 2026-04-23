@@ -1,0 +1,1096 @@
+
+[2026-04-08 07:26:38] keyword_filter - INPUT: 29条
+============================================================
+  - [] 马斯克诉讼OpenAI，欲捐赔偿金并要求移除阿尔特曼
+  - [] Uber用亚马逊Trainium3芯片训练AI模型
+  - [] 美团、京东收紧外部AI使用权限
+  - [] “GPT-4o之母”宣布离职OpenAI
+  - [] 谷歌更新Gemini AI模型，支持心理健康危机热线
+  - [] 小马智行新加坡自动驾驶汽车获准进行邀请体验
+  - [] OpenAI推出安全奖学金计划，研究AI系统安全与一致性
+  - [] 专注仿生情感交互机器人，首形科技完成数亿元A1轮融资
+  - [] 博通将为谷歌供应TPU芯片、为Anthropic提供算力
+  - [] “千寻智能”完成新一轮10亿元融资
+  - [] Anthropic宣布正式封杀OpenClaw
+  - [] Anthropic联合多家科技巨头启动网络安全联盟Project Glasswing
+  - [] Google Cloud 发布 Vertex AI Agent Engine 智能体构建工作流程
+  - [] 开发者构建Claude Code技能，可基于复杂文档生成深度报告
+  - [] 英伟达官方发布链接，未提供具体内容说明
+  - [] Google Research 宣布全球 PhD Fellowship 项目申请开放
+  - [] 微软启动通用语言解码器项目，旨在通过AI支持全球100种语言
+  - [] 亚马逊云科技发布 Amazon S3 Files，为对象存储提供文件系统访问
+  - [] LangChain预告将在旧金山和纽约推出LangSmith广告牌
+  - [] Google 将 Google Maps 与 Gemini 模型集成，推出“询问地图”功能
+  - [] Jitendra Malik 建议采用 STT 指标评估机器人操作性能
+  - [] AWS 与 Anthropic 合作推进 AI 驱动的网络安全
+  - [] LumaLabsAI 发布 Ray 3.14，新增 1080p EXR 格式导出支持
+  - [] 经合组织（OECD）2月整体通胀率稳定在3.4%
+  - [] Luma AI 发布 Ray 3.14，支持导出1080p EXR格式
+  - [] Exa AI Labs 与 Coinbase 合作，通过 x402 协议实现 AI 代理原生支付搜索
+  - [] OpenAI宣布Prism新增用于评审论文的AI工作流Paper Review
+  - [] DeepAgents v0.5 发布，新增异步子代理与多模态文件系统支持
+  - [] GLM 5 Turbo 与 GLM 5.1 在 Design Arena 榜单中分列第二与第四
+
+[2026-04-08 07:26:38] keyword_filter - OUTPUT: 24条 | 移除5条
+============================================================
+  - [] 马斯克诉讼OpenAI，欲捐赔偿金并要求移除阿尔特曼
+  - [] Uber用亚马逊Trainium3芯片训练AI模型
+  - [] 美团、京东收紧外部AI使用权限
+  - [] “GPT-4o之母”宣布离职OpenAI
+  - [] 谷歌更新Gemini AI模型，支持心理健康危机热线
+  - [] 小马智行新加坡自动驾驶汽车获准进行邀请体验
+  - [] OpenAI推出安全奖学金计划，研究AI系统安全与一致性
+  - [] Anthropic联合多家科技巨头启动网络安全联盟Project Glasswing
+  - [] Google Cloud 发布 Vertex AI Agent Engine 智能体构建工作流程
+  - [] 开发者构建Claude Code技能，可基于复杂文档生成深度报告
+  - [] 英伟达官方发布链接，未提供具体内容说明
+  - [] Google Research 宣布全球 PhD Fellowship 项目申请开放
+  - [] 微软启动通用语言解码器项目，旨在通过AI支持全球100种语言
+  - [] 亚马逊云科技发布 Amazon S3 Files，为对象存储提供文件系统访问
+  - [] LangChain预告将在旧金山和纽约推出LangSmith广告牌
+  - [] Google 将 Google Maps 与 Gemini 模型集成，推出“询问地图”功能
+  - [] Jitendra Malik 建议采用 STT 指标评估机器人操作性能
+  - [] AWS 与 Anthropic 合作推进 AI 驱动的网络安全
+  - [] LumaLabsAI 发布 Ray 3.14，新增 1080p EXR 格式导出支持
+  - [] Luma AI 发布 Ray 3.14，支持导出1080p EXR格式
+  - [] Exa AI Labs 与 Coinbase 合作，通过 x402 协议实现 AI 代理原生支付搜索
+  - [] OpenAI宣布Prism新增用于评审论文的AI工作流Paper Review
+  - [] DeepAgents v0.5 发布，新增异步子代理与多模态文件系统支持
+  - [] GLM 5 Turbo 与 GLM 5.1 在 Design Arena 榜单中分列第二与第四
+
+[2026-04-08 07:26:38] bge_dedup - INPUT: 24条
+============================================================
+  - [] 马斯克诉讼OpenAI，欲捐赔偿金并要求移除阿尔特曼
+  - [] Uber用亚马逊Trainium3芯片训练AI模型
+  - [] 美团、京东收紧外部AI使用权限
+  - [] “GPT-4o之母”宣布离职OpenAI
+  - [] 谷歌更新Gemini AI模型，支持心理健康危机热线
+  - [] 小马智行新加坡自动驾驶汽车获准进行邀请体验
+  - [] OpenAI推出安全奖学金计划，研究AI系统安全与一致性
+  - [] Anthropic联合多家科技巨头启动网络安全联盟Project Glasswing
+  - [] Google Cloud 发布 Vertex AI Agent Engine 智能体构建工作流程
+  - [] 开发者构建Claude Code技能，可基于复杂文档生成深度报告
+  - [] 英伟达官方发布链接，未提供具体内容说明
+  - [] Google Research 宣布全球 PhD Fellowship 项目申请开放
+  - [] 微软启动通用语言解码器项目，旨在通过AI支持全球100种语言
+  - [] 亚马逊云科技发布 Amazon S3 Files，为对象存储提供文件系统访问
+  - [] LangChain预告将在旧金山和纽约推出LangSmith广告牌
+  - [] Google 将 Google Maps 与 Gemini 模型集成，推出“询问地图”功能
+  - [] Jitendra Malik 建议采用 STT 指标评估机器人操作性能
+  - [] AWS 与 Anthropic 合作推进 AI 驱动的网络安全
+  - [] LumaLabsAI 发布 Ray 3.14，新增 1080p EXR 格式导出支持
+  - [] Luma AI 发布 Ray 3.14，支持导出1080p EXR格式
+  - [] Exa AI Labs 与 Coinbase 合作，通过 x402 协议实现 AI 代理原生支付搜索
+  - [] OpenAI宣布Prism新增用于评审论文的AI工作流Paper Review
+  - [] DeepAgents v0.5 发布，新增异步子代理与多模态文件系统支持
+  - [] GLM 5 Turbo 与 GLM 5.1 在 Design Arena 榜单中分列第二与第四
+
+[2026-04-08 07:26:53] bge_dedup - OUTPUT: 23条 | 移除1条
+============================================================
+  - [] 马斯克诉讼OpenAI，欲捐赔偿金并要求移除阿尔特曼
+  - [] Uber用亚马逊Trainium3芯片训练AI模型
+  - [] 美团、京东收紧外部AI使用权限
+  - [] “GPT-4o之母”宣布离职OpenAI
+  - [] 谷歌更新Gemini AI模型，支持心理健康危机热线
+  - [] 小马智行新加坡自动驾驶汽车获准进行邀请体验
+  - [] OpenAI推出安全奖学金计划，研究AI系统安全与一致性
+  - [] Anthropic联合多家科技巨头启动网络安全联盟Project Glasswing
+  - [] Google Cloud 发布 Vertex AI Agent Engine 智能体构建工作流程
+  - [] 开发者构建Claude Code技能，可基于复杂文档生成深度报告
+  - [] 英伟达官方发布链接，未提供具体内容说明
+  - [] Google Research 宣布全球 PhD Fellowship 项目申请开放
+  - [] 微软启动通用语言解码器项目，旨在通过AI支持全球100种语言
+  - [] 亚马逊云科技发布 Amazon S3 Files，为对象存储提供文件系统访问
+  - [] LangChain预告将在旧金山和纽约推出LangSmith广告牌
+  - [] Google 将 Google Maps 与 Gemini 模型集成，推出“询问地图”功能
+  - [] Jitendra Malik 建议采用 STT 指标评估机器人操作性能
+  - [] AWS 与 Anthropic 合作推进 AI 驱动的网络安全
+  - [] LumaLabsAI 发布 Ray 3.14，新增 1080p EXR 格式导出支持
+  - [] Exa AI Labs 与 Coinbase 合作，通过 x402 协议实现 AI 代理原生支付搜索
+  - [] OpenAI宣布Prism新增用于评审论文的AI工作流Paper Review
+  - [] DeepAgents v0.5 发布，新增异步子代理与多模态文件系统支持
+  - [] GLM 5 Turbo 与 GLM 5.1 在 Design Arena 榜单中分列第二与第四
+
+[2026-04-08 07:26:53] llm_classify - INPUT: 23条
+============================================================
+  - [] 马斯克诉讼OpenAI，欲捐赔偿金并要求移除阿尔特曼
+  - [] Uber用亚马逊Trainium3芯片训练AI模型
+  - [] 美团、京东收紧外部AI使用权限
+  - [] “GPT-4o之母”宣布离职OpenAI
+  - [] 谷歌更新Gemini AI模型，支持心理健康危机热线
+  - [] 小马智行新加坡自动驾驶汽车获准进行邀请体验
+  - [] OpenAI推出安全奖学金计划，研究AI系统安全与一致性
+  - [] Anthropic联合多家科技巨头启动网络安全联盟Project Glasswing
+  - [] Google Cloud 发布 Vertex AI Agent Engine 智能体构建工作流程
+  - [] 开发者构建Claude Code技能，可基于复杂文档生成深度报告
+  - [] 英伟达官方发布链接，未提供具体内容说明
+  - [] Google Research 宣布全球 PhD Fellowship 项目申请开放
+  - [] 微软启动通用语言解码器项目，旨在通过AI支持全球100种语言
+  - [] 亚马逊云科技发布 Amazon S3 Files，为对象存储提供文件系统访问
+  - [] LangChain预告将在旧金山和纽约推出LangSmith广告牌
+  - [] Google 将 Google Maps 与 Gemini 模型集成，推出“询问地图”功能
+  - [] Jitendra Malik 建议采用 STT 指标评估机器人操作性能
+  - [] AWS 与 Anthropic 合作推进 AI 驱动的网络安全
+  - [] LumaLabsAI 发布 Ray 3.14，新增 1080p EXR 格式导出支持
+  - [] Exa AI Labs 与 Coinbase 合作，通过 x402 协议实现 AI 代理原生支付搜索
+  - [] OpenAI宣布Prism新增用于评审论文的AI工作流Paper Review
+  - [] DeepAgents v0.5 发布，新增异步子代理与多模态文件系统支持
+  - [] GLM 5 Turbo 与 GLM 5.1 在 Design Arena 榜单中分列第二与第四
+
+[2026-04-08 07:27:09] llm_classify - OUTPUT: 23条 | 保留23条
+============================================================
+  - [国外AI资讯] 马斯克诉讼OpenAI，欲捐赔偿金并要求移除阿尔特曼
+  - [国外AI资讯] Uber用亚马逊Trainium3芯片训练AI模型
+  - [国内AI资讯] 美团、京东收紧外部AI使用权限
+  - [国外AI资讯] “GPT-4o之母”宣布离职OpenAI
+  - [国外AI资讯] 谷歌更新Gemini AI模型，支持心理健康危机热线
+  - [智能硬件] 小马智行新加坡自动驾驶汽车获准进行邀请体验
+  - [国外AI资讯] OpenAI推出安全奖学金计划，研究AI系统安全与一致性
+  - [国外AI资讯] Anthropic联合多家科技巨头启动网络安全联盟Project Glasswing
+  - [国外AI资讯] Google Cloud 发布 Vertex AI Agent Engine 智能体构建工作流程
+  - [国外AI资讯] 开发者构建Claude Code技能，可基于复杂文档生成深度报告
+  - [国外AI资讯] 英伟达官方发布链接，未提供具体内容说明
+  - [其它科技资讯] Google Research 宣布全球 PhD Fellowship 项目申请开放
+  - [国外AI资讯] 微软启动通用语言解码器项目，旨在通过AI支持全球100种语言
+  - [其它科技资讯] 亚马逊云科技发布 Amazon S3 Files，为对象存储提供文件系统访问
+  - [其它科技资讯] LangChain预告将在旧金山和纽约推出LangSmith广告牌
+  - [国外AI资讯] Google 将 Google Maps 与 Gemini 模型集成，推出“询问地图”功能
+  - [智能硬件] Jitendra Malik 建议采用 STT 指标评估机器人操作性能
+  - [国外AI资讯] AWS 与 Anthropic 合作推进 AI 驱动的网络安全
+  - [其它科技资讯] LumaLabsAI 发布 Ray 3.14，新增 1080p EXR 格式导出支持
+  - [国外AI资讯] Exa AI Labs 与 Coinbase 合作，通过 x402 协议实现 AI 代理原生支付搜索
+  - [国外AI资讯] OpenAI宣布Prism新增用于评审论文的AI工作流Paper Review
+  - [国外AI资讯] DeepAgents v0.5 发布，新增异步子代理与多模态文件系统支持
+  - [国内AI资讯] GLM 5 Turbo 与 GLM 5.1 在 Design Arena 榜单中分列第二与第四
+
+[2026-04-08 07:27:09] llm_summary - INPUT: 23条
+============================================================
+  - [国外AI资讯] 马斯克诉讼OpenAI，欲捐赔偿金并要求移除阿尔特曼
+  - [国外AI资讯] Uber用亚马逊Trainium3芯片训练AI模型
+  - [国内AI资讯] 美团、京东收紧外部AI使用权限
+  - [国外AI资讯] “GPT-4o之母”宣布离职OpenAI
+  - [国外AI资讯] 谷歌更新Gemini AI模型，支持心理健康危机热线
+  - [智能硬件] 小马智行新加坡自动驾驶汽车获准进行邀请体验
+  - [国外AI资讯] OpenAI推出安全奖学金计划，研究AI系统安全与一致性
+  - [国外AI资讯] Anthropic联合多家科技巨头启动网络安全联盟Project Glasswing
+  - [国外AI资讯] Google Cloud 发布 Vertex AI Agent Engine 智能体构建工作流程
+  - [国外AI资讯] 开发者构建Claude Code技能，可基于复杂文档生成深度报告
+  - [国外AI资讯] 英伟达官方发布链接，未提供具体内容说明
+  - [其它科技资讯] Google Research 宣布全球 PhD Fellowship 项目申请开放
+  - [国外AI资讯] 微软启动通用语言解码器项目，旨在通过AI支持全球100种语言
+  - [其它科技资讯] 亚马逊云科技发布 Amazon S3 Files，为对象存储提供文件系统访问
+  - [其它科技资讯] LangChain预告将在旧金山和纽约推出LangSmith广告牌
+  - [国外AI资讯] Google 将 Google Maps 与 Gemini 模型集成，推出“询问地图”功能
+  - [智能硬件] Jitendra Malik 建议采用 STT 指标评估机器人操作性能
+  - [国外AI资讯] AWS 与 Anthropic 合作推进 AI 驱动的网络安全
+  - [其它科技资讯] LumaLabsAI 发布 Ray 3.14，新增 1080p EXR 格式导出支持
+  - [国外AI资讯] Exa AI Labs 与 Coinbase 合作，通过 x402 协议实现 AI 代理原生支付搜索
+  - [国外AI资讯] OpenAI宣布Prism新增用于评审论文的AI工作流Paper Review
+  - [国外AI资讯] DeepAgents v0.5 发布，新增异步子代理与多模态文件系统支持
+  - [国内AI资讯] GLM 5 Turbo 与 GLM 5.1 在 Design Arena 榜单中分列第二与第四
+
+[2026-04-08 07:28:57] keyword_filter - INPUT: 30条
+============================================================
+  - [] 马斯克诉讼OpenAI，欲捐赔偿金并要求移除阿尔特曼
+  - [] Uber用亚马逊Trainium3芯片训练AI模型
+  - [] 美团、京东收紧外部AI使用权限
+  - [] “GPT-4o之母”宣布离职OpenAI
+  - [] 谷歌更新Gemini AI模型，支持心理健康危机热线
+  - [] 小马智行新加坡自动驾驶汽车获准进行邀请体验
+  - [] OpenAI推出安全奖学金计划，研究AI系统安全与一致性
+  - [] 专注仿生情感交互机器人，首形科技完成数亿元A1轮融资
+  - [] 博通将为谷歌供应TPU芯片、为Anthropic提供算力
+  - [] “千寻智能”完成新一轮10亿元融资
+  - [] Anthropic宣布正式封杀OpenClaw
+  - [] GLM 5.1 模型在 Atomic Chat 应用中上线
+  - [] OpenAI宣布Codex周活跃用户数达三百万
+  - [] Anthropic联合多家科技巨头启动网络安全联盟Project Glasswing
+  - [] Google Cloud 发布 Vertex AI Agent Engine 智能体构建工作流程
+  - [] 开发者构建Claude Code技能，可基于复杂文档生成深度报告
+  - [] 英伟达官方发布链接，未提供具体内容说明
+  - [] Google Research 宣布全球 PhD Fellowship 项目申请开放
+  - [] 微软启动通用语言解码器项目，旨在通过AI支持全球100种语言
+  - [] 亚马逊云科技发布 Amazon S3 Files，为对象存储提供文件系统访问
+  - [] LangChain预告将在旧金山和纽约推出LangSmith广告牌
+  - [] Google 将 Google Maps 与 Gemini 模型集成，推出“询问地图”功能
+  - [] Jitendra Malik 建议采用 STT 指标评估机器人操作性能
+  - [] AWS 与 Anthropic 合作推进 AI 驱动的网络安全
+  - [] LumaLabsAI 发布 Ray 3.14，新增 1080p EXR 格式导出支持
+  - [] 经合组织（OECD）2月整体通胀率稳定在3.4%
+  - [] Luma AI 发布 Ray 3.14，支持导出1080p EXR格式
+  - [] Exa AI Labs 与 Coinbase 合作，通过 x402 协议实现 AI 代理原生支付搜索
+  - [] OpenAI宣布Prism新增用于评审论文的AI工作流Paper Review
+  - [] DeepAgents v0.5 发布，新增异步子代理与多模态文件系统支持
+
+[2026-04-08 07:28:57] keyword_filter - OUTPUT: 25条 | 移除5条
+============================================================
+  - [] 马斯克诉讼OpenAI，欲捐赔偿金并要求移除阿尔特曼
+  - [] Uber用亚马逊Trainium3芯片训练AI模型
+  - [] 美团、京东收紧外部AI使用权限
+  - [] “GPT-4o之母”宣布离职OpenAI
+  - [] 谷歌更新Gemini AI模型，支持心理健康危机热线
+  - [] 小马智行新加坡自动驾驶汽车获准进行邀请体验
+  - [] OpenAI推出安全奖学金计划，研究AI系统安全与一致性
+  - [] GLM 5.1 模型在 Atomic Chat 应用中上线
+  - [] OpenAI宣布Codex周活跃用户数达三百万
+  - [] Anthropic联合多家科技巨头启动网络安全联盟Project Glasswing
+  - [] Google Cloud 发布 Vertex AI Agent Engine 智能体构建工作流程
+  - [] 开发者构建Claude Code技能，可基于复杂文档生成深度报告
+  - [] 英伟达官方发布链接，未提供具体内容说明
+  - [] Google Research 宣布全球 PhD Fellowship 项目申请开放
+  - [] 微软启动通用语言解码器项目，旨在通过AI支持全球100种语言
+  - [] 亚马逊云科技发布 Amazon S3 Files，为对象存储提供文件系统访问
+  - [] LangChain预告将在旧金山和纽约推出LangSmith广告牌
+  - [] Google 将 Google Maps 与 Gemini 模型集成，推出“询问地图”功能
+  - [] Jitendra Malik 建议采用 STT 指标评估机器人操作性能
+  - [] AWS 与 Anthropic 合作推进 AI 驱动的网络安全
+  - [] LumaLabsAI 发布 Ray 3.14，新增 1080p EXR 格式导出支持
+  - [] Luma AI 发布 Ray 3.14，支持导出1080p EXR格式
+  - [] Exa AI Labs 与 Coinbase 合作，通过 x402 协议实现 AI 代理原生支付搜索
+  - [] OpenAI宣布Prism新增用于评审论文的AI工作流Paper Review
+  - [] DeepAgents v0.5 发布，新增异步子代理与多模态文件系统支持
+
+[2026-04-08 07:28:57] bge_dedup - INPUT: 25条
+============================================================
+  - [] 马斯克诉讼OpenAI，欲捐赔偿金并要求移除阿尔特曼
+  - [] Uber用亚马逊Trainium3芯片训练AI模型
+  - [] 美团、京东收紧外部AI使用权限
+  - [] “GPT-4o之母”宣布离职OpenAI
+  - [] 谷歌更新Gemini AI模型，支持心理健康危机热线
+  - [] 小马智行新加坡自动驾驶汽车获准进行邀请体验
+  - [] OpenAI推出安全奖学金计划，研究AI系统安全与一致性
+  - [] GLM 5.1 模型在 Atomic Chat 应用中上线
+  - [] OpenAI宣布Codex周活跃用户数达三百万
+  - [] Anthropic联合多家科技巨头启动网络安全联盟Project Glasswing
+  - [] Google Cloud 发布 Vertex AI Agent Engine 智能体构建工作流程
+  - [] 开发者构建Claude Code技能，可基于复杂文档生成深度报告
+  - [] 英伟达官方发布链接，未提供具体内容说明
+  - [] Google Research 宣布全球 PhD Fellowship 项目申请开放
+  - [] 微软启动通用语言解码器项目，旨在通过AI支持全球100种语言
+  - [] 亚马逊云科技发布 Amazon S3 Files，为对象存储提供文件系统访问
+  - [] LangChain预告将在旧金山和纽约推出LangSmith广告牌
+  - [] Google 将 Google Maps 与 Gemini 模型集成，推出“询问地图”功能
+  - [] Jitendra Malik 建议采用 STT 指标评估机器人操作性能
+  - [] AWS 与 Anthropic 合作推进 AI 驱动的网络安全
+  - [] LumaLabsAI 发布 Ray 3.14，新增 1080p EXR 格式导出支持
+  - [] Luma AI 发布 Ray 3.14，支持导出1080p EXR格式
+  - [] Exa AI Labs 与 Coinbase 合作，通过 x402 协议实现 AI 代理原生支付搜索
+  - [] OpenAI宣布Prism新增用于评审论文的AI工作流Paper Review
+  - [] DeepAgents v0.5 发布，新增异步子代理与多模态文件系统支持
+
+[2026-04-08 07:29:11] bge_dedup - OUTPUT: 24条 | 移除1条
+============================================================
+  - [] 马斯克诉讼OpenAI，欲捐赔偿金并要求移除阿尔特曼
+  - [] Uber用亚马逊Trainium3芯片训练AI模型
+  - [] 美团、京东收紧外部AI使用权限
+  - [] “GPT-4o之母”宣布离职OpenAI
+  - [] 谷歌更新Gemini AI模型，支持心理健康危机热线
+  - [] 小马智行新加坡自动驾驶汽车获准进行邀请体验
+  - [] OpenAI推出安全奖学金计划，研究AI系统安全与一致性
+  - [] GLM 5.1 模型在 Atomic Chat 应用中上线
+  - [] OpenAI宣布Codex周活跃用户数达三百万
+  - [] Anthropic联合多家科技巨头启动网络安全联盟Project Glasswing
+  - [] Google Cloud 发布 Vertex AI Agent Engine 智能体构建工作流程
+  - [] 开发者构建Claude Code技能，可基于复杂文档生成深度报告
+  - [] 英伟达官方发布链接，未提供具体内容说明
+  - [] Google Research 宣布全球 PhD Fellowship 项目申请开放
+  - [] 微软启动通用语言解码器项目，旨在通过AI支持全球100种语言
+  - [] 亚马逊云科技发布 Amazon S3 Files，为对象存储提供文件系统访问
+  - [] LangChain预告将在旧金山和纽约推出LangSmith广告牌
+  - [] Google 将 Google Maps 与 Gemini 模型集成，推出“询问地图”功能
+  - [] Jitendra Malik 建议采用 STT 指标评估机器人操作性能
+  - [] AWS 与 Anthropic 合作推进 AI 驱动的网络安全
+  - [] LumaLabsAI 发布 Ray 3.14，新增 1080p EXR 格式导出支持
+  - [] Exa AI Labs 与 Coinbase 合作，通过 x402 协议实现 AI 代理原生支付搜索
+  - [] OpenAI宣布Prism新增用于评审论文的AI工作流Paper Review
+  - [] DeepAgents v0.5 发布，新增异步子代理与多模态文件系统支持
+
+[2026-04-08 07:29:11] llm_classify - INPUT: 24条
+============================================================
+  - [] 马斯克诉讼OpenAI，欲捐赔偿金并要求移除阿尔特曼
+  - [] Uber用亚马逊Trainium3芯片训练AI模型
+  - [] 美团、京东收紧外部AI使用权限
+  - [] “GPT-4o之母”宣布离职OpenAI
+  - [] 谷歌更新Gemini AI模型，支持心理健康危机热线
+  - [] 小马智行新加坡自动驾驶汽车获准进行邀请体验
+  - [] OpenAI推出安全奖学金计划，研究AI系统安全与一致性
+  - [] GLM 5.1 模型在 Atomic Chat 应用中上线
+  - [] OpenAI宣布Codex周活跃用户数达三百万
+  - [] Anthropic联合多家科技巨头启动网络安全联盟Project Glasswing
+  - [] Google Cloud 发布 Vertex AI Agent Engine 智能体构建工作流程
+  - [] 开发者构建Claude Code技能，可基于复杂文档生成深度报告
+  - [] 英伟达官方发布链接，未提供具体内容说明
+  - [] Google Research 宣布全球 PhD Fellowship 项目申请开放
+  - [] 微软启动通用语言解码器项目，旨在通过AI支持全球100种语言
+  - [] 亚马逊云科技发布 Amazon S3 Files，为对象存储提供文件系统访问
+  - [] LangChain预告将在旧金山和纽约推出LangSmith广告牌
+  - [] Google 将 Google Maps 与 Gemini 模型集成，推出“询问地图”功能
+  - [] Jitendra Malik 建议采用 STT 指标评估机器人操作性能
+  - [] AWS 与 Anthropic 合作推进 AI 驱动的网络安全
+  - [] LumaLabsAI 发布 Ray 3.14，新增 1080p EXR 格式导出支持
+  - [] Exa AI Labs 与 Coinbase 合作，通过 x402 协议实现 AI 代理原生支付搜索
+  - [] OpenAI宣布Prism新增用于评审论文的AI工作流Paper Review
+  - [] DeepAgents v0.5 发布，新增异步子代理与多模态文件系统支持
+
+[2026-04-08 07:29:26] llm_classify - OUTPUT: 24条 | 保留24条
+============================================================
+  - [国外AI资讯] 马斯克诉讼OpenAI，欲捐赔偿金并要求移除阿尔特曼
+  - [国外AI资讯] Uber用亚马逊Trainium3芯片训练AI模型
+  - [国内AI资讯] 美团、京东收紧外部AI使用权限
+  - [国外AI资讯] “GPT-4o之母”宣布离职OpenAI
+  - [国外AI资讯] 谷歌更新Gemini AI模型，支持心理健康危机热线
+  - [智能硬件] 小马智行新加坡自动驾驶汽车获准进行邀请体验
+  - [国外AI资讯] OpenAI推出安全奖学金计划，研究AI系统安全与一致性
+  - [国内AI资讯] GLM 5.1 模型在 Atomic Chat 应用中上线
+  - [国外AI资讯] OpenAI宣布Codex周活跃用户数达三百万
+  - [国外AI资讯] Anthropic联合多家科技巨头启动网络安全联盟Project Glasswing
+  - [国外AI资讯] Google Cloud 发布 Vertex AI Agent Engine 智能体构建工作流程
+  - [国外AI资讯] 开发者构建Claude Code技能，可基于复杂文档生成深度报告
+  - [其它科技资讯] 英伟达官方发布链接，未提供具体内容说明
+  - [国外AI资讯] Google Research 宣布全球 PhD Fellowship 项目申请开放
+  - [国外AI资讯] 微软启动通用语言解码器项目，旨在通过AI支持全球100种语言
+  - [国外AI资讯] 亚马逊云科技发布 Amazon S3 Files，为对象存储提供文件系统访问
+  - [其它科技资讯] LangChain预告将在旧金山和纽约推出LangSmith广告牌
+  - [国外AI资讯] Google 将 Google Maps 与 Gemini 模型集成，推出“询问地图”功能
+  - [智能硬件] Jitendra Malik 建议采用 STT 指标评估机器人操作性能
+  - [国外AI资讯] AWS 与 Anthropic 合作推进 AI 驱动的网络安全
+  - [国外AI资讯] LumaLabsAI 发布 Ray 3.14，新增 1080p EXR 格式导出支持
+  - [国外AI资讯] Exa AI Labs 与 Coinbase 合作，通过 x402 协议实现 AI 代理原生支付搜索
+  - [国外AI资讯] OpenAI宣布Prism新增用于评审论文的AI工作流Paper Review
+  - [国外AI资讯] DeepAgents v0.5 发布，新增异步子代理与多模态文件系统支持
+
+[2026-04-08 07:29:26] llm_summary - INPUT: 24条
+============================================================
+  - [国外AI资讯] 马斯克诉讼OpenAI，欲捐赔偿金并要求移除阿尔特曼
+  - [国外AI资讯] Uber用亚马逊Trainium3芯片训练AI模型
+  - [国内AI资讯] 美团、京东收紧外部AI使用权限
+  - [国外AI资讯] “GPT-4o之母”宣布离职OpenAI
+  - [国外AI资讯] 谷歌更新Gemini AI模型，支持心理健康危机热线
+  - [智能硬件] 小马智行新加坡自动驾驶汽车获准进行邀请体验
+  - [国外AI资讯] OpenAI推出安全奖学金计划，研究AI系统安全与一致性
+  - [国内AI资讯] GLM 5.1 模型在 Atomic Chat 应用中上线
+  - [国外AI资讯] OpenAI宣布Codex周活跃用户数达三百万
+  - [国外AI资讯] Anthropic联合多家科技巨头启动网络安全联盟Project Glasswing
+  - [国外AI资讯] Google Cloud 发布 Vertex AI Agent Engine 智能体构建工作流程
+  - [国外AI资讯] 开发者构建Claude Code技能，可基于复杂文档生成深度报告
+  - [其它科技资讯] 英伟达官方发布链接，未提供具体内容说明
+  - [国外AI资讯] Google Research 宣布全球 PhD Fellowship 项目申请开放
+  - [国外AI资讯] 微软启动通用语言解码器项目，旨在通过AI支持全球100种语言
+  - [国外AI资讯] 亚马逊云科技发布 Amazon S3 Files，为对象存储提供文件系统访问
+  - [其它科技资讯] LangChain预告将在旧金山和纽约推出LangSmith广告牌
+  - [国外AI资讯] Google 将 Google Maps 与 Gemini 模型集成，推出“询问地图”功能
+  - [智能硬件] Jitendra Malik 建议采用 STT 指标评估机器人操作性能
+  - [国外AI资讯] AWS 与 Anthropic 合作推进 AI 驱动的网络安全
+  - [国外AI资讯] LumaLabsAI 发布 Ray 3.14，新增 1080p EXR 格式导出支持
+  - [国外AI资讯] Exa AI Labs 与 Coinbase 合作，通过 x402 协议实现 AI 代理原生支付搜索
+  - [国外AI资讯] OpenAI宣布Prism新增用于评审论文的AI工作流Paper Review
+  - [国外AI资讯] DeepAgents v0.5 发布，新增异步子代理与多模态文件系统支持
+
+[2026-04-08 07:31:23] keyword_filter - INPUT: 30条
+============================================================
+  - [] 马斯克诉讼OpenAI，欲捐赔偿金并要求移除阿尔特曼
+  - [] Uber用亚马逊Trainium3芯片训练AI模型
+  - [] 美团、京东收紧外部AI使用权限
+  - [] “GPT-4o之母”宣布离职OpenAI
+  - [] 谷歌更新Gemini AI模型，支持心理健康危机热线
+  - [] 小马智行新加坡自动驾驶汽车获准进行邀请体验
+  - [] OpenAI推出安全奖学金计划，研究AI系统安全与一致性
+  - [] 专注仿生情感交互机器人，首形科技完成数亿元A1轮融资
+  - [] 博通将为谷歌供应TPU芯片、为Anthropic提供算力
+  - [] “千寻智能”完成新一轮10亿元融资
+  - [] Anthropic宣布正式封杀OpenClaw
+  - [] GLM-5.1为744B参数模型，通过云端端点运行以避免本地硬件过热
+  - [] Z.ai 发布 7540 亿参数模型 GLM-5.1，据称在 SWE-bench Pro 上表现超越
+  - [] LangChain强调真实环境Agent监控与追踪重要性
+  - [] GLM 5.1 模型在 Atomic Chat 应用中上线
+  - [] OpenAI宣布Codex周活跃用户数达三百万
+  - [] Anthropic联合多家科技巨头启动网络安全联盟Project Glasswing
+  - [] Google Cloud 发布 Vertex AI Agent Engine 智能体构建工作流程
+  - [] 开发者构建Claude Code技能，可基于复杂文档生成深度报告
+  - [] 英伟达官方发布链接，未提供具体内容说明
+  - [] Google Research 宣布全球 PhD Fellowship 项目申请开放
+  - [] 微软启动通用语言解码器项目，旨在通过AI支持全球100种语言
+  - [] 亚马逊云科技发布 Amazon S3 Files，为对象存储提供文件系统访问
+  - [] LangChain预告将在旧金山和纽约推出LangSmith广告牌
+  - [] Google 将 Google Maps 与 Gemini 模型集成，推出“询问地图”功能
+  - [] Jitendra Malik 建议采用 STT 指标评估机器人操作性能
+  - [] AWS 与 Anthropic 合作推进 AI 驱动的网络安全
+  - [] LumaLabsAI 发布 Ray 3.14，新增 1080p EXR 格式导出支持
+  - [] 经合组织（OECD）2月整体通胀率稳定在3.4%
+  - [] Luma AI 发布 Ray 3.14，支持导出1080p EXR格式
+
+[2026-04-08 07:31:23] keyword_filter - OUTPUT: 25条 | 移除5条
+============================================================
+  - [] 马斯克诉讼OpenAI，欲捐赔偿金并要求移除阿尔特曼
+  - [] Uber用亚马逊Trainium3芯片训练AI模型
+  - [] 美团、京东收紧外部AI使用权限
+  - [] “GPT-4o之母”宣布离职OpenAI
+  - [] 谷歌更新Gemini AI模型，支持心理健康危机热线
+  - [] 小马智行新加坡自动驾驶汽车获准进行邀请体验
+  - [] OpenAI推出安全奖学金计划，研究AI系统安全与一致性
+  - [] GLM-5.1为744B参数模型，通过云端端点运行以避免本地硬件过热
+  - [] Z.ai 发布 7540 亿参数模型 GLM-5.1，据称在 SWE-bench Pro 上表现超越
+  - [] LangChain强调真实环境Agent监控与追踪重要性
+  - [] GLM 5.1 模型在 Atomic Chat 应用中上线
+  - [] OpenAI宣布Codex周活跃用户数达三百万
+  - [] Anthropic联合多家科技巨头启动网络安全联盟Project Glasswing
+  - [] Google Cloud 发布 Vertex AI Agent Engine 智能体构建工作流程
+  - [] 开发者构建Claude Code技能，可基于复杂文档生成深度报告
+  - [] 英伟达官方发布链接，未提供具体内容说明
+  - [] Google Research 宣布全球 PhD Fellowship 项目申请开放
+  - [] 微软启动通用语言解码器项目，旨在通过AI支持全球100种语言
+  - [] 亚马逊云科技发布 Amazon S3 Files，为对象存储提供文件系统访问
+  - [] LangChain预告将在旧金山和纽约推出LangSmith广告牌
+  - [] Google 将 Google Maps 与 Gemini 模型集成，推出“询问地图”功能
+  - [] Jitendra Malik 建议采用 STT 指标评估机器人操作性能
+  - [] AWS 与 Anthropic 合作推进 AI 驱动的网络安全
+  - [] LumaLabsAI 发布 Ray 3.14，新增 1080p EXR 格式导出支持
+  - [] Luma AI 发布 Ray 3.14，支持导出1080p EXR格式
+
+[2026-04-08 07:31:23] bge_dedup - INPUT: 25条
+============================================================
+  - [] 马斯克诉讼OpenAI，欲捐赔偿金并要求移除阿尔特曼
+  - [] Uber用亚马逊Trainium3芯片训练AI模型
+  - [] 美团、京东收紧外部AI使用权限
+  - [] “GPT-4o之母”宣布离职OpenAI
+  - [] 谷歌更新Gemini AI模型，支持心理健康危机热线
+  - [] 小马智行新加坡自动驾驶汽车获准进行邀请体验
+  - [] OpenAI推出安全奖学金计划，研究AI系统安全与一致性
+  - [] GLM-5.1为744B参数模型，通过云端端点运行以避免本地硬件过热
+  - [] Z.ai 发布 7540 亿参数模型 GLM-5.1，据称在 SWE-bench Pro 上表现超越
+  - [] LangChain强调真实环境Agent监控与追踪重要性
+  - [] GLM 5.1 模型在 Atomic Chat 应用中上线
+  - [] OpenAI宣布Codex周活跃用户数达三百万
+  - [] Anthropic联合多家科技巨头启动网络安全联盟Project Glasswing
+  - [] Google Cloud 发布 Vertex AI Agent Engine 智能体构建工作流程
+  - [] 开发者构建Claude Code技能，可基于复杂文档生成深度报告
+  - [] 英伟达官方发布链接，未提供具体内容说明
+  - [] Google Research 宣布全球 PhD Fellowship 项目申请开放
+  - [] 微软启动通用语言解码器项目，旨在通过AI支持全球100种语言
+  - [] 亚马逊云科技发布 Amazon S3 Files，为对象存储提供文件系统访问
+  - [] LangChain预告将在旧金山和纽约推出LangSmith广告牌
+  - [] Google 将 Google Maps 与 Gemini 模型集成，推出“询问地图”功能
+  - [] Jitendra Malik 建议采用 STT 指标评估机器人操作性能
+  - [] AWS 与 Anthropic 合作推进 AI 驱动的网络安全
+  - [] LumaLabsAI 发布 Ray 3.14，新增 1080p EXR 格式导出支持
+  - [] Luma AI 发布 Ray 3.14，支持导出1080p EXR格式
+
+[2026-04-08 07:31:24] llm_summary - OUTPUT: 24条 | 成功0条
+============================================================
+  - [国外AI资讯] 马斯克诉讼OpenAI，欲捐赔偿金并要求移除阿尔特曼
+  - [国外AI资讯] Uber用亚马逊Trainium3芯片训练AI模型
+  - [国内AI资讯] 美团、京东收紧外部AI使用权限
+  - [国外AI资讯] “GPT-4o之母”宣布离职OpenAI
+  - [国外AI资讯] 谷歌更新Gemini AI模型，支持心理健康危机热线
+  - [智能硬件] 小马智行新加坡自动驾驶汽车获准进行邀请体验
+  - [国外AI资讯] OpenAI推出安全奖学金计划，研究AI系统安全与一致性
+  - [国内AI资讯] GLM 5.1 模型在 Atomic Chat 应用中上线
+  - [国外AI资讯] OpenAI宣布Codex周活跃用户数达三百万
+  - [国外AI资讯] Anthropic联合多家科技巨头启动网络安全联盟Project Glasswing
+  - [国外AI资讯] Google Cloud 发布 Vertex AI Agent Engine 智能体构建工作流程
+  - [国外AI资讯] 开发者构建Claude Code技能，可基于复杂文档生成深度报告
+  - [其它科技资讯] 英伟达官方发布链接，未提供具体内容说明
+  - [国外AI资讯] Google Research 宣布全球 PhD Fellowship 项目申请开放
+  - [国外AI资讯] 微软启动通用语言解码器项目，旨在通过AI支持全球100种语言
+  - [国外AI资讯] 亚马逊云科技发布 Amazon S3 Files，为对象存储提供文件系统访问
+  - [其它科技资讯] LangChain预告将在旧金山和纽约推出LangSmith广告牌
+  - [国外AI资讯] Google 将 Google Maps 与 Gemini 模型集成，推出“询问地图”功能
+  - [智能硬件] Jitendra Malik 建议采用 STT 指标评估机器人操作性能
+  - [国外AI资讯] AWS 与 Anthropic 合作推进 AI 驱动的网络安全
+  - [国外AI资讯] LumaLabsAI 发布 Ray 3.14，新增 1080p EXR 格式导出支持
+  - [国外AI资讯] Exa AI Labs 与 Coinbase 合作，通过 x402 协议实现 AI 代理原生支付搜索
+  - [国外AI资讯] OpenAI宣布Prism新增用于评审论文的AI工作流Paper Review
+  - [国外AI资讯] DeepAgents v0.5 发布，新增异步子代理与多模态文件系统支持
+
+[2026-04-08 07:33:36] bge_dedup - OUTPUT: 24条 | 移除1条
+============================================================
+  - [] 马斯克诉讼OpenAI，欲捐赔偿金并要求移除阿尔特曼
+  - [] Uber用亚马逊Trainium3芯片训练AI模型
+  - [] 美团、京东收紧外部AI使用权限
+  - [] “GPT-4o之母”宣布离职OpenAI
+  - [] 谷歌更新Gemini AI模型，支持心理健康危机热线
+  - [] 小马智行新加坡自动驾驶汽车获准进行邀请体验
+  - [] OpenAI推出安全奖学金计划，研究AI系统安全与一致性
+  - [] GLM-5.1为744B参数模型，通过云端端点运行以避免本地硬件过热
+  - [] Z.ai 发布 7540 亿参数模型 GLM-5.1，据称在 SWE-bench Pro 上表现超越
+  - [] LangChain强调真实环境Agent监控与追踪重要性
+  - [] GLM 5.1 模型在 Atomic Chat 应用中上线
+  - [] OpenAI宣布Codex周活跃用户数达三百万
+  - [] Anthropic联合多家科技巨头启动网络安全联盟Project Glasswing
+  - [] Google Cloud 发布 Vertex AI Agent Engine 智能体构建工作流程
+  - [] 开发者构建Claude Code技能，可基于复杂文档生成深度报告
+  - [] 英伟达官方发布链接，未提供具体内容说明
+  - [] Google Research 宣布全球 PhD Fellowship 项目申请开放
+  - [] 微软启动通用语言解码器项目，旨在通过AI支持全球100种语言
+  - [] 亚马逊云科技发布 Amazon S3 Files，为对象存储提供文件系统访问
+  - [] LangChain预告将在旧金山和纽约推出LangSmith广告牌
+  - [] Google 将 Google Maps 与 Gemini 模型集成，推出“询问地图”功能
+  - [] Jitendra Malik 建议采用 STT 指标评估机器人操作性能
+  - [] AWS 与 Anthropic 合作推进 AI 驱动的网络安全
+  - [] LumaLabsAI 发布 Ray 3.14，新增 1080p EXR 格式导出支持
+
+[2026-04-08 07:33:36] llm_classify - INPUT: 24条
+============================================================
+  - [] 马斯克诉讼OpenAI，欲捐赔偿金并要求移除阿尔特曼
+  - [] Uber用亚马逊Trainium3芯片训练AI模型
+  - [] 美团、京东收紧外部AI使用权限
+  - [] “GPT-4o之母”宣布离职OpenAI
+  - [] 谷歌更新Gemini AI模型，支持心理健康危机热线
+  - [] 小马智行新加坡自动驾驶汽车获准进行邀请体验
+  - [] OpenAI推出安全奖学金计划，研究AI系统安全与一致性
+  - [] GLM-5.1为744B参数模型，通过云端端点运行以避免本地硬件过热
+  - [] Z.ai 发布 7540 亿参数模型 GLM-5.1，据称在 SWE-bench Pro 上表现超越
+  - [] LangChain强调真实环境Agent监控与追踪重要性
+  - [] GLM 5.1 模型在 Atomic Chat 应用中上线
+  - [] OpenAI宣布Codex周活跃用户数达三百万
+  - [] Anthropic联合多家科技巨头启动网络安全联盟Project Glasswing
+  - [] Google Cloud 发布 Vertex AI Agent Engine 智能体构建工作流程
+  - [] 开发者构建Claude Code技能，可基于复杂文档生成深度报告
+  - [] 英伟达官方发布链接，未提供具体内容说明
+  - [] Google Research 宣布全球 PhD Fellowship 项目申请开放
+  - [] 微软启动通用语言解码器项目，旨在通过AI支持全球100种语言
+  - [] 亚马逊云科技发布 Amazon S3 Files，为对象存储提供文件系统访问
+  - [] LangChain预告将在旧金山和纽约推出LangSmith广告牌
+  - [] Google 将 Google Maps 与 Gemini 模型集成，推出“询问地图”功能
+  - [] Jitendra Malik 建议采用 STT 指标评估机器人操作性能
+  - [] AWS 与 Anthropic 合作推进 AI 驱动的网络安全
+  - [] LumaLabsAI 发布 Ray 3.14，新增 1080p EXR 格式导出支持
+
+[2026-04-08 07:33:51] llm_classify - OUTPUT: 24条 | 保留24条
+============================================================
+  - [国外AI资讯] 马斯克诉讼OpenAI，欲捐赔偿金并要求移除阿尔特曼
+  - [国外AI资讯] Uber用亚马逊Trainium3芯片训练AI模型
+  - [国内AI资讯] 美团、京东收紧外部AI使用权限
+  - [国外AI资讯] “GPT-4o之母”宣布离职OpenAI
+  - [国外AI资讯] 谷歌更新Gemini AI模型，支持心理健康危机热线
+  - [智能硬件] 小马智行新加坡自动驾驶汽车获准进行邀请体验
+  - [国外AI资讯] OpenAI推出安全奖学金计划，研究AI系统安全与一致性
+  - [国内AI资讯] GLM-5.1为744B参数模型，通过云端端点运行以避免本地硬件过热
+  - [国内AI资讯] Z.ai 发布 7540 亿参数模型 GLM-5.1，据称在 SWE-bench Pro 上表现超越
+  - [国外AI资讯] LangChain强调真实环境Agent监控与追踪重要性
+  - [国内AI资讯] GLM 5.1 模型在 Atomic Chat 应用中上线
+  - [国外AI资讯] OpenAI宣布Codex周活跃用户数达三百万
+  - [国外AI资讯] Anthropic联合多家科技巨头启动网络安全联盟Project Glasswing
+  - [国外AI资讯] Google Cloud 发布 Vertex AI Agent Engine 智能体构建工作流程
+  - [国外AI资讯] 开发者构建Claude Code技能，可基于复杂文档生成深度报告
+  - [国外AI资讯] 英伟达官方发布链接，未提供具体内容说明
+  - [国外AI资讯] Google Research 宣布全球 PhD Fellowship 项目申请开放
+  - [国外AI资讯] 微软启动通用语言解码器项目，旨在通过AI支持全球100种语言
+  - [国外AI资讯] 亚马逊云科技发布 Amazon S3 Files，为对象存储提供文件系统访问
+  - [国外AI资讯] LangChain预告将在旧金山和纽约推出LangSmith广告牌
+  - [国外AI资讯] Google 将 Google Maps 与 Gemini 模型集成，推出“询问地图”功能
+  - [智能硬件] Jitendra Malik 建议采用 STT 指标评估机器人操作性能
+  - [国外AI资讯] AWS 与 Anthropic 合作推进 AI 驱动的网络安全
+  - [其它科技资讯] LumaLabsAI 发布 Ray 3.14，新增 1080p EXR 格式导出支持
+
+[2026-04-08 07:33:51] llm_summary - INPUT: 24条
+============================================================
+  - [国外AI资讯] 马斯克诉讼OpenAI，欲捐赔偿金并要求移除阿尔特曼
+  - [国外AI资讯] Uber用亚马逊Trainium3芯片训练AI模型
+  - [国内AI资讯] 美团、京东收紧外部AI使用权限
+  - [国外AI资讯] “GPT-4o之母”宣布离职OpenAI
+  - [国外AI资讯] 谷歌更新Gemini AI模型，支持心理健康危机热线
+  - [智能硬件] 小马智行新加坡自动驾驶汽车获准进行邀请体验
+  - [国外AI资讯] OpenAI推出安全奖学金计划，研究AI系统安全与一致性
+  - [国内AI资讯] GLM-5.1为744B参数模型，通过云端端点运行以避免本地硬件过热
+  - [国内AI资讯] Z.ai 发布 7540 亿参数模型 GLM-5.1，据称在 SWE-bench Pro 上表现超越
+  - [国外AI资讯] LangChain强调真实环境Agent监控与追踪重要性
+  - [国内AI资讯] GLM 5.1 模型在 Atomic Chat 应用中上线
+  - [国外AI资讯] OpenAI宣布Codex周活跃用户数达三百万
+  - [国外AI资讯] Anthropic联合多家科技巨头启动网络安全联盟Project Glasswing
+  - [国外AI资讯] Google Cloud 发布 Vertex AI Agent Engine 智能体构建工作流程
+  - [国外AI资讯] 开发者构建Claude Code技能，可基于复杂文档生成深度报告
+  - [国外AI资讯] 英伟达官方发布链接，未提供具体内容说明
+  - [国外AI资讯] Google Research 宣布全球 PhD Fellowship 项目申请开放
+  - [国外AI资讯] 微软启动通用语言解码器项目，旨在通过AI支持全球100种语言
+  - [国外AI资讯] 亚马逊云科技发布 Amazon S3 Files，为对象存储提供文件系统访问
+  - [国外AI资讯] LangChain预告将在旧金山和纽约推出LangSmith广告牌
+  - [国外AI资讯] Google 将 Google Maps 与 Gemini 模型集成，推出“询问地图”功能
+  - [智能硬件] Jitendra Malik 建议采用 STT 指标评估机器人操作性能
+  - [国外AI资讯] AWS 与 Anthropic 合作推进 AI 驱动的网络安全
+  - [其它科技资讯] LumaLabsAI 发布 Ray 3.14，新增 1080p EXR 格式导出支持
+
+[2026-04-08 07:35:40] llm_summary - OUTPUT: 24条 | 成功0条
+============================================================
+  - [国外AI资讯] 马斯克诉讼OpenAI，欲捐赔偿金并要求移除阿尔特曼
+  - [国外AI资讯] Uber用亚马逊Trainium3芯片训练AI模型
+  - [国内AI资讯] 美团、京东收紧外部AI使用权限
+  - [国外AI资讯] “GPT-4o之母”宣布离职OpenAI
+  - [国外AI资讯] 谷歌更新Gemini AI模型，支持心理健康危机热线
+  - [智能硬件] 小马智行新加坡自动驾驶汽车获准进行邀请体验
+  - [国外AI资讯] OpenAI推出安全奖学金计划，研究AI系统安全与一致性
+  - [国内AI资讯] GLM-5.1为744B参数模型，通过云端端点运行以避免本地硬件过热
+  - [国内AI资讯] Z.ai 发布 7540 亿参数模型 GLM-5.1，据称在 SWE-bench Pro 上表现超越
+  - [国外AI资讯] LangChain强调真实环境Agent监控与追踪重要性
+  - [国内AI资讯] GLM 5.1 模型在 Atomic Chat 应用中上线
+  - [国外AI资讯] OpenAI宣布Codex周活跃用户数达三百万
+  - [国外AI资讯] Anthropic联合多家科技巨头启动网络安全联盟Project Glasswing
+  - [国外AI资讯] Google Cloud 发布 Vertex AI Agent Engine 智能体构建工作流程
+  - [国外AI资讯] 开发者构建Claude Code技能，可基于复杂文档生成深度报告
+  - [国外AI资讯] 英伟达官方发布链接，未提供具体内容说明
+  - [国外AI资讯] Google Research 宣布全球 PhD Fellowship 项目申请开放
+  - [国外AI资讯] 微软启动通用语言解码器项目，旨在通过AI支持全球100种语言
+  - [国外AI资讯] 亚马逊云科技发布 Amazon S3 Files，为对象存储提供文件系统访问
+  - [国外AI资讯] LangChain预告将在旧金山和纽约推出LangSmith广告牌
+  - [国外AI资讯] Google 将 Google Maps 与 Gemini 模型集成，推出“询问地图”功能
+  - [智能硬件] Jitendra Malik 建议采用 STT 指标评估机器人操作性能
+  - [国外AI资讯] AWS 与 Anthropic 合作推进 AI 驱动的网络安全
+  - [其它科技资讯] LumaLabsAI 发布 Ray 3.14，新增 1080p EXR 格式导出支持
+
+[2026-04-08 08:28:38] keyword_filter - INPUT: 31条
+============================================================
+  - [] PIMCO考虑为甲骨文密歇根数据中心提供140亿美元债务融资
+  - [] 马斯克诉讼OpenAI，欲捐赔偿金并要求移除阿尔特曼
+  - [] Uber用亚马逊Trainium3芯片训练AI模型
+  - [] 美团、京东收紧外部AI使用权限
+  - [] “GPT-4o之母”宣布离职OpenAI
+  - [] 谷歌更新Gemini AI模型，支持心理健康危机热线
+  - [] 小马智行新加坡自动驾驶汽车获准进行邀请体验
+  - [] OpenAI推出安全奖学金计划，研究AI系统安全与一致性
+  - [] 专注仿生情感交互机器人，首形科技完成数亿元A1轮融资
+  - [] 博通将为谷歌供应TPU芯片、为Anthropic提供算力
+  - [] “千寻智能”完成新一轮10亿元融资
+  - [] NVIDIA 探讨 AI 与数字孪生如何变革半导体制造全流程
+  - [] Z.ai发布GLM-5.1模型，称其在SWE-bench Pro上超越GPT-5.4与Claude 
+  - [] 智谱公司开源 GLM-5.1 模型，其 Agent 能力在 SWE-Bench Pro 测试中表现突
+  - [] LlamaIndex 开源 LiteParse 解析器，助力改进智能体搜索流程
+  - [] GLM-5.1 编程基准得分 54.9，训练基于十万块华为昇腾 910B 芯片
+  - [] 三星与Synopsys专家分享AI与数字孪生如何变革半导体制造
+  - [] OpenAI为庆祝Codex周活达300万，宣布重置使用限制
+  - [] Z.ai发布GLM-5.1模型，在SWE-Bench Pro基准测试中排名开源模型第一
+  - [] GLM-5.1 本地运行硬件需求披露
+  - [] GLM-5.1 模型在 Text Arena 发布，成为排名第一的开源模型
+  - [] GLM-5.1模型展示图像生成与动画能力
+  - [] GLM-5.1为744B参数模型，通过云端端点运行以避免本地硬件过热
+  - [] Z.ai 发布 7540 亿参数模型 GLM-5.1，据称在 SWE-bench Pro 上表现超越
+  - [] LangChain强调真实环境Agent监控与追踪重要性
+  - [] GLM 5.1 模型在 Atomic Chat 应用中上线
+  - [] OpenAI宣布Codex周活跃用户数达三百万
+  - [] Anthropic联合多家科技巨头启动网络安全联盟Project Glasswing
+  - [] Google Cloud 发布 Vertex AI Agent Engine 智能体构建工作流程
+  - [] 开发者构建Claude Code技能，可基于复杂文档生成深度报告
+  - [] 英伟达官方发布链接，未提供具体内容说明
+
+[2026-04-08 08:28:38] keyword_filter - OUTPUT: 27条 | 移除4条
+============================================================
+  - [] 马斯克诉讼OpenAI，欲捐赔偿金并要求移除阿尔特曼
+  - [] Uber用亚马逊Trainium3芯片训练AI模型
+  - [] 美团、京东收紧外部AI使用权限
+  - [] “GPT-4o之母”宣布离职OpenAI
+  - [] 谷歌更新Gemini AI模型，支持心理健康危机热线
+  - [] 小马智行新加坡自动驾驶汽车获准进行邀请体验
+  - [] OpenAI推出安全奖学金计划，研究AI系统安全与一致性
+  - [] NVIDIA 探讨 AI 与数字孪生如何变革半导体制造全流程
+  - [] Z.ai发布GLM-5.1模型，称其在SWE-bench Pro上超越GPT-5.4与Claude 
+  - [] 智谱公司开源 GLM-5.1 模型，其 Agent 能力在 SWE-Bench Pro 测试中表现突
+  - [] LlamaIndex 开源 LiteParse 解析器，助力改进智能体搜索流程
+  - [] GLM-5.1 编程基准得分 54.9，训练基于十万块华为昇腾 910B 芯片
+  - [] 三星与Synopsys专家分享AI与数字孪生如何变革半导体制造
+  - [] OpenAI为庆祝Codex周活达300万，宣布重置使用限制
+  - [] Z.ai发布GLM-5.1模型，在SWE-Bench Pro基准测试中排名开源模型第一
+  - [] GLM-5.1 本地运行硬件需求披露
+  - [] GLM-5.1 模型在 Text Arena 发布，成为排名第一的开源模型
+  - [] GLM-5.1模型展示图像生成与动画能力
+  - [] GLM-5.1为744B参数模型，通过云端端点运行以避免本地硬件过热
+  - [] Z.ai 发布 7540 亿参数模型 GLM-5.1，据称在 SWE-bench Pro 上表现超越
+  - [] LangChain强调真实环境Agent监控与追踪重要性
+  - [] GLM 5.1 模型在 Atomic Chat 应用中上线
+  - [] OpenAI宣布Codex周活跃用户数达三百万
+  - [] Anthropic联合多家科技巨头启动网络安全联盟Project Glasswing
+  - [] Google Cloud 发布 Vertex AI Agent Engine 智能体构建工作流程
+  - [] 开发者构建Claude Code技能，可基于复杂文档生成深度报告
+  - [] 英伟达官方发布链接，未提供具体内容说明
+
+[2026-04-08 08:28:38] bge_dedup - INPUT: 27条
+============================================================
+  - [] 马斯克诉讼OpenAI，欲捐赔偿金并要求移除阿尔特曼
+  - [] Uber用亚马逊Trainium3芯片训练AI模型
+  - [] 美团、京东收紧外部AI使用权限
+  - [] “GPT-4o之母”宣布离职OpenAI
+  - [] 谷歌更新Gemini AI模型，支持心理健康危机热线
+  - [] 小马智行新加坡自动驾驶汽车获准进行邀请体验
+  - [] OpenAI推出安全奖学金计划，研究AI系统安全与一致性
+  - [] NVIDIA 探讨 AI 与数字孪生如何变革半导体制造全流程
+  - [] Z.ai发布GLM-5.1模型，称其在SWE-bench Pro上超越GPT-5.4与Claude 
+  - [] 智谱公司开源 GLM-5.1 模型，其 Agent 能力在 SWE-Bench Pro 测试中表现突
+  - [] LlamaIndex 开源 LiteParse 解析器，助力改进智能体搜索流程
+  - [] GLM-5.1 编程基准得分 54.9，训练基于十万块华为昇腾 910B 芯片
+  - [] 三星与Synopsys专家分享AI与数字孪生如何变革半导体制造
+  - [] OpenAI为庆祝Codex周活达300万，宣布重置使用限制
+  - [] Z.ai发布GLM-5.1模型，在SWE-Bench Pro基准测试中排名开源模型第一
+  - [] GLM-5.1 本地运行硬件需求披露
+  - [] GLM-5.1 模型在 Text Arena 发布，成为排名第一的开源模型
+  - [] GLM-5.1模型展示图像生成与动画能力
+  - [] GLM-5.1为744B参数模型，通过云端端点运行以避免本地硬件过热
+  - [] Z.ai 发布 7540 亿参数模型 GLM-5.1，据称在 SWE-bench Pro 上表现超越
+  - [] LangChain强调真实环境Agent监控与追踪重要性
+  - [] GLM 5.1 模型在 Atomic Chat 应用中上线
+  - [] OpenAI宣布Codex周活跃用户数达三百万
+  - [] Anthropic联合多家科技巨头启动网络安全联盟Project Glasswing
+  - [] Google Cloud 发布 Vertex AI Agent Engine 智能体构建工作流程
+  - [] 开发者构建Claude Code技能，可基于复杂文档生成深度报告
+  - [] 英伟达官方发布链接，未提供具体内容说明
+
+[2026-04-08 08:28:50] bge_dedup - OUTPUT: 24条 | 移除3条
+============================================================
+  - [] 马斯克诉讼OpenAI，欲捐赔偿金并要求移除阿尔特曼
+  - [] Uber用亚马逊Trainium3芯片训练AI模型
+  - [] 美团、京东收紧外部AI使用权限
+  - [] “GPT-4o之母”宣布离职OpenAI
+  - [] 谷歌更新Gemini AI模型，支持心理健康危机热线
+  - [] 小马智行新加坡自动驾驶汽车获准进行邀请体验
+  - [] OpenAI推出安全奖学金计划，研究AI系统安全与一致性
+  - [] NVIDIA 探讨 AI 与数字孪生如何变革半导体制造全流程
+  - [] Z.ai发布GLM-5.1模型，称其在SWE-bench Pro上超越GPT-5.4与Claude 
+  - [] 智谱公司开源 GLM-5.1 模型，其 Agent 能力在 SWE-Bench Pro 测试中表现突
+  - [] LlamaIndex 开源 LiteParse 解析器，助力改进智能体搜索流程
+  - [] GLM-5.1 编程基准得分 54.9，训练基于十万块华为昇腾 910B 芯片
+  - [] 三星与Synopsys专家分享AI与数字孪生如何变革半导体制造
+  - [] OpenAI为庆祝Codex周活达300万，宣布重置使用限制
+  - [] GLM-5.1 本地运行硬件需求披露
+  - [] GLM-5.1 模型在 Text Arena 发布，成为排名第一的开源模型
+  - [] GLM-5.1模型展示图像生成与动画能力
+  - [] GLM-5.1为744B参数模型，通过云端端点运行以避免本地硬件过热
+  - [] LangChain强调真实环境Agent监控与追踪重要性
+  - [] GLM 5.1 模型在 Atomic Chat 应用中上线
+  - [] Anthropic联合多家科技巨头启动网络安全联盟Project Glasswing
+  - [] Google Cloud 发布 Vertex AI Agent Engine 智能体构建工作流程
+  - [] 开发者构建Claude Code技能，可基于复杂文档生成深度报告
+  - [] 英伟达官方发布链接，未提供具体内容说明
+
+[2026-04-08 08:28:50] llm_classify - INPUT: 24条
+============================================================
+  - [] 马斯克诉讼OpenAI，欲捐赔偿金并要求移除阿尔特曼
+  - [] Uber用亚马逊Trainium3芯片训练AI模型
+  - [] 美团、京东收紧外部AI使用权限
+  - [] “GPT-4o之母”宣布离职OpenAI
+  - [] 谷歌更新Gemini AI模型，支持心理健康危机热线
+  - [] 小马智行新加坡自动驾驶汽车获准进行邀请体验
+  - [] OpenAI推出安全奖学金计划，研究AI系统安全与一致性
+  - [] NVIDIA 探讨 AI 与数字孪生如何变革半导体制造全流程
+  - [] Z.ai发布GLM-5.1模型，称其在SWE-bench Pro上超越GPT-5.4与Claude 
+  - [] 智谱公司开源 GLM-5.1 模型，其 Agent 能力在 SWE-Bench Pro 测试中表现突
+  - [] LlamaIndex 开源 LiteParse 解析器，助力改进智能体搜索流程
+  - [] GLM-5.1 编程基准得分 54.9，训练基于十万块华为昇腾 910B 芯片
+  - [] 三星与Synopsys专家分享AI与数字孪生如何变革半导体制造
+  - [] OpenAI为庆祝Codex周活达300万，宣布重置使用限制
+  - [] GLM-5.1 本地运行硬件需求披露
+  - [] GLM-5.1 模型在 Text Arena 发布，成为排名第一的开源模型
+  - [] GLM-5.1模型展示图像生成与动画能力
+  - [] GLM-5.1为744B参数模型，通过云端端点运行以避免本地硬件过热
+  - [] LangChain强调真实环境Agent监控与追踪重要性
+  - [] GLM 5.1 模型在 Atomic Chat 应用中上线
+  - [] Anthropic联合多家科技巨头启动网络安全联盟Project Glasswing
+  - [] Google Cloud 发布 Vertex AI Agent Engine 智能体构建工作流程
+  - [] 开发者构建Claude Code技能，可基于复杂文档生成深度报告
+  - [] 英伟达官方发布链接，未提供具体内容说明
+
+[2026-04-08 08:29:28] llm_classify - OUTPUT: 24条 | 保留24条
+============================================================
+  - [国外AI资讯] 马斯克诉讼OpenAI，欲捐赔偿金并要求移除阿尔特曼
+  - [国外AI资讯] Uber用亚马逊Trainium3芯片训练AI模型
+  - [国内AI资讯] 美团、京东收紧外部AI使用权限
+  - [国外AI资讯] “GPT-4o之母”宣布离职OpenAI
+  - [国外AI资讯] 谷歌更新Gemini AI模型，支持心理健康危机热线
+  - [智能硬件] 小马智行新加坡自动驾驶汽车获准进行邀请体验
+  - [国外AI资讯] OpenAI推出安全奖学金计划，研究AI系统安全与一致性
+  - [国外AI资讯] NVIDIA 探讨 AI 与数字孪生如何变革半导体制造全流程
+  - [国内AI资讯] Z.ai发布GLM-5.1模型，称其在SWE-bench Pro上超越GPT-5.4与Claude 
+  - [国内AI资讯] 智谱公司开源 GLM-5.1 模型，其 Agent 能力在 SWE-Bench Pro 测试中表现突
+  - [国外AI资讯] LlamaIndex 开源 LiteParse 解析器，助力改进智能体搜索流程
+  - [国内AI资讯] GLM-5.1 编程基准得分 54.9，训练基于十万块华为昇腾 910B 芯片
+  - [其它科技资讯] 三星与Synopsys专家分享AI与数字孪生如何变革半导体制造
+  - [国外AI资讯] OpenAI为庆祝Codex周活达300万，宣布重置使用限制
+  - [国内AI资讯] GLM-5.1 本地运行硬件需求披露
+  - [国内AI资讯] GLM-5.1 模型在 Text Arena 发布，成为排名第一的开源模型
+  - [国内AI资讯] GLM-5.1模型展示图像生成与动画能力
+  - [国内AI资讯] GLM-5.1为744B参数模型，通过云端端点运行以避免本地硬件过热
+  - [国外AI资讯] LangChain强调真实环境Agent监控与追踪重要性
+  - [国内AI资讯] GLM 5.1 模型在 Atomic Chat 应用中上线
+  - [其它科技资讯] Anthropic联合多家科技巨头启动网络安全联盟Project Glasswing
+  - [国外AI资讯] Google Cloud 发布 Vertex AI Agent Engine 智能体构建工作流程
+  - [国外AI资讯] 开发者构建Claude Code技能，可基于复杂文档生成深度报告
+  - [国外AI资讯] 英伟达官方发布链接，未提供具体内容说明
+
+[2026-04-08 08:29:28] llm_summary - INPUT: 24条
+============================================================
+  - [国外AI资讯] 马斯克诉讼OpenAI，欲捐赔偿金并要求移除阿尔特曼
+  - [国外AI资讯] Uber用亚马逊Trainium3芯片训练AI模型
+  - [国内AI资讯] 美团、京东收紧外部AI使用权限
+  - [国外AI资讯] “GPT-4o之母”宣布离职OpenAI
+  - [国外AI资讯] 谷歌更新Gemini AI模型，支持心理健康危机热线
+  - [智能硬件] 小马智行新加坡自动驾驶汽车获准进行邀请体验
+  - [国外AI资讯] OpenAI推出安全奖学金计划，研究AI系统安全与一致性
+  - [国外AI资讯] NVIDIA 探讨 AI 与数字孪生如何变革半导体制造全流程
+  - [国内AI资讯] Z.ai发布GLM-5.1模型，称其在SWE-bench Pro上超越GPT-5.4与Claude 
+  - [国内AI资讯] 智谱公司开源 GLM-5.1 模型，其 Agent 能力在 SWE-Bench Pro 测试中表现突
+  - [国外AI资讯] LlamaIndex 开源 LiteParse 解析器，助力改进智能体搜索流程
+  - [国内AI资讯] GLM-5.1 编程基准得分 54.9，训练基于十万块华为昇腾 910B 芯片
+  - [其它科技资讯] 三星与Synopsys专家分享AI与数字孪生如何变革半导体制造
+  - [国外AI资讯] OpenAI为庆祝Codex周活达300万，宣布重置使用限制
+  - [国内AI资讯] GLM-5.1 本地运行硬件需求披露
+  - [国内AI资讯] GLM-5.1 模型在 Text Arena 发布，成为排名第一的开源模型
+  - [国内AI资讯] GLM-5.1模型展示图像生成与动画能力
+  - [国内AI资讯] GLM-5.1为744B参数模型，通过云端端点运行以避免本地硬件过热
+  - [国外AI资讯] LangChain强调真实环境Agent监控与追踪重要性
+  - [国内AI资讯] GLM 5.1 模型在 Atomic Chat 应用中上线
+  - [其它科技资讯] Anthropic联合多家科技巨头启动网络安全联盟Project Glasswing
+  - [国外AI资讯] Google Cloud 发布 Vertex AI Agent Engine 智能体构建工作流程
+  - [国外AI资讯] 开发者构建Claude Code技能，可基于复杂文档生成深度报告
+  - [国外AI资讯] 英伟达官方发布链接，未提供具体内容说明
+
+[2026-04-08 08:31:15] llm_summary - OUTPUT: 24条 | 成功0条
+============================================================
+  - [国外AI资讯] 马斯克诉讼OpenAI，欲捐赔偿金并要求移除阿尔特曼
+  - [国外AI资讯] Uber用亚马逊Trainium3芯片训练AI模型
+  - [国内AI资讯] 美团、京东收紧外部AI使用权限
+  - [国外AI资讯] “GPT-4o之母”宣布离职OpenAI
+  - [国外AI资讯] 谷歌更新Gemini AI模型，支持心理健康危机热线
+  - [智能硬件] 小马智行新加坡自动驾驶汽车获准进行邀请体验
+  - [国外AI资讯] OpenAI推出安全奖学金计划，研究AI系统安全与一致性
+  - [国外AI资讯] NVIDIA 探讨 AI 与数字孪生如何变革半导体制造全流程
+  - [国内AI资讯] Z.ai发布GLM-5.1模型，称其在SWE-bench Pro上超越GPT-5.4与Claude 
+  - [国内AI资讯] 智谱公司开源 GLM-5.1 模型，其 Agent 能力在 SWE-Bench Pro 测试中表现突
+  - [国外AI资讯] LlamaIndex 开源 LiteParse 解析器，助力改进智能体搜索流程
+  - [国内AI资讯] GLM-5.1 编程基准得分 54.9，训练基于十万块华为昇腾 910B 芯片
+  - [其它科技资讯] 三星与Synopsys专家分享AI与数字孪生如何变革半导体制造
+  - [国外AI资讯] OpenAI为庆祝Codex周活达300万，宣布重置使用限制
+  - [国内AI资讯] GLM-5.1 本地运行硬件需求披露
+  - [国内AI资讯] GLM-5.1 模型在 Text Arena 发布，成为排名第一的开源模型
+  - [国内AI资讯] GLM-5.1模型展示图像生成与动画能力
+  - [国内AI资讯] GLM-5.1为744B参数模型，通过云端端点运行以避免本地硬件过热
+  - [国外AI资讯] LangChain强调真实环境Agent监控与追踪重要性
+  - [国内AI资讯] GLM 5.1 模型在 Atomic Chat 应用中上线
+  - [其它科技资讯] Anthropic联合多家科技巨头启动网络安全联盟Project Glasswing
+  - [国外AI资讯] Google Cloud 发布 Vertex AI Agent Engine 智能体构建工作流程
+  - [国外AI资讯] 开发者构建Claude Code技能，可基于复杂文档生成深度报告
+  - [国外AI资讯] 英伟达官方发布链接，未提供具体内容说明
+
+[2026-04-08 08:33:24] keyword_filter - INPUT: 31条
+============================================================
+  - [] PIMCO考虑为甲骨文密歇根数据中心提供140亿美元债务融资
+  - [] 马斯克诉讼OpenAI，欲捐赔偿金并要求移除阿尔特曼
+  - [] Uber用亚马逊Trainium3芯片训练AI模型
+  - [] 美团、京东收紧外部AI使用权限
+  - [] “GPT-4o之母”宣布离职OpenAI
+  - [] 谷歌更新Gemini AI模型，支持心理健康危机热线
+  - [] 小马智行新加坡自动驾驶汽车获准进行邀请体验
+  - [] OpenAI推出安全奖学金计划，研究AI系统安全与一致性
+  - [] 专注仿生情感交互机器人，首形科技完成数亿元A1轮融资
+  - [] 博通将为谷歌供应TPU芯片、为Anthropic提供算力
+  - [] “千寻智能”完成新一轮10亿元融资
+  - [] NVIDIA 探讨 AI 与数字孪生如何变革半导体制造全流程
+  - [] Z.ai发布GLM-5.1模型，称其在SWE-bench Pro上超越GPT-5.4与Claude 
+  - [] 智谱公司开源 GLM-5.1 模型，其 Agent 能力在 SWE-Bench Pro 测试中表现突
+  - [] LlamaIndex 开源 LiteParse 解析器，助力改进智能体搜索流程
+  - [] GLM-5.1 编程基准得分 54.9，训练基于十万块华为昇腾 910B 芯片
+  - [] 三星与Synopsys专家分享AI与数字孪生如何变革半导体制造
+  - [] OpenAI为庆祝Codex周活达300万，宣布重置使用限制
+  - [] Z.ai发布GLM-5.1模型，在SWE-Bench Pro基准测试中排名开源模型第一
+  - [] GLM-5.1 本地运行硬件需求披露
+  - [] GLM-5.1 模型在 Text Arena 发布，成为排名第一的开源模型
+  - [] GLM-5.1模型展示图像生成与动画能力
+  - [] GLM-5.1为744B参数模型，通过云端端点运行以避免本地硬件过热
+  - [] Z.ai 发布 7540 亿参数模型 GLM-5.1，据称在 SWE-bench Pro 上表现超越
+  - [] LangChain强调真实环境Agent监控与追踪重要性
+  - [] GLM 5.1 模型在 Atomic Chat 应用中上线
+  - [] OpenAI宣布Codex周活跃用户数达三百万
+  - [] Anthropic联合多家科技巨头启动网络安全联盟Project Glasswing
+  - [] Google Cloud 发布 Vertex AI Agent Engine 智能体构建工作流程
+  - [] 开发者构建Claude Code技能，可基于复杂文档生成深度报告
+  - [] 英伟达官方发布链接，未提供具体内容说明
+
+[2026-04-08 08:33:24] keyword_filter - OUTPUT: 27条 | 移除4条
+============================================================
+  - [] 马斯克诉讼OpenAI，欲捐赔偿金并要求移除阿尔特曼
+  - [] Uber用亚马逊Trainium3芯片训练AI模型
+  - [] 美团、京东收紧外部AI使用权限
+  - [] “GPT-4o之母”宣布离职OpenAI
+  - [] 谷歌更新Gemini AI模型，支持心理健康危机热线
+  - [] 小马智行新加坡自动驾驶汽车获准进行邀请体验
+  - [] OpenAI推出安全奖学金计划，研究AI系统安全与一致性
+  - [] NVIDIA 探讨 AI 与数字孪生如何变革半导体制造全流程
+  - [] Z.ai发布GLM-5.1模型，称其在SWE-bench Pro上超越GPT-5.4与Claude 
+  - [] 智谱公司开源 GLM-5.1 模型，其 Agent 能力在 SWE-Bench Pro 测试中表现突
+  - [] LlamaIndex 开源 LiteParse 解析器，助力改进智能体搜索流程
+  - [] GLM-5.1 编程基准得分 54.9，训练基于十万块华为昇腾 910B 芯片
+  - [] 三星与Synopsys专家分享AI与数字孪生如何变革半导体制造
+  - [] OpenAI为庆祝Codex周活达300万，宣布重置使用限制
+  - [] Z.ai发布GLM-5.1模型，在SWE-Bench Pro基准测试中排名开源模型第一
+  - [] GLM-5.1 本地运行硬件需求披露
+  - [] GLM-5.1 模型在 Text Arena 发布，成为排名第一的开源模型
+  - [] GLM-5.1模型展示图像生成与动画能力
+  - [] GLM-5.1为744B参数模型，通过云端端点运行以避免本地硬件过热
+  - [] Z.ai 发布 7540 亿参数模型 GLM-5.1，据称在 SWE-bench Pro 上表现超越
+  - [] LangChain强调真实环境Agent监控与追踪重要性
+  - [] GLM 5.1 模型在 Atomic Chat 应用中上线
+  - [] OpenAI宣布Codex周活跃用户数达三百万
+  - [] Anthropic联合多家科技巨头启动网络安全联盟Project Glasswing
+  - [] Google Cloud 发布 Vertex AI Agent Engine 智能体构建工作流程
+  - [] 开发者构建Claude Code技能，可基于复杂文档生成深度报告
+  - [] 英伟达官方发布链接，未提供具体内容说明
+
+[2026-04-08 08:33:24] bge_dedup - INPUT: 27条
+============================================================
+  - [] 马斯克诉讼OpenAI，欲捐赔偿金并要求移除阿尔特曼
+  - [] Uber用亚马逊Trainium3芯片训练AI模型
+  - [] 美团、京东收紧外部AI使用权限
+  - [] “GPT-4o之母”宣布离职OpenAI
+  - [] 谷歌更新Gemini AI模型，支持心理健康危机热线
+  - [] 小马智行新加坡自动驾驶汽车获准进行邀请体验
+  - [] OpenAI推出安全奖学金计划，研究AI系统安全与一致性
+  - [] NVIDIA 探讨 AI 与数字孪生如何变革半导体制造全流程
+  - [] Z.ai发布GLM-5.1模型，称其在SWE-bench Pro上超越GPT-5.4与Claude 
+  - [] 智谱公司开源 GLM-5.1 模型，其 Agent 能力在 SWE-Bench Pro 测试中表现突
+  - [] LlamaIndex 开源 LiteParse 解析器，助力改进智能体搜索流程
+  - [] GLM-5.1 编程基准得分 54.9，训练基于十万块华为昇腾 910B 芯片
+  - [] 三星与Synopsys专家分享AI与数字孪生如何变革半导体制造
+  - [] OpenAI为庆祝Codex周活达300万，宣布重置使用限制
+  - [] Z.ai发布GLM-5.1模型，在SWE-Bench Pro基准测试中排名开源模型第一
+  - [] GLM-5.1 本地运行硬件需求披露
+  - [] GLM-5.1 模型在 Text Arena 发布，成为排名第一的开源模型
+  - [] GLM-5.1模型展示图像生成与动画能力
+  - [] GLM-5.1为744B参数模型，通过云端端点运行以避免本地硬件过热
+  - [] Z.ai 发布 7540 亿参数模型 GLM-5.1，据称在 SWE-bench Pro 上表现超越
+  - [] LangChain强调真实环境Agent监控与追踪重要性
+  - [] GLM 5.1 模型在 Atomic Chat 应用中上线
+  - [] OpenAI宣布Codex周活跃用户数达三百万
+  - [] Anthropic联合多家科技巨头启动网络安全联盟Project Glasswing
+  - [] Google Cloud 发布 Vertex AI Agent Engine 智能体构建工作流程
+  - [] 开发者构建Claude Code技能，可基于复杂文档生成深度报告
+  - [] 英伟达官方发布链接，未提供具体内容说明
+
+[2026-04-08 08:33:35] bge_dedup - OUTPUT: 24条 | 移除3条
+============================================================
+  - [] 马斯克诉讼OpenAI，欲捐赔偿金并要求移除阿尔特曼
+  - [] Uber用亚马逊Trainium3芯片训练AI模型
+  - [] 美团、京东收紧外部AI使用权限
+  - [] “GPT-4o之母”宣布离职OpenAI
+  - [] 谷歌更新Gemini AI模型，支持心理健康危机热线
+  - [] 小马智行新加坡自动驾驶汽车获准进行邀请体验
+  - [] OpenAI推出安全奖学金计划，研究AI系统安全与一致性
+  - [] NVIDIA 探讨 AI 与数字孪生如何变革半导体制造全流程
+  - [] Z.ai发布GLM-5.1模型，称其在SWE-bench Pro上超越GPT-5.4与Claude 
+  - [] 智谱公司开源 GLM-5.1 模型，其 Agent 能力在 SWE-Bench Pro 测试中表现突
+  - [] LlamaIndex 开源 LiteParse 解析器，助力改进智能体搜索流程
+  - [] GLM-5.1 编程基准得分 54.9，训练基于十万块华为昇腾 910B 芯片
+  - [] 三星与Synopsys专家分享AI与数字孪生如何变革半导体制造
+  - [] OpenAI为庆祝Codex周活达300万，宣布重置使用限制
+  - [] GLM-5.1 本地运行硬件需求披露
+  - [] GLM-5.1 模型在 Text Arena 发布，成为排名第一的开源模型
+  - [] GLM-5.1模型展示图像生成与动画能力
+  - [] GLM-5.1为744B参数模型，通过云端端点运行以避免本地硬件过热
+  - [] LangChain强调真实环境Agent监控与追踪重要性
+  - [] GLM 5.1 模型在 Atomic Chat 应用中上线
+  - [] Anthropic联合多家科技巨头启动网络安全联盟Project Glasswing
+  - [] Google Cloud 发布 Vertex AI Agent Engine 智能体构建工作流程
+  - [] 开发者构建Claude Code技能，可基于复杂文档生成深度报告
+  - [] 英伟达官方发布链接，未提供具体内容说明
+
+[2026-04-08 08:33:35] llm_classify - INPUT: 24条
+============================================================
+  - [] 马斯克诉讼OpenAI，欲捐赔偿金并要求移除阿尔特曼
+  - [] Uber用亚马逊Trainium3芯片训练AI模型
+  - [] 美团、京东收紧外部AI使用权限
+  - [] “GPT-4o之母”宣布离职OpenAI
+  - [] 谷歌更新Gemini AI模型，支持心理健康危机热线
+  - [] 小马智行新加坡自动驾驶汽车获准进行邀请体验
+  - [] OpenAI推出安全奖学金计划，研究AI系统安全与一致性
+  - [] NVIDIA 探讨 AI 与数字孪生如何变革半导体制造全流程
+  - [] Z.ai发布GLM-5.1模型，称其在SWE-bench Pro上超越GPT-5.4与Claude 
+  - [] 智谱公司开源 GLM-5.1 模型，其 Agent 能力在 SWE-Bench Pro 测试中表现突
+  - [] LlamaIndex 开源 LiteParse 解析器，助力改进智能体搜索流程
+  - [] GLM-5.1 编程基准得分 54.9，训练基于十万块华为昇腾 910B 芯片
+  - [] 三星与Synopsys专家分享AI与数字孪生如何变革半导体制造
+  - [] OpenAI为庆祝Codex周活达300万，宣布重置使用限制
+  - [] GLM-5.1 本地运行硬件需求披露
+  - [] GLM-5.1 模型在 Text Arena 发布，成为排名第一的开源模型
+  - [] GLM-5.1模型展示图像生成与动画能力
+  - [] GLM-5.1为744B参数模型，通过云端端点运行以避免本地硬件过热
+  - [] LangChain强调真实环境Agent监控与追踪重要性
+  - [] GLM 5.1 模型在 Atomic Chat 应用中上线
+  - [] Anthropic联合多家科技巨头启动网络安全联盟Project Glasswing
+  - [] Google Cloud 发布 Vertex AI Agent Engine 智能体构建工作流程
+  - [] 开发者构建Claude Code技能，可基于复杂文档生成深度报告
+  - [] 英伟达官方发布链接，未提供具体内容说明
+
+[2026-04-08 08:33:46] llm_classify - OUTPUT: 24条 | 保留24条
+============================================================
+  - [国外AI资讯] 马斯克诉讼OpenAI，欲捐赔偿金并要求移除阿尔特曼
+  - [其它科技资讯] Uber用亚马逊Trainium3芯片训练AI模型
+  - [国内AI资讯] 美团、京东收紧外部AI使用权限
+  - [国外AI资讯] “GPT-4o之母”宣布离职OpenAI
+  - [国外AI资讯] 谷歌更新Gemini AI模型，支持心理健康危机热线
+  - [智能硬件] 小马智行新加坡自动驾驶汽车获准进行邀请体验
+  - [国外AI资讯] OpenAI推出安全奖学金计划，研究AI系统安全与一致性
+  - [其它科技资讯] NVIDIA 探讨 AI 与数字孪生如何变革半导体制造全流程
+  - [国内AI资讯] Z.ai发布GLM-5.1模型，称其在SWE-bench Pro上超越GPT-5.4与Claude 
+  - [国内AI资讯] 智谱公司开源 GLM-5.1 模型，其 Agent 能力在 SWE-Bench Pro 测试中表现突
+  - [国外AI资讯] LlamaIndex 开源 LiteParse 解析器，助力改进智能体搜索流程
+  - [国内AI资讯] GLM-5.1 编程基准得分 54.9，训练基于十万块华为昇腾 910B 芯片
+  - [其它科技资讯] 三星与Synopsys专家分享AI与数字孪生如何变革半导体制造
+  - [国外AI资讯] OpenAI为庆祝Codex周活达300万，宣布重置使用限制
+  - [国内AI资讯] GLM-5.1 本地运行硬件需求披露
+  - [国内AI资讯] GLM-5.1 模型在 Text Arena 发布，成为排名第一的开源模型
+  - [国内AI资讯] GLM-5.1模型展示图像生成与动画能力
+  - [国内AI资讯] GLM-5.1为744B参数模型，通过云端端点运行以避免本地硬件过热
+  - [国外AI资讯] LangChain强调真实环境Agent监控与追踪重要性
+  - [国内AI资讯] GLM 5.1 模型在 Atomic Chat 应用中上线
+  - [国外AI资讯] Anthropic联合多家科技巨头启动网络安全联盟Project Glasswing
+  - [国外AI资讯] Google Cloud 发布 Vertex AI Agent Engine 智能体构建工作流程
+  - [国外AI资讯] 开发者构建Claude Code技能，可基于复杂文档生成深度报告
+  - [国外AI资讯] 英伟达官方发布链接，未提供具体内容说明
+
+[2026-04-08 08:33:46] llm_summary - INPUT: 24条
+============================================================
+  - [国外AI资讯] 马斯克诉讼OpenAI，欲捐赔偿金并要求移除阿尔特曼
+  - [其它科技资讯] Uber用亚马逊Trainium3芯片训练AI模型
+  - [国内AI资讯] 美团、京东收紧外部AI使用权限
+  - [国外AI资讯] “GPT-4o之母”宣布离职OpenAI
+  - [国外AI资讯] 谷歌更新Gemini AI模型，支持心理健康危机热线
+  - [智能硬件] 小马智行新加坡自动驾驶汽车获准进行邀请体验
+  - [国外AI资讯] OpenAI推出安全奖学金计划，研究AI系统安全与一致性
+  - [其它科技资讯] NVIDIA 探讨 AI 与数字孪生如何变革半导体制造全流程
+  - [国内AI资讯] Z.ai发布GLM-5.1模型，称其在SWE-bench Pro上超越GPT-5.4与Claude 
+  - [国内AI资讯] 智谱公司开源 GLM-5.1 模型，其 Agent 能力在 SWE-Bench Pro 测试中表现突
+  - [国外AI资讯] LlamaIndex 开源 LiteParse 解析器，助力改进智能体搜索流程
+  - [国内AI资讯] GLM-5.1 编程基准得分 54.9，训练基于十万块华为昇腾 910B 芯片
+  - [其它科技资讯] 三星与Synopsys专家分享AI与数字孪生如何变革半导体制造
+  - [国外AI资讯] OpenAI为庆祝Codex周活达300万，宣布重置使用限制
+  - [国内AI资讯] GLM-5.1 本地运行硬件需求披露
+  - [国内AI资讯] GLM-5.1 模型在 Text Arena 发布，成为排名第一的开源模型
+  - [国内AI资讯] GLM-5.1模型展示图像生成与动画能力
+  - [国内AI资讯] GLM-5.1为744B参数模型，通过云端端点运行以避免本地硬件过热
+  - [国外AI资讯] LangChain强调真实环境Agent监控与追踪重要性
+  - [国内AI资讯] GLM 5.1 模型在 Atomic Chat 应用中上线
+  - [国外AI资讯] Anthropic联合多家科技巨头启动网络安全联盟Project Glasswing
+  - [国外AI资讯] Google Cloud 发布 Vertex AI Agent Engine 智能体构建工作流程
+  - [国外AI资讯] 开发者构建Claude Code技能，可基于复杂文档生成深度报告
+  - [国外AI资讯] 英伟达官方发布链接，未提供具体内容说明
+
+[2026-04-08 08:35:35] llm_summary - OUTPUT: 24条 | 成功0条
+============================================================
+  - [国外AI资讯] 马斯克诉讼OpenAI，欲捐赔偿金并要求移除阿尔特曼
+  - [其它科技资讯] Uber用亚马逊Trainium3芯片训练AI模型
+  - [国内AI资讯] 美团、京东收紧外部AI使用权限
+  - [国外AI资讯] “GPT-4o之母”宣布离职OpenAI
+  - [国外AI资讯] 谷歌更新Gemini AI模型，支持心理健康危机热线
+  - [智能硬件] 小马智行新加坡自动驾驶汽车获准进行邀请体验
+  - [国外AI资讯] OpenAI推出安全奖学金计划，研究AI系统安全与一致性
+  - [其它科技资讯] NVIDIA 探讨 AI 与数字孪生如何变革半导体制造全流程
+  - [国内AI资讯] Z.ai发布GLM-5.1模型，称其在SWE-bench Pro上超越GPT-5.4与Claude 
+  - [国内AI资讯] 智谱公司开源 GLM-5.1 模型，其 Agent 能力在 SWE-Bench Pro 测试中表现突
+  - [国外AI资讯] LlamaIndex 开源 LiteParse 解析器，助力改进智能体搜索流程
+  - [国内AI资讯] GLM-5.1 编程基准得分 54.9，训练基于十万块华为昇腾 910B 芯片
+  - [其它科技资讯] 三星与Synopsys专家分享AI与数字孪生如何变革半导体制造
+  - [国外AI资讯] OpenAI为庆祝Codex周活达300万，宣布重置使用限制
+  - [国内AI资讯] GLM-5.1 本地运行硬件需求披露
+  - [国内AI资讯] GLM-5.1 模型在 Text Arena 发布，成为排名第一的开源模型
+  - [国内AI资讯] GLM-5.1模型展示图像生成与动画能力
+  - [国内AI资讯] GLM-5.1为744B参数模型，通过云端端点运行以避免本地硬件过热
+  - [国外AI资讯] LangChain强调真实环境Agent监控与追踪重要性
+  - [国内AI资讯] GLM 5.1 模型在 Atomic Chat 应用中上线
+  - [国外AI资讯] Anthropic联合多家科技巨头启动网络安全联盟Project Glasswing
+  - [国外AI资讯] Google Cloud 发布 Vertex AI Agent Engine 智能体构建工作流程
+  - [国外AI资讯] 开发者构建Claude Code技能，可基于复杂文档生成深度报告
+  - [国外AI资讯] 英伟达官方发布链接，未提供具体内容说明

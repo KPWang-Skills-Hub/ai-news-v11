@@ -1,0 +1,354 @@
+[
+  {
+    "title": "腾讯QClaw海外版内测，5天开发完毕，99%代码自编，内测每日赠送4000万token",
+    "desc": "腾讯推出AI助手产品QClaw海外版内测，实现与微信、QQ的直连，支持国产大模型集成，为用户提供'零代码'的AI助手部署体验，进一步推进'龙虾军团'战略布局。",
+    "link": "https://www.huxiu.com/ainews/11218.html",
+    "source": "huxiu",
+    "time_ago": "11小时前",
+    "category": "国内AI资讯",
+    "summary": "腾讯近日推出AI助手产品QClaw海外版并启动内测。该版本实现了与微信、QQ的直连功能，同时支持国产大模型集成，为用户提供零代码的AI助手部署体验。腾讯希望通过这一产品进一步推进其\"龙虾军团\"战略布局。内测期间，用户每日可获得4000万token的赠送额度。该产品开发周期为5天，其中99%的代码为自主编写。",
+    "rewritten_title": "腾讯AI助手海外版开启内测 支持微信QQ直连",
+    "content": "",
+    "extra": {
+      "publish_time": 1776741636406
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "谷歌扩展Chrome浏览器Gemini功能至更多亚太国家",
+    "desc": "谷歌宣布其最新旗舰生成式人工智能模型Gemini 3正式大规模扩展至全球120个国家和地区的搜索AI模式，其中包括澳大利亚、日本、印度等亚太地区国家。Google AI Pro和Ultra订阅用户现可在搜索中使用",
+    "link": "https://www.huxiu.com/ainews/11210.html",
+    "source": "huxiu",
+    "time_ago": "13小时前",
+    "category": "国外AI资讯",
+    "summary": "谷歌宣布将其最新旗舰生成式人工智能模型Gemini 3大规模扩展至全球120个国家和地区的搜索AI模式。此次扩展覆盖澳大利亚、日本、印度等亚太地区国家。目前，Google AI Pro和Ultra订阅用户已可在搜索中使用该功能。",
+    "rewritten_title": "谷歌Gemini3搜索功能扩展至120国 涵盖亚太多地",
+    "content": "",
+    "extra": {
+      "publish_time": 1776735607452
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "Meta与CBRE合作启动美国数据中心建设计划LevelUp",
+    "desc": "Meta Platforms与CBRE集团宣布启动多年合作计划",
+    "link": "https://www.huxiu.com/ainews/11202.html",
+    "source": "huxiu",
+    "time_ago": "17小时前",
+    "category": "国外AI资讯",
+    "summary": "Meta Platforms与CBRE集团宣布启动多年合作计划，共同推进美国数据中心建设。该合作的具体细节和投资规模尚未对外披露。业内人士分析认为，此举将有助于Meta进一步扩展其基础设施能力，以支撑持续增长的云服务和AI业务需求。",
+    "rewritten_title": "Meta与CBRE达成数据中心建设合作协议",
+    "content": "",
+    "extra": {
+      "publish_time": 1776721804810
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达",
+    "desc": "谷歌于4月19日官宣与芯片设计公司迈威尔(Marvell Technology)达成合作，联手开发两款专为AI推理场景优化的芯片产品，包括内存处理单元和新型推理TPU，以此向占据全球AI芯片市场80%-90%份额的英伟达发起直接挑战。",
+    "link": "https://www.huxiu.com/ainews/11199.html",
+    "source": "huxiu",
+    "time_ago": "19小时前",
+    "category": "国外AI资讯",
+    "summary": "谷歌于4月19日宣布与芯片设计公司迈威尔达成合作，共同开发两款专为AI推理场景优化的芯片产品，包括内存处理单元和新型推理TPU。此举被视为谷歌向占据全球AI芯片市场80%至90%份额的英伟达发起直接挑战。",
+    "rewritten_title": "谷歌联手迈威尔开发AI推理芯片 直指英伟达市场地位",
+    "content": "",
+    "extra": {
+      "publish_time": 1776713406460
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "Yann LeCun 指出其新论文多数解读有误，强调 JEPA 架构取得关键进展",
+    "desc": "近日，Yann LeCun 在社交媒体上转发了一篇关于其新论文的评论。该评论指出，当前网络上约90%的解读是错误的，并驳斥了“生成式AI是死路”、“过去三年投入的数百亿美元完全白费”、“1500万参数的小模型就能超越万亿参数大模型”等观点，认为这些是营销号的夸张说法。评论认为，该论文的实际分量比外界宣传的更重，并指出 Yann LeCun 团队解决了困扰 JEPA（联合嵌入预测架构）数年的表征坍缩问题。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "1小时前",
+    "category": "国外AI资讯",
+    "summary": "Yann LeCun近日在社交媒体上转发评论文章，指出当前网络上关于其新论文的约90%解读存在错误。评论驳斥了\"生成式AI是死路\"、\"过去三年投入的数百亿美元完全白费\"、\"1500万参数小模型能超越万亿参数大模型\"等观点，认为这些说法存在营销号夸张成分。评论指出，该论文的实际价值比外界宣传更为重要，Yann LeCun团队已成功解决困扰JEPA联合嵌入预测架构数年的表征坍缩问题。",
+    "rewritten_title": "Yann LeCun驳斥论文误读 JEPA架构获关键突破",
+    "content": "",
+    "extra": {
+      "collect_time": 1776779047735
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "阿里云发布Qwen3.6-Max-Preview预览版模型",
+    "desc": "阿里云近日发布了新一代千问旗舰模型的早期预览版Qwen3.6-Max-Preview。据文中介绍，该模型在智能体编程、世界知识和指令遵循方面相比Qwen3.6-Plus有显著提升，在多项编程基准、世界知识和指令遵循评测中取得最佳表现。Artificial Analysis数据显示其性能登顶最佳国产模型。该预览版模型将通过阿里云百炼API提供，支持preserve_thinking功能，也可在Qwen Studio上体验，目前仍在积极开发中。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "1小时前",
+    "category": "国内AI资讯",
+    "summary": "阿里云近日发布新一代千问旗舰模型Qwen3.6-Max-Preview早期预览版。据介绍，该模型在智能体编程、世界知识和指令遵循方面相比Qwen3.6-Plus有显著提升，在多项编程基准、世界知识和指令遵循评测中取得最佳表现。Artificial Analysis数据显示其性能已登顶最佳国产模型。该预览版将通过阿里云百炼API提供，支持preserve_thinking功能，也可在线体验，目前仍在积极开发中。",
+    "rewritten_title": "阿里云发布Qwen3.6-Max-Preview 性能登顶国产模型",
+    "content": "",
+    "extra": {
+      "collect_time": 1776776825239
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "xAI发布Grok 4.3 Beta，新增原生长视频理解与摘要功能",
+    "desc": "xAI近日发布了Grok 4.3 Beta版本，该模型新增了原生处理长视频文件的能力。据称，模型可在数秒内“观看”视频，并即时生成清晰的摘要、结构化时间戳以及详细的叙事分解。这一功能旨在帮助用户快速理解长视频内容。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "2小时前",
+    "category": "国外AI资讯",
+    "summary": "xAI近日发布Grok 4.3 Beta版本，该模型新增了原生处理长视频文件的能力。据介绍，模型可在数秒内\"观看\"视频，并即时生成清晰的摘要、结构化时间戳以及详细的叙事分解。该功能旨在帮助用户快速理解长视频内容。",
+    "rewritten_title": "xAI推出Grok 4.3 Beta支持长视频理解与摘要",
+    "content": "",
+    "extra": {
+      "collect_time": 1776776590813
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "Hugging Face 推出自动化训练后工作流程的智能体 ml-intern",
+    "desc": "Hugging Face 近日宣布推出名为 ml-intern 的智能体，旨在自动化其“训练后团队”的工作流程。该智能体是一个开源实现，能够模拟机器学习研究人员的日常研究循环。用户提供一个提示后，ml-intern 可以自动进行论文研究、追踪引用文献，并在 GPU 上实现相关想法。文中未提及该智能体的具体技术实现细节、性能指标、适用范围或限制条件。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "3小时前",
+    "category": "国外AI资讯",
+    "summary": "Hugging Face近日宣布推出名为ml-intern的智能体，旨在自动化其\"训练后团队\"的工作流程。该智能体是一个开源实现，能够模拟机器学习研究人员的日常研究循环。用户提供提示后，ml-intern可自动进行论文研究、追踪引用文献，并在GPU上实现相关想法。",
+    "rewritten_title": "Hugging Face开源ml-intern智能体 自动化机器学习研究流程",
+    "content": "",
+    "extra": {
+      "collect_time": 1776773051200
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "Kimi-K2.6 模型在 Qoder AI IDE 中发布",
+    "desc": "Kimi 模型 Kimi-K2.6 已在 Qoder AI IDE 中发布。根据文中观点，该版本在编码方面达到 SOTA（最先进）水平，支持长程执行和智能体集群功能，并且以 0.3 倍积分（credits）的成本提供。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "5小时前",
+    "category": "国内AI资讯",
+    "summary": "Kimi模型Kimi-K2.6已在Qoder AI IDE中发布。该版本在编码方面达到SOTA最先进水平，支持长程执行和智能体集群功能，并以0.3倍积分的较低成本提供服务。",
+    "rewritten_title": "Kimi-K2.6模型登陆Qoder AI IDE 编程能力达SOTA",
+    "content": "",
+    "extra": {
+      "collect_time": 1776763450975
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "Kimu K2.6模型可连续运行超12小时，执行超4000次工具调用",
+    "desc": "据作者WesRoth在Twitter上发布的信息，Kimu K2.6模型能够连续运行超过12小时，并执行超过4000次工具调用，以处理涉及Rust、Go、Python等多种语言的端到端开发运维、前端生成和性能优化任务。文中观点认为，该模型大幅扩展了自主操作规模，并支持智能体集群。其特性包括“长周期编码”。该模型在多个基准测试中取得了以下成绩：HLE w/ tools为54.0，SWE-Bench Pro为58.6，SWE-bench Multilingual为76.7，BrowseComp为83.2，Toolathlon为50.0，Charxiv w/ python为86.7，Math Vision w/ python为93.2。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "6小时前",
+    "category": "国内AI资讯",
+    "summary": "据WesRoth在Twitter上发布的信息，Kimi K2.6模型能够连续运行超过12小时，并执行超过4000次工具调用，可处理涉及Rust、Go、Python等多种语言的端到端开发运维、前端生成和性能优化任务。该模型大幅扩展了自主操作规模，支持智能体集群，具备长周期编码特性。在多项基准测试中的成绩包括：HLE w/ tools为54.0，SWE-Bench Pro为58.6，SWE-bench Multilingual为76.7，BrowseComp为83.2，Toolathlon为50.0，Charxiv w/ python为86.7，Math Vision w/ python为93.2。",
+    "rewritten_title": "Kimi K2.6模型实现超12小时连续运行 执行工具调用超4000次",
+    "content": "",
+    "extra": {
+      "collect_time": 1776762307033
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "Kimi K2.6 在 Claw-Eval 榜单上位列第四，成为领先开源智能体模型",
+    "desc": "近日，Kimi_Moonshot 宣布其 Kimi K2.6 模型成为新的领先开源权重智能体模型。根据文中信息，该模型在 Claw-Eval 评测中排名第四，Pass^3 得分为 62.3%。文中观点认为，Kimi K2.6 是目前最好的开源智能体模型，其 62.3% 的 Pass^3 分数是所有开源权重模型中最高的，与前沿模型 Claude Opus 4.6（70.4%）的差距在 8 个百分点以内。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "7小时前",
+    "category": "国内AI资讯",
+    "summary": "Kimi_Moonshot近日宣布其Kimi K2.6模型成为新的领先开源权重智能体模型。该模型在Claw-Eval评测中排名第四，Pass³得分为62.3%。该分数是所有开源权重模型中最高的，与前沿模型Claude Opus 4.6的70.4%得分差距在8个百分点以内。",
+    "rewritten_title": "Kimi K2.6成领先开源智能体模型 Claw-Eval评测排名第四",
+    "content": "",
+    "extra": {
+      "collect_time": 1776758706726
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "Firecrawl 开源 Web-Agent 框架，支持构建自主网络交互 AI 智能体",
+    "desc": "Firecrawl 近日开源了一个名为 \"web-agent\" 的新框架。该框架允许开发者构建能够在实时互联网上自主执行“搜索-抓取-交互”循环的 AI 智能体。据描述，开发者通过运行一条命令，即可搭建一个包含流式用户界面、API 或特定链接的完整项目。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "8小时前",
+    "category": "国外AI资讯",
+    "summary": "Firecrawl近日开源了名为\"web-agent\"的新框架。该框架允许开发者构建能够在实时互联网上自主执行\"搜索-抓取-交互\"循环的AI智能体。开发者通过运行一条命令，即可搭建包含流式用户界面、API或特定链接的完整项目。",
+    "rewritten_title": "Firecrawl开源Web-Agent框架 支持构建自主网络交互AI智能体",
+    "content": "",
+    "extra": {
+      "collect_time": 1776755051431
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "OpenAI推出Chronicle功能，通过后台屏幕捕获为AI提供持续桌面上下文",
+    "desc": "OpenAI近日推出了一项名为Chronicle的新功能。该功能通过一个在后台运行的智能体“观看”用户屏幕，利用后台屏幕捕获，为AI（具体指Codex）提供对用户桌面环境的持续、被动上下文。这使得Codex能够理解“这个”等隐式引用，并协助处理用户正在进行的任务，而无需用户反复陈述上下文。Chronicle是对上周发布的“记忆”功能的扩展实验，旨在利用最近的屏幕上下文来改进记忆。目前该功能处于实验预览阶段。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "9小时前",
+    "category": "国外AI资讯",
+    "summary": "OpenAI近日推出名为Chronicle的新功能。该功能通过后台运行的智能体\"观看\"用户屏幕，利用后台屏幕捕获为AI Codex提供对用户桌面环境的持续、被动上下文。这使Codex能够理解\"这个\"等隐式引用，并协助处理用户正在进行的任务，无需用户反复陈述上下文。Chronicle是对上周发布的\"记忆\"功能的扩展实验，目前处于实验预览阶段。",
+    "rewritten_title": "OpenAI推出Chronicle功能 通过屏幕捕获提供持续上下文",
+    "content": "",
+    "extra": {
+      "collect_time": 1776751391309
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "通义千问Qwen3.6 Plus在Code Arena与Text Arena排行榜得分提升",
+    "desc": "通义千问Qwen3.6 Plus模型在Code Arena排行榜上位列第7，得分1476分，相比Preview版本提升了16分。这一得分也使阿里巴巴集团在Code Arena的实验室排名中升至第3位。同时，该模型在Text Arena排行榜上位列第36位，相比Preview版本提升了13分。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "9小时前",
+    "category": "国内AI资讯",
+    "summary": "通义千问Qwen3.6 Plus模型在Code Arena排行榜上位列第7位，得分1476分，相比Preview版本提升16分。该得分使阿里巴巴集团在Code Arena实验室排名中升至第3位。同时，该模型在Text Arena排行榜位列第36位，相比Preview版本提升13分。",
+    "rewritten_title": "通义千问Qwen3.6 Plus排名提升 位列Code Arena第七",
+    "content": "",
+    "extra": {
+      "collect_time": 1776749112391
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "Moonshot AI 宣布 Fireworks AI 成为 Kimi K2.6 模型 Day 0 发布合作伙伴",
+    "desc": "Moonshot AI 官方宣布，Fireworks AI 已成为其 Kimi K2.6 模型的 Day 0 发布合作伙伴。据文中描述，Fireworks AI 的推理和微调平台快速、可靠，能在真实生产负载下良好扩展，有助于 K2.6 模型快速交付给用户，并已获得企业信任。文中提及，其前代 K2.5 模型曾是 Fireworks 训练平台上最受欢迎的模型，也是 Cursor 的 Composer 2 等模型的基础。K2.6 模型现已在 Fireworks 平台发布，据称再次提升了标准，并在整个技术栈（从定制化链接开始）进行了优化。",
+    "link": "",
+    "source": "infoq",
+    "time_ago": "10小时前",
+    "category": "国内AI资讯",
+    "summary": "Moonshot AI官方宣布Fireworks AI已成为Kimi K2.6模型的Day 0发布合作伙伴。Fireworks AI的推理和微调平台快速可靠，能在真实生产负载下良好扩展，有助于K2.6模型快速交付给用户。其前代K2.5模型曾是Fireworks训练平台上最受欢迎的模型，也是Cursor的Composer 2等模型的基础。K2.6模型现已在Fireworks平台发布。",
+    "rewritten_title": "Fireworks AI成为Kimi K2.6模型Day 0发布合作伙伴",
+    "content": "",
+    "extra": {
+      "collect_time": 1776747846520
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "物理优先+VLA闭环进化：高德ABot-World世界模型，破解具身智能零样本泛化难题",
+    "desc": "高精渲染引擎，解决”数据稀缺”",
+    "link": "https://www.qbitai.com/2026/04/404086.html",
+    "source": "量子位",
+    "time_ago": "6小时前",
+    "category": "国内AI资讯",
+    "summary": "高德近日发布ABot-World世界模型，该模型采用物理优先与VLA闭环进化的技术路线，旨在解决具身智能领域的数据稀缺问题，实现零样本泛化能力。该模型通过高精渲染引擎构建，为智能体提供物理世界交互能力。",
+    "rewritten_title": "高德发布ABot-World世界模型 突破具身智能零样本泛化",
+    "content": "",
+    "extra": {},
+    "llm_description": ""
+  },
+  {
+    "title": "ISC.AI 2026创新独角兽沙盒大赛在京启动 聚焦智能体 共筑AI创新生态",
+    "desc": "深挖人工智能与数字安全领域创新成果",
+    "link": "https://www.qbitai.com/2026/04/404082.html",
+    "source": "量子位",
+    "time_ago": "6小时前",
+    "category": "其它科技资讯",
+    "summary": "ISC.AI 2026创新独角兽沙盒大赛近日在北京启动，大赛聚焦智能体领域，旨在深挖人工智能与数字安全领域的创新成果，共筑AI创新生态。",
+    "rewritten_title": "ISC.AI 2026创新独角兽沙盒大赛启动 聚焦智能体领域",
+    "content": "",
+    "extra": {},
+    "llm_description": ""
+  },
+  {
+    "title": "Agent正杀入软件研发一线！全球超60位技术专家拆解AI落地困局，2026奇点智能技术大会收官",
+    "desc": "当代码可以被生成，程序员还能做些什么？",
+    "link": "https://www.qbitai.com/2026/04/403859.html",
+    "source": "量子位",
+    "time_ago": "10小时前",
+    "category": "其它科技资讯",
+    "summary": "全球超过60位技术专家齐聚2026奇点智能技术大会，共同探讨AI在软件研发一线的落地困局与未来发展。会议围绕当代码可以被生成时程序员的价值定位等议题展开深入讨论。",
+    "rewritten_title": "全球技术专家共议AI软件研发落地 2026奇点智能技术大会收官",
+    "content": "",
+    "extra": {},
+    "llm_description": ""
+  },
+  {
+    "title": "天立启鸣AI研究院院长刘志毅，入选2025福布斯中国科创人物",
+    "desc": "教育+AI引领智能时代新范式",
+    "link": "https://www.qbitai.com/2026/04/403825.html",
+    "source": "量子位",
+    "time_ago": "10小时前",
+    "category": "其它科技资讯",
+    "summary": "天立启鸣AI研究院院长刘志毅入选2025福布斯中国科创人物榜单。其在教育与AI融合领域的创新实践被认为是引领智能时代新范式的重要力量。",
+    "rewritten_title": "天立启鸣AI研究院院长刘志毅入选2025福布斯中国科创人物",
+    "content": "",
+    "extra": {},
+    "llm_description": ""
+  },
+  {
+    "title": "​NSA 竟然获得 Anthropic Mythos 的访问权，尽管被列为供应链风险",
+    "desc": "美国国家安全局（NSA）获准使用Anthropic公司的AI产品Mythos，用于识别自身网络漏洞。尽管五角大楼曾警告该公司构成国家安全威胁，但NSA仍是约40个获得该技术使用权的组织之一。此举引发了对供应链风险的担忧。",
+    "link": "https://news.aibase.com/zh/news/27322",
+    "source": "aibase",
+    "time_ago": "5小时前",
+    "category": "其它科技资讯",
+    "summary": "美国国家安全局获准使用Anthropic公司的AI产品Mythos，用于识别自身网络漏洞。尽管五角大楼曾警告该公司构成国家安全威胁，NSA仍是约40个获得该技术使用权的组织之一。此举引发了对供应链风险的担忧。",
+    "rewritten_title": "美国NSA获准使用Anthropic AI产品 引发供应链安全担忧",
+    "content": "",
+    "extra": {
+      "views": "8.3K"
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "算力被“特工”耗尽？GitHub Copilot 紧急叫停个人账户注册",
+    "desc": "GitHub因AI计算资源压力暂停新个人订阅，AI代理工作流导致算力需求远超预期，引发服务与预算矛盾。",
+    "link": "https://news.aibase.com/zh/news/27319",
+    "source": "aibase",
+    "time_ago": "7小时前",
+    "category": "其它科技资讯",
+    "summary": "GitHub近日宣布暂停接收新个人订阅用户。官方指出，由于AI代理工作流的快速普及，平台算力需求急剧攀升，已超出原有预期。这一情况导致服务能力与预算之间产生矛盾。为保障现有用户的正常使用体验，平台决定暂缓新用户注册，并正在寻求解决方案以平衡资源分配。",
+    "rewritten_title": "GitHub暂停个人订阅 AI算力需求超预期",
+    "content": "",
+    "extra": {
+      "views": "10.4K"
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "华为浏览器AI播客功能上线 联手《旅行家》打造精品专栏",
+    "desc": "华为浏览器与《旅行家》杂志合作，在【视界】频道推出精品专栏《在路上》，提供深度人文体验与实用出行指南，满足用户旅游需求。",
+    "link": "https://news.aibase.com/zh/news/27307",
+    "source": "aibase",
+    "time_ago": "12小时前",
+    "category": "国内AI资讯",
+    "summary": "华为浏览器与《旅行家》杂志达成合作，在视界频道推出精品专栏《在路上》。该专栏聚焦深度人文体验与实用出行信息，旨在满足用户旅游需求。内容涵盖旅行故事、目的地推荐及出行攻略，为用户提供全方位的旅游资讯服务。",
+    "rewritten_title": "华为浏览器上线精品专栏 联手《旅行家》提供出行指南",
+    "content": "",
+    "extra": {
+      "views": "10.0K"
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "工信部：一季度机器人产量激增33.2%，AI硬科技点亮智慧生活",
+    "desc": "一季度我国工业机器人产量同比增长33.2%，集成电路产量增长24.3%，显示制造业智能化转型加速，硬科技产业链基础稳固，高端化发展态势明显。",
+    "link": "https://news.aibase.com/zh/news/27306",
+    "source": "aibase",
+    "time_ago": "12小时前",
+    "category": "智能硬件",
+    "summary": "工信部发布数据显示，一季度我国工业机器人产量同比增长33.2%，集成电路产量增长24.3%。上述数据表明，制造业智能化转型进程正在加快，硬科技产业链基础日益稳固，高端化发展趋势明显。机器人与集成电路产业的快速增长，为智慧生活应用提供了有力支撑。",
+    "rewritten_title": "一季度工业机器人产量增33% 制造业高端化提速",
+    "content": "",
+    "extra": {
+      "views": "9.4K"
+    },
+    "llm_description": ""
+  },
+  {
+    "title": "突发福利！AI Studio 彻底免费开放，Pro/Ultra会员可畅玩Gemini Pro等顶级模型",
+    "desc": "谷歌AI Studio向Pro和Ultra会员免费开放，用户可直接使用Nano Banana2、Nano Banana Pro和Gemini等前沿大模型，无需额外费用。",
+    "link": "https://news.aibase.com/zh/news/27305",
+    "source": "aibase",
+    "time_ago": "12小时前",
+    "category": "国外AI资讯",
+    "summary": "谷歌AI Studio近日向Pro和Ultra会员开放免费使用权限。用户可在此平台上直接调用Nano Banana2、Nano Banana Pro及Gemini等前沿大模型，无需支付额外费用。此举进一步降低了高级AI模型的使用门槛，为开发者提供了更多技术选择。",
+    "rewritten_title": "AI Studio开放Pro/Ultra会员免费使用大模型",
+    "content": "",
+    "extra": {
+      "views": "21.7K"
+    },
+    "llm_description": ""
+  }
+]

@@ -1,0 +1,239 @@
+
+[2026-04-02 07:26:19] keyword_filter - INPUT: 40条
+============================================================
+  - [] OpenAI资助儿童安全AI联盟，推动加州立法，组织事先不知情
+  - [] 机器人手术提高食管癌生存率，上海市胸科医院取得突破
+  - [] 软银愿景基金2向OpenAI投资100亿美元
+  - [] 加州理工BCI试验者成功用脑植入物创造音乐音调
+  - [] 百度自动驾驶故障，武汉出租车停摆致交通混乱
+  - [] 黄仁勋豪赌CUDA，险些破产，成英伟达AI护城河
+  - [] 英伟达向Marvell Technology投资20亿美元
+  - [] OpenAI出售约30亿美元股份给个人投资者
+  - [] OpenAI：正在打造统一人工智能超级应用
+  - [] 苹果测试Siri多请求处理，探索类似Grammarly的键盘功能
+  - [] Tenex公司筹集2.5亿美元融资，估值超10亿美元
+  - [] CoreWeave获85亿美元贷款扩展云计算，创最大芯片支持债务交易
+  - [] 英国调查微软Word、Excel和AI应用Copilot涉嫌垄断
+  - [] 9fin公司以13亿美元估值完成1.7亿美元C轮融资
+  - [] Nebius投100亿美元在芬兰建AI数据中心扩展欧洲市场
+  - [] 新一代豆包AI手机要来了！中兴通讯称正与字节推进相关认证工作
+  - [] AI编码代理将改变漏洞开发，自动发现零日漏洞
+  - [] AI新模型解读心脏MRI数据媲美专家
+  - [] 科技公司大力布局AI工厂和企业智能体
+  - [] 韩国AI芯片初创公司Rebellions额外筹集4亿美元
+  - [] Google Doodle 庆祝 NASA Artemis II 任务发射
+  - [] Enterprise Tech 30榜单发布，Lightspeed投资组合12家公司入选
+  - [] PyTorch 2.11 直播活动聚焦 FlexAttention 与可微分集合通信等五大技术领域
+  - [] Anthropic 将计算机使用功能集成至 Claude Code 命令行
+  - [] 阿里巴巴通义千问团队发布原生全模态模型Qwen3.5-Omni
+  - [] Canva首批共同资助的太阳能发电场投入运营，支持其净零目标
+  - [] 智谱AI发布视觉编码模型GLM-5V-Turbo
+  - [] Luma 推出账户级团队协作功能，支持成员独立创作与积分管理
+  - [] 红杉资本公开1977年投资苹果原始备忘录
+  - [] 谷歌AI素养游戏化体验‘AI Quests’新增八种语言支持
+  - [] 英伟达展示在DGX Spark上构建物理AI流水线
+  - [] Block高管Owen Jennings：AI智能体打破员工数量与产出的相关性
+  - [] MIT CSAIL 推出 ChromoLCD 工具，可编程物体表面外观
+  - [] OpenClaw 发布 2026.4.1 版本，集成 GLM 5.1 模型与多项功能更新
+  - [] NVIDIA Omniverse 提醒可观看 GTC 开发者社区直播回放
+  - [] Holo3模型发布，在GUI导航任务上超越闭源及更大开源模型
+  - [] Arcee AI 发布 Trinity-Large-Thinking 模型并开源权重
+  - [] LiquidAI 发布微型 Agentic AI 模型 LFM2.5-350M
+  - [] HuggingFace转发观点：看好开源与本地模型，提及27B参数Qwen3.5蒸馏模型表现
+  - [] 用户发布新型MoE量化技术APEX，声称精度超越UnslothAI且模型体积减半
+
+[2026-04-02 07:26:19] keyword_filter - OUTPUT: 25条 | 移除15条
+============================================================
+  - [] OpenAI资助儿童安全AI联盟，推动加州立法，组织事先不知情
+  - [] 机器人手术提高食管癌生存率，上海市胸科医院取得突破
+  - [] 加州理工BCI试验者成功用脑植入物创造音乐音调
+  - [] 百度自动驾驶故障，武汉出租车停摆致交通混乱
+  - [] 苹果测试Siri多请求处理，探索类似Grammarly的键盘功能
+  - [] 英国调查微软Word、Excel和AI应用Copilot涉嫌垄断
+  - [] 新一代豆包AI手机要来了！中兴通讯称正与字节推进相关认证工作
+  - [] AI编码代理将改变漏洞开发，自动发现零日漏洞
+  - [] AI新模型解读心脏MRI数据媲美专家
+  - [] 科技公司大力布局AI工厂和企业智能体
+  - [] Google Doodle 庆祝 NASA Artemis II 任务发射
+  - [] Anthropic 将计算机使用功能集成至 Claude Code 命令行
+  - [] 阿里巴巴通义千问团队发布原生全模态模型Qwen3.5-Omni
+  - [] 智谱AI发布视觉编码模型GLM-5V-Turbo
+  - [] Luma 推出账户级团队协作功能，支持成员独立创作与积分管理
+  - [] 英伟达展示在DGX Spark上构建物理AI流水线
+  - [] Block高管Owen Jennings：AI智能体打破员工数量与产出的相关性
+  - [] MIT CSAIL 推出 ChromoLCD 工具，可编程物体表面外观
+  - [] OpenClaw 发布 2026.4.1 版本，集成 GLM 5.1 模型与多项功能更新
+  - [] NVIDIA Omniverse 提醒可观看 GTC 开发者社区直播回放
+  - [] Holo3模型发布，在GUI导航任务上超越闭源及更大开源模型
+  - [] Arcee AI 发布 Trinity-Large-Thinking 模型并开源权重
+  - [] LiquidAI 发布微型 Agentic AI 模型 LFM2.5-350M
+  - [] HuggingFace转发观点：看好开源与本地模型，提及27B参数Qwen3.5蒸馏模型表现
+  - [] 用户发布新型MoE量化技术APEX，声称精度超越UnslothAI且模型体积减半
+
+[2026-04-02 07:26:19] bge_dedup - INPUT: 25条
+============================================================
+  - [] OpenAI资助儿童安全AI联盟，推动加州立法，组织事先不知情
+  - [] 机器人手术提高食管癌生存率，上海市胸科医院取得突破
+  - [] 加州理工BCI试验者成功用脑植入物创造音乐音调
+  - [] 百度自动驾驶故障，武汉出租车停摆致交通混乱
+  - [] 苹果测试Siri多请求处理，探索类似Grammarly的键盘功能
+  - [] 英国调查微软Word、Excel和AI应用Copilot涉嫌垄断
+  - [] 新一代豆包AI手机要来了！中兴通讯称正与字节推进相关认证工作
+  - [] AI编码代理将改变漏洞开发，自动发现零日漏洞
+  - [] AI新模型解读心脏MRI数据媲美专家
+  - [] 科技公司大力布局AI工厂和企业智能体
+  - [] Google Doodle 庆祝 NASA Artemis II 任务发射
+  - [] Anthropic 将计算机使用功能集成至 Claude Code 命令行
+  - [] 阿里巴巴通义千问团队发布原生全模态模型Qwen3.5-Omni
+  - [] 智谱AI发布视觉编码模型GLM-5V-Turbo
+  - [] Luma 推出账户级团队协作功能，支持成员独立创作与积分管理
+  - [] 英伟达展示在DGX Spark上构建物理AI流水线
+  - [] Block高管Owen Jennings：AI智能体打破员工数量与产出的相关性
+  - [] MIT CSAIL 推出 ChromoLCD 工具，可编程物体表面外观
+  - [] OpenClaw 发布 2026.4.1 版本，集成 GLM 5.1 模型与多项功能更新
+  - [] NVIDIA Omniverse 提醒可观看 GTC 开发者社区直播回放
+  - [] Holo3模型发布，在GUI导航任务上超越闭源及更大开源模型
+  - [] Arcee AI 发布 Trinity-Large-Thinking 模型并开源权重
+  - [] LiquidAI 发布微型 Agentic AI 模型 LFM2.5-350M
+  - [] HuggingFace转发观点：看好开源与本地模型，提及27B参数Qwen3.5蒸馏模型表现
+  - [] 用户发布新型MoE量化技术APEX，声称精度超越UnslothAI且模型体积减半
+
+[2026-04-02 07:26:34] bge_dedup - OUTPUT: 25条 | 移除0条
+============================================================
+  - [] OpenAI资助儿童安全AI联盟，推动加州立法，组织事先不知情
+  - [] 机器人手术提高食管癌生存率，上海市胸科医院取得突破
+  - [] 加州理工BCI试验者成功用脑植入物创造音乐音调
+  - [] 百度自动驾驶故障，武汉出租车停摆致交通混乱
+  - [] 苹果测试Siri多请求处理，探索类似Grammarly的键盘功能
+  - [] 英国调查微软Word、Excel和AI应用Copilot涉嫌垄断
+  - [] 新一代豆包AI手机要来了！中兴通讯称正与字节推进相关认证工作
+  - [] AI编码代理将改变漏洞开发，自动发现零日漏洞
+  - [] AI新模型解读心脏MRI数据媲美专家
+  - [] 科技公司大力布局AI工厂和企业智能体
+  - [] Google Doodle 庆祝 NASA Artemis II 任务发射
+  - [] Anthropic 将计算机使用功能集成至 Claude Code 命令行
+  - [] 阿里巴巴通义千问团队发布原生全模态模型Qwen3.5-Omni
+  - [] 智谱AI发布视觉编码模型GLM-5V-Turbo
+  - [] Luma 推出账户级团队协作功能，支持成员独立创作与积分管理
+  - [] 英伟达展示在DGX Spark上构建物理AI流水线
+  - [] Block高管Owen Jennings：AI智能体打破员工数量与产出的相关性
+  - [] MIT CSAIL 推出 ChromoLCD 工具，可编程物体表面外观
+  - [] OpenClaw 发布 2026.4.1 版本，集成 GLM 5.1 模型与多项功能更新
+  - [] NVIDIA Omniverse 提醒可观看 GTC 开发者社区直播回放
+  - [] Holo3模型发布，在GUI导航任务上超越闭源及更大开源模型
+  - [] Arcee AI 发布 Trinity-Large-Thinking 模型并开源权重
+  - [] LiquidAI 发布微型 Agentic AI 模型 LFM2.5-350M
+  - [] HuggingFace转发观点：看好开源与本地模型，提及27B参数Qwen3.5蒸馏模型表现
+  - [] 用户发布新型MoE量化技术APEX，声称精度超越UnslothAI且模型体积减半
+
+[2026-04-02 07:26:34] llm_classify - INPUT: 25条
+============================================================
+  - [] OpenAI资助儿童安全AI联盟，推动加州立法，组织事先不知情
+  - [] 机器人手术提高食管癌生存率，上海市胸科医院取得突破
+  - [] 加州理工BCI试验者成功用脑植入物创造音乐音调
+  - [] 百度自动驾驶故障，武汉出租车停摆致交通混乱
+  - [] 苹果测试Siri多请求处理，探索类似Grammarly的键盘功能
+  - [] 英国调查微软Word、Excel和AI应用Copilot涉嫌垄断
+  - [] 新一代豆包AI手机要来了！中兴通讯称正与字节推进相关认证工作
+  - [] AI编码代理将改变漏洞开发，自动发现零日漏洞
+  - [] AI新模型解读心脏MRI数据媲美专家
+  - [] 科技公司大力布局AI工厂和企业智能体
+  - [] Google Doodle 庆祝 NASA Artemis II 任务发射
+  - [] Anthropic 将计算机使用功能集成至 Claude Code 命令行
+  - [] 阿里巴巴通义千问团队发布原生全模态模型Qwen3.5-Omni
+  - [] 智谱AI发布视觉编码模型GLM-5V-Turbo
+  - [] Luma 推出账户级团队协作功能，支持成员独立创作与积分管理
+  - [] 英伟达展示在DGX Spark上构建物理AI流水线
+  - [] Block高管Owen Jennings：AI智能体打破员工数量与产出的相关性
+  - [] MIT CSAIL 推出 ChromoLCD 工具，可编程物体表面外观
+  - [] OpenClaw 发布 2026.4.1 版本，集成 GLM 5.1 模型与多项功能更新
+  - [] NVIDIA Omniverse 提醒可观看 GTC 开发者社区直播回放
+  - [] Holo3模型发布，在GUI导航任务上超越闭源及更大开源模型
+  - [] Arcee AI 发布 Trinity-Large-Thinking 模型并开源权重
+  - [] LiquidAI 发布微型 Agentic AI 模型 LFM2.5-350M
+  - [] HuggingFace转发观点：看好开源与本地模型，提及27B参数Qwen3.5蒸馏模型表现
+  - [] 用户发布新型MoE量化技术APEX，声称精度超越UnslothAI且模型体积减半
+
+[2026-04-02 07:26:45] llm_classify - OUTPUT: 25条 | 保留25条
+============================================================
+  - [国外AI资讯] OpenAI资助儿童安全AI联盟，推动加州立法，组织事先不知情
+  - [智能硬件] 机器人手术提高食管癌生存率，上海市胸科医院取得突破
+  - [智能硬件] 加州理工BCI试验者成功用脑植入物创造音乐音调
+  - [国内AI资讯] 百度自动驾驶故障，武汉出租车停摆致交通混乱
+  - [国外AI资讯] 苹果测试Siri多请求处理，探索类似Grammarly的键盘功能
+  - [其它科技资讯] 英国调查微软Word、Excel和AI应用Copilot涉嫌垄断
+  - [国内AI资讯] 新一代豆包AI手机要来了！中兴通讯称正与字节推进相关认证工作
+  - [国外AI资讯] AI编码代理将改变漏洞开发，自动发现零日漏洞
+  - [国外AI资讯] AI新模型解读心脏MRI数据媲美专家
+  - [其它科技资讯] 科技公司大力布局AI工厂和企业智能体
+  - [其它科技资讯] Google Doodle 庆祝 NASA Artemis II 任务发射
+  - [国外AI资讯] Anthropic 将计算机使用功能集成至 Claude Code 命令行
+  - [国内AI资讯] 阿里巴巴通义千问团队发布原生全模态模型Qwen3.5-Omni
+  - [国内AI资讯] 智谱AI发布视觉编码模型GLM-5V-Turbo
+  - [国外AI资讯] Luma 推出账户级团队协作功能，支持成员独立创作与积分管理
+  - [国外AI资讯] 英伟达展示在DGX Spark上构建物理AI流水线
+  - [国外AI资讯] Block高管Owen Jennings：AI智能体打破员工数量与产出的相关性
+  - [国外AI资讯] MIT CSAIL 推出 ChromoLCD 工具，可编程物体表面外观
+  - [国外AI资讯] OpenClaw 发布 2026.4.1 版本，集成 GLM 5.1 模型与多项功能更新
+  - [国外AI资讯] NVIDIA Omniverse 提醒可观看 GTC 开发者社区直播回放
+  - [国外AI资讯] Holo3模型发布，在GUI导航任务上超越闭源及更大开源模型
+  - [国外AI资讯] Arcee AI 发布 Trinity-Large-Thinking 模型并开源权重
+  - [国外AI资讯] LiquidAI 发布微型 Agentic AI 模型 LFM2.5-350M
+  - [国外AI资讯] HuggingFace转发观点：看好开源与本地模型，提及27B参数Qwen3.5蒸馏模型表现
+  - [国外AI资讯] 用户发布新型MoE量化技术APEX，声称精度超越UnslothAI且模型体积减半
+
+[2026-04-02 07:26:45] llm_summary - INPUT: 25条
+============================================================
+  - [国外AI资讯] OpenAI资助儿童安全AI联盟，推动加州立法，组织事先不知情
+  - [智能硬件] 机器人手术提高食管癌生存率，上海市胸科医院取得突破
+  - [智能硬件] 加州理工BCI试验者成功用脑植入物创造音乐音调
+  - [国内AI资讯] 百度自动驾驶故障，武汉出租车停摆致交通混乱
+  - [国外AI资讯] 苹果测试Siri多请求处理，探索类似Grammarly的键盘功能
+  - [其它科技资讯] 英国调查微软Word、Excel和AI应用Copilot涉嫌垄断
+  - [国内AI资讯] 新一代豆包AI手机要来了！中兴通讯称正与字节推进相关认证工作
+  - [国外AI资讯] AI编码代理将改变漏洞开发，自动发现零日漏洞
+  - [国外AI资讯] AI新模型解读心脏MRI数据媲美专家
+  - [其它科技资讯] 科技公司大力布局AI工厂和企业智能体
+  - [其它科技资讯] Google Doodle 庆祝 NASA Artemis II 任务发射
+  - [国外AI资讯] Anthropic 将计算机使用功能集成至 Claude Code 命令行
+  - [国内AI资讯] 阿里巴巴通义千问团队发布原生全模态模型Qwen3.5-Omni
+  - [国内AI资讯] 智谱AI发布视觉编码模型GLM-5V-Turbo
+  - [国外AI资讯] Luma 推出账户级团队协作功能，支持成员独立创作与积分管理
+  - [国外AI资讯] 英伟达展示在DGX Spark上构建物理AI流水线
+  - [国外AI资讯] Block高管Owen Jennings：AI智能体打破员工数量与产出的相关性
+  - [国外AI资讯] MIT CSAIL 推出 ChromoLCD 工具，可编程物体表面外观
+  - [国外AI资讯] OpenClaw 发布 2026.4.1 版本，集成 GLM 5.1 模型与多项功能更新
+  - [国外AI资讯] NVIDIA Omniverse 提醒可观看 GTC 开发者社区直播回放
+  - [国外AI资讯] Holo3模型发布，在GUI导航任务上超越闭源及更大开源模型
+  - [国外AI资讯] Arcee AI 发布 Trinity-Large-Thinking 模型并开源权重
+  - [国外AI资讯] LiquidAI 发布微型 Agentic AI 模型 LFM2.5-350M
+  - [国外AI资讯] HuggingFace转发观点：看好开源与本地模型，提及27B参数Qwen3.5蒸馏模型表现
+  - [国外AI资讯] 用户发布新型MoE量化技术APEX，声称精度超越UnslothAI且模型体积减半
+
+[2026-04-02 07:29:11] llm_summary - OUTPUT: 25条 | 成功0条
+============================================================
+  - [国外AI资讯] OpenAI资助儿童安全AI联盟，推动加州立法，组织事先不知情
+  - [智能硬件] 机器人手术提高食管癌生存率，上海市胸科医院取得突破
+  - [智能硬件] 加州理工BCI试验者成功用脑植入物创造音乐音调
+  - [国内AI资讯] 百度自动驾驶故障，武汉出租车停摆致交通混乱
+  - [国外AI资讯] 苹果测试Siri多请求处理，探索类似Grammarly的键盘功能
+  - [其它科技资讯] 英国调查微软Word、Excel和AI应用Copilot涉嫌垄断
+  - [国内AI资讯] 新一代豆包AI手机要来了！中兴通讯称正与字节推进相关认证工作
+  - [国外AI资讯] AI编码代理将改变漏洞开发，自动发现零日漏洞
+  - [国外AI资讯] AI新模型解读心脏MRI数据媲美专家
+  - [其它科技资讯] 科技公司大力布局AI工厂和企业智能体
+  - [其它科技资讯] Google Doodle 庆祝 NASA Artemis II 任务发射
+  - [国外AI资讯] Anthropic 将计算机使用功能集成至 Claude Code 命令行
+  - [国内AI资讯] 阿里巴巴通义千问团队发布原生全模态模型Qwen3.5-Omni
+  - [国内AI资讯] 智谱AI发布视觉编码模型GLM-5V-Turbo
+  - [国外AI资讯] Luma 推出账户级团队协作功能，支持成员独立创作与积分管理
+  - [国外AI资讯] 英伟达展示在DGX Spark上构建物理AI流水线
+  - [国外AI资讯] Block高管Owen Jennings：AI智能体打破员工数量与产出的相关性
+  - [国外AI资讯] MIT CSAIL 推出 ChromoLCD 工具，可编程物体表面外观
+  - [国外AI资讯] OpenClaw 发布 2026.4.1 版本，集成 GLM 5.1 模型与多项功能更新
+  - [国外AI资讯] NVIDIA Omniverse 提醒可观看 GTC 开发者社区直播回放
+  - [国外AI资讯] Holo3模型发布，在GUI导航任务上超越闭源及更大开源模型
+  - [国外AI资讯] Arcee AI 发布 Trinity-Large-Thinking 模型并开源权重
+  - [国外AI资讯] LiquidAI 发布微型 Agentic AI 模型 LFM2.5-350M
+  - [国外AI资讯] HuggingFace转发观点：看好开源与本地模型，提及27B参数Qwen3.5蒸馏模型表现
+  - [国外AI资讯] 用户发布新型MoE量化技术APEX，声称精度超越UnslothAI且模型体积减半

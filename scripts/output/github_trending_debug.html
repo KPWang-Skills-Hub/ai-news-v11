@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet">
+    <title>GitHub Trending Weekly Digest</title>
+    <style>
+        :root {
+            --primary-color: #2563eb;
+            --bg-page: #f3f4f6;
+            --bg-card: #ffffff;
+            --text-main: #1f2937;
+            --text-main: #1f2937;
+            --text-sub: #4b5563;
+            --border-radius: 12px;
+            --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Noto Sans SC', -apple-system, BlinkMacSystemFont, sans-serif;
+            background-color: var(--bg-page);
+            color: var(--text-main);
+            width: 800px;
+            padding: 32px 40px;
+            line-height: 1.6;
+        }
+
+        .card {
+            background: var(--bg-card);
+            border-radius: var(--border-radius);
+            box-shadow: var(--shadow);
+            padding: 24px 28px;
+            margin-bottom: 16px;
+            position: relative;
+            transition: transform 0.2s ease, border-left-color 0.2s ease;
+            border-left: 5px solid transparent;
+        }
+
+        .card:hover {
+            transform: translateY(-3px);
+            border-left-color: var(--primary-color);
+        }
+
+        .card-top {
+            display: flex;
+            align-items: flex-start;
+            justify-content: space-between;
+            margin-bottom: 10px;
+        }
+
+        .rank-badge {
+            background: linear-gradient(135deg, #3b82f6, #6366f1);
+            color: white;
+            font-size: 12px;
+            font-weight: 700;
+            padding: 4px 12px;
+            border-radius: 20px;
+            min-width: 46px;
+            text-align: center;
+        }
+
+        .rank-badge.gold { background: linear-gradient(135deg, #f59e0b, #d97706); }
+        .rank-badge.silver { background: linear-gradient(135deg, #94a3b8, #64748b); }
+        .rank-badge.bronze { background: linear-gradient(135deg, #cd7f32, #a0522d); }
+
+        .meta { display: flex; align-items: center; gap: 8px; }
+
+        .lang-tag {
+            font-size: 0.75rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            padding: 4px 8px;
+            border-radius: 6px;
+            color: #fff;
+        }
+
+        .lang-python { background-color: #3776ab; }
+        .lang-javascript { background-color: #f7df1e; color: #000; }
+        .lang-typescript { background-color: #3178c6; }
+        .lang-go { background-color: #00ADD8; }
+        .lang-rust { background-color: #dea584; color: #000; }
+        .lang-java { background-color: #b07219; }
+        .lang-cpp { background-color: #f34b7d; }
+        .lang-c { background-color: #555555; }
+        .lang-html { background-color: #6e7681; }
+        .lang-shell { background-color: #6e7681; }
+        .lang-default { background-color: #6e7681; }
+
+        .stars {
+            color: #fbbf24;
+            font-weight: bold;
+            font-size: 0.9rem;
+            display: flex;
+            align-items: center;
+        }
+
+        .stars span { color: var(--text-sub); margin-left: 4px; font-weight: normal; }
+
+        .name { font-size: 17px; font-weight: 700; color: var(--text-main); margin-bottom: 4px; }
+        .description { color: var(--text-sub); font-size: 0.95rem; line-height: 1.7; margin: 0; }
+    </style>
+</head>
+<body>
+
+    
+    <div class="card">
+        <div class="card-top">
+            <div class="rank-badge gold">#1</div>
+            <div class="meta">
+                
+                <span class="lang-tag lang-python">Python</span>
+                
+                <div class="stars">新增 ★ <span>3537</span></div>
+            </div>
+        </div>
+        <div class="name">NousResearch/hermes-agent</div>
+        <p class="description">Hermes Agent是由Nous Research开发的自我改进型AI代理，具备内置学习循环，能从实践经验中创建并持续优化技能，记住跨会话的用户特征。支持通过Telegram、Discord等多平台交互，具备计划自动化、子代理并行处理等功能。</p>
+    </div>
+    
+    <div class="card">
+        <div class="card-top">
+            <div class="rank-badge silver">#2</div>
+            <div class="meta">
+                
+                <span class="lang-tag lang-python">Python</span>
+                
+                <div class="stars">新增 ★ <span>1619</span></div>
+            </div>
+        </div>
+        <div class="name">Fincept-Corporation/FinceptTerminal</div>
+        <p class="description">Fincept Terminal 是一款采用 C++20、Qt6 和 Python 3.11+ 构建的金融终端应用，采用 AGPL-3.0 开源许可证发布。该项目由 Fincept Corporation 开发，旨在为投资者和金融专业人士提供数据分析和交易决策支持功能。</p>
+    </div>
+    
+    <div class="card">
+        <div class="card-top">
+            <div class="rank-badge bronze">#3</div>
+            <div class="meta">
+                
+                <span class="lang-tag lang-shell">Shell</span>
+                
+                <div class="stars">新增 ★ <span>1626</span></div>
+            </div>
+        </div>
+        <div class="name">obra/superpowers</div>
+        <p class="description">Superpowers是一套面向编程代理的完整软件开发方法论。它通过可组合的技能和初始指令构建。当用户启动编码代理时，代理不会直接编写代码，而是先询问用户真正想实现什么，随后制定清晰可执行的实施计划，强调测试驱动开发和代码复用。</p>
+    </div>
+    
+    <div class="card">
+        <div class="card-top">
+            <div class="rank-badge ">#4</div>
+            <div class="meta">
+                
+                <span class="lang-tag lang-html">HTML</span>
+                
+                <div class="stars">新增 ★ <span>1626</span></div>
+            </div>
+        </div>
+        <div class="name">VoltAgent/awesome-design-md</div>
+        <p class="description">这是一个专注于DESIGN.md文件的精选集合项目。DESIGN.md是Google Stitch推出的纯文本设计系统文档，AI代理可读取它来生成一致的用户界面。目前已收录六十多个设计文件，涵盖人工智能与语言模型平台等多个领域。</p>
+    </div>
+    
+    <div class="card">
+        <div class="card-top">
+            <div class="rank-badge ">#5</div>
+            <div class="meta">
+                
+                <span class="lang-tag lang-python">Python</span>
+                
+                <div class="stars">新增 ★ <span>1592</span></div>
+            </div>
+        </div>
+        <div class="name">JuliusBrussee/caveman</div>
+        <p class="description">caveman是一个Claude Code和Codex插件，通过让AI以简洁直接的原始人语气回复问题，可减少约75%的输出token，同时保持100%的技术准确性。该项目提供多种语言风格级别，包括简洁版、完整版、极简版等。</p>
+    </div>
+    
+    <div class="card">
+        <div class="card-top">
+            <div class="rank-badge ">#6</div>
+            <div class="meta">
+                
+                <span class="lang-tag lang-unknown">Unknown</span>
+                
+                <div class="stars">新增 ★ <span>1176</span></div>
+            </div>
+        </div>
+        <div class="name">elder-plinius/CL4R1T4S</div>
+        <p class="description">CL4R1T4S是一个致力于AI系统透明度的开源项目，旨在收集并公开来自OpenAI、Google、Anthropic、xAI等主要AI公司的完整系统提示和指导方针。项目认为，要信任AI的输出就必须理解其输入，因为AI实验室通过隐藏的提示框架塑造模型行为，这些指令决定了AI不能说什么、必须扮演什么角色以及如何处理敏感话题。用户可通过提交Pull Request的方式贡献泄露或提取的系统提示信息。</p>
+    </div>
+    
+    <div class="card">
+        <div class="card-top">
+            <div class="rank-badge ">#7</div>
+            <div class="meta">
+                
+                <span class="lang-tag lang-typescript">TypeScript</span>
+                
+                <div class="stars">新增 ★ <span>1443</span></div>
+            </div>
+        </div>
+        <div class="name">thedotmack/claude-mem</div>
+        <p class="description">这是一款专为Claude Code设计的持久内存压缩系统，支持数十种语言界面，包括中文、繁体中文、日语、韩语、西班牙语、德语等。项目提供快速入门指南、工作原理说明、搜索工具和完整文档，支持灵活配置，为用户提供高效的本地化使用体验。</p>
+    </div>
+    
+    <div class="card">
+        <div class="card-top">
+            <div class="rank-badge ">#8</div>
+            <div class="meta">
+                
+                <span class="lang-tag lang-typescript">TypeScript</span>
+                
+                <div class="stars">新增 ★ <span>1221</span></div>
+            </div>
+        </div>
+        <div class="name">garrytan/gstack</div>
+        <p class="description">gstack是由Y Combinator总裁Garry Tan开发的AI编程辅助工具。该工具将Claude Code转变为虚拟工程团队，模拟产品负责人、架构师、设计师和代码审查员等多重角色，帮助开发者高效完成产品开发。作者声称使用该工具后代码产出效率相比2013年提升了约810倍，在60天内完成了3个生产级服务和40多个功能特性。该工具旨在让个人开发者也能拥有团队级的生产能力。</p>
+    </div>
+    
+    <div class="card">
+        <div class="card-top">
+            <div class="rank-badge ">#9</div>
+            <div class="meta">
+                
+                <span class="lang-tag lang-typescript">TypeScript</span>
+                
+                <div class="stars">新增 ★ <span>975</span></div>
+            </div>
+        </div>
+        <div class="name">multica-ai/multica</div>
+        <p class="description">Multica是一个开源托管代理平台，旨在将编码代理转变为真正的团队成员。用户可以像分配任务给同事一样分配问题给代理，代理会主动编写代码、报告障碍并更新状态。该平台支持Claude Code、Codex、Cursor Agent等多种代理。</p>
+    </div>
+    
+    <div class="card">
+        <div class="card-top">
+            <div class="rank-badge ">#10</div>
+            <div class="meta">
+                
+                <span class="lang-tag lang-python">Python</span>
+                
+                <div class="stars">新增 ★ <span>950</span></div>
+            </div>
+        </div>
+        <div class="name">safishamsi/graphify</div>
+        <p class="description">graphify是一个基于Claude Code的知识图谱构建工具。它能够读取文件夹中的代码、文档、图片等多种格式的文件，利用视觉理解能力从中提取概念和关系，并将其连接成知识图谱。支持交互式可视化图和Obsidian vault导出。</p>
+    </div>
+    
+
+</body>
+</html>

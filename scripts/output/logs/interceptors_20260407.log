@@ -1,0 +1,1091 @@
+
+[2026-04-07 07:28:22] keyword_filter - INPUT: 29条
+============================================================
+  - [] AI工具普及促公司加强AI生成代码的安全审查
+  - [] OpenAI等通过Frontier Model Forum共享信息以检测服务条款违规行为
+  - [] 英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装
+  - [] Meta据悉将开放其最新人工智能模型的源代码版本
+  - [] OpenAI据悉有望最早于第四季度进行IPO
+  - [] FDA批准Synchrony系统用于机器人辅助血管手术
+  - [] 杨元庆向母校上海交大捐赠2亿，支持人工智能创新和人才培养
+  - [] 英伟达投资，Firmus估值近70亿美元
+  - [] OpenAI状态页显示：ChatGPT 网页版当前出现故障
+  - [] 微软强制从Win11 24H2更新至25H2，机器学习系统负责升级
+  - [] 2026年，病理AI收费的关键之年
+  - [] TorchSpec 上线两周，模型 kimi-k2.5-eagle3 下载量突破 4 万
+  - [] 斯坦福团队研究通过外化LLM假设来解释控制谄媚行为
+  - [] 斯坦福CS336课程被推荐为理解大语言模型工作原理的优质资源
+  - [] 智谱AI向GLM Coding Plan订阅用户开放GLM-5.1模型
+  - [] CoreWeave高管做客NVIDIA GTC Studio，探讨其AI云如何赋能生产级AI应用
+  - [] NVIDIA 称通过协同设计提供最低 token 成本
+  - [] 亚马逊AWS发布AI层产品Amazon Quick
+  - [] 谷歌DeepMind CEO Demis Hassabis将参与YC活动
+  - [] 亚马逊发布由Agentic AI驱动的数字化工作空间Amazon Quick
+  - [] LangSmith 推出成本告警功能
+  - [] HeyGen将举办线上直播，详解Seedance 2.0集成应用
+  - [] Bones Studio发布大型多模态人体运动数据集BONES-SEED
+  - [] 亚马逊科学宣布十支大学团队参与2026年Nova AI挑战赛
+  - [] 微软研究发布多项AI与机器人领域新进展，涵盖文化情感分析、机器人装配学习等
+  - [] Suno发布推文宣传其声音转换功能
+  - [] HeyGen 为 Video Agent 内置 Seedance 2.0，支持提示词生成视频
+  - [] SAIR基金会与Hugging Face合作，推动AI x Science社区发展
+  - [] MIT CSAIL 团队发布 OSGym，用于训练计算机使用 AI 智能体的可扩展基础设施
+
+[2026-04-07 07:28:22] keyword_filter - OUTPUT: 23条 | 移除6条
+============================================================
+  - [] AI工具普及促公司加强AI生成代码的安全审查
+  - [] OpenAI等通过Frontier Model Forum共享信息以检测服务条款违规行为
+  - [] 英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装
+  - [] Meta据悉将开放其最新人工智能模型的源代码版本
+  - [] FDA批准Synchrony系统用于机器人辅助血管手术
+  - [] 杨元庆向母校上海交大捐赠2亿，支持人工智能创新和人才培养
+  - [] OpenAI状态页显示：ChatGPT 网页版当前出现故障
+  - [] 微软强制从Win11 24H2更新至25H2，机器学习系统负责升级
+  - [] TorchSpec 上线两周，模型 kimi-k2.5-eagle3 下载量突破 4 万
+  - [] 斯坦福团队研究通过外化LLM假设来解释控制谄媚行为
+  - [] 斯坦福CS336课程被推荐为理解大语言模型工作原理的优质资源
+  - [] 智谱AI向GLM Coding Plan订阅用户开放GLM-5.1模型
+  - [] CoreWeave高管做客NVIDIA GTC Studio，探讨其AI云如何赋能生产级AI应用
+  - [] 亚马逊AWS发布AI层产品Amazon Quick
+  - [] 亚马逊发布由Agentic AI驱动的数字化工作空间Amazon Quick
+  - [] LangSmith 推出成本告警功能
+  - [] Bones Studio发布大型多模态人体运动数据集BONES-SEED
+  - [] 亚马逊科学宣布十支大学团队参与2026年Nova AI挑战赛
+  - [] 微软研究发布多项AI与机器人领域新进展，涵盖文化情感分析、机器人装配学习等
+  - [] Suno发布推文宣传其声音转换功能
+  - [] HeyGen 为 Video Agent 内置 Seedance 2.0，支持提示词生成视频
+  - [] SAIR基金会与Hugging Face合作，推动AI x Science社区发展
+  - [] MIT CSAIL 团队发布 OSGym，用于训练计算机使用 AI 智能体的可扩展基础设施
+
+[2026-04-07 07:28:22] bge_dedup - INPUT: 23条
+============================================================
+  - [] AI工具普及促公司加强AI生成代码的安全审查
+  - [] OpenAI等通过Frontier Model Forum共享信息以检测服务条款违规行为
+  - [] 英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装
+  - [] Meta据悉将开放其最新人工智能模型的源代码版本
+  - [] FDA批准Synchrony系统用于机器人辅助血管手术
+  - [] 杨元庆向母校上海交大捐赠2亿，支持人工智能创新和人才培养
+  - [] OpenAI状态页显示：ChatGPT 网页版当前出现故障
+  - [] 微软强制从Win11 24H2更新至25H2，机器学习系统负责升级
+  - [] TorchSpec 上线两周，模型 kimi-k2.5-eagle3 下载量突破 4 万
+  - [] 斯坦福团队研究通过外化LLM假设来解释控制谄媚行为
+  - [] 斯坦福CS336课程被推荐为理解大语言模型工作原理的优质资源
+  - [] 智谱AI向GLM Coding Plan订阅用户开放GLM-5.1模型
+  - [] CoreWeave高管做客NVIDIA GTC Studio，探讨其AI云如何赋能生产级AI应用
+  - [] 亚马逊AWS发布AI层产品Amazon Quick
+  - [] 亚马逊发布由Agentic AI驱动的数字化工作空间Amazon Quick
+  - [] LangSmith 推出成本告警功能
+  - [] Bones Studio发布大型多模态人体运动数据集BONES-SEED
+  - [] 亚马逊科学宣布十支大学团队参与2026年Nova AI挑战赛
+  - [] 微软研究发布多项AI与机器人领域新进展，涵盖文化情感分析、机器人装配学习等
+  - [] Suno发布推文宣传其声音转换功能
+  - [] HeyGen 为 Video Agent 内置 Seedance 2.0，支持提示词生成视频
+  - [] SAIR基金会与Hugging Face合作，推动AI x Science社区发展
+  - [] MIT CSAIL 团队发布 OSGym，用于训练计算机使用 AI 智能体的可扩展基础设施
+
+[2026-04-07 07:28:38] bge_dedup - OUTPUT: 22条 | 移除1条
+============================================================
+  - [] AI工具普及促公司加强AI生成代码的安全审查
+  - [] OpenAI等通过Frontier Model Forum共享信息以检测服务条款违规行为
+  - [] 英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装
+  - [] Meta据悉将开放其最新人工智能模型的源代码版本
+  - [] FDA批准Synchrony系统用于机器人辅助血管手术
+  - [] 杨元庆向母校上海交大捐赠2亿，支持人工智能创新和人才培养
+  - [] OpenAI状态页显示：ChatGPT 网页版当前出现故障
+  - [] 微软强制从Win11 24H2更新至25H2，机器学习系统负责升级
+  - [] TorchSpec 上线两周，模型 kimi-k2.5-eagle3 下载量突破 4 万
+  - [] 斯坦福团队研究通过外化LLM假设来解释控制谄媚行为
+  - [] 斯坦福CS336课程被推荐为理解大语言模型工作原理的优质资源
+  - [] 智谱AI向GLM Coding Plan订阅用户开放GLM-5.1模型
+  - [] CoreWeave高管做客NVIDIA GTC Studio，探讨其AI云如何赋能生产级AI应用
+  - [] 亚马逊AWS发布AI层产品Amazon Quick
+  - [] LangSmith 推出成本告警功能
+  - [] Bones Studio发布大型多模态人体运动数据集BONES-SEED
+  - [] 亚马逊科学宣布十支大学团队参与2026年Nova AI挑战赛
+  - [] 微软研究发布多项AI与机器人领域新进展，涵盖文化情感分析、机器人装配学习等
+  - [] Suno发布推文宣传其声音转换功能
+  - [] HeyGen 为 Video Agent 内置 Seedance 2.0，支持提示词生成视频
+  - [] SAIR基金会与Hugging Face合作，推动AI x Science社区发展
+  - [] MIT CSAIL 团队发布 OSGym，用于训练计算机使用 AI 智能体的可扩展基础设施
+
+[2026-04-07 07:28:38] llm_classify - INPUT: 22条
+============================================================
+  - [] AI工具普及促公司加强AI生成代码的安全审查
+  - [] OpenAI等通过Frontier Model Forum共享信息以检测服务条款违规行为
+  - [] 英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装
+  - [] Meta据悉将开放其最新人工智能模型的源代码版本
+  - [] FDA批准Synchrony系统用于机器人辅助血管手术
+  - [] 杨元庆向母校上海交大捐赠2亿，支持人工智能创新和人才培养
+  - [] OpenAI状态页显示：ChatGPT 网页版当前出现故障
+  - [] 微软强制从Win11 24H2更新至25H2，机器学习系统负责升级
+  - [] TorchSpec 上线两周，模型 kimi-k2.5-eagle3 下载量突破 4 万
+  - [] 斯坦福团队研究通过外化LLM假设来解释控制谄媚行为
+  - [] 斯坦福CS336课程被推荐为理解大语言模型工作原理的优质资源
+  - [] 智谱AI向GLM Coding Plan订阅用户开放GLM-5.1模型
+  - [] CoreWeave高管做客NVIDIA GTC Studio，探讨其AI云如何赋能生产级AI应用
+  - [] 亚马逊AWS发布AI层产品Amazon Quick
+  - [] LangSmith 推出成本告警功能
+  - [] Bones Studio发布大型多模态人体运动数据集BONES-SEED
+  - [] 亚马逊科学宣布十支大学团队参与2026年Nova AI挑战赛
+  - [] 微软研究发布多项AI与机器人领域新进展，涵盖文化情感分析、机器人装配学习等
+  - [] Suno发布推文宣传其声音转换功能
+  - [] HeyGen 为 Video Agent 内置 Seedance 2.0，支持提示词生成视频
+  - [] SAIR基金会与Hugging Face合作，推动AI x Science社区发展
+  - [] MIT CSAIL 团队发布 OSGym，用于训练计算机使用 AI 智能体的可扩展基础设施
+
+[2026-04-07 07:28:54] llm_classify - OUTPUT: 22条 | 保留22条
+============================================================
+  - [其它科技资讯] AI工具普及促公司加强AI生成代码的安全审查
+  - [国外AI资讯] OpenAI等通过Frontier Model Forum共享信息以检测服务条款违规行为
+  - [国外AI资讯] 英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装
+  - [国外AI资讯] Meta据悉将开放其最新人工智能模型的源代码版本
+  - [智能硬件] FDA批准Synchrony系统用于机器人辅助血管手术
+  - [其它科技资讯] 杨元庆向母校上海交大捐赠2亿，支持人工智能创新和人才培养
+  - [国外AI资讯] OpenAI状态页显示：ChatGPT 网页版当前出现故障
+  - [国外AI资讯] 微软强制从Win11 24H2更新至25H2，机器学习系统负责升级
+  - [国内AI资讯] TorchSpec 上线两周，模型 kimi-k2.5-eagle3 下载量突破 4 万
+  - [国外AI资讯] 斯坦福团队研究通过外化LLM假设来解释控制谄媚行为
+  - [其它科技资讯] 斯坦福CS336课程被推荐为理解大语言模型工作原理的优质资源
+  - [国内AI资讯] 智谱AI向GLM Coding Plan订阅用户开放GLM-5.1模型
+  - [国外AI资讯] CoreWeave高管做客NVIDIA GTC Studio，探讨其AI云如何赋能生产级AI应用
+  - [其它科技资讯] 亚马逊AWS发布AI层产品Amazon Quick
+  - [国外AI资讯] LangSmith 推出成本告警功能
+  - [智能硬件] Bones Studio发布大型多模态人体运动数据集BONES-SEED
+  - [国外AI资讯] 亚马逊科学宣布十支大学团队参与2026年Nova AI挑战赛
+  - [智能硬件] 微软研究发布多项AI与机器人领域新进展，涵盖文化情感分析、机器人装配学习等
+  - [国外AI资讯] Suno发布推文宣传其声音转换功能
+  - [国外AI资讯] HeyGen 为 Video Agent 内置 Seedance 2.0，支持提示词生成视频
+  - [国外AI资讯] SAIR基金会与Hugging Face合作，推动AI x Science社区发展
+  - [国外AI资讯] MIT CSAIL 团队发布 OSGym，用于训练计算机使用 AI 智能体的可扩展基础设施
+
+[2026-04-07 07:28:54] llm_summary - INPUT: 22条
+============================================================
+  - [其它科技资讯] AI工具普及促公司加强AI生成代码的安全审查
+  - [国外AI资讯] OpenAI等通过Frontier Model Forum共享信息以检测服务条款违规行为
+  - [国外AI资讯] 英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装
+  - [国外AI资讯] Meta据悉将开放其最新人工智能模型的源代码版本
+  - [智能硬件] FDA批准Synchrony系统用于机器人辅助血管手术
+  - [其它科技资讯] 杨元庆向母校上海交大捐赠2亿，支持人工智能创新和人才培养
+  - [国外AI资讯] OpenAI状态页显示：ChatGPT 网页版当前出现故障
+  - [国外AI资讯] 微软强制从Win11 24H2更新至25H2，机器学习系统负责升级
+  - [国内AI资讯] TorchSpec 上线两周，模型 kimi-k2.5-eagle3 下载量突破 4 万
+  - [国外AI资讯] 斯坦福团队研究通过外化LLM假设来解释控制谄媚行为
+  - [其它科技资讯] 斯坦福CS336课程被推荐为理解大语言模型工作原理的优质资源
+  - [国内AI资讯] 智谱AI向GLM Coding Plan订阅用户开放GLM-5.1模型
+  - [国外AI资讯] CoreWeave高管做客NVIDIA GTC Studio，探讨其AI云如何赋能生产级AI应用
+  - [其它科技资讯] 亚马逊AWS发布AI层产品Amazon Quick
+  - [国外AI资讯] LangSmith 推出成本告警功能
+  - [智能硬件] Bones Studio发布大型多模态人体运动数据集BONES-SEED
+  - [国外AI资讯] 亚马逊科学宣布十支大学团队参与2026年Nova AI挑战赛
+  - [智能硬件] 微软研究发布多项AI与机器人领域新进展，涵盖文化情感分析、机器人装配学习等
+  - [国外AI资讯] Suno发布推文宣传其声音转换功能
+  - [国外AI资讯] HeyGen 为 Video Agent 内置 Seedance 2.0，支持提示词生成视频
+  - [国外AI资讯] SAIR基金会与Hugging Face合作，推动AI x Science社区发展
+  - [国外AI资讯] MIT CSAIL 团队发布 OSGym，用于训练计算机使用 AI 智能体的可扩展基础设施
+
+[2026-04-07 07:30:35] keyword_filter - INPUT: 31条
+============================================================
+  - [] AI工具普及促公司加强AI生成代码的安全审查
+  - [] OpenAI等通过Frontier Model Forum共享信息以检测服务条款违规行为
+  - [] 英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装
+  - [] Meta据悉将开放其最新人工智能模型的源代码版本
+  - [] OpenAI据悉有望最早于第四季度进行IPO
+  - [] FDA批准Synchrony系统用于机器人辅助血管手术
+  - [] 杨元庆向母校上海交大捐赠2亿，支持人工智能创新和人才培养
+  - [] 英伟达投资，Firmus估值近70亿美元
+  - [] OpenAI状态页显示：ChatGPT 网页版当前出现故障
+  - [] 微软强制从Win11 24H2更新至25H2，机器学习系统负责升级
+  - [] 2026年，病理AI收费的关键之年
+  - [] Jitendra Malik 提议机器人操作新评测指标 STT
+  - [] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [] MIT CSAIL 推出 ChromoLCD 工具，可编程物体表面外观
+  - [] TorchSpec 上线两周，模型 kimi-k2.5-eagle3 下载量突破 4 万
+  - [] 斯坦福团队研究通过外化LLM假设来解释控制谄媚行为
+  - [] 斯坦福CS336课程被推荐为理解大语言模型工作原理的优质资源
+  - [] 智谱AI向GLM Coding Plan订阅用户开放GLM-5.1模型
+  - [] CoreWeave高管做客NVIDIA GTC Studio，探讨其AI云如何赋能生产级AI应用
+  - [] NVIDIA 称通过协同设计提供最低 token 成本
+  - [] 亚马逊AWS发布AI层产品Amazon Quick
+  - [] 谷歌DeepMind CEO Demis Hassabis将参与YC活动
+  - [] 亚马逊发布由Agentic AI驱动的数字化工作空间Amazon Quick
+  - [] LangSmith 推出成本告警功能
+  - [] HeyGen将举办线上直播，详解Seedance 2.0集成应用
+  - [] Bones Studio发布大型多模态人体运动数据集BONES-SEED
+  - [] 亚马逊科学宣布十支大学团队参与2026年Nova AI挑战赛
+  - [] 微软研究发布多项AI与机器人领域新进展，涵盖文化情感分析、机器人装配学习等
+  - [] Suno发布推文宣传其声音转换功能
+  - [] HeyGen 为 Video Agent 内置 Seedance 2.0，支持提示词生成视频
+  - [] SAIR基金会与Hugging Face合作，推动AI x Science社区发展
+
+[2026-04-07 07:30:35] keyword_filter - OUTPUT: 25条 | 移除6条
+============================================================
+  - [] AI工具普及促公司加强AI生成代码的安全审查
+  - [] OpenAI等通过Frontier Model Forum共享信息以检测服务条款违规行为
+  - [] 英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装
+  - [] Meta据悉将开放其最新人工智能模型的源代码版本
+  - [] FDA批准Synchrony系统用于机器人辅助血管手术
+  - [] 杨元庆向母校上海交大捐赠2亿，支持人工智能创新和人才培养
+  - [] OpenAI状态页显示：ChatGPT 网页版当前出现故障
+  - [] 微软强制从Win11 24H2更新至25H2，机器学习系统负责升级
+  - [] Jitendra Malik 提议机器人操作新评测指标 STT
+  - [] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [] MIT CSAIL 推出 ChromoLCD 工具，可编程物体表面外观
+  - [] TorchSpec 上线两周，模型 kimi-k2.5-eagle3 下载量突破 4 万
+  - [] 斯坦福团队研究通过外化LLM假设来解释控制谄媚行为
+  - [] 斯坦福CS336课程被推荐为理解大语言模型工作原理的优质资源
+  - [] 智谱AI向GLM Coding Plan订阅用户开放GLM-5.1模型
+  - [] CoreWeave高管做客NVIDIA GTC Studio，探讨其AI云如何赋能生产级AI应用
+  - [] 亚马逊AWS发布AI层产品Amazon Quick
+  - [] 亚马逊发布由Agentic AI驱动的数字化工作空间Amazon Quick
+  - [] LangSmith 推出成本告警功能
+  - [] Bones Studio发布大型多模态人体运动数据集BONES-SEED
+  - [] 亚马逊科学宣布十支大学团队参与2026年Nova AI挑战赛
+  - [] 微软研究发布多项AI与机器人领域新进展，涵盖文化情感分析、机器人装配学习等
+  - [] Suno发布推文宣传其声音转换功能
+  - [] HeyGen 为 Video Agent 内置 Seedance 2.0，支持提示词生成视频
+  - [] SAIR基金会与Hugging Face合作，推动AI x Science社区发展
+
+[2026-04-07 07:30:35] bge_dedup - INPUT: 25条
+============================================================
+  - [] AI工具普及促公司加强AI生成代码的安全审查
+  - [] OpenAI等通过Frontier Model Forum共享信息以检测服务条款违规行为
+  - [] 英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装
+  - [] Meta据悉将开放其最新人工智能模型的源代码版本
+  - [] FDA批准Synchrony系统用于机器人辅助血管手术
+  - [] 杨元庆向母校上海交大捐赠2亿，支持人工智能创新和人才培养
+  - [] OpenAI状态页显示：ChatGPT 网页版当前出现故障
+  - [] 微软强制从Win11 24H2更新至25H2，机器学习系统负责升级
+  - [] Jitendra Malik 提议机器人操作新评测指标 STT
+  - [] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [] MIT CSAIL 推出 ChromoLCD 工具，可编程物体表面外观
+  - [] TorchSpec 上线两周，模型 kimi-k2.5-eagle3 下载量突破 4 万
+  - [] 斯坦福团队研究通过外化LLM假设来解释控制谄媚行为
+  - [] 斯坦福CS336课程被推荐为理解大语言模型工作原理的优质资源
+  - [] 智谱AI向GLM Coding Plan订阅用户开放GLM-5.1模型
+  - [] CoreWeave高管做客NVIDIA GTC Studio，探讨其AI云如何赋能生产级AI应用
+  - [] 亚马逊AWS发布AI层产品Amazon Quick
+  - [] 亚马逊发布由Agentic AI驱动的数字化工作空间Amazon Quick
+  - [] LangSmith 推出成本告警功能
+  - [] Bones Studio发布大型多模态人体运动数据集BONES-SEED
+  - [] 亚马逊科学宣布十支大学团队参与2026年Nova AI挑战赛
+  - [] 微软研究发布多项AI与机器人领域新进展，涵盖文化情感分析、机器人装配学习等
+  - [] Suno发布推文宣传其声音转换功能
+  - [] HeyGen 为 Video Agent 内置 Seedance 2.0，支持提示词生成视频
+  - [] SAIR基金会与Hugging Face合作，推动AI x Science社区发展
+
+[2026-04-07 07:30:48] bge_dedup - OUTPUT: 24条 | 移除1条
+============================================================
+  - [] AI工具普及促公司加强AI生成代码的安全审查
+  - [] OpenAI等通过Frontier Model Forum共享信息以检测服务条款违规行为
+  - [] 英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装
+  - [] Meta据悉将开放其最新人工智能模型的源代码版本
+  - [] FDA批准Synchrony系统用于机器人辅助血管手术
+  - [] 杨元庆向母校上海交大捐赠2亿，支持人工智能创新和人才培养
+  - [] OpenAI状态页显示：ChatGPT 网页版当前出现故障
+  - [] 微软强制从Win11 24H2更新至25H2，机器学习系统负责升级
+  - [] Jitendra Malik 提议机器人操作新评测指标 STT
+  - [] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [] MIT CSAIL 推出 ChromoLCD 工具，可编程物体表面外观
+  - [] TorchSpec 上线两周，模型 kimi-k2.5-eagle3 下载量突破 4 万
+  - [] 斯坦福团队研究通过外化LLM假设来解释控制谄媚行为
+  - [] 斯坦福CS336课程被推荐为理解大语言模型工作原理的优质资源
+  - [] 智谱AI向GLM Coding Plan订阅用户开放GLM-5.1模型
+  - [] CoreWeave高管做客NVIDIA GTC Studio，探讨其AI云如何赋能生产级AI应用
+  - [] 亚马逊AWS发布AI层产品Amazon Quick
+  - [] LangSmith 推出成本告警功能
+  - [] Bones Studio发布大型多模态人体运动数据集BONES-SEED
+  - [] 亚马逊科学宣布十支大学团队参与2026年Nova AI挑战赛
+  - [] 微软研究发布多项AI与机器人领域新进展，涵盖文化情感分析、机器人装配学习等
+  - [] Suno发布推文宣传其声音转换功能
+  - [] HeyGen 为 Video Agent 内置 Seedance 2.0，支持提示词生成视频
+  - [] SAIR基金会与Hugging Face合作，推动AI x Science社区发展
+
+[2026-04-07 07:30:48] llm_classify - INPUT: 24条
+============================================================
+  - [] AI工具普及促公司加强AI生成代码的安全审查
+  - [] OpenAI等通过Frontier Model Forum共享信息以检测服务条款违规行为
+  - [] 英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装
+  - [] Meta据悉将开放其最新人工智能模型的源代码版本
+  - [] FDA批准Synchrony系统用于机器人辅助血管手术
+  - [] 杨元庆向母校上海交大捐赠2亿，支持人工智能创新和人才培养
+  - [] OpenAI状态页显示：ChatGPT 网页版当前出现故障
+  - [] 微软强制从Win11 24H2更新至25H2，机器学习系统负责升级
+  - [] Jitendra Malik 提议机器人操作新评测指标 STT
+  - [] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [] MIT CSAIL 推出 ChromoLCD 工具，可编程物体表面外观
+  - [] TorchSpec 上线两周，模型 kimi-k2.5-eagle3 下载量突破 4 万
+  - [] 斯坦福团队研究通过外化LLM假设来解释控制谄媚行为
+  - [] 斯坦福CS336课程被推荐为理解大语言模型工作原理的优质资源
+  - [] 智谱AI向GLM Coding Plan订阅用户开放GLM-5.1模型
+  - [] CoreWeave高管做客NVIDIA GTC Studio，探讨其AI云如何赋能生产级AI应用
+  - [] 亚马逊AWS发布AI层产品Amazon Quick
+  - [] LangSmith 推出成本告警功能
+  - [] Bones Studio发布大型多模态人体运动数据集BONES-SEED
+  - [] 亚马逊科学宣布十支大学团队参与2026年Nova AI挑战赛
+  - [] 微软研究发布多项AI与机器人领域新进展，涵盖文化情感分析、机器人装配学习等
+  - [] Suno发布推文宣传其声音转换功能
+  - [] HeyGen 为 Video Agent 内置 Seedance 2.0，支持提示词生成视频
+  - [] SAIR基金会与Hugging Face合作，推动AI x Science社区发展
+
+[2026-04-07 07:31:01] llm_classify - OUTPUT: 24条 | 保留24条
+============================================================
+  - [国外AI资讯] AI工具普及促公司加强AI生成代码的安全审查
+  - [国外AI资讯] OpenAI等通过Frontier Model Forum共享信息以检测服务条款违规行为
+  - [智能硬件] 英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装
+  - [国外AI资讯] Meta据悉将开放其最新人工智能模型的源代码版本
+  - [智能硬件] FDA批准Synchrony系统用于机器人辅助血管手术
+  - [国内AI资讯] 杨元庆向母校上海交大捐赠2亿，支持人工智能创新和人才培养
+  - [国外AI资讯] OpenAI状态页显示：ChatGPT 网页版当前出现故障
+  - [国外AI资讯] 微软强制从Win11 24H2更新至25H2，机器学习系统负责升级
+  - [智能硬件] Jitendra Malik 提议机器人操作新评测指标 STT
+  - [国外AI资讯] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [国外AI资讯] MIT CSAIL 推出 ChromoLCD 工具，可编程物体表面外观
+  - [国外AI资讯] TorchSpec 上线两周，模型 kimi-k2.5-eagle3 下载量突破 4 万
+  - [国外AI资讯] 斯坦福团队研究通过外化LLM假设来解释控制谄媚行为
+  - [国外AI资讯] 斯坦福CS336课程被推荐为理解大语言模型工作原理的优质资源
+  - [国内AI资讯] 智谱AI向GLM Coding Plan订阅用户开放GLM-5.1模型
+  - [国外AI资讯] CoreWeave高管做客NVIDIA GTC Studio，探讨其AI云如何赋能生产级AI应用
+  - [国外AI资讯] 亚马逊AWS发布AI层产品Amazon Quick
+  - [国外AI资讯] LangSmith 推出成本告警功能
+  - [国外AI资讯] Bones Studio发布大型多模态人体运动数据集BONES-SEED
+  - [国外AI资讯] 亚马逊科学宣布十支大学团队参与2026年Nova AI挑战赛
+  - [智能硬件] 微软研究发布多项AI与机器人领域新进展，涵盖文化情感分析、机器人装配学习等
+  - [国外AI资讯] Suno发布推文宣传其声音转换功能
+  - [国外AI资讯] HeyGen 为 Video Agent 内置 Seedance 2.0，支持提示词生成视频
+  - [国外AI资讯] SAIR基金会与Hugging Face合作，推动AI x Science社区发展
+
+[2026-04-07 07:31:01] llm_summary - INPUT: 24条
+============================================================
+  - [国外AI资讯] AI工具普及促公司加强AI生成代码的安全审查
+  - [国外AI资讯] OpenAI等通过Frontier Model Forum共享信息以检测服务条款违规行为
+  - [智能硬件] 英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装
+  - [国外AI资讯] Meta据悉将开放其最新人工智能模型的源代码版本
+  - [智能硬件] FDA批准Synchrony系统用于机器人辅助血管手术
+  - [国内AI资讯] 杨元庆向母校上海交大捐赠2亿，支持人工智能创新和人才培养
+  - [国外AI资讯] OpenAI状态页显示：ChatGPT 网页版当前出现故障
+  - [国外AI资讯] 微软强制从Win11 24H2更新至25H2，机器学习系统负责升级
+  - [智能硬件] Jitendra Malik 提议机器人操作新评测指标 STT
+  - [国外AI资讯] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [国外AI资讯] MIT CSAIL 推出 ChromoLCD 工具，可编程物体表面外观
+  - [国外AI资讯] TorchSpec 上线两周，模型 kimi-k2.5-eagle3 下载量突破 4 万
+  - [国外AI资讯] 斯坦福团队研究通过外化LLM假设来解释控制谄媚行为
+  - [国外AI资讯] 斯坦福CS336课程被推荐为理解大语言模型工作原理的优质资源
+  - [国内AI资讯] 智谱AI向GLM Coding Plan订阅用户开放GLM-5.1模型
+  - [国外AI资讯] CoreWeave高管做客NVIDIA GTC Studio，探讨其AI云如何赋能生产级AI应用
+  - [国外AI资讯] 亚马逊AWS发布AI层产品Amazon Quick
+  - [国外AI资讯] LangSmith 推出成本告警功能
+  - [国外AI资讯] Bones Studio发布大型多模态人体运动数据集BONES-SEED
+  - [国外AI资讯] 亚马逊科学宣布十支大学团队参与2026年Nova AI挑战赛
+  - [智能硬件] 微软研究发布多项AI与机器人领域新进展，涵盖文化情感分析、机器人装配学习等
+  - [国外AI资讯] Suno发布推文宣传其声音转换功能
+  - [国外AI资讯] HeyGen 为 Video Agent 内置 Seedance 2.0，支持提示词生成视频
+  - [国外AI资讯] SAIR基金会与Hugging Face合作，推动AI x Science社区发展
+
+[2026-04-07 07:31:30] llm_summary - OUTPUT: 22条 | 成功0条
+============================================================
+  - [其它科技资讯] AI工具普及促公司加强AI生成代码的安全审查
+  - [国外AI资讯] OpenAI等通过Frontier Model Forum共享信息以检测服务条款违规行为
+  - [国外AI资讯] 英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装
+  - [国外AI资讯] Meta据悉将开放其最新人工智能模型的源代码版本
+  - [智能硬件] FDA批准Synchrony系统用于机器人辅助血管手术
+  - [其它科技资讯] 杨元庆向母校上海交大捐赠2亿，支持人工智能创新和人才培养
+  - [国外AI资讯] OpenAI状态页显示：ChatGPT 网页版当前出现故障
+  - [国外AI资讯] 微软强制从Win11 24H2更新至25H2，机器学习系统负责升级
+  - [国内AI资讯] TorchSpec 上线两周，模型 kimi-k2.5-eagle3 下载量突破 4 万
+  - [国外AI资讯] 斯坦福团队研究通过外化LLM假设来解释控制谄媚行为
+  - [其它科技资讯] 斯坦福CS336课程被推荐为理解大语言模型工作原理的优质资源
+  - [国内AI资讯] 智谱AI向GLM Coding Plan订阅用户开放GLM-5.1模型
+  - [国外AI资讯] CoreWeave高管做客NVIDIA GTC Studio，探讨其AI云如何赋能生产级AI应用
+  - [其它科技资讯] 亚马逊AWS发布AI层产品Amazon Quick
+  - [国外AI资讯] LangSmith 推出成本告警功能
+  - [智能硬件] Bones Studio发布大型多模态人体运动数据集BONES-SEED
+  - [国外AI资讯] 亚马逊科学宣布十支大学团队参与2026年Nova AI挑战赛
+  - [智能硬件] 微软研究发布多项AI与机器人领域新进展，涵盖文化情感分析、机器人装配学习等
+  - [国外AI资讯] Suno发布推文宣传其声音转换功能
+  - [国外AI资讯] HeyGen 为 Video Agent 内置 Seedance 2.0，支持提示词生成视频
+  - [国外AI资讯] SAIR基金会与Hugging Face合作，推动AI x Science社区发展
+  - [国外AI资讯] MIT CSAIL 团队发布 OSGym，用于训练计算机使用 AI 智能体的可扩展基础设施
+
+[2026-04-07 07:33:06] llm_summary - OUTPUT: 24条 | 成功0条
+============================================================
+  - [国外AI资讯] AI工具普及促公司加强AI生成代码的安全审查
+  - [国外AI资讯] OpenAI等通过Frontier Model Forum共享信息以检测服务条款违规行为
+  - [智能硬件] 英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装
+  - [国外AI资讯] Meta据悉将开放其最新人工智能模型的源代码版本
+  - [智能硬件] FDA批准Synchrony系统用于机器人辅助血管手术
+  - [国内AI资讯] 杨元庆向母校上海交大捐赠2亿，支持人工智能创新和人才培养
+  - [国外AI资讯] OpenAI状态页显示：ChatGPT 网页版当前出现故障
+  - [国外AI资讯] 微软强制从Win11 24H2更新至25H2，机器学习系统负责升级
+  - [智能硬件] Jitendra Malik 提议机器人操作新评测指标 STT
+  - [国外AI资讯] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [国外AI资讯] MIT CSAIL 推出 ChromoLCD 工具，可编程物体表面外观
+  - [国外AI资讯] TorchSpec 上线两周，模型 kimi-k2.5-eagle3 下载量突破 4 万
+  - [国外AI资讯] 斯坦福团队研究通过外化LLM假设来解释控制谄媚行为
+  - [国外AI资讯] 斯坦福CS336课程被推荐为理解大语言模型工作原理的优质资源
+  - [国内AI资讯] 智谱AI向GLM Coding Plan订阅用户开放GLM-5.1模型
+  - [国外AI资讯] CoreWeave高管做客NVIDIA GTC Studio，探讨其AI云如何赋能生产级AI应用
+  - [国外AI资讯] 亚马逊AWS发布AI层产品Amazon Quick
+  - [国外AI资讯] LangSmith 推出成本告警功能
+  - [国外AI资讯] Bones Studio发布大型多模态人体运动数据集BONES-SEED
+  - [国外AI资讯] 亚马逊科学宣布十支大学团队参与2026年Nova AI挑战赛
+  - [智能硬件] 微软研究发布多项AI与机器人领域新进展，涵盖文化情感分析、机器人装配学习等
+  - [国外AI资讯] Suno发布推文宣传其声音转换功能
+  - [国外AI资讯] HeyGen 为 Video Agent 内置 Seedance 2.0，支持提示词生成视频
+  - [国外AI资讯] SAIR基金会与Hugging Face合作，推动AI x Science社区发展
+
+[2026-04-07 08:30:15] keyword_filter - INPUT: 32条
+============================================================
+  - [] Anthropic宣布正式封杀OpenClaw
+  - [] AI工具普及促公司加强AI生成代码的安全审查
+  - [] OpenAI等通过Frontier Model Forum共享信息以检测服务条款违规行为
+  - [] 英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装
+  - [] Meta据悉将开放其最新人工智能模型的源代码版本
+  - [] OpenAI据悉有望最早于第四季度进行IPO
+  - [] FDA批准Synchrony系统用于机器人辅助血管手术
+  - [] 杨元庆向母校上海交大捐赠2亿，支持人工智能创新和人才培养
+  - [] 英伟达投资，Firmus估值近70亿美元
+  - [] OpenAI状态页显示：ChatGPT 网页版当前出现故障
+  - [] 微软强制从Win11 24H2更新至25H2，机器学习系统负责升级
+  - [] 2026年，病理AI收费的关键之年
+  - [] NeurIPS 2026 投稿网站开放时间推迟至4月15日
+  - [] Jitendra Malik 提议机器人操作新评测指标 STT
+  - [] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [] MIT CSAIL 推出 ChromoLCD 工具，可编程物体表面外观
+  - [] TorchSpec 上线两周，模型 kimi-k2.5-eagle3 下载量突破 4 万
+  - [] 斯坦福团队研究通过外化LLM假设来解释控制谄媚行为
+  - [] 斯坦福CS336课程被推荐为理解大语言模型工作原理的优质资源
+  - [] 智谱AI向GLM Coding Plan订阅用户开放GLM-5.1模型
+  - [] CoreWeave高管做客NVIDIA GTC Studio，探讨其AI云如何赋能生产级AI应用
+  - [] NVIDIA 称通过协同设计提供最低 token 成本
+  - [] 亚马逊AWS发布AI层产品Amazon Quick
+  - [] 谷歌DeepMind CEO Demis Hassabis将参与YC活动
+  - [] 亚马逊发布由Agentic AI驱动的数字化工作空间Amazon Quick
+  - [] LangSmith 推出成本告警功能
+  - [] HeyGen将举办线上直播，详解Seedance 2.0集成应用
+  - [] Bones Studio发布大型多模态人体运动数据集BONES-SEED
+  - [] 亚马逊科学宣布十支大学团队参与2026年Nova AI挑战赛
+  - [] 微软研究发布多项AI与机器人领域新进展，涵盖文化情感分析、机器人装配学习等
+  - [] Suno发布推文宣传其声音转换功能
+  - [] HeyGen 为 Video Agent 内置 Seedance 2.0，支持提示词生成视频
+
+[2026-04-07 08:30:15] keyword_filter - OUTPUT: 24条 | 移除8条
+============================================================
+  - [] AI工具普及促公司加强AI生成代码的安全审查
+  - [] OpenAI等通过Frontier Model Forum共享信息以检测服务条款违规行为
+  - [] 英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装
+  - [] Meta据悉将开放其最新人工智能模型的源代码版本
+  - [] FDA批准Synchrony系统用于机器人辅助血管手术
+  - [] OpenAI状态页显示：ChatGPT 网页版当前出现故障
+  - [] 微软强制从Win11 24H2更新至25H2，机器学习系统负责升级
+  - [] NeurIPS 2026 投稿网站开放时间推迟至4月15日
+  - [] Jitendra Malik 提议机器人操作新评测指标 STT
+  - [] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [] MIT CSAIL 推出 ChromoLCD 工具，可编程物体表面外观
+  - [] TorchSpec 上线两周，模型 kimi-k2.5-eagle3 下载量突破 4 万
+  - [] 斯坦福团队研究通过外化LLM假设来解释控制谄媚行为
+  - [] 斯坦福CS336课程被推荐为理解大语言模型工作原理的优质资源
+  - [] 智谱AI向GLM Coding Plan订阅用户开放GLM-5.1模型
+  - [] CoreWeave高管做客NVIDIA GTC Studio，探讨其AI云如何赋能生产级AI应用
+  - [] 亚马逊AWS发布AI层产品Amazon Quick
+  - [] 亚马逊发布由Agentic AI驱动的数字化工作空间Amazon Quick
+  - [] LangSmith 推出成本告警功能
+  - [] Bones Studio发布大型多模态人体运动数据集BONES-SEED
+  - [] 亚马逊科学宣布十支大学团队参与2026年Nova AI挑战赛
+  - [] 微软研究发布多项AI与机器人领域新进展，涵盖文化情感分析、机器人装配学习等
+  - [] Suno发布推文宣传其声音转换功能
+  - [] HeyGen 为 Video Agent 内置 Seedance 2.0，支持提示词生成视频
+
+[2026-04-07 08:30:15] bge_dedup - INPUT: 24条
+============================================================
+  - [] AI工具普及促公司加强AI生成代码的安全审查
+  - [] OpenAI等通过Frontier Model Forum共享信息以检测服务条款违规行为
+  - [] 英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装
+  - [] Meta据悉将开放其最新人工智能模型的源代码版本
+  - [] FDA批准Synchrony系统用于机器人辅助血管手术
+  - [] OpenAI状态页显示：ChatGPT 网页版当前出现故障
+  - [] 微软强制从Win11 24H2更新至25H2，机器学习系统负责升级
+  - [] NeurIPS 2026 投稿网站开放时间推迟至4月15日
+  - [] Jitendra Malik 提议机器人操作新评测指标 STT
+  - [] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [] MIT CSAIL 推出 ChromoLCD 工具，可编程物体表面外观
+  - [] TorchSpec 上线两周，模型 kimi-k2.5-eagle3 下载量突破 4 万
+  - [] 斯坦福团队研究通过外化LLM假设来解释控制谄媚行为
+  - [] 斯坦福CS336课程被推荐为理解大语言模型工作原理的优质资源
+  - [] 智谱AI向GLM Coding Plan订阅用户开放GLM-5.1模型
+  - [] CoreWeave高管做客NVIDIA GTC Studio，探讨其AI云如何赋能生产级AI应用
+  - [] 亚马逊AWS发布AI层产品Amazon Quick
+  - [] 亚马逊发布由Agentic AI驱动的数字化工作空间Amazon Quick
+  - [] LangSmith 推出成本告警功能
+  - [] Bones Studio发布大型多模态人体运动数据集BONES-SEED
+  - [] 亚马逊科学宣布十支大学团队参与2026年Nova AI挑战赛
+  - [] 微软研究发布多项AI与机器人领域新进展，涵盖文化情感分析、机器人装配学习等
+  - [] Suno发布推文宣传其声音转换功能
+  - [] HeyGen 为 Video Agent 内置 Seedance 2.0，支持提示词生成视频
+
+[2026-04-07 08:30:29] bge_dedup - OUTPUT: 23条 | 移除1条
+============================================================
+  - [] AI工具普及促公司加强AI生成代码的安全审查
+  - [] OpenAI等通过Frontier Model Forum共享信息以检测服务条款违规行为
+  - [] 英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装
+  - [] Meta据悉将开放其最新人工智能模型的源代码版本
+  - [] FDA批准Synchrony系统用于机器人辅助血管手术
+  - [] OpenAI状态页显示：ChatGPT 网页版当前出现故障
+  - [] 微软强制从Win11 24H2更新至25H2，机器学习系统负责升级
+  - [] NeurIPS 2026 投稿网站开放时间推迟至4月15日
+  - [] Jitendra Malik 提议机器人操作新评测指标 STT
+  - [] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [] MIT CSAIL 推出 ChromoLCD 工具，可编程物体表面外观
+  - [] TorchSpec 上线两周，模型 kimi-k2.5-eagle3 下载量突破 4 万
+  - [] 斯坦福团队研究通过外化LLM假设来解释控制谄媚行为
+  - [] 斯坦福CS336课程被推荐为理解大语言模型工作原理的优质资源
+  - [] 智谱AI向GLM Coding Plan订阅用户开放GLM-5.1模型
+  - [] CoreWeave高管做客NVIDIA GTC Studio，探讨其AI云如何赋能生产级AI应用
+  - [] 亚马逊AWS发布AI层产品Amazon Quick
+  - [] LangSmith 推出成本告警功能
+  - [] Bones Studio发布大型多模态人体运动数据集BONES-SEED
+  - [] 亚马逊科学宣布十支大学团队参与2026年Nova AI挑战赛
+  - [] 微软研究发布多项AI与机器人领域新进展，涵盖文化情感分析、机器人装配学习等
+  - [] Suno发布推文宣传其声音转换功能
+  - [] HeyGen 为 Video Agent 内置 Seedance 2.0，支持提示词生成视频
+
+[2026-04-07 08:30:29] llm_classify - INPUT: 23条
+============================================================
+  - [] AI工具普及促公司加强AI生成代码的安全审查
+  - [] OpenAI等通过Frontier Model Forum共享信息以检测服务条款违规行为
+  - [] 英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装
+  - [] Meta据悉将开放其最新人工智能模型的源代码版本
+  - [] FDA批准Synchrony系统用于机器人辅助血管手术
+  - [] OpenAI状态页显示：ChatGPT 网页版当前出现故障
+  - [] 微软强制从Win11 24H2更新至25H2，机器学习系统负责升级
+  - [] NeurIPS 2026 投稿网站开放时间推迟至4月15日
+  - [] Jitendra Malik 提议机器人操作新评测指标 STT
+  - [] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [] MIT CSAIL 推出 ChromoLCD 工具，可编程物体表面外观
+  - [] TorchSpec 上线两周，模型 kimi-k2.5-eagle3 下载量突破 4 万
+  - [] 斯坦福团队研究通过外化LLM假设来解释控制谄媚行为
+  - [] 斯坦福CS336课程被推荐为理解大语言模型工作原理的优质资源
+  - [] 智谱AI向GLM Coding Plan订阅用户开放GLM-5.1模型
+  - [] CoreWeave高管做客NVIDIA GTC Studio，探讨其AI云如何赋能生产级AI应用
+  - [] 亚马逊AWS发布AI层产品Amazon Quick
+  - [] LangSmith 推出成本告警功能
+  - [] Bones Studio发布大型多模态人体运动数据集BONES-SEED
+  - [] 亚马逊科学宣布十支大学团队参与2026年Nova AI挑战赛
+  - [] 微软研究发布多项AI与机器人领域新进展，涵盖文化情感分析、机器人装配学习等
+  - [] Suno发布推文宣传其声音转换功能
+  - [] HeyGen 为 Video Agent 内置 Seedance 2.0，支持提示词生成视频
+
+[2026-04-07 08:30:41] llm_classify - OUTPUT: 23条 | 保留23条
+============================================================
+  - [国内AI资讯] AI工具普及促公司加强AI生成代码的安全审查
+  - [国外AI资讯] OpenAI等通过Frontier Model Forum共享信息以检测服务条款违规行为
+  - [国外AI资讯] 英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装
+  - [国外AI资讯] Meta据悉将开放其最新人工智能模型的源代码版本
+  - [智能硬件] FDA批准Synchrony系统用于机器人辅助血管手术
+  - [国外AI资讯] OpenAI状态页显示：ChatGPT 网页版当前出现故障
+  - [其它科技资讯] 微软强制从Win11 24H2更新至25H2，机器学习系统负责升级
+  - [其它科技资讯] NeurIPS 2026 投稿网站开放时间推迟至4月15日
+  - [智能硬件] Jitendra Malik 提议机器人操作新评测指标 STT
+  - [国外AI资讯] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [国外AI资讯] MIT CSAIL 推出 ChromoLCD 工具，可编程物体表面外观
+  - [国内AI资讯] TorchSpec 上线两周，模型 kimi-k2.5-eagle3 下载量突破 4 万
+  - [国外AI资讯] 斯坦福团队研究通过外化LLM假设来解释控制谄媚行为
+  - [其它科技资讯] 斯坦福CS336课程被推荐为理解大语言模型工作原理的优质资源
+  - [国内AI资讯] 智谱AI向GLM Coding Plan订阅用户开放GLM-5.1模型
+  - [国外AI资讯] CoreWeave高管做客NVIDIA GTC Studio，探讨其AI云如何赋能生产级AI应用
+  - [国外AI资讯] 亚马逊AWS发布AI层产品Amazon Quick
+  - [国外AI资讯] LangSmith 推出成本告警功能
+  - [智能硬件] Bones Studio发布大型多模态人体运动数据集BONES-SEED
+  - [国外AI资讯] 亚马逊科学宣布十支大学团队参与2026年Nova AI挑战赛
+  - [国外AI资讯] 微软研究发布多项AI与机器人领域新进展，涵盖文化情感分析、机器人装配学习等
+  - [国外AI资讯] Suno发布推文宣传其声音转换功能
+  - [国外AI资讯] HeyGen 为 Video Agent 内置 Seedance 2.0，支持提示词生成视频
+
+[2026-04-07 08:30:41] llm_summary - INPUT: 23条
+============================================================
+  - [国内AI资讯] AI工具普及促公司加强AI生成代码的安全审查
+  - [国外AI资讯] OpenAI等通过Frontier Model Forum共享信息以检测服务条款违规行为
+  - [国外AI资讯] 英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装
+  - [国外AI资讯] Meta据悉将开放其最新人工智能模型的源代码版本
+  - [智能硬件] FDA批准Synchrony系统用于机器人辅助血管手术
+  - [国外AI资讯] OpenAI状态页显示：ChatGPT 网页版当前出现故障
+  - [其它科技资讯] 微软强制从Win11 24H2更新至25H2，机器学习系统负责升级
+  - [其它科技资讯] NeurIPS 2026 投稿网站开放时间推迟至4月15日
+  - [智能硬件] Jitendra Malik 提议机器人操作新评测指标 STT
+  - [国外AI资讯] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [国外AI资讯] MIT CSAIL 推出 ChromoLCD 工具，可编程物体表面外观
+  - [国内AI资讯] TorchSpec 上线两周，模型 kimi-k2.5-eagle3 下载量突破 4 万
+  - [国外AI资讯] 斯坦福团队研究通过外化LLM假设来解释控制谄媚行为
+  - [其它科技资讯] 斯坦福CS336课程被推荐为理解大语言模型工作原理的优质资源
+  - [国内AI资讯] 智谱AI向GLM Coding Plan订阅用户开放GLM-5.1模型
+  - [国外AI资讯] CoreWeave高管做客NVIDIA GTC Studio，探讨其AI云如何赋能生产级AI应用
+  - [国外AI资讯] 亚马逊AWS发布AI层产品Amazon Quick
+  - [国外AI资讯] LangSmith 推出成本告警功能
+  - [智能硬件] Bones Studio发布大型多模态人体运动数据集BONES-SEED
+  - [国外AI资讯] 亚马逊科学宣布十支大学团队参与2026年Nova AI挑战赛
+  - [国外AI资讯] 微软研究发布多项AI与机器人领域新进展，涵盖文化情感分析、机器人装配学习等
+  - [国外AI资讯] Suno发布推文宣传其声音转换功能
+  - [国外AI资讯] HeyGen 为 Video Agent 内置 Seedance 2.0，支持提示词生成视频
+
+[2026-04-07 08:32:24] llm_summary - OUTPUT: 23条 | 成功0条
+============================================================
+  - [国内AI资讯] AI工具普及促公司加强AI生成代码的安全审查
+  - [国外AI资讯] OpenAI等通过Frontier Model Forum共享信息以检测服务条款违规行为
+  - [国外AI资讯] 英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装
+  - [国外AI资讯] Meta据悉将开放其最新人工智能模型的源代码版本
+  - [智能硬件] FDA批准Synchrony系统用于机器人辅助血管手术
+  - [国外AI资讯] OpenAI状态页显示：ChatGPT 网页版当前出现故障
+  - [其它科技资讯] 微软强制从Win11 24H2更新至25H2，机器学习系统负责升级
+  - [其它科技资讯] NeurIPS 2026 投稿网站开放时间推迟至4月15日
+  - [智能硬件] Jitendra Malik 提议机器人操作新评测指标 STT
+  - [国外AI资讯] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [国外AI资讯] MIT CSAIL 推出 ChromoLCD 工具，可编程物体表面外观
+  - [国内AI资讯] TorchSpec 上线两周，模型 kimi-k2.5-eagle3 下载量突破 4 万
+  - [国外AI资讯] 斯坦福团队研究通过外化LLM假设来解释控制谄媚行为
+  - [其它科技资讯] 斯坦福CS336课程被推荐为理解大语言模型工作原理的优质资源
+  - [国内AI资讯] 智谱AI向GLM Coding Plan订阅用户开放GLM-5.1模型
+  - [国外AI资讯] CoreWeave高管做客NVIDIA GTC Studio，探讨其AI云如何赋能生产级AI应用
+  - [国外AI资讯] 亚马逊AWS发布AI层产品Amazon Quick
+  - [国外AI资讯] LangSmith 推出成本告警功能
+  - [智能硬件] Bones Studio发布大型多模态人体运动数据集BONES-SEED
+  - [国外AI资讯] 亚马逊科学宣布十支大学团队参与2026年Nova AI挑战赛
+  - [国外AI资讯] 微软研究发布多项AI与机器人领域新进展，涵盖文化情感分析、机器人装配学习等
+  - [国外AI资讯] Suno发布推文宣传其声音转换功能
+  - [国外AI资讯] HeyGen 为 Video Agent 内置 Seedance 2.0，支持提示词生成视频
+
+[2026-04-07 08:37:57] keyword_filter - INPUT: 32条
+============================================================
+  - [] Anthropic宣布正式封杀OpenClaw
+  - [] AI工具普及促公司加强AI生成代码的安全审查
+  - [] OpenAI等通过Frontier Model Forum共享信息以检测服务条款违规行为
+  - [] 英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装
+  - [] Meta据悉将开放其最新人工智能模型的源代码版本
+  - [] OpenAI据悉有望最早于第四季度进行IPO
+  - [] FDA批准Synchrony系统用于机器人辅助血管手术
+  - [] 杨元庆向母校上海交大捐赠2亿，支持人工智能创新和人才培养
+  - [] 英伟达投资，Firmus估值近70亿美元
+  - [] OpenAI状态页显示：ChatGPT 网页版当前出现故障
+  - [] 微软强制从Win11 24H2更新至25H2，机器学习系统负责升级
+  - [] 2026年，病理AI收费的关键之年
+  - [] NeurIPS 2026 投稿网站开放时间推迟至4月15日
+  - [] Jitendra Malik 提议机器人操作新评测指标 STT
+  - [] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [] MIT CSAIL 推出 ChromoLCD 工具，可编程物体表面外观
+  - [] TorchSpec 上线两周，模型 kimi-k2.5-eagle3 下载量突破 4 万
+  - [] 斯坦福团队研究通过外化LLM假设来解释控制谄媚行为
+  - [] 斯坦福CS336课程被推荐为理解大语言模型工作原理的优质资源
+  - [] 智谱AI向GLM Coding Plan订阅用户开放GLM-5.1模型
+  - [] CoreWeave高管做客NVIDIA GTC Studio，探讨其AI云如何赋能生产级AI应用
+  - [] NVIDIA 称通过协同设计提供最低 token 成本
+  - [] 亚马逊AWS发布AI层产品Amazon Quick
+  - [] 谷歌DeepMind CEO Demis Hassabis将参与YC活动
+  - [] 亚马逊发布由Agentic AI驱动的数字化工作空间Amazon Quick
+  - [] LangSmith 推出成本告警功能
+  - [] HeyGen将举办线上直播，详解Seedance 2.0集成应用
+  - [] Bones Studio发布大型多模态人体运动数据集BONES-SEED
+  - [] 亚马逊科学宣布十支大学团队参与2026年Nova AI挑战赛
+  - [] 微软研究发布多项AI与机器人领域新进展，涵盖文化情感分析、机器人装配学习等
+  - [] Suno发布推文宣传其声音转换功能
+  - [] HeyGen 为 Video Agent 内置 Seedance 2.0，支持提示词生成视频
+
+[2026-04-07 08:37:57] keyword_filter - OUTPUT: 24条 | 移除8条
+============================================================
+  - [] AI工具普及促公司加强AI生成代码的安全审查
+  - [] OpenAI等通过Frontier Model Forum共享信息以检测服务条款违规行为
+  - [] 英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装
+  - [] Meta据悉将开放其最新人工智能模型的源代码版本
+  - [] FDA批准Synchrony系统用于机器人辅助血管手术
+  - [] OpenAI状态页显示：ChatGPT 网页版当前出现故障
+  - [] 微软强制从Win11 24H2更新至25H2，机器学习系统负责升级
+  - [] NeurIPS 2026 投稿网站开放时间推迟至4月15日
+  - [] Jitendra Malik 提议机器人操作新评测指标 STT
+  - [] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [] MIT CSAIL 推出 ChromoLCD 工具，可编程物体表面外观
+  - [] TorchSpec 上线两周，模型 kimi-k2.5-eagle3 下载量突破 4 万
+  - [] 斯坦福团队研究通过外化LLM假设来解释控制谄媚行为
+  - [] 斯坦福CS336课程被推荐为理解大语言模型工作原理的优质资源
+  - [] 智谱AI向GLM Coding Plan订阅用户开放GLM-5.1模型
+  - [] CoreWeave高管做客NVIDIA GTC Studio，探讨其AI云如何赋能生产级AI应用
+  - [] 亚马逊AWS发布AI层产品Amazon Quick
+  - [] 亚马逊发布由Agentic AI驱动的数字化工作空间Amazon Quick
+  - [] LangSmith 推出成本告警功能
+  - [] Bones Studio发布大型多模态人体运动数据集BONES-SEED
+  - [] 亚马逊科学宣布十支大学团队参与2026年Nova AI挑战赛
+  - [] 微软研究发布多项AI与机器人领域新进展，涵盖文化情感分析、机器人装配学习等
+  - [] Suno发布推文宣传其声音转换功能
+  - [] HeyGen 为 Video Agent 内置 Seedance 2.0，支持提示词生成视频
+
+[2026-04-07 08:37:57] bge_dedup - INPUT: 24条
+============================================================
+  - [] AI工具普及促公司加强AI生成代码的安全审查
+  - [] OpenAI等通过Frontier Model Forum共享信息以检测服务条款违规行为
+  - [] 英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装
+  - [] Meta据悉将开放其最新人工智能模型的源代码版本
+  - [] FDA批准Synchrony系统用于机器人辅助血管手术
+  - [] OpenAI状态页显示：ChatGPT 网页版当前出现故障
+  - [] 微软强制从Win11 24H2更新至25H2，机器学习系统负责升级
+  - [] NeurIPS 2026 投稿网站开放时间推迟至4月15日
+  - [] Jitendra Malik 提议机器人操作新评测指标 STT
+  - [] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [] MIT CSAIL 推出 ChromoLCD 工具，可编程物体表面外观
+  - [] TorchSpec 上线两周，模型 kimi-k2.5-eagle3 下载量突破 4 万
+  - [] 斯坦福团队研究通过外化LLM假设来解释控制谄媚行为
+  - [] 斯坦福CS336课程被推荐为理解大语言模型工作原理的优质资源
+  - [] 智谱AI向GLM Coding Plan订阅用户开放GLM-5.1模型
+  - [] CoreWeave高管做客NVIDIA GTC Studio，探讨其AI云如何赋能生产级AI应用
+  - [] 亚马逊AWS发布AI层产品Amazon Quick
+  - [] 亚马逊发布由Agentic AI驱动的数字化工作空间Amazon Quick
+  - [] LangSmith 推出成本告警功能
+  - [] Bones Studio发布大型多模态人体运动数据集BONES-SEED
+  - [] 亚马逊科学宣布十支大学团队参与2026年Nova AI挑战赛
+  - [] 微软研究发布多项AI与机器人领域新进展，涵盖文化情感分析、机器人装配学习等
+  - [] Suno发布推文宣传其声音转换功能
+  - [] HeyGen 为 Video Agent 内置 Seedance 2.0，支持提示词生成视频
+
+[2026-04-07 08:38:07] bge_dedup - OUTPUT: 23条 | 移除1条
+============================================================
+  - [] AI工具普及促公司加强AI生成代码的安全审查
+  - [] OpenAI等通过Frontier Model Forum共享信息以检测服务条款违规行为
+  - [] 英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装
+  - [] Meta据悉将开放其最新人工智能模型的源代码版本
+  - [] FDA批准Synchrony系统用于机器人辅助血管手术
+  - [] OpenAI状态页显示：ChatGPT 网页版当前出现故障
+  - [] 微软强制从Win11 24H2更新至25H2，机器学习系统负责升级
+  - [] NeurIPS 2026 投稿网站开放时间推迟至4月15日
+  - [] Jitendra Malik 提议机器人操作新评测指标 STT
+  - [] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [] MIT CSAIL 推出 ChromoLCD 工具，可编程物体表面外观
+  - [] TorchSpec 上线两周，模型 kimi-k2.5-eagle3 下载量突破 4 万
+  - [] 斯坦福团队研究通过外化LLM假设来解释控制谄媚行为
+  - [] 斯坦福CS336课程被推荐为理解大语言模型工作原理的优质资源
+  - [] 智谱AI向GLM Coding Plan订阅用户开放GLM-5.1模型
+  - [] CoreWeave高管做客NVIDIA GTC Studio，探讨其AI云如何赋能生产级AI应用
+  - [] 亚马逊AWS发布AI层产品Amazon Quick
+  - [] LangSmith 推出成本告警功能
+  - [] Bones Studio发布大型多模态人体运动数据集BONES-SEED
+  - [] 亚马逊科学宣布十支大学团队参与2026年Nova AI挑战赛
+  - [] 微软研究发布多项AI与机器人领域新进展，涵盖文化情感分析、机器人装配学习等
+  - [] Suno发布推文宣传其声音转换功能
+  - [] HeyGen 为 Video Agent 内置 Seedance 2.0，支持提示词生成视频
+
+[2026-04-07 08:38:07] llm_classify - INPUT: 23条
+============================================================
+  - [] AI工具普及促公司加强AI生成代码的安全审查
+  - [] OpenAI等通过Frontier Model Forum共享信息以检测服务条款违规行为
+  - [] 英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装
+  - [] Meta据悉将开放其最新人工智能模型的源代码版本
+  - [] FDA批准Synchrony系统用于机器人辅助血管手术
+  - [] OpenAI状态页显示：ChatGPT 网页版当前出现故障
+  - [] 微软强制从Win11 24H2更新至25H2，机器学习系统负责升级
+  - [] NeurIPS 2026 投稿网站开放时间推迟至4月15日
+  - [] Jitendra Malik 提议机器人操作新评测指标 STT
+  - [] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [] MIT CSAIL 推出 ChromoLCD 工具，可编程物体表面外观
+  - [] TorchSpec 上线两周，模型 kimi-k2.5-eagle3 下载量突破 4 万
+  - [] 斯坦福团队研究通过外化LLM假设来解释控制谄媚行为
+  - [] 斯坦福CS336课程被推荐为理解大语言模型工作原理的优质资源
+  - [] 智谱AI向GLM Coding Plan订阅用户开放GLM-5.1模型
+  - [] CoreWeave高管做客NVIDIA GTC Studio，探讨其AI云如何赋能生产级AI应用
+  - [] 亚马逊AWS发布AI层产品Amazon Quick
+  - [] LangSmith 推出成本告警功能
+  - [] Bones Studio发布大型多模态人体运动数据集BONES-SEED
+  - [] 亚马逊科学宣布十支大学团队参与2026年Nova AI挑战赛
+  - [] 微软研究发布多项AI与机器人领域新进展，涵盖文化情感分析、机器人装配学习等
+  - [] Suno发布推文宣传其声音转换功能
+  - [] HeyGen 为 Video Agent 内置 Seedance 2.0，支持提示词生成视频
+
+[2026-04-07 08:38:26] llm_classify - OUTPUT: 23条 | 保留23条
+============================================================
+  - [国外AI资讯] AI工具普及促公司加强AI生成代码的安全审查
+  - [国外AI资讯] OpenAI等通过Frontier Model Forum共享信息以检测服务条款违规行为
+  - [国外AI资讯] 英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装
+  - [国外AI资讯] Meta据悉将开放其最新人工智能模型的源代码版本
+  - [智能硬件] FDA批准Synchrony系统用于机器人辅助血管手术
+  - [国外AI资讯] OpenAI状态页显示：ChatGPT 网页版当前出现故障
+  - [国外AI资讯] 微软强制从Win11 24H2更新至25H2，机器学习系统负责升级
+  - [国外AI资讯] NeurIPS 2026 投稿网站开放时间推迟至4月15日
+  - [智能硬件] Jitendra Malik 提议机器人操作新评测指标 STT
+  - [国外AI资讯] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [国外AI资讯] MIT CSAIL 推出 ChromoLCD 工具，可编程物体表面外观
+  - [国内AI资讯] TorchSpec 上线两周，模型 kimi-k2.5-eagle3 下载量突破 4 万
+  - [国外AI资讯] 斯坦福团队研究通过外化LLM假设来解释控制谄媚行为
+  - [国外AI资讯] 斯坦福CS336课程被推荐为理解大语言模型工作原理的优质资源
+  - [国内AI资讯] 智谱AI向GLM Coding Plan订阅用户开放GLM-5.1模型
+  - [国外AI资讯] CoreWeave高管做客NVIDIA GTC Studio，探讨其AI云如何赋能生产级AI应用
+  - [国外AI资讯] 亚马逊AWS发布AI层产品Amazon Quick
+  - [国外AI资讯] LangSmith 推出成本告警功能
+  - [智能硬件] Bones Studio发布大型多模态人体运动数据集BONES-SEED
+  - [国内AI资讯] 亚马逊科学宣布十支大学团队参与2026年Nova AI挑战赛
+  - [国外AI资讯] 微软研究发布多项AI与机器人领域新进展，涵盖文化情感分析、机器人装配学习等
+  - [国外AI资讯] Suno发布推文宣传其声音转换功能
+  - [国外AI资讯] HeyGen 为 Video Agent 内置 Seedance 2.0，支持提示词生成视频
+
+[2026-04-07 08:38:26] llm_summary - INPUT: 23条
+============================================================
+  - [国外AI资讯] AI工具普及促公司加强AI生成代码的安全审查
+  - [国外AI资讯] OpenAI等通过Frontier Model Forum共享信息以检测服务条款违规行为
+  - [国外AI资讯] 英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装
+  - [国外AI资讯] Meta据悉将开放其最新人工智能模型的源代码版本
+  - [智能硬件] FDA批准Synchrony系统用于机器人辅助血管手术
+  - [国外AI资讯] OpenAI状态页显示：ChatGPT 网页版当前出现故障
+  - [国外AI资讯] 微软强制从Win11 24H2更新至25H2，机器学习系统负责升级
+  - [国外AI资讯] NeurIPS 2026 投稿网站开放时间推迟至4月15日
+  - [智能硬件] Jitendra Malik 提议机器人操作新评测指标 STT
+  - [国外AI资讯] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [国外AI资讯] MIT CSAIL 推出 ChromoLCD 工具，可编程物体表面外观
+  - [国内AI资讯] TorchSpec 上线两周，模型 kimi-k2.5-eagle3 下载量突破 4 万
+  - [国外AI资讯] 斯坦福团队研究通过外化LLM假设来解释控制谄媚行为
+  - [国外AI资讯] 斯坦福CS336课程被推荐为理解大语言模型工作原理的优质资源
+  - [国内AI资讯] 智谱AI向GLM Coding Plan订阅用户开放GLM-5.1模型
+  - [国外AI资讯] CoreWeave高管做客NVIDIA GTC Studio，探讨其AI云如何赋能生产级AI应用
+  - [国外AI资讯] 亚马逊AWS发布AI层产品Amazon Quick
+  - [国外AI资讯] LangSmith 推出成本告警功能
+  - [智能硬件] Bones Studio发布大型多模态人体运动数据集BONES-SEED
+  - [国内AI资讯] 亚马逊科学宣布十支大学团队参与2026年Nova AI挑战赛
+  - [国外AI资讯] 微软研究发布多项AI与机器人领域新进展，涵盖文化情感分析、机器人装配学习等
+  - [国外AI资讯] Suno发布推文宣传其声音转换功能
+  - [国外AI资讯] HeyGen 为 Video Agent 内置 Seedance 2.0，支持提示词生成视频
+
+[2026-04-07 08:40:19] keyword_filter - INPUT: 32条
+============================================================
+  - [] Anthropic宣布正式封杀OpenClaw
+  - [] AI工具普及促公司加强AI生成代码的安全审查
+  - [] OpenAI等通过Frontier Model Forum共享信息以检测服务条款违规行为
+  - [] 英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装
+  - [] Meta据悉将开放其最新人工智能模型的源代码版本
+  - [] OpenAI据悉有望最早于第四季度进行IPO
+  - [] FDA批准Synchrony系统用于机器人辅助血管手术
+  - [] 杨元庆向母校上海交大捐赠2亿，支持人工智能创新和人才培养
+  - [] 英伟达投资，Firmus估值近70亿美元
+  - [] OpenAI状态页显示：ChatGPT 网页版当前出现故障
+  - [] 微软强制从Win11 24H2更新至25H2，机器学习系统负责升级
+  - [] 2026年，病理AI收费的关键之年
+  - [] NeurIPS 2026 投稿网站开放时间推迟至4月15日
+  - [] Jitendra Malik 提议机器人操作新评测指标 STT
+  - [] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [] MIT CSAIL 推出 ChromoLCD 工具，可编程物体表面外观
+  - [] TorchSpec 上线两周，模型 kimi-k2.5-eagle3 下载量突破 4 万
+  - [] 斯坦福团队研究通过外化LLM假设来解释控制谄媚行为
+  - [] 斯坦福CS336课程被推荐为理解大语言模型工作原理的优质资源
+  - [] 智谱AI向GLM Coding Plan订阅用户开放GLM-5.1模型
+  - [] CoreWeave高管做客NVIDIA GTC Studio，探讨其AI云如何赋能生产级AI应用
+  - [] NVIDIA 称通过协同设计提供最低 token 成本
+  - [] 亚马逊AWS发布AI层产品Amazon Quick
+  - [] 谷歌DeepMind CEO Demis Hassabis将参与YC活动
+  - [] 亚马逊发布由Agentic AI驱动的数字化工作空间Amazon Quick
+  - [] LangSmith 推出成本告警功能
+  - [] HeyGen将举办线上直播，详解Seedance 2.0集成应用
+  - [] Bones Studio发布大型多模态人体运动数据集BONES-SEED
+  - [] 亚马逊科学宣布十支大学团队参与2026年Nova AI挑战赛
+  - [] 微软研究发布多项AI与机器人领域新进展，涵盖文化情感分析、机器人装配学习等
+  - [] Suno发布推文宣传其声音转换功能
+  - [] HeyGen 为 Video Agent 内置 Seedance 2.0，支持提示词生成视频
+
+[2026-04-07 08:40:19] keyword_filter - OUTPUT: 24条 | 移除8条
+============================================================
+  - [] AI工具普及促公司加强AI生成代码的安全审查
+  - [] OpenAI等通过Frontier Model Forum共享信息以检测服务条款违规行为
+  - [] 英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装
+  - [] Meta据悉将开放其最新人工智能模型的源代码版本
+  - [] FDA批准Synchrony系统用于机器人辅助血管手术
+  - [] OpenAI状态页显示：ChatGPT 网页版当前出现故障
+  - [] 微软强制从Win11 24H2更新至25H2，机器学习系统负责升级
+  - [] NeurIPS 2026 投稿网站开放时间推迟至4月15日
+  - [] Jitendra Malik 提议机器人操作新评测指标 STT
+  - [] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [] MIT CSAIL 推出 ChromoLCD 工具，可编程物体表面外观
+  - [] TorchSpec 上线两周，模型 kimi-k2.5-eagle3 下载量突破 4 万
+  - [] 斯坦福团队研究通过外化LLM假设来解释控制谄媚行为
+  - [] 斯坦福CS336课程被推荐为理解大语言模型工作原理的优质资源
+  - [] 智谱AI向GLM Coding Plan订阅用户开放GLM-5.1模型
+  - [] CoreWeave高管做客NVIDIA GTC Studio，探讨其AI云如何赋能生产级AI应用
+  - [] 亚马逊AWS发布AI层产品Amazon Quick
+  - [] 亚马逊发布由Agentic AI驱动的数字化工作空间Amazon Quick
+  - [] LangSmith 推出成本告警功能
+  - [] Bones Studio发布大型多模态人体运动数据集BONES-SEED
+  - [] 亚马逊科学宣布十支大学团队参与2026年Nova AI挑战赛
+  - [] 微软研究发布多项AI与机器人领域新进展，涵盖文化情感分析、机器人装配学习等
+  - [] Suno发布推文宣传其声音转换功能
+  - [] HeyGen 为 Video Agent 内置 Seedance 2.0，支持提示词生成视频
+
+[2026-04-07 08:40:19] bge_dedup - INPUT: 24条
+============================================================
+  - [] AI工具普及促公司加强AI生成代码的安全审查
+  - [] OpenAI等通过Frontier Model Forum共享信息以检测服务条款违规行为
+  - [] 英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装
+  - [] Meta据悉将开放其最新人工智能模型的源代码版本
+  - [] FDA批准Synchrony系统用于机器人辅助血管手术
+  - [] OpenAI状态页显示：ChatGPT 网页版当前出现故障
+  - [] 微软强制从Win11 24H2更新至25H2，机器学习系统负责升级
+  - [] NeurIPS 2026 投稿网站开放时间推迟至4月15日
+  - [] Jitendra Malik 提议机器人操作新评测指标 STT
+  - [] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [] MIT CSAIL 推出 ChromoLCD 工具，可编程物体表面外观
+  - [] TorchSpec 上线两周，模型 kimi-k2.5-eagle3 下载量突破 4 万
+  - [] 斯坦福团队研究通过外化LLM假设来解释控制谄媚行为
+  - [] 斯坦福CS336课程被推荐为理解大语言模型工作原理的优质资源
+  - [] 智谱AI向GLM Coding Plan订阅用户开放GLM-5.1模型
+  - [] CoreWeave高管做客NVIDIA GTC Studio，探讨其AI云如何赋能生产级AI应用
+  - [] 亚马逊AWS发布AI层产品Amazon Quick
+  - [] 亚马逊发布由Agentic AI驱动的数字化工作空间Amazon Quick
+  - [] LangSmith 推出成本告警功能
+  - [] Bones Studio发布大型多模态人体运动数据集BONES-SEED
+  - [] 亚马逊科学宣布十支大学团队参与2026年Nova AI挑战赛
+  - [] 微软研究发布多项AI与机器人领域新进展，涵盖文化情感分析、机器人装配学习等
+  - [] Suno发布推文宣传其声音转换功能
+  - [] HeyGen 为 Video Agent 内置 Seedance 2.0，支持提示词生成视频
+
+[2026-04-07 08:40:20] llm_summary - OUTPUT: 23条 | 成功0条
+============================================================
+  - [国外AI资讯] AI工具普及促公司加强AI生成代码的安全审查
+  - [国外AI资讯] OpenAI等通过Frontier Model Forum共享信息以检测服务条款违规行为
+  - [国外AI资讯] 英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装
+  - [国外AI资讯] Meta据悉将开放其最新人工智能模型的源代码版本
+  - [智能硬件] FDA批准Synchrony系统用于机器人辅助血管手术
+  - [国外AI资讯] OpenAI状态页显示：ChatGPT 网页版当前出现故障
+  - [国外AI资讯] 微软强制从Win11 24H2更新至25H2，机器学习系统负责升级
+  - [国外AI资讯] NeurIPS 2026 投稿网站开放时间推迟至4月15日
+  - [智能硬件] Jitendra Malik 提议机器人操作新评测指标 STT
+  - [国外AI资讯] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [国外AI资讯] MIT CSAIL 推出 ChromoLCD 工具，可编程物体表面外观
+  - [国内AI资讯] TorchSpec 上线两周，模型 kimi-k2.5-eagle3 下载量突破 4 万
+  - [国外AI资讯] 斯坦福团队研究通过外化LLM假设来解释控制谄媚行为
+  - [国外AI资讯] 斯坦福CS336课程被推荐为理解大语言模型工作原理的优质资源
+  - [国内AI资讯] 智谱AI向GLM Coding Plan订阅用户开放GLM-5.1模型
+  - [国外AI资讯] CoreWeave高管做客NVIDIA GTC Studio，探讨其AI云如何赋能生产级AI应用
+  - [国外AI资讯] 亚马逊AWS发布AI层产品Amazon Quick
+  - [国外AI资讯] LangSmith 推出成本告警功能
+  - [智能硬件] Bones Studio发布大型多模态人体运动数据集BONES-SEED
+  - [国内AI资讯] 亚马逊科学宣布十支大学团队参与2026年Nova AI挑战赛
+  - [国外AI资讯] 微软研究发布多项AI与机器人领域新进展，涵盖文化情感分析、机器人装配学习等
+  - [国外AI资讯] Suno发布推文宣传其声音转换功能
+  - [国外AI资讯] HeyGen 为 Video Agent 内置 Seedance 2.0，支持提示词生成视频
+
+[2026-04-07 08:40:31] bge_dedup - OUTPUT: 23条 | 移除1条
+============================================================
+  - [] AI工具普及促公司加强AI生成代码的安全审查
+  - [] OpenAI等通过Frontier Model Forum共享信息以检测服务条款违规行为
+  - [] 英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装
+  - [] Meta据悉将开放其最新人工智能模型的源代码版本
+  - [] FDA批准Synchrony系统用于机器人辅助血管手术
+  - [] OpenAI状态页显示：ChatGPT 网页版当前出现故障
+  - [] 微软强制从Win11 24H2更新至25H2，机器学习系统负责升级
+  - [] NeurIPS 2026 投稿网站开放时间推迟至4月15日
+  - [] Jitendra Malik 提议机器人操作新评测指标 STT
+  - [] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [] MIT CSAIL 推出 ChromoLCD 工具，可编程物体表面外观
+  - [] TorchSpec 上线两周，模型 kimi-k2.5-eagle3 下载量突破 4 万
+  - [] 斯坦福团队研究通过外化LLM假设来解释控制谄媚行为
+  - [] 斯坦福CS336课程被推荐为理解大语言模型工作原理的优质资源
+  - [] 智谱AI向GLM Coding Plan订阅用户开放GLM-5.1模型
+  - [] CoreWeave高管做客NVIDIA GTC Studio，探讨其AI云如何赋能生产级AI应用
+  - [] 亚马逊AWS发布AI层产品Amazon Quick
+  - [] LangSmith 推出成本告警功能
+  - [] Bones Studio发布大型多模态人体运动数据集BONES-SEED
+  - [] 亚马逊科学宣布十支大学团队参与2026年Nova AI挑战赛
+  - [] 微软研究发布多项AI与机器人领域新进展，涵盖文化情感分析、机器人装配学习等
+  - [] Suno发布推文宣传其声音转换功能
+  - [] HeyGen 为 Video Agent 内置 Seedance 2.0，支持提示词生成视频
+
+[2026-04-07 08:40:31] llm_classify - INPUT: 23条
+============================================================
+  - [] AI工具普及促公司加强AI生成代码的安全审查
+  - [] OpenAI等通过Frontier Model Forum共享信息以检测服务条款违规行为
+  - [] 英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装
+  - [] Meta据悉将开放其最新人工智能模型的源代码版本
+  - [] FDA批准Synchrony系统用于机器人辅助血管手术
+  - [] OpenAI状态页显示：ChatGPT 网页版当前出现故障
+  - [] 微软强制从Win11 24H2更新至25H2，机器学习系统负责升级
+  - [] NeurIPS 2026 投稿网站开放时间推迟至4月15日
+  - [] Jitendra Malik 提议机器人操作新评测指标 STT
+  - [] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [] MIT CSAIL 推出 ChromoLCD 工具，可编程物体表面外观
+  - [] TorchSpec 上线两周，模型 kimi-k2.5-eagle3 下载量突破 4 万
+  - [] 斯坦福团队研究通过外化LLM假设来解释控制谄媚行为
+  - [] 斯坦福CS336课程被推荐为理解大语言模型工作原理的优质资源
+  - [] 智谱AI向GLM Coding Plan订阅用户开放GLM-5.1模型
+  - [] CoreWeave高管做客NVIDIA GTC Studio，探讨其AI云如何赋能生产级AI应用
+  - [] 亚马逊AWS发布AI层产品Amazon Quick
+  - [] LangSmith 推出成本告警功能
+  - [] Bones Studio发布大型多模态人体运动数据集BONES-SEED
+  - [] 亚马逊科学宣布十支大学团队参与2026年Nova AI挑战赛
+  - [] 微软研究发布多项AI与机器人领域新进展，涵盖文化情感分析、机器人装配学习等
+  - [] Suno发布推文宣传其声音转换功能
+  - [] HeyGen 为 Video Agent 内置 Seedance 2.0，支持提示词生成视频
+
+[2026-04-07 08:40:50] llm_classify - OUTPUT: 23条 | 保留23条
+============================================================
+  - [其它科技资讯] AI工具普及促公司加强AI生成代码的安全审查
+  - [国外AI资讯] OpenAI等通过Frontier Model Forum共享信息以检测服务条款违规行为
+  - [国外AI资讯] 英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装
+  - [国外AI资讯] Meta据悉将开放其最新人工智能模型的源代码版本
+  - [智能硬件] FDA批准Synchrony系统用于机器人辅助血管手术
+  - [国外AI资讯] OpenAI状态页显示：ChatGPT 网页版当前出现故障
+  - [其它科技资讯] 微软强制从Win11 24H2更新至25H2，机器学习系统负责升级
+  - [其它科技资讯] NeurIPS 2026 投稿网站开放时间推迟至4月15日
+  - [智能硬件] Jitendra Malik 提议机器人操作新评测指标 STT
+  - [国外AI资讯] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [智能硬件] MIT CSAIL 推出 ChromoLCD 工具，可编程物体表面外观
+  - [国内AI资讯] TorchSpec 上线两周，模型 kimi-k2.5-eagle3 下载量突破 4 万
+  - [国外AI资讯] 斯坦福团队研究通过外化LLM假设来解释控制谄媚行为
+  - [其它科技资讯] 斯坦福CS336课程被推荐为理解大语言模型工作原理的优质资源
+  - [国内AI资讯] 智谱AI向GLM Coding Plan订阅用户开放GLM-5.1模型
+  - [国外AI资讯] CoreWeave高管做客NVIDIA GTC Studio，探讨其AI云如何赋能生产级AI应用
+  - [国外AI资讯] 亚马逊AWS发布AI层产品Amazon Quick
+  - [国外AI资讯] LangSmith 推出成本告警功能
+  - [智能硬件] Bones Studio发布大型多模态人体运动数据集BONES-SEED
+  - [国外AI资讯] 亚马逊科学宣布十支大学团队参与2026年Nova AI挑战赛
+  - [国外AI资讯] 微软研究发布多项AI与机器人领域新进展，涵盖文化情感分析、机器人装配学习等
+  - [国外AI资讯] Suno发布推文宣传其声音转换功能
+  - [智能硬件] HeyGen 为 Video Agent 内置 Seedance 2.0，支持提示词生成视频
+
+[2026-04-07 08:40:50] llm_summary - INPUT: 23条
+============================================================
+  - [其它科技资讯] AI工具普及促公司加强AI生成代码的安全审查
+  - [国外AI资讯] OpenAI等通过Frontier Model Forum共享信息以检测服务条款违规行为
+  - [国外AI资讯] 英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装
+  - [国外AI资讯] Meta据悉将开放其最新人工智能模型的源代码版本
+  - [智能硬件] FDA批准Synchrony系统用于机器人辅助血管手术
+  - [国外AI资讯] OpenAI状态页显示：ChatGPT 网页版当前出现故障
+  - [其它科技资讯] 微软强制从Win11 24H2更新至25H2，机器学习系统负责升级
+  - [其它科技资讯] NeurIPS 2026 投稿网站开放时间推迟至4月15日
+  - [智能硬件] Jitendra Malik 提议机器人操作新评测指标 STT
+  - [国外AI资讯] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [智能硬件] MIT CSAIL 推出 ChromoLCD 工具，可编程物体表面外观
+  - [国内AI资讯] TorchSpec 上线两周，模型 kimi-k2.5-eagle3 下载量突破 4 万
+  - [国外AI资讯] 斯坦福团队研究通过外化LLM假设来解释控制谄媚行为
+  - [其它科技资讯] 斯坦福CS336课程被推荐为理解大语言模型工作原理的优质资源
+  - [国内AI资讯] 智谱AI向GLM Coding Plan订阅用户开放GLM-5.1模型
+  - [国外AI资讯] CoreWeave高管做客NVIDIA GTC Studio，探讨其AI云如何赋能生产级AI应用
+  - [国外AI资讯] 亚马逊AWS发布AI层产品Amazon Quick
+  - [国外AI资讯] LangSmith 推出成本告警功能
+  - [智能硬件] Bones Studio发布大型多模态人体运动数据集BONES-SEED
+  - [国外AI资讯] 亚马逊科学宣布十支大学团队参与2026年Nova AI挑战赛
+  - [国外AI资讯] 微软研究发布多项AI与机器人领域新进展，涵盖文化情感分析、机器人装配学习等
+  - [国外AI资讯] Suno发布推文宣传其声音转换功能
+  - [智能硬件] HeyGen 为 Video Agent 内置 Seedance 2.0，支持提示词生成视频
+
+[2026-04-07 08:42:40] llm_summary - OUTPUT: 23条 | 成功0条
+============================================================
+  - [其它科技资讯] AI工具普及促公司加强AI生成代码的安全审查
+  - [国外AI资讯] OpenAI等通过Frontier Model Forum共享信息以检测服务条款违规行为
+  - [国外AI资讯] 英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装
+  - [国外AI资讯] Meta据悉将开放其最新人工智能模型的源代码版本
+  - [智能硬件] FDA批准Synchrony系统用于机器人辅助血管手术
+  - [国外AI资讯] OpenAI状态页显示：ChatGPT 网页版当前出现故障
+  - [其它科技资讯] 微软强制从Win11 24H2更新至25H2，机器学习系统负责升级
+  - [其它科技资讯] NeurIPS 2026 投稿网站开放时间推迟至4月15日
+  - [智能硬件] Jitendra Malik 提议机器人操作新评测指标 STT
+  - [国外AI资讯] 麻省理工学院研究衡量AI完成数千项美国经济任务的成功率
+  - [智能硬件] MIT CSAIL 推出 ChromoLCD 工具，可编程物体表面外观
+  - [国内AI资讯] TorchSpec 上线两周，模型 kimi-k2.5-eagle3 下载量突破 4 万
+  - [国外AI资讯] 斯坦福团队研究通过外化LLM假设来解释控制谄媚行为
+  - [其它科技资讯] 斯坦福CS336课程被推荐为理解大语言模型工作原理的优质资源
+  - [国内AI资讯] 智谱AI向GLM Coding Plan订阅用户开放GLM-5.1模型
+  - [国外AI资讯] CoreWeave高管做客NVIDIA GTC Studio，探讨其AI云如何赋能生产级AI应用
+  - [国外AI资讯] 亚马逊AWS发布AI层产品Amazon Quick
+  - [国外AI资讯] LangSmith 推出成本告警功能
+  - [智能硬件] Bones Studio发布大型多模态人体运动数据集BONES-SEED
+  - [国外AI资讯] 亚马逊科学宣布十支大学团队参与2026年Nova AI挑战赛
+  - [国外AI资讯] 微软研究发布多项AI与机器人领域新进展，涵盖文化情感分析、机器人装配学习等
+  - [国外AI资讯] Suno发布推文宣传其声音转换功能
+  - [智能硬件] HeyGen 为 Video Agent 内置 Seedance 2.0，支持提示词生成视频

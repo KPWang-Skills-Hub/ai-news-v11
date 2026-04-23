@@ -1,0 +1,2906 @@
+
+[2026-04-21 08:01:58] keyword_filter - INPUT: 58条
+============================================================
+  - [huxiu][] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][] 亚马逊与Anthropic将在AWS技术上投入超1000亿美元
+  - [huxiu][] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][] 商汤医疗再获超5亿元融资，估值突破10亿美元
+  - [huxiu][] “曦望”完成新一轮超10亿元人民币融资
+  - [huxiu][] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][] “智能派”完成数亿元B+轮融资
+  - [huxiu][] 阿里HappyHorse公布开放测试时间
+  - [huxiu][] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][] 我国持续完善人工智能、大数据等新兴领域知识产权保护制度
+  - [huxiu][] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [huxiu][] DeepSeek被爆估值800亿
+  - [huxiu][] Meta计划于5月20日启动今年首轮大规模裁员
+  - [huxiu][] 三重逻辑叠加共振，存储芯片迎超级周期
+  - [infoq][] Anthropic启动STEM Fellows项目，招募专家推进AI科学研究
+  - [infoq][] NeurIPS提醒投稿作者：提交稿件需具备有效OpenReview个人资料
+  - [infoq][] 谷歌分享定制芯片与基础设施构建经验，称其将使客户受益
+  - [infoq][] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][] Anthropic与Cerebral Valley宣布围绕Claude Opus 4.7举办Clau
+  - [infoq][] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][] 英伟达CEO黄仁勋谈AI计算护城河：源于全栈平台与生态
+  - [infoq][] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][] a16z 加速器项目 Speedrun 2026年批次开放申请
+  - [infoq][] 亚马逊研究人员将在ICLR 2026展示大语言模型、自动推理与强化学习工作
+  - [infoq][] a16z 宣布 2026 年 Speedrun 加速器项目开放申请，投资额最高100万美元
+  - [infoq][] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [infoq][] SchmidhuberAI回顾通用神经世界模型发展历程
+  - [量子位][] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [量子位][] 全球最大规模含触觉数据集，凭什么吸引谷歌和众多高校的加入？
+  - [aibase][] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][] 上海 AI 实验室发布创新 ViraHInter 模型，提升抗病毒药物研发效率
+  - [aibase][] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][] 爱奇艺上线“AI艺人库”惹争议：是降本增效的利器，还是行业“自掘坟墓”？
+  - [aibase][] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][] 开发者注意！阿里云百炼平台API限流政策将迎来重要调整
+  - [aibase][] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][] 华为全新 XMAGE 智拍功能震撼发布，支持 AI 姿势推荐
+  - [aibase][] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][] ​微软全球最强 AI 数据中心 Fairwater 提前启用，助力 AI 技术发展
+  - [aibase][] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][] ​马斯克提出全民高收入应对 AI 失业，专家却持反对意见
+  - [aibase][] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:01:58] keyword_filter - OUTPUT: 36条 | 移除22条
+============================================================
+  - [huxiu][] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][] 阿里HappyHorse公布开放测试时间
+  - [huxiu][] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [infoq][] SchmidhuberAI回顾通用神经世界模型发展历程
+  - [量子位][] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][] 华为全新 XMAGE 智拍功能震撼发布，支持 AI 姿势推荐
+  - [aibase][] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:01:58] bge_dedup - INPUT: 36条
+============================================================
+  - [huxiu][] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][] 阿里HappyHorse公布开放测试时间
+  - [huxiu][] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [infoq][] SchmidhuberAI回顾通用神经世界模型发展历程
+  - [量子位][] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][] 华为全新 XMAGE 智拍功能震撼发布，支持 AI 姿势推荐
+  - [aibase][] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:02:19] bge_dedup - OUTPUT: 35条 | 移除1条
+============================================================
+  - [huxiu][] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][] 阿里HappyHorse公布开放测试时间
+  - [huxiu][] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [infoq][] SchmidhuberAI回顾通用神经世界模型发展历程
+  - [量子位][] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:02:19] llm_classify - INPUT: 35条
+============================================================
+  - [huxiu][] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][] 阿里HappyHorse公布开放测试时间
+  - [huxiu][] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [infoq][] SchmidhuberAI回顾通用神经世界模型发展历程
+  - [量子位][] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:02:30] llm_classify - OUTPUT: 35条 | 保留35条
+============================================================
+  - [huxiu][国外AI资讯] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][国外AI资讯] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][智能硬件] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][国外AI资讯] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][国内AI资讯] 阿里HappyHorse公布开放测试时间
+  - [huxiu][智能硬件] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][智能硬件] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][智能硬件] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][国外AI资讯] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][国外AI资讯] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][国外AI资讯] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][国外AI资讯] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][国外AI资讯] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][国外AI资讯] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][智能硬件] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][智能硬件] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][国外AI资讯] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][国外AI资讯] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [infoq][国外AI资讯] SchmidhuberAI回顾通用神经世界模型发展历程
+  - [量子位][国内AI资讯] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][国内AI资讯] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][其它科技资讯] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][其它科技资讯] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][国内AI资讯] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][国内AI资讯] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][国内AI资讯] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][其它科技资讯] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][国内AI资讯] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][智能硬件] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][国内AI资讯] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][其它科技资讯] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][其它科技资讯] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][智能硬件] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][国外AI资讯] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][其它科技资讯] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:02:30] llm_summary - INPUT: 35条
+============================================================
+  - [huxiu][国外AI资讯] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][国外AI资讯] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][智能硬件] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][国外AI资讯] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][国内AI资讯] 阿里HappyHorse公布开放测试时间
+  - [huxiu][智能硬件] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][智能硬件] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][智能硬件] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][国外AI资讯] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][国外AI资讯] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][国外AI资讯] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][国外AI资讯] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][国外AI资讯] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][国外AI资讯] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][智能硬件] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][智能硬件] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][国外AI资讯] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][国外AI资讯] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [infoq][国外AI资讯] SchmidhuberAI回顾通用神经世界模型发展历程
+  - [量子位][国内AI资讯] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][国内AI资讯] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][其它科技资讯] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][其它科技资讯] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][国内AI资讯] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][国内AI资讯] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][国内AI资讯] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][其它科技资讯] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][国内AI资讯] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][智能硬件] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][国内AI资讯] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][其它科技资讯] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][其它科技资讯] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][智能硬件] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][国外AI资讯] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][其它科技资讯] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:02:48] llm_summary - OUTPUT: 35条 | 成功1条
+============================================================
+  - [huxiu][国外AI资讯] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][国外AI资讯] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][智能硬件] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][国外AI资讯] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][国内AI资讯] 阿里HappyHorse公布开放测试时间
+  - [huxiu][智能硬件] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][智能硬件] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][智能硬件] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][国外AI资讯] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][国外AI资讯] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][国外AI资讯] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][国外AI资讯] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][国外AI资讯] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][国外AI资讯] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][智能硬件] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][智能硬件] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][国外AI资讯] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][国外AI资讯] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [infoq][国外AI资讯] SchmidhuberAI回顾通用神经世界模型发展历程
+  - [量子位][国内AI资讯] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][国内AI资讯] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][其它科技资讯] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][其它科技资讯] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][国内AI资讯] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][国内AI资讯] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][国内AI资讯] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][其它科技资讯] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][国内AI资讯] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][智能硬件] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][国内AI资讯] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][其它科技资讯] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][其它科技资讯] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][智能硬件] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][国外AI资讯] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][其它科技资讯] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:04:06] keyword_filter - INPUT: 58条
+============================================================
+  - [huxiu][] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][] 亚马逊与Anthropic将在AWS技术上投入超1000亿美元
+  - [huxiu][] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][] 商汤医疗再获超5亿元融资，估值突破10亿美元
+  - [huxiu][] “曦望”完成新一轮超10亿元人民币融资
+  - [huxiu][] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][] “智能派”完成数亿元B+轮融资
+  - [huxiu][] 阿里HappyHorse公布开放测试时间
+  - [huxiu][] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][] 我国持续完善人工智能、大数据等新兴领域知识产权保护制度
+  - [huxiu][] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [huxiu][] DeepSeek被爆估值800亿
+  - [huxiu][] Meta计划于5月20日启动今年首轮大规模裁员
+  - [huxiu][] 三重逻辑叠加共振，存储芯片迎超级周期
+  - [infoq][] Anthropic启动STEM Fellows项目，招募专家推进AI科学研究
+  - [infoq][] NeurIPS提醒投稿作者：提交稿件需具备有效OpenReview个人资料
+  - [infoq][] 谷歌分享定制芯片与基础设施构建经验，称其将使客户受益
+  - [infoq][] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][] Anthropic与Cerebral Valley宣布围绕Claude Opus 4.7举办Clau
+  - [infoq][] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][] 英伟达CEO黄仁勋谈AI计算护城河：源于全栈平台与生态
+  - [infoq][] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][] a16z 加速器项目 Speedrun 2026年批次开放申请
+  - [infoq][] 亚马逊研究人员将在ICLR 2026展示大语言模型、自动推理与强化学习工作
+  - [infoq][] a16z 宣布 2026 年 Speedrun 加速器项目开放申请，投资额最高100万美元
+  - [infoq][] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [infoq][] SchmidhuberAI回顾通用神经世界模型发展历程
+  - [量子位][] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [量子位][] 全球最大规模含触觉数据集，凭什么吸引谷歌和众多高校的加入？
+  - [aibase][] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][] 上海 AI 实验室发布创新 ViraHInter 模型，提升抗病毒药物研发效率
+  - [aibase][] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][] 爱奇艺上线“AI艺人库”惹争议：是降本增效的利器，还是行业“自掘坟墓”？
+  - [aibase][] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][] 开发者注意！阿里云百炼平台API限流政策将迎来重要调整
+  - [aibase][] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][] 华为全新 XMAGE 智拍功能震撼发布，支持 AI 姿势推荐
+  - [aibase][] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][] ​微软全球最强 AI 数据中心 Fairwater 提前启用，助力 AI 技术发展
+  - [aibase][] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][] ​马斯克提出全民高收入应对 AI 失业，专家却持反对意见
+  - [aibase][] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:04:06] keyword_filter - OUTPUT: 36条 | 移除22条
+============================================================
+  - [huxiu][] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][] 阿里HappyHorse公布开放测试时间
+  - [huxiu][] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [infoq][] SchmidhuberAI回顾通用神经世界模型发展历程
+  - [量子位][] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][] 华为全新 XMAGE 智拍功能震撼发布，支持 AI 姿势推荐
+  - [aibase][] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:04:06] bge_dedup - INPUT: 36条
+============================================================
+  - [huxiu][] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][] 阿里HappyHorse公布开放测试时间
+  - [huxiu][] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [infoq][] SchmidhuberAI回顾通用神经世界模型发展历程
+  - [量子位][] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][] 华为全新 XMAGE 智拍功能震撼发布，支持 AI 姿势推荐
+  - [aibase][] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:04:26] bge_dedup - OUTPUT: 35条 | 移除1条
+============================================================
+  - [huxiu][] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][] 阿里HappyHorse公布开放测试时间
+  - [huxiu][] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [infoq][] SchmidhuberAI回顾通用神经世界模型发展历程
+  - [量子位][] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:04:26] llm_classify - INPUT: 35条
+============================================================
+  - [huxiu][] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][] 阿里HappyHorse公布开放测试时间
+  - [huxiu][] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [infoq][] SchmidhuberAI回顾通用神经世界模型发展历程
+  - [量子位][] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:05:48] llm_classify - OUTPUT: 35条 | 保留35条
+============================================================
+  - [huxiu][国外AI资讯] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][国外AI资讯] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][智能硬件] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][国外AI资讯] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][国内AI资讯] 阿里HappyHorse公布开放测试时间
+  - [huxiu][智能硬件] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][智能硬件] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][智能硬件] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][国外AI资讯] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][国外AI资讯] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][国外AI资讯] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][国外AI资讯] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][其它科技资讯] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][其它科技资讯] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][智能硬件] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][智能硬件] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][其它科技资讯] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][国外AI资讯] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [infoq][国外AI资讯] SchmidhuberAI回顾通用神经世界模型发展历程
+  - [量子位][其它科技资讯] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][国内AI资讯] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][国内AI资讯] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][国内AI资讯] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][国内AI资讯] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][国内AI资讯] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][国内AI资讯] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][其它科技资讯] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][国内AI资讯] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][智能硬件] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][国内AI资讯] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][国内AI资讯] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][国内AI资讯] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][智能硬件] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][国外AI资讯] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][国内AI资讯] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:05:48] llm_summary - INPUT: 35条
+============================================================
+  - [huxiu][国外AI资讯] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][国外AI资讯] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][智能硬件] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][国外AI资讯] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][国内AI资讯] 阿里HappyHorse公布开放测试时间
+  - [huxiu][智能硬件] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][智能硬件] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][智能硬件] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][国外AI资讯] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][国外AI资讯] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][国外AI资讯] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][国外AI资讯] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][其它科技资讯] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][其它科技资讯] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][智能硬件] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][智能硬件] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][其它科技资讯] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][国外AI资讯] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [infoq][国外AI资讯] SchmidhuberAI回顾通用神经世界模型发展历程
+  - [量子位][其它科技资讯] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][国内AI资讯] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][国内AI资讯] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][国内AI资讯] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][国内AI资讯] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][国内AI资讯] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][国内AI资讯] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][其它科技资讯] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][国内AI资讯] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][智能硬件] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][国内AI资讯] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][国内AI资讯] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][国内AI资讯] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][智能硬件] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][国外AI资讯] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][国内AI资讯] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:06:03] llm_summary - OUTPUT: 35条 | 成功1条
+============================================================
+  - [huxiu][国外AI资讯] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][国外AI资讯] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][智能硬件] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][国外AI资讯] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][国内AI资讯] 阿里HappyHorse公布开放测试时间
+  - [huxiu][智能硬件] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][智能硬件] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][智能硬件] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][国外AI资讯] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][国外AI资讯] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][国外AI资讯] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][国外AI资讯] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][其它科技资讯] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][其它科技资讯] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][智能硬件] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][智能硬件] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][其它科技资讯] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][国外AI资讯] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [infoq][国外AI资讯] SchmidhuberAI回顾通用神经世界模型发展历程
+  - [量子位][其它科技资讯] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][国内AI资讯] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][国内AI资讯] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][国内AI资讯] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][国内AI资讯] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][国内AI资讯] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][国内AI资讯] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][其它科技资讯] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][国内AI资讯] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][智能硬件] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][国内AI资讯] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][国内AI资讯] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][国内AI资讯] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][智能硬件] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][国外AI资讯] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][国内AI资讯] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:10:33] keyword_filter - INPUT: 43条
+============================================================
+  - [infoq][] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][] Anthropic启动STEM Fellows项目，招募专家推进AI科学研究
+  - [infoq][] NeurIPS提醒投稿作者：提交稿件需具备有效OpenReview个人资料
+  - [infoq][] 谷歌分享定制芯片与基础设施构建经验，称其将使客户受益
+  - [infoq][] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][] Anthropic与Cerebral Valley宣布围绕Claude Opus 4.7举办Clau
+  - [infoq][] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][] 英伟达CEO黄仁勋谈AI计算护城河：源于全栈平台与生态
+  - [infoq][] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][] a16z 加速器项目 Speedrun 2026年批次开放申请
+  - [infoq][] 亚马逊研究人员将在ICLR 2026展示大语言模型、自动推理与强化学习工作
+  - [infoq][] a16z 宣布 2026 年 Speedrun 加速器项目开放申请，投资额最高100万美元
+  - [infoq][] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [量子位][] 全球最大规模含触觉数据集，凭什么吸引谷歌和众多高校的加入？
+  - [aibase][] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][] 上海 AI 实验室发布创新 ViraHInter 模型，提升抗病毒药物研发效率
+  - [aibase][] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][] 爱奇艺上线“AI艺人库”惹争议：是降本增效的利器，还是行业“自掘坟墓”？
+  - [aibase][] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][] 开发者注意！阿里云百炼平台API限流政策将迎来重要调整
+  - [aibase][] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][] 华为全新 XMAGE 智拍功能震撼发布，支持 AI 姿势推荐
+  - [aibase][] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][] ​微软全球最强 AI 数据中心 Fairwater 提前启用，助力 AI 技术发展
+  - [aibase][] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][] ​马斯克提出全民高收入应对 AI 失业，专家却持反对意见
+  - [aibase][] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:10:33] keyword_filter - OUTPUT: 29条 | 移除14条
+============================================================
+  - [infoq][] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][] 华为全新 XMAGE 智拍功能震撼发布，支持 AI 姿势推荐
+  - [aibase][] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:10:33] bge_dedup - INPUT: 29条
+============================================================
+  - [infoq][] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][] 华为全新 XMAGE 智拍功能震撼发布，支持 AI 姿势推荐
+  - [aibase][] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:10:51] bge_dedup - OUTPUT: 29条 | 移除0条
+============================================================
+  - [infoq][] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][] 华为全新 XMAGE 智拍功能震撼发布，支持 AI 姿势推荐
+  - [aibase][] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:10:51] llm_classify - INPUT: 29条
+============================================================
+  - [infoq][] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][] 华为全新 XMAGE 智拍功能震撼发布，支持 AI 姿势推荐
+  - [aibase][] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:11:01] llm_classify - OUTPUT: 29条 | 保留29条
+============================================================
+  - [infoq][国外AI资讯] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][智能硬件] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][国外AI资讯] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][国外AI资讯] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][国外AI资讯] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][国外AI资讯] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][国外AI资讯] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][国外AI资讯] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][智能硬件] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][智能硬件] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][国外AI资讯] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][国外AI资讯] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][其它科技资讯] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][国内AI资讯] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][国内AI资讯] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][国内AI资讯] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][国内AI资讯] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][国内AI资讯] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][国内AI资讯] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][其它科技资讯] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][智能硬件] 华为全新 XMAGE 智拍功能震撼发布，支持 AI 姿势推荐
+  - [aibase][国内AI资讯] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][智能硬件] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][国内AI资讯] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][国内AI资讯] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][国内AI资讯] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][智能硬件] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][其它科技资讯] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][国内AI资讯] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:11:01] llm_summary - INPUT: 29条
+============================================================
+  - [infoq][国外AI资讯] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][智能硬件] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][国外AI资讯] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][国外AI资讯] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][国外AI资讯] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][国外AI资讯] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][国外AI资讯] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][国外AI资讯] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][智能硬件] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][智能硬件] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][国外AI资讯] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][国外AI资讯] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][其它科技资讯] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][国内AI资讯] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][国内AI资讯] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][国内AI资讯] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][国内AI资讯] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][国内AI资讯] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][国内AI资讯] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][其它科技资讯] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][智能硬件] 华为全新 XMAGE 智拍功能震撼发布，支持 AI 姿势推荐
+  - [aibase][国内AI资讯] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][智能硬件] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][国内AI资讯] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][国内AI资讯] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][国内AI资讯] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][智能硬件] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][其它科技资讯] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][国内AI资讯] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:11:16] llm_summary - OUTPUT: 29条 | 成功1条
+============================================================
+  - [infoq][国外AI资讯] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][智能硬件] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][国外AI资讯] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][国外AI资讯] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][国外AI资讯] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][国外AI资讯] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][国外AI资讯] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][国外AI资讯] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][智能硬件] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][智能硬件] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][国外AI资讯] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][国外AI资讯] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][其它科技资讯] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][国内AI资讯] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][国内AI资讯] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][国内AI资讯] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][国内AI资讯] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][国内AI资讯] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][国内AI资讯] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][其它科技资讯] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][智能硬件] 华为全新 XMAGE 智拍功能震撼发布，支持 AI 姿势推荐
+  - [aibase][国内AI资讯] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][智能硬件] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][国内AI资讯] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][国内AI资讯] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][国内AI资讯] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][智能硬件] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][其它科技资讯] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][国内AI资讯] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:12:42] keyword_filter - INPUT: 58条
+============================================================
+  - [huxiu][] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][] 亚马逊与Anthropic将在AWS技术上投入超1000亿美元
+  - [huxiu][] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][] 商汤医疗再获超5亿元融资，估值突破10亿美元
+  - [huxiu][] “曦望”完成新一轮超10亿元人民币融资
+  - [huxiu][] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][] “智能派”完成数亿元B+轮融资
+  - [huxiu][] 阿里HappyHorse公布开放测试时间
+  - [huxiu][] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][] 我国持续完善人工智能、大数据等新兴领域知识产权保护制度
+  - [huxiu][] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [huxiu][] DeepSeek被爆估值800亿
+  - [huxiu][] Meta计划于5月20日启动今年首轮大规模裁员
+  - [huxiu][] 三重逻辑叠加共振，存储芯片迎超级周期
+  - [infoq][] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][] Anthropic启动STEM Fellows项目，招募专家推进AI科学研究
+  - [infoq][] NeurIPS提醒投稿作者：提交稿件需具备有效OpenReview个人资料
+  - [infoq][] 谷歌分享定制芯片与基础设施构建经验，称其将使客户受益
+  - [infoq][] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][] Anthropic与Cerebral Valley宣布围绕Claude Opus 4.7举办Clau
+  - [infoq][] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][] 英伟达CEO黄仁勋谈AI计算护城河：源于全栈平台与生态
+  - [infoq][] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][] a16z 加速器项目 Speedrun 2026年批次开放申请
+  - [infoq][] 亚马逊研究人员将在ICLR 2026展示大语言模型、自动推理与强化学习工作
+  - [infoq][] a16z 宣布 2026 年 Speedrun 加速器项目开放申请，投资额最高100万美元
+  - [infoq][] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [量子位][] 全球最大规模含触觉数据集，凭什么吸引谷歌和众多高校的加入？
+  - [aibase][] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][] 上海 AI 实验室发布创新 ViraHInter 模型，提升抗病毒药物研发效率
+  - [aibase][] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][] 爱奇艺上线“AI艺人库”惹争议：是降本增效的利器，还是行业“自掘坟墓”？
+  - [aibase][] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][] 开发者注意！阿里云百炼平台API限流政策将迎来重要调整
+  - [aibase][] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][] 华为全新 XMAGE 智拍功能震撼发布，支持 AI 姿势推荐
+  - [aibase][] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][] ​微软全球最强 AI 数据中心 Fairwater 提前启用，助力 AI 技术发展
+  - [aibase][] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][] ​马斯克提出全民高收入应对 AI 失业，专家却持反对意见
+  - [aibase][] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:12:42] keyword_filter - OUTPUT: 36条 | 移除22条
+============================================================
+  - [huxiu][] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][] 阿里HappyHorse公布开放测试时间
+  - [huxiu][] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][] 华为全新 XMAGE 智拍功能震撼发布，支持 AI 姿势推荐
+  - [aibase][] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:12:42] bge_dedup - INPUT: 36条
+============================================================
+  - [huxiu][] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][] 阿里HappyHorse公布开放测试时间
+  - [huxiu][] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][] 华为全新 XMAGE 智拍功能震撼发布，支持 AI 姿势推荐
+  - [aibase][] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:13:00] bge_dedup - OUTPUT: 35条 | 移除1条
+============================================================
+  - [huxiu][] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][] 阿里HappyHorse公布开放测试时间
+  - [huxiu][] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:13:00] llm_classify - INPUT: 35条
+============================================================
+  - [huxiu][] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][] 阿里HappyHorse公布开放测试时间
+  - [huxiu][] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:13:06] keyword_filter - INPUT: 58条
+============================================================
+  - [huxiu][] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][] 亚马逊与Anthropic将在AWS技术上投入超1000亿美元
+  - [huxiu][] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][] 商汤医疗再获超5亿元融资，估值突破10亿美元
+  - [huxiu][] “曦望”完成新一轮超10亿元人民币融资
+  - [huxiu][] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][] “智能派”完成数亿元B+轮融资
+  - [huxiu][] 阿里HappyHorse公布开放测试时间
+  - [huxiu][] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][] 我国持续完善人工智能、大数据等新兴领域知识产权保护制度
+  - [huxiu][] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [huxiu][] DeepSeek被爆估值800亿
+  - [huxiu][] Meta计划于5月20日启动今年首轮大规模裁员
+  - [huxiu][] 三重逻辑叠加共振，存储芯片迎超级周期
+  - [infoq][] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][] Anthropic启动STEM Fellows项目，招募专家推进AI科学研究
+  - [infoq][] NeurIPS提醒投稿作者：提交稿件需具备有效OpenReview个人资料
+  - [infoq][] 谷歌分享定制芯片与基础设施构建经验，称其将使客户受益
+  - [infoq][] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][] Anthropic与Cerebral Valley宣布围绕Claude Opus 4.7举办Clau
+  - [infoq][] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][] 英伟达CEO黄仁勋谈AI计算护城河：源于全栈平台与生态
+  - [infoq][] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][] a16z 加速器项目 Speedrun 2026年批次开放申请
+  - [infoq][] 亚马逊研究人员将在ICLR 2026展示大语言模型、自动推理与强化学习工作
+  - [infoq][] a16z 宣布 2026 年 Speedrun 加速器项目开放申请，投资额最高100万美元
+  - [infoq][] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [量子位][] 全球最大规模含触觉数据集，凭什么吸引谷歌和众多高校的加入？
+  - [aibase][] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][] 上海 AI 实验室发布创新 ViraHInter 模型，提升抗病毒药物研发效率
+  - [aibase][] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][] 爱奇艺上线“AI艺人库”惹争议：是降本增效的利器，还是行业“自掘坟墓”？
+  - [aibase][] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][] 开发者注意！阿里云百炼平台API限流政策将迎来重要调整
+  - [aibase][] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][] 华为全新 XMAGE 智拍功能震撼发布，支持 AI 姿势推荐
+  - [aibase][] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][] ​微软全球最强 AI 数据中心 Fairwater 提前启用，助力 AI 技术发展
+  - [aibase][] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][] ​马斯克提出全民高收入应对 AI 失业，专家却持反对意见
+  - [aibase][] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:13:06] keyword_filter - OUTPUT: 36条 | 移除22条
+============================================================
+  - [huxiu][] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][] 阿里HappyHorse公布开放测试时间
+  - [huxiu][] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][] 华为全新 XMAGE 智拍功能震撼发布，支持 AI 姿势推荐
+  - [aibase][] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:13:06] bge_dedup - INPUT: 36条
+============================================================
+  - [huxiu][] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][] 阿里HappyHorse公布开放测试时间
+  - [huxiu][] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][] 华为全新 XMAGE 智拍功能震撼发布，支持 AI 姿势推荐
+  - [aibase][] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:13:25] bge_dedup - OUTPUT: 35条 | 移除1条
+============================================================
+  - [huxiu][] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][] 阿里HappyHorse公布开放测试时间
+  - [huxiu][] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:13:25] llm_classify - INPUT: 35条
+============================================================
+  - [huxiu][] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][] 阿里HappyHorse公布开放测试时间
+  - [huxiu][] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:14:02] llm_classify - OUTPUT: 35条 | 保留35条
+============================================================
+  - [huxiu][国外AI资讯] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][国外AI资讯] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][智能硬件] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][国外AI资讯] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][国内AI资讯] 阿里HappyHorse公布开放测试时间
+  - [huxiu][国内AI资讯] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][智能硬件] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][国外AI资讯] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][国外AI资讯] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][国外AI资讯] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][国外AI资讯] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][国外AI资讯] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][国外AI资讯] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][国外AI资讯] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][国外AI资讯] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][国外AI资讯] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][智能硬件] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][国外AI资讯] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][国外AI资讯] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][国内AI资讯] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][国内AI资讯] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][国内AI资讯] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][国内AI资讯] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][国内AI资讯] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][国内AI资讯] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][国内AI资讯] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][其它科技资讯] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][国内AI资讯] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][智能硬件] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][国内AI资讯] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][其它科技资讯] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][国内AI资讯] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][智能硬件] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][其它科技资讯] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][国内AI资讯] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:14:02] llm_summary - INPUT: 35条
+============================================================
+  - [huxiu][国外AI资讯] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][国外AI资讯] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][智能硬件] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][国外AI资讯] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][国内AI资讯] 阿里HappyHorse公布开放测试时间
+  - [huxiu][国内AI资讯] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][智能硬件] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][国外AI资讯] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][国外AI资讯] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][国外AI资讯] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][国外AI资讯] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][国外AI资讯] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][国外AI资讯] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][国外AI资讯] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][国外AI资讯] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][国外AI资讯] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][智能硬件] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][国外AI资讯] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][国外AI资讯] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][国内AI资讯] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][国内AI资讯] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][国内AI资讯] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][国内AI资讯] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][国内AI资讯] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][国内AI资讯] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][国内AI资讯] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][其它科技资讯] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][国内AI资讯] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][智能硬件] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][国内AI资讯] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][其它科技资讯] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][国内AI资讯] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][智能硬件] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][其它科技资讯] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][国内AI资讯] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:14:16] llm_summary - OUTPUT: 35条 | 成功1条
+============================================================
+  - [huxiu][国外AI资讯] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][国外AI资讯] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][智能硬件] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][国外AI资讯] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][国内AI资讯] 阿里HappyHorse公布开放测试时间
+  - [huxiu][国内AI资讯] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][智能硬件] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][国外AI资讯] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][国外AI资讯] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][国外AI资讯] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][国外AI资讯] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][国外AI资讯] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][国外AI资讯] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][国外AI资讯] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][国外AI资讯] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][国外AI资讯] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][智能硬件] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][国外AI资讯] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][国外AI资讯] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][国内AI资讯] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][国内AI资讯] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][国内AI资讯] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][国内AI资讯] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][国内AI资讯] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][国内AI资讯] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][国内AI资讯] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][其它科技资讯] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][国内AI资讯] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][智能硬件] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][国内AI资讯] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][其它科技资讯] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][国内AI资讯] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][智能硬件] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][其它科技资讯] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][国内AI资讯] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:14:44] llm_classify - OUTPUT: 35条 | 保留35条
+============================================================
+  - [huxiu][国外AI资讯] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][国外AI资讯] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][国外AI资讯] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][国外AI资讯] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][国内AI资讯] 阿里HappyHorse公布开放测试时间
+  - [huxiu][国内AI资讯] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][智能硬件] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][国外AI资讯] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][国外AI资讯] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][国外AI资讯] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][国外AI资讯] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][国外AI资讯] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][国外AI资讯] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][国外AI资讯] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][其它科技资讯] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][国外AI资讯] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][智能硬件] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][国外AI资讯] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][国外AI资讯] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][国内AI资讯] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][国内AI资讯] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][国内AI资讯] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][国内AI资讯] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][国内AI资讯] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][国内AI资讯] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][国内AI资讯] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][其它科技资讯] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][国内AI资讯] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][智能硬件] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][国内AI资讯] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][国内AI资讯] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][国内AI资讯] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][智能硬件] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][国外AI资讯] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][国内AI资讯] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:14:44] llm_summary - INPUT: 35条
+============================================================
+  - [huxiu][国外AI资讯] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][国外AI资讯] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][国外AI资讯] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][国外AI资讯] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][国内AI资讯] 阿里HappyHorse公布开放测试时间
+  - [huxiu][国内AI资讯] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][智能硬件] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][国外AI资讯] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][国外AI资讯] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][国外AI资讯] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][国外AI资讯] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][国外AI资讯] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][国外AI资讯] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][国外AI资讯] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][其它科技资讯] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][国外AI资讯] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][智能硬件] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][国外AI资讯] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][国外AI资讯] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][国内AI资讯] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][国内AI资讯] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][国内AI资讯] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][国内AI资讯] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][国内AI资讯] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][国内AI资讯] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][国内AI资讯] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][其它科技资讯] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][国内AI资讯] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][智能硬件] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][国内AI资讯] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][国内AI资讯] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][国内AI资讯] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][智能硬件] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][国外AI资讯] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][国内AI资讯] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:15:05] llm_summary - OUTPUT: 35条 | 成功1条
+============================================================
+  - [huxiu][国外AI资讯] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][国外AI资讯] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][国外AI资讯] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][国外AI资讯] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][国内AI资讯] 阿里HappyHorse公布开放测试时间
+  - [huxiu][国内AI资讯] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][智能硬件] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][国外AI资讯] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][国外AI资讯] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][国外AI资讯] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][国外AI资讯] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][国外AI资讯] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][国外AI资讯] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][国外AI资讯] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][其它科技资讯] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][国外AI资讯] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][智能硬件] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][国外AI资讯] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][国外AI资讯] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][国内AI资讯] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][国内AI资讯] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][国内AI资讯] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][国内AI资讯] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][国内AI资讯] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][国内AI资讯] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][国内AI资讯] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][其它科技资讯] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][国内AI资讯] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][智能硬件] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][国内AI资讯] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][国内AI资讯] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][国内AI资讯] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][智能硬件] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][国外AI资讯] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][国内AI资讯] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:15:34] keyword_filter - INPUT: 58条
+============================================================
+  - [huxiu][] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][] 亚马逊与Anthropic将在AWS技术上投入超1000亿美元
+  - [huxiu][] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][] 商汤医疗再获超5亿元融资，估值突破10亿美元
+  - [huxiu][] “曦望”完成新一轮超10亿元人民币融资
+  - [huxiu][] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][] “智能派”完成数亿元B+轮融资
+  - [huxiu][] 阿里HappyHorse公布开放测试时间
+  - [huxiu][] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][] 我国持续完善人工智能、大数据等新兴领域知识产权保护制度
+  - [huxiu][] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [huxiu][] DeepSeek被爆估值800亿
+  - [huxiu][] Meta计划于5月20日启动今年首轮大规模裁员
+  - [huxiu][] 三重逻辑叠加共振，存储芯片迎超级周期
+  - [infoq][] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][] Anthropic启动STEM Fellows项目，招募专家推进AI科学研究
+  - [infoq][] NeurIPS提醒投稿作者：提交稿件需具备有效OpenReview个人资料
+  - [infoq][] 谷歌分享定制芯片与基础设施构建经验，称其将使客户受益
+  - [infoq][] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][] Anthropic与Cerebral Valley宣布围绕Claude Opus 4.7举办Clau
+  - [infoq][] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][] 英伟达CEO黄仁勋谈AI计算护城河：源于全栈平台与生态
+  - [infoq][] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][] a16z 加速器项目 Speedrun 2026年批次开放申请
+  - [infoq][] 亚马逊研究人员将在ICLR 2026展示大语言模型、自动推理与强化学习工作
+  - [infoq][] a16z 宣布 2026 年 Speedrun 加速器项目开放申请，投资额最高100万美元
+  - [infoq][] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [量子位][] 全球最大规模含触觉数据集，凭什么吸引谷歌和众多高校的加入？
+  - [aibase][] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][] 上海 AI 实验室发布创新 ViraHInter 模型，提升抗病毒药物研发效率
+  - [aibase][] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][] 爱奇艺上线“AI艺人库”惹争议：是降本增效的利器，还是行业“自掘坟墓”？
+  - [aibase][] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][] 开发者注意！阿里云百炼平台API限流政策将迎来重要调整
+  - [aibase][] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][] 华为全新 XMAGE 智拍功能震撼发布，支持 AI 姿势推荐
+  - [aibase][] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][] ​微软全球最强 AI 数据中心 Fairwater 提前启用，助力 AI 技术发展
+  - [aibase][] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][] ​马斯克提出全民高收入应对 AI 失业，专家却持反对意见
+  - [aibase][] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:15:34] keyword_filter - OUTPUT: 36条 | 移除22条
+============================================================
+  - [huxiu][] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][] 阿里HappyHorse公布开放测试时间
+  - [huxiu][] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][] 华为全新 XMAGE 智拍功能震撼发布，支持 AI 姿势推荐
+  - [aibase][] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:15:34] bge_dedup - INPUT: 36条
+============================================================
+  - [huxiu][] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][] 阿里HappyHorse公布开放测试时间
+  - [huxiu][] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][] 华为全新 XMAGE 智拍功能震撼发布，支持 AI 姿势推荐
+  - [aibase][] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:15:56] bge_dedup - OUTPUT: 35条 | 移除1条
+============================================================
+  - [huxiu][] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][] 阿里HappyHorse公布开放测试时间
+  - [huxiu][] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:15:57] llm_classify - INPUT: 35条
+============================================================
+  - [huxiu][] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][] 阿里HappyHorse公布开放测试时间
+  - [huxiu][] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:16:12] keyword_filter - INPUT: 58条
+============================================================
+  - [huxiu][] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][] 亚马逊与Anthropic将在AWS技术上投入超1000亿美元
+  - [huxiu][] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][] 商汤医疗再获超5亿元融资，估值突破10亿美元
+  - [huxiu][] “曦望”完成新一轮超10亿元人民币融资
+  - [huxiu][] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][] “智能派”完成数亿元B+轮融资
+  - [huxiu][] 阿里HappyHorse公布开放测试时间
+  - [huxiu][] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][] 我国持续完善人工智能、大数据等新兴领域知识产权保护制度
+  - [huxiu][] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [huxiu][] DeepSeek被爆估值800亿
+  - [huxiu][] Meta计划于5月20日启动今年首轮大规模裁员
+  - [huxiu][] 三重逻辑叠加共振，存储芯片迎超级周期
+  - [infoq][] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][] Anthropic启动STEM Fellows项目，招募专家推进AI科学研究
+  - [infoq][] NeurIPS提醒投稿作者：提交稿件需具备有效OpenReview个人资料
+  - [infoq][] 谷歌分享定制芯片与基础设施构建经验，称其将使客户受益
+  - [infoq][] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][] Anthropic与Cerebral Valley宣布围绕Claude Opus 4.7举办Clau
+  - [infoq][] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][] 英伟达CEO黄仁勋谈AI计算护城河：源于全栈平台与生态
+  - [infoq][] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][] a16z 加速器项目 Speedrun 2026年批次开放申请
+  - [infoq][] 亚马逊研究人员将在ICLR 2026展示大语言模型、自动推理与强化学习工作
+  - [infoq][] a16z 宣布 2026 年 Speedrun 加速器项目开放申请，投资额最高100万美元
+  - [infoq][] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [量子位][] 全球最大规模含触觉数据集，凭什么吸引谷歌和众多高校的加入？
+  - [aibase][] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][] 上海 AI 实验室发布创新 ViraHInter 模型，提升抗病毒药物研发效率
+  - [aibase][] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][] 爱奇艺上线“AI艺人库”惹争议：是降本增效的利器，还是行业“自掘坟墓”？
+  - [aibase][] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][] 开发者注意！阿里云百炼平台API限流政策将迎来重要调整
+  - [aibase][] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][] 华为全新 XMAGE 智拍功能震撼发布，支持 AI 姿势推荐
+  - [aibase][] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][] ​微软全球最强 AI 数据中心 Fairwater 提前启用，助力 AI 技术发展
+  - [aibase][] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][] ​马斯克提出全民高收入应对 AI 失业，专家却持反对意见
+  - [aibase][] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:16:12] keyword_filter - OUTPUT: 36条 | 移除22条
+============================================================
+  - [huxiu][] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][] 阿里HappyHorse公布开放测试时间
+  - [huxiu][] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][] 华为全新 XMAGE 智拍功能震撼发布，支持 AI 姿势推荐
+  - [aibase][] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:16:12] bge_dedup - INPUT: 36条
+============================================================
+  - [huxiu][] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][] 阿里HappyHorse公布开放测试时间
+  - [huxiu][] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][] 华为全新 XMAGE 智拍功能震撼发布，支持 AI 姿势推荐
+  - [aibase][] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:16:19] llm_classify - OUTPUT: 35条 | 保留35条
+============================================================
+  - [huxiu][国外AI资讯] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][国外AI资讯] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][智能硬件] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][国外AI资讯] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][国内AI资讯] 阿里HappyHorse公布开放测试时间
+  - [huxiu][智能硬件] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][智能硬件] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][国外AI资讯] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][国外AI资讯] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][国外AI资讯] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][其它科技资讯] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][国外AI资讯] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][国外AI资讯] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][国外AI资讯] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][国外AI资讯] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][智能硬件] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][智能硬件] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][国外AI资讯] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][国外AI资讯] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][智能硬件] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][国内AI资讯] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][其它科技资讯] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][国内AI资讯] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][国内AI资讯] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][国内AI资讯] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][国内AI资讯] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][其它科技资讯] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][国内AI资讯] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][智能硬件] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][智能硬件] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][其它科技资讯] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][国内AI资讯] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][智能硬件] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][其它科技资讯] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][国内AI资讯] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:16:19] llm_summary - INPUT: 35条
+============================================================
+  - [huxiu][国外AI资讯] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][国外AI资讯] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][智能硬件] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][国外AI资讯] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][国内AI资讯] 阿里HappyHorse公布开放测试时间
+  - [huxiu][智能硬件] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][智能硬件] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][国外AI资讯] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][国外AI资讯] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][国外AI资讯] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][其它科技资讯] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][国外AI资讯] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][国外AI资讯] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][国外AI资讯] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][国外AI资讯] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][智能硬件] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][智能硬件] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][国外AI资讯] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][国外AI资讯] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][智能硬件] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][国内AI资讯] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][其它科技资讯] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][国内AI资讯] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][国内AI资讯] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][国内AI资讯] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][国内AI资讯] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][其它科技资讯] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][国内AI资讯] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][智能硬件] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][智能硬件] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][其它科技资讯] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][国内AI资讯] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][智能硬件] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][其它科技资讯] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][国内AI资讯] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:16:31] bge_dedup - OUTPUT: 35条 | 移除1条
+============================================================
+  - [huxiu][] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][] 阿里HappyHorse公布开放测试时间
+  - [huxiu][] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:16:31] llm_classify - INPUT: 35条
+============================================================
+  - [huxiu][] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][] 阿里HappyHorse公布开放测试时间
+  - [huxiu][] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:16:34] llm_summary - OUTPUT: 35条 | 成功1条
+============================================================
+  - [huxiu][国外AI资讯] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][国外AI资讯] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][智能硬件] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][国外AI资讯] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][国内AI资讯] 阿里HappyHorse公布开放测试时间
+  - [huxiu][智能硬件] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][智能硬件] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][国外AI资讯] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][国外AI资讯] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][国外AI资讯] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][其它科技资讯] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][国外AI资讯] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][国外AI资讯] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][国外AI资讯] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][国外AI资讯] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][智能硬件] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][智能硬件] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][国外AI资讯] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][国外AI资讯] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][智能硬件] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][国内AI资讯] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][其它科技资讯] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][国内AI资讯] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][国内AI资讯] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][国内AI资讯] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][国内AI资讯] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][其它科技资讯] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][国内AI资讯] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][智能硬件] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][智能硬件] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][其它科技资讯] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][国内AI资讯] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][智能硬件] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][其它科技资讯] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][国内AI资讯] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:16:57] keyword_filter - INPUT: 58条
+============================================================
+  - [huxiu][] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][] 亚马逊与Anthropic将在AWS技术上投入超1000亿美元
+  - [huxiu][] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][] 商汤医疗再获超5亿元融资，估值突破10亿美元
+  - [huxiu][] “曦望”完成新一轮超10亿元人民币融资
+  - [huxiu][] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][] “智能派”完成数亿元B+轮融资
+  - [huxiu][] 阿里HappyHorse公布开放测试时间
+  - [huxiu][] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][] 我国持续完善人工智能、大数据等新兴领域知识产权保护制度
+  - [huxiu][] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [huxiu][] DeepSeek被爆估值800亿
+  - [huxiu][] Meta计划于5月20日启动今年首轮大规模裁员
+  - [huxiu][] 三重逻辑叠加共振，存储芯片迎超级周期
+  - [infoq][] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][] Anthropic启动STEM Fellows项目，招募专家推进AI科学研究
+  - [infoq][] NeurIPS提醒投稿作者：提交稿件需具备有效OpenReview个人资料
+  - [infoq][] 谷歌分享定制芯片与基础设施构建经验，称其将使客户受益
+  - [infoq][] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][] Anthropic与Cerebral Valley宣布围绕Claude Opus 4.7举办Clau
+  - [infoq][] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][] 英伟达CEO黄仁勋谈AI计算护城河：源于全栈平台与生态
+  - [infoq][] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][] a16z 加速器项目 Speedrun 2026年批次开放申请
+  - [infoq][] 亚马逊研究人员将在ICLR 2026展示大语言模型、自动推理与强化学习工作
+  - [infoq][] a16z 宣布 2026 年 Speedrun 加速器项目开放申请，投资额最高100万美元
+  - [infoq][] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [量子位][] 全球最大规模含触觉数据集，凭什么吸引谷歌和众多高校的加入？
+  - [aibase][] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][] 上海 AI 实验室发布创新 ViraHInter 模型，提升抗病毒药物研发效率
+  - [aibase][] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][] 爱奇艺上线“AI艺人库”惹争议：是降本增效的利器，还是行业“自掘坟墓”？
+  - [aibase][] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][] 开发者注意！阿里云百炼平台API限流政策将迎来重要调整
+  - [aibase][] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][] 华为全新 XMAGE 智拍功能震撼发布，支持 AI 姿势推荐
+  - [aibase][] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][] ​微软全球最强 AI 数据中心 Fairwater 提前启用，助力 AI 技术发展
+  - [aibase][] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][] ​马斯克提出全民高收入应对 AI 失业，专家却持反对意见
+  - [aibase][] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:16:57] keyword_filter - OUTPUT: 36条 | 移除22条
+============================================================
+  - [huxiu][] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][] 阿里HappyHorse公布开放测试时间
+  - [huxiu][] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][] 华为全新 XMAGE 智拍功能震撼发布，支持 AI 姿势推荐
+  - [aibase][] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:16:57] bge_dedup - INPUT: 36条
+============================================================
+  - [huxiu][] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][] 阿里HappyHorse公布开放测试时间
+  - [huxiu][] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][] 华为全新 XMAGE 智拍功能震撼发布，支持 AI 姿势推荐
+  - [aibase][] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:17:10] llm_classify - OUTPUT: 35条 | 保留35条
+============================================================
+  - [huxiu][国外AI资讯] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][国外AI资讯] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][智能硬件] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][国外AI资讯] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][国内AI资讯] 阿里HappyHorse公布开放测试时间
+  - [huxiu][智能硬件] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][智能硬件] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][国外AI资讯] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][国外AI资讯] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][国外AI资讯] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][国外AI资讯] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][国外AI资讯] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][国外AI资讯] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][国外AI资讯] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][国外AI资讯] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][智能硬件] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][智能硬件] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][其它科技资讯] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][国外AI资讯] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][国内AI资讯] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][国内AI资讯] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][国内AI资讯] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][国内AI资讯] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][国内AI资讯] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][国内AI资讯] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][国内AI资讯] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][智能硬件] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][国内AI资讯] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][智能硬件] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][国内AI资讯] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][国内AI资讯] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][国内AI资讯] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][智能硬件] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][其它科技资讯] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][国内AI资讯] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:17:10] llm_summary - INPUT: 35条
+============================================================
+  - [huxiu][国外AI资讯] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][国外AI资讯] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][智能硬件] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][国外AI资讯] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][国内AI资讯] 阿里HappyHorse公布开放测试时间
+  - [huxiu][智能硬件] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][智能硬件] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][国外AI资讯] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][国外AI资讯] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][国外AI资讯] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][国外AI资讯] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][国外AI资讯] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][国外AI资讯] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][国外AI资讯] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][国外AI资讯] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][智能硬件] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][智能硬件] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][其它科技资讯] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][国外AI资讯] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][国内AI资讯] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][国内AI资讯] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][国内AI资讯] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][国内AI资讯] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][国内AI资讯] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][国内AI资讯] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][国内AI资讯] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][智能硬件] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][国内AI资讯] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][智能硬件] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][国内AI资讯] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][国内AI资讯] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][国内AI资讯] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][智能硬件] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][其它科技资讯] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][国内AI资讯] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:17:16] bge_dedup - OUTPUT: 35条 | 移除1条
+============================================================
+  - [huxiu][] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][] 阿里HappyHorse公布开放测试时间
+  - [huxiu][] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:17:16] llm_classify - INPUT: 35条
+============================================================
+  - [huxiu][] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][] 阿里HappyHorse公布开放测试时间
+  - [huxiu][] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:17:23] llm_summary - OUTPUT: 35条 | 成功1条
+============================================================
+  - [huxiu][国外AI资讯] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][国外AI资讯] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][智能硬件] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][国外AI资讯] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][国内AI资讯] 阿里HappyHorse公布开放测试时间
+  - [huxiu][智能硬件] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][智能硬件] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][国外AI资讯] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][国外AI资讯] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][国外AI资讯] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][国外AI资讯] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][国外AI资讯] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][国外AI资讯] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][国外AI资讯] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][国外AI资讯] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][智能硬件] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][智能硬件] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][其它科技资讯] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][国外AI资讯] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][国内AI资讯] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][国内AI资讯] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][国内AI资讯] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][国内AI资讯] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][国内AI资讯] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][国内AI资讯] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][国内AI资讯] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][智能硬件] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][国内AI资讯] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][智能硬件] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][国内AI资讯] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][国内AI资讯] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][国内AI资讯] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][智能硬件] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][其它科技资讯] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][国内AI资讯] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:17:29] llm_classify - OUTPUT: 35条 | 保留35条
+============================================================
+  - [huxiu][国外AI资讯] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][国外AI资讯] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][国外AI资讯] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][国外AI资讯] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][国内AI资讯] 阿里HappyHorse公布开放测试时间
+  - [huxiu][国内AI资讯] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][智能硬件] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][国外AI资讯] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][国外AI资讯] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][国外AI资讯] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][国外AI资讯] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][国外AI资讯] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][国外AI资讯] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][国外AI资讯] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][其它科技资讯] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][智能硬件] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][智能硬件] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][国外AI资讯] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][国外AI资讯] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][国内AI资讯] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][国内AI资讯] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][国内AI资讯] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][国内AI资讯] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][国内AI资讯] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][国内AI资讯] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][国内AI资讯] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][其它科技资讯] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][国内AI资讯] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][智能硬件] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][国内AI资讯] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][国内AI资讯] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][国内AI资讯] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][智能硬件] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][国外AI资讯] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][国内AI资讯] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:17:29] llm_summary - INPUT: 35条
+============================================================
+  - [huxiu][国外AI资讯] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][国外AI资讯] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][国外AI资讯] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][国外AI资讯] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][国内AI资讯] 阿里HappyHorse公布开放测试时间
+  - [huxiu][国内AI资讯] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][智能硬件] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][国外AI资讯] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][国外AI资讯] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][国外AI资讯] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][国外AI资讯] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][国外AI资讯] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][国外AI资讯] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][国外AI资讯] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][其它科技资讯] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][智能硬件] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][智能硬件] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][国外AI资讯] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][国外AI资讯] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][国内AI资讯] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][国内AI资讯] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][国内AI资讯] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][国内AI资讯] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][国内AI资讯] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][国内AI资讯] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][国内AI资讯] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][其它科技资讯] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][国内AI资讯] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][智能硬件] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][国内AI资讯] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][国内AI资讯] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][国内AI资讯] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][智能硬件] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][国外AI资讯] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][国内AI资讯] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 08:17:44] llm_summary - OUTPUT: 35条 | 成功1条
+============================================================
+  - [huxiu][国外AI资讯] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][国外AI资讯] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [huxiu][国外AI资讯] 特斯拉2nm AI芯片订单由三星和台积电分别获得
+  - [huxiu][国外AI资讯] 英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等
+  - [huxiu][国内AI资讯] 阿里HappyHorse公布开放测试时间
+  - [huxiu][国内AI资讯] 小马智行在迪拜开启无人化Robotaxi测试
+  - [huxiu][智能硬件] 华为Pura 90系列推出AI姿势建议，改善拍照姿态
+  - [infoq][国外AI资讯] Anthropic 在 Cowork 编排层引入 Live Artifacts，支持构建持久化数据驱
+  - [infoq][国外AI资讯] 英伟达称自动驾驶迎来ChatGPT时刻
+  - [infoq][国外AI资讯] NVIDIA探讨利用智能体AI构建自主网络
+  - [infoq][国外AI资讯] Google BigQuery 预览对话式分析功能，支持自然语言查询与AI分析
+  - [infoq][国外AI资讯] Google AI Studio 为 AI Pro 与 Ultra 订阅用户提升使用限制并开放新模型
+  - [infoq][国外AI资讯] sama宣布Codex发布Chronicle研究预览版
+  - [infoq][国外AI资讯] Hugging Face Transformers 库新增对 SAM-3 Lite-Text 模型的
+  - [infoq][其它科技资讯] LearnOpenCV测试Opus 4.7汽车检测能力，YOLO速度优势明显
+  - [infoq][智能硬件] NVIDIA Isaac GR00T N1.7 基础模型开放早期访问
+  - [infoq][智能硬件] ABB Robotics、JLR与Tulip Interfaces采用Physical AI提升制造
+  - [infoq][国外AI资讯] 微软研究播客探讨AI在应对气候变化中的双重角色
+  - [infoq][国外AI资讯] Codex实验性功能Chronicle上线，赋予模型近期记忆能力
+  - [量子位][国内AI资讯] 谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”
+  - [量子位][国内AI资讯] 阿里发布Wan2.7-Image，人类偏好盲测评分国内第一
+  - [aibase][国内AI资讯] 跨境电商智能化再进阶：吉宏股份与亚马逊云科技开启AI全域深度合作
+  - [aibase][国内AI资讯] 爱奇艺 “AI 艺人库” 计划引发争议 多位艺人否认授权
+  - [aibase][国内AI资讯] 国产大模型再突破：Qwen3.6-35B-A3B正式开源，主打高效率与多模态思考
+  - [aibase][国内AI资讯] ​阿里云优化百炼多模态开发套件 API 调用限流
+  - [aibase][国内AI资讯] ​阿里巴巴发布 Qwen3.6-Max-Preview：编程智能新标杆
+  - [aibase][其它科技资讯] 2026 年全球 AI 光收发模块市场规模将达 260 亿美元，供应链瓶颈亟待解决
+  - [aibase][国内AI资讯] 阿里通义实验室发布语音识别大模型Fun-ASR1.5 30 种语言、方言古诗都能秒转！
+  - [aibase][智能硬件] 华为 Sound X 5 官宣预售：AI 大模型赋能音频新体验
+  - [aibase][国内AI资讯] Moonshot AI携手清华大学发布PrfaaS架构，破解大模型算力瓶颈
+  - [aibase][国内AI资讯] 影视飓风 Tim 因 AI 影像引发网友热议：标注与不标注的不同反应
+  - [aibase][国内AI资讯] 蚂蚁灵光App闪应用突破3000万个，宣布投入1亿元启动专项创作者激励
+  - [aibase][智能硬件] ​Anthropic推出桌面宠物 Claude Buddy，硬件竟是深圳制造
+  - [aibase][国外AI资讯] 英国 AI 大臣肯德尔：工作中不依赖人工智能，私人生活中积极使用
+  - [aibase][国内AI资讯] 爱奇艺 CEO 龚宇：借 AI 技术推动去中心化转型，鼓励创作者自主上传作品
+
+[2026-04-21 23:06:50] keyword_filter - INPUT: 58条
+============================================================
+  - [huxiu][] OpenAI奥特曼：感谢库克和苹果公司
+  - [huxiu][] 机器人完成体内自体肾移植术，北大医院李学松团队实现国内突破
+  - [huxiu][] John Ternus或将恢复乔布斯时代的果断决策风格
+  - [huxiu][] 梁文锋不在乎赢，DeepSeek不能输
+  - [huxiu][] 腾讯QClaw海外版内测，5天开发完毕，99%代码自编，内测每日赠送4000万token
+  - [huxiu][] 贝佐斯AI实验室融资接近完成，估值近380亿美元
+  - [huxiu][] 谷歌扩展Chrome浏览器Gemini功能至更多亚太国家
+  - [huxiu][] 轨道辰光完成PreA1轮股债权融资，获577亿元战略授信支持
+  - [huxiu][] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][] 亚马逊与Anthropic将在AWS技术上投入超1000亿美元
+  - [huxiu][] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [infoq][] Yann LeCun 指出其新论文多数解读有误，强调 JEPA 架构取得关键进展
+  - [infoq][] IDC将举办线上活动探讨Agentic AI驱动下的企业基础设施需求
+  - [infoq][] 阿里云发布Qwen3.6-Max-Preview预览版模型
+  - [infoq][] xAI发布Grok 4.3 Beta，新增原生长视频理解与摘要功能
+  - [infoq][] 艾伦·图灵研究所将举办讲座探讨前沿AI系统韧性构建
+  - [infoq][] OECD将于明日发布最新版《征税工资》报告
+  - [infoq][] Hugging Face 推出自动化训练后工作流程的智能体 ml-intern
+  - [infoq][] Gartner发布指南，助企业识别高价值AI用例并应用AI FinOps
+  - [infoq][] 商汤医疗完成超5亿元融资，估值突破10亿美元
+  - [infoq][] 阿里巴巴发布下一代旗舰模型 Qwen3.6-Max-Preview 早期预览
+  - [infoq][] Kimi-K2.6 模型在 Qoder AI IDE 中发布
+  - [infoq][] Kimu K2.6模型可连续运行超12小时，执行超4000次工具调用
+  - [infoq][] Kimi K2.6 在 Claw-Eval 榜单上位列第四，成为领先开源智能体模型
+  - [infoq][] Moonshot AI 发布 Kimi K2.6 模型 API
+  - [infoq][] UNESCO发布报告，首次将其三大保护地网络作为整体研究
+  - [infoq][] Firecrawl 开源 Web-Agent 框架，支持构建自主网络交互 AI 智能体
+  - [infoq][] OECD将于2026年4月在伊斯坦布尔举办技能峰会，聚焦释放跨世代人才
+  - [infoq][] OpenAI推出Chronicle功能，通过后台屏幕捕获为AI提供持续桌面上下文
+  - [infoq][] 通义千问Qwen3.6 Plus在Code Arena与Text Arena排行榜得分提升
+  - [infoq][] Moonshot AI 宣布 Fireworks AI 成为 Kimi K2.6 模型 Day 0 
+  - [量子位][] 物理优先+VLA闭环进化：高德ABot-World世界模型，破解具身智能零样本泛化难题
+  - [量子位][] ISC.AI 2026创新独角兽沙盒大赛在京启动 聚焦智能体 共筑AI创新生态
+  - [量子位][] 小米宣布上线PC版龙虾，Xiaomi miclaw正式开启PC、Mac、有屏音箱多终端封测
+  - [量子位][] Agent正杀入软件研发一线！全球超60位技术专家拆解AI落地困局，2026奇点智能技术大会收官
+  - [量子位][] 技术深度揭秘｜云知声U1-OCR架构升级 + API 开放，重构 OCR 3.0 时代
+  - [量子位][] 天立启鸣AI研究院院长刘志毅，入选2025福布斯中国科创人物
+  - [量子位][] K型分化，如何破局？| 第20届中国投资年会·年度峰会即将启幕
+  - [aibase][] AI 办公新动向：Claude 完成 Office 全覆盖，修订模式成博弈焦点
+  - [aibase][] 布林亲自下场！谷歌组建Gemini精英团队，AI编程赛道开启“贴身肉搏”
+  - [aibase][] 蚂蚁数科DTClaw上线AI支付功能，一句话让“龙虾”帮你付
+  - [aibase][] ​NSA 竟然获得 Anthropic Mythos 的访问权，尽管被列为供应链风险
+  - [aibase][] 首发：量子算力正式“拥抱”AI，国产超导量子计算机“本源悟空”实现重大跨越
+  - [aibase][] ​微信鸿蒙版迎来 8.0.17.16 版本升级，AI 音乐功能闪亮登场
+  - [aibase][] 算力被“特工”耗尽？GitHub Copilot 紧急叫停个人账户注册
+  - [aibase][] 萤石发布EZVIZ AI Core X智能大模型主机：64Tops算力开启家居“大脑”时代
+  - [aibase][] 三星AI机器人“Luna”亮相：这款像点唱机的居家助手真的实用吗？
+  - [aibase][] Miclaw 多端互联重磅升级！手机、PC、Mac、小爱音箱无缝协同，共享记忆 + 远程控制一键搞定
+  - [aibase][] 天猫超市 15 周年放大招：首个AI超市智能体“超喵”正式上岗
+  - [aibase][] 腾讯 QClaw 海外版上线！一键安装独立客户端，支持全球主流模型，还能“领养”他人训练好的 AI 
+  - [aibase][] UU跑腿发布全新的“跑腿Skill” 开启AI跑腿服务
+  - [aibase][] ​亚马逊 50 亿美元加码Anthropic，千亿级“云端赌约”震撼AI圈
+  - [aibase][] ​月之暗面发布新模型K2.6：长程任务与智能体能力实现新突破
+  - [aibase][] 华为硬核上新：Pura90 系列领衔，AI眼镜与阔折叠手机齐亮相
+  - [aibase][] 贝索斯豪掷百亿美金：普罗米修斯AI实验室估值冲向 380 亿
+  - [aibase][] 华为浏览器AI播客功能上线 联手《旅行家》打造精品专栏
+  - [aibase][] 工信部：一季度机器人产量激增33.2%，AI硬科技点亮智慧生活
+  - [aibase][] 突发福利！AI Studio 彻底免费开放，Pro/Ultra会员可畅玩Gemini Pro等顶级模
+
+[2026-04-21 23:06:50] keyword_filter - OUTPUT: 45条 | 移除13条
+============================================================
+  - [huxiu][] OpenAI奥特曼：感谢库克和苹果公司
+  - [huxiu][] John Ternus或将恢复乔布斯时代的果断决策风格
+  - [huxiu][] 腾讯QClaw海外版内测，5天开发完毕，99%代码自编，内测每日赠送4000万token
+  - [huxiu][] 谷歌扩展Chrome浏览器Gemini功能至更多亚太国家
+  - [huxiu][] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [infoq][] Yann LeCun 指出其新论文多数解读有误，强调 JEPA 架构取得关键进展
+  - [infoq][] 阿里云发布Qwen3.6-Max-Preview预览版模型
+  - [infoq][] xAI发布Grok 4.3 Beta，新增原生长视频理解与摘要功能
+  - [infoq][] OECD将于明日发布最新版《征税工资》报告
+  - [infoq][] Hugging Face 推出自动化训练后工作流程的智能体 ml-intern
+  - [infoq][] 阿里巴巴发布下一代旗舰模型 Qwen3.6-Max-Preview 早期预览
+  - [infoq][] Kimi-K2.6 模型在 Qoder AI IDE 中发布
+  - [infoq][] Kimu K2.6模型可连续运行超12小时，执行超4000次工具调用
+  - [infoq][] Kimi K2.6 在 Claw-Eval 榜单上位列第四，成为领先开源智能体模型
+  - [infoq][] Moonshot AI 发布 Kimi K2.6 模型 API
+  - [infoq][] UNESCO发布报告，首次将其三大保护地网络作为整体研究
+  - [infoq][] Firecrawl 开源 Web-Agent 框架，支持构建自主网络交互 AI 智能体
+  - [infoq][] OpenAI推出Chronicle功能，通过后台屏幕捕获为AI提供持续桌面上下文
+  - [infoq][] 通义千问Qwen3.6 Plus在Code Arena与Text Arena排行榜得分提升
+  - [infoq][] Moonshot AI 宣布 Fireworks AI 成为 Kimi K2.6 模型 Day 0 
+  - [量子位][] 物理优先+VLA闭环进化：高德ABot-World世界模型，破解具身智能零样本泛化难题
+  - [量子位][] ISC.AI 2026创新独角兽沙盒大赛在京启动 聚焦智能体 共筑AI创新生态
+  - [量子位][] 小米宣布上线PC版龙虾，Xiaomi miclaw正式开启PC、Mac、有屏音箱多终端封测
+  - [量子位][] Agent正杀入软件研发一线！全球超60位技术专家拆解AI落地困局，2026奇点智能技术大会收官
+  - [量子位][] 技术深度揭秘｜云知声U1-OCR架构升级 + API 开放，重构 OCR 3.0 时代
+  - [量子位][] 天立启鸣AI研究院院长刘志毅，入选2025福布斯中国科创人物
+  - [aibase][] AI 办公新动向：Claude 完成 Office 全覆盖，修订模式成博弈焦点
+  - [aibase][] 布林亲自下场！谷歌组建Gemini精英团队，AI编程赛道开启“贴身肉搏”
+  - [aibase][] 蚂蚁数科DTClaw上线AI支付功能，一句话让“龙虾”帮你付
+  - [aibase][] ​NSA 竟然获得 Anthropic Mythos 的访问权，尽管被列为供应链风险
+  - [aibase][] 首发：量子算力正式“拥抱”AI，国产超导量子计算机“本源悟空”实现重大跨越
+  - [aibase][] ​微信鸿蒙版迎来 8.0.17.16 版本升级，AI 音乐功能闪亮登场
+  - [aibase][] 算力被“特工”耗尽？GitHub Copilot 紧急叫停个人账户注册
+  - [aibase][] 萤石发布EZVIZ AI Core X智能大模型主机：64Tops算力开启家居“大脑”时代
+  - [aibase][] 三星AI机器人“Luna”亮相：这款像点唱机的居家助手真的实用吗？
+  - [aibase][] Miclaw 多端互联重磅升级！手机、PC、Mac、小爱音箱无缝协同，共享记忆 + 远程控制一键搞定
+  - [aibase][] 天猫超市 15 周年放大招：首个AI超市智能体“超喵”正式上岗
+  - [aibase][] 腾讯 QClaw 海外版上线！一键安装独立客户端，支持全球主流模型，还能“领养”他人训练好的 AI 
+  - [aibase][] UU跑腿发布全新的“跑腿Skill” 开启AI跑腿服务
+  - [aibase][] ​月之暗面发布新模型K2.6：长程任务与智能体能力实现新突破
+  - [aibase][] 华为硬核上新：Pura90 系列领衔，AI眼镜与阔折叠手机齐亮相
+  - [aibase][] 华为浏览器AI播客功能上线 联手《旅行家》打造精品专栏
+  - [aibase][] 工信部：一季度机器人产量激增33.2%，AI硬科技点亮智慧生活
+  - [aibase][] 突发福利！AI Studio 彻底免费开放，Pro/Ultra会员可畅玩Gemini Pro等顶级模
+
+[2026-04-21 23:06:50] bge_dedup - INPUT: 45条
+============================================================
+  - [huxiu][] OpenAI奥特曼：感谢库克和苹果公司
+  - [huxiu][] John Ternus或将恢复乔布斯时代的果断决策风格
+  - [huxiu][] 腾讯QClaw海外版内测，5天开发完毕，99%代码自编，内测每日赠送4000万token
+  - [huxiu][] 谷歌扩展Chrome浏览器Gemini功能至更多亚太国家
+  - [huxiu][] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [infoq][] Yann LeCun 指出其新论文多数解读有误，强调 JEPA 架构取得关键进展
+  - [infoq][] 阿里云发布Qwen3.6-Max-Preview预览版模型
+  - [infoq][] xAI发布Grok 4.3 Beta，新增原生长视频理解与摘要功能
+  - [infoq][] OECD将于明日发布最新版《征税工资》报告
+  - [infoq][] Hugging Face 推出自动化训练后工作流程的智能体 ml-intern
+  - [infoq][] 阿里巴巴发布下一代旗舰模型 Qwen3.6-Max-Preview 早期预览
+  - [infoq][] Kimi-K2.6 模型在 Qoder AI IDE 中发布
+  - [infoq][] Kimu K2.6模型可连续运行超12小时，执行超4000次工具调用
+  - [infoq][] Kimi K2.6 在 Claw-Eval 榜单上位列第四，成为领先开源智能体模型
+  - [infoq][] Moonshot AI 发布 Kimi K2.6 模型 API
+  - [infoq][] UNESCO发布报告，首次将其三大保护地网络作为整体研究
+  - [infoq][] Firecrawl 开源 Web-Agent 框架，支持构建自主网络交互 AI 智能体
+  - [infoq][] OpenAI推出Chronicle功能，通过后台屏幕捕获为AI提供持续桌面上下文
+  - [infoq][] 通义千问Qwen3.6 Plus在Code Arena与Text Arena排行榜得分提升
+  - [infoq][] Moonshot AI 宣布 Fireworks AI 成为 Kimi K2.6 模型 Day 0 
+  - [量子位][] 物理优先+VLA闭环进化：高德ABot-World世界模型，破解具身智能零样本泛化难题
+  - [量子位][] ISC.AI 2026创新独角兽沙盒大赛在京启动 聚焦智能体 共筑AI创新生态
+  - [量子位][] 小米宣布上线PC版龙虾，Xiaomi miclaw正式开启PC、Mac、有屏音箱多终端封测
+  - [量子位][] Agent正杀入软件研发一线！全球超60位技术专家拆解AI落地困局，2026奇点智能技术大会收官
+  - [量子位][] 技术深度揭秘｜云知声U1-OCR架构升级 + API 开放，重构 OCR 3.0 时代
+  - [量子位][] 天立启鸣AI研究院院长刘志毅，入选2025福布斯中国科创人物
+  - [aibase][] AI 办公新动向：Claude 完成 Office 全覆盖，修订模式成博弈焦点
+  - [aibase][] 布林亲自下场！谷歌组建Gemini精英团队，AI编程赛道开启“贴身肉搏”
+  - [aibase][] 蚂蚁数科DTClaw上线AI支付功能，一句话让“龙虾”帮你付
+  - [aibase][] ​NSA 竟然获得 Anthropic Mythos 的访问权，尽管被列为供应链风险
+  - [aibase][] 首发：量子算力正式“拥抱”AI，国产超导量子计算机“本源悟空”实现重大跨越
+  - [aibase][] ​微信鸿蒙版迎来 8.0.17.16 版本升级，AI 音乐功能闪亮登场
+  - [aibase][] 算力被“特工”耗尽？GitHub Copilot 紧急叫停个人账户注册
+  - [aibase][] 萤石发布EZVIZ AI Core X智能大模型主机：64Tops算力开启家居“大脑”时代
+  - [aibase][] 三星AI机器人“Luna”亮相：这款像点唱机的居家助手真的实用吗？
+  - [aibase][] Miclaw 多端互联重磅升级！手机、PC、Mac、小爱音箱无缝协同，共享记忆 + 远程控制一键搞定
+  - [aibase][] 天猫超市 15 周年放大招：首个AI超市智能体“超喵”正式上岗
+  - [aibase][] 腾讯 QClaw 海外版上线！一键安装独立客户端，支持全球主流模型，还能“领养”他人训练好的 AI 
+  - [aibase][] UU跑腿发布全新的“跑腿Skill” 开启AI跑腿服务
+  - [aibase][] ​月之暗面发布新模型K2.6：长程任务与智能体能力实现新突破
+  - [aibase][] 华为硬核上新：Pura90 系列领衔，AI眼镜与阔折叠手机齐亮相
+  - [aibase][] 华为浏览器AI播客功能上线 联手《旅行家》打造精品专栏
+  - [aibase][] 工信部：一季度机器人产量激增33.2%，AI硬科技点亮智慧生活
+  - [aibase][] 突发福利！AI Studio 彻底免费开放，Pro/Ultra会员可畅玩Gemini Pro等顶级模
+
+[2026-04-21 23:07:20] bge_dedup - OUTPUT: 43条 | 移除2条
+============================================================
+  - [huxiu][] OpenAI奥特曼：感谢库克和苹果公司
+  - [huxiu][] John Ternus或将恢复乔布斯时代的果断决策风格
+  - [huxiu][] 腾讯QClaw海外版内测，5天开发完毕，99%代码自编，内测每日赠送4000万token
+  - [huxiu][] 谷歌扩展Chrome浏览器Gemini功能至更多亚太国家
+  - [huxiu][] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [infoq][] Yann LeCun 指出其新论文多数解读有误，强调 JEPA 架构取得关键进展
+  - [infoq][] 阿里云发布Qwen3.6-Max-Preview预览版模型
+  - [infoq][] xAI发布Grok 4.3 Beta，新增原生长视频理解与摘要功能
+  - [infoq][] OECD将于明日发布最新版《征税工资》报告
+  - [infoq][] Hugging Face 推出自动化训练后工作流程的智能体 ml-intern
+  - [infoq][] Kimi-K2.6 模型在 Qoder AI IDE 中发布
+  - [infoq][] Kimu K2.6模型可连续运行超12小时，执行超4000次工具调用
+  - [infoq][] Kimi K2.6 在 Claw-Eval 榜单上位列第四，成为领先开源智能体模型
+  - [infoq][] UNESCO发布报告，首次将其三大保护地网络作为整体研究
+  - [infoq][] Firecrawl 开源 Web-Agent 框架，支持构建自主网络交互 AI 智能体
+  - [infoq][] OpenAI推出Chronicle功能，通过后台屏幕捕获为AI提供持续桌面上下文
+  - [infoq][] 通义千问Qwen3.6 Plus在Code Arena与Text Arena排行榜得分提升
+  - [infoq][] Moonshot AI 宣布 Fireworks AI 成为 Kimi K2.6 模型 Day 0 
+  - [量子位][] 物理优先+VLA闭环进化：高德ABot-World世界模型，破解具身智能零样本泛化难题
+  - [量子位][] ISC.AI 2026创新独角兽沙盒大赛在京启动 聚焦智能体 共筑AI创新生态
+  - [量子位][] 小米宣布上线PC版龙虾，Xiaomi miclaw正式开启PC、Mac、有屏音箱多终端封测
+  - [量子位][] Agent正杀入软件研发一线！全球超60位技术专家拆解AI落地困局，2026奇点智能技术大会收官
+  - [量子位][] 技术深度揭秘｜云知声U1-OCR架构升级 + API 开放，重构 OCR 3.0 时代
+  - [量子位][] 天立启鸣AI研究院院长刘志毅，入选2025福布斯中国科创人物
+  - [aibase][] AI 办公新动向：Claude 完成 Office 全覆盖，修订模式成博弈焦点
+  - [aibase][] 布林亲自下场！谷歌组建Gemini精英团队，AI编程赛道开启“贴身肉搏”
+  - [aibase][] 蚂蚁数科DTClaw上线AI支付功能，一句话让“龙虾”帮你付
+  - [aibase][] ​NSA 竟然获得 Anthropic Mythos 的访问权，尽管被列为供应链风险
+  - [aibase][] 首发：量子算力正式“拥抱”AI，国产超导量子计算机“本源悟空”实现重大跨越
+  - [aibase][] ​微信鸿蒙版迎来 8.0.17.16 版本升级，AI 音乐功能闪亮登场
+  - [aibase][] 算力被“特工”耗尽？GitHub Copilot 紧急叫停个人账户注册
+  - [aibase][] 萤石发布EZVIZ AI Core X智能大模型主机：64Tops算力开启家居“大脑”时代
+  - [aibase][] 三星AI机器人“Luna”亮相：这款像点唱机的居家助手真的实用吗？
+  - [aibase][] Miclaw 多端互联重磅升级！手机、PC、Mac、小爱音箱无缝协同，共享记忆 + 远程控制一键搞定
+  - [aibase][] 天猫超市 15 周年放大招：首个AI超市智能体“超喵”正式上岗
+  - [aibase][] 腾讯 QClaw 海外版上线！一键安装独立客户端，支持全球主流模型，还能“领养”他人训练好的 AI 
+  - [aibase][] UU跑腿发布全新的“跑腿Skill” 开启AI跑腿服务
+  - [aibase][] ​月之暗面发布新模型K2.6：长程任务与智能体能力实现新突破
+  - [aibase][] 华为硬核上新：Pura90 系列领衔，AI眼镜与阔折叠手机齐亮相
+  - [aibase][] 华为浏览器AI播客功能上线 联手《旅行家》打造精品专栏
+  - [aibase][] 工信部：一季度机器人产量激增33.2%，AI硬科技点亮智慧生活
+  - [aibase][] 突发福利！AI Studio 彻底免费开放，Pro/Ultra会员可畅玩Gemini Pro等顶级模
+
+[2026-04-21 23:07:20] llm_classify - INPUT: 43条
+============================================================
+  - [huxiu][] OpenAI奥特曼：感谢库克和苹果公司
+  - [huxiu][] John Ternus或将恢复乔布斯时代的果断决策风格
+  - [huxiu][] 腾讯QClaw海外版内测，5天开发完毕，99%代码自编，内测每日赠送4000万token
+  - [huxiu][] 谷歌扩展Chrome浏览器Gemini功能至更多亚太国家
+  - [huxiu][] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [infoq][] Yann LeCun 指出其新论文多数解读有误，强调 JEPA 架构取得关键进展
+  - [infoq][] 阿里云发布Qwen3.6-Max-Preview预览版模型
+  - [infoq][] xAI发布Grok 4.3 Beta，新增原生长视频理解与摘要功能
+  - [infoq][] OECD将于明日发布最新版《征税工资》报告
+  - [infoq][] Hugging Face 推出自动化训练后工作流程的智能体 ml-intern
+  - [infoq][] Kimi-K2.6 模型在 Qoder AI IDE 中发布
+  - [infoq][] Kimu K2.6模型可连续运行超12小时，执行超4000次工具调用
+  - [infoq][] Kimi K2.6 在 Claw-Eval 榜单上位列第四，成为领先开源智能体模型
+  - [infoq][] UNESCO发布报告，首次将其三大保护地网络作为整体研究
+  - [infoq][] Firecrawl 开源 Web-Agent 框架，支持构建自主网络交互 AI 智能体
+  - [infoq][] OpenAI推出Chronicle功能，通过后台屏幕捕获为AI提供持续桌面上下文
+  - [infoq][] 通义千问Qwen3.6 Plus在Code Arena与Text Arena排行榜得分提升
+  - [infoq][] Moonshot AI 宣布 Fireworks AI 成为 Kimi K2.6 模型 Day 0 
+  - [量子位][] 物理优先+VLA闭环进化：高德ABot-World世界模型，破解具身智能零样本泛化难题
+  - [量子位][] ISC.AI 2026创新独角兽沙盒大赛在京启动 聚焦智能体 共筑AI创新生态
+  - [量子位][] 小米宣布上线PC版龙虾，Xiaomi miclaw正式开启PC、Mac、有屏音箱多终端封测
+  - [量子位][] Agent正杀入软件研发一线！全球超60位技术专家拆解AI落地困局，2026奇点智能技术大会收官
+  - [量子位][] 技术深度揭秘｜云知声U1-OCR架构升级 + API 开放，重构 OCR 3.0 时代
+  - [量子位][] 天立启鸣AI研究院院长刘志毅，入选2025福布斯中国科创人物
+  - [aibase][] AI 办公新动向：Claude 完成 Office 全覆盖，修订模式成博弈焦点
+  - [aibase][] 布林亲自下场！谷歌组建Gemini精英团队，AI编程赛道开启“贴身肉搏”
+  - [aibase][] 蚂蚁数科DTClaw上线AI支付功能，一句话让“龙虾”帮你付
+  - [aibase][] ​NSA 竟然获得 Anthropic Mythos 的访问权，尽管被列为供应链风险
+  - [aibase][] 首发：量子算力正式“拥抱”AI，国产超导量子计算机“本源悟空”实现重大跨越
+  - [aibase][] ​微信鸿蒙版迎来 8.0.17.16 版本升级，AI 音乐功能闪亮登场
+  - [aibase][] 算力被“特工”耗尽？GitHub Copilot 紧急叫停个人账户注册
+  - [aibase][] 萤石发布EZVIZ AI Core X智能大模型主机：64Tops算力开启家居“大脑”时代
+  - [aibase][] 三星AI机器人“Luna”亮相：这款像点唱机的居家助手真的实用吗？
+  - [aibase][] Miclaw 多端互联重磅升级！手机、PC、Mac、小爱音箱无缝协同，共享记忆 + 远程控制一键搞定
+  - [aibase][] 天猫超市 15 周年放大招：首个AI超市智能体“超喵”正式上岗
+  - [aibase][] 腾讯 QClaw 海外版上线！一键安装独立客户端，支持全球主流模型，还能“领养”他人训练好的 AI 
+  - [aibase][] UU跑腿发布全新的“跑腿Skill” 开启AI跑腿服务
+  - [aibase][] ​月之暗面发布新模型K2.6：长程任务与智能体能力实现新突破
+  - [aibase][] 华为硬核上新：Pura90 系列领衔，AI眼镜与阔折叠手机齐亮相
+  - [aibase][] 华为浏览器AI播客功能上线 联手《旅行家》打造精品专栏
+  - [aibase][] 工信部：一季度机器人产量激增33.2%，AI硬科技点亮智慧生活
+  - [aibase][] 突发福利！AI Studio 彻底免费开放，Pro/Ultra会员可畅玩Gemini Pro等顶级模
+
+[2026-04-21 23:08:09] llm_classify - OUTPUT: 25条 | 保留25条
+============================================================
+  - [huxiu][国内AI资讯] 腾讯QClaw海外版内测，5天开发完毕，99%代码自编，内测每日赠送4000万token
+  - [huxiu][国外AI资讯] 谷歌扩展Chrome浏览器Gemini功能至更多亚太国家
+  - [huxiu][国外AI资讯] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][国外AI资讯] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [infoq][国外AI资讯] Yann LeCun 指出其新论文多数解读有误，强调 JEPA 架构取得关键进展
+  - [infoq][国内AI资讯] 阿里云发布Qwen3.6-Max-Preview预览版模型
+  - [infoq][国外AI资讯] xAI发布Grok 4.3 Beta，新增原生长视频理解与摘要功能
+  - [infoq][国外AI资讯] Hugging Face 推出自动化训练后工作流程的智能体 ml-intern
+  - [infoq][国内AI资讯] Kimi-K2.6 模型在 Qoder AI IDE 中发布
+  - [infoq][国内AI资讯] Kimu K2.6模型可连续运行超12小时，执行超4000次工具调用
+  - [infoq][国内AI资讯] Kimi K2.6 在 Claw-Eval 榜单上位列第四，成为领先开源智能体模型
+  - [infoq][国外AI资讯] Firecrawl 开源 Web-Agent 框架，支持构建自主网络交互 AI 智能体
+  - [infoq][国外AI资讯] OpenAI推出Chronicle功能，通过后台屏幕捕获为AI提供持续桌面上下文
+  - [infoq][国内AI资讯] 通义千问Qwen3.6 Plus在Code Arena与Text Arena排行榜得分提升
+  - [infoq][国内AI资讯] Moonshot AI 宣布 Fireworks AI 成为 Kimi K2.6 模型 Day 0 
+  - [量子位][国内AI资讯] 物理优先+VLA闭环进化：高德ABot-World世界模型，破解具身智能零样本泛化难题
+  - [量子位][其它科技资讯] ISC.AI 2026创新独角兽沙盒大赛在京启动 聚焦智能体 共筑AI创新生态
+  - [量子位][其它科技资讯] Agent正杀入软件研发一线！全球超60位技术专家拆解AI落地困局，2026奇点智能技术大会收官
+  - [量子位][其它科技资讯] 天立启鸣AI研究院院长刘志毅，入选2025福布斯中国科创人物
+  - [aibase][其它科技资讯] ​NSA 竟然获得 Anthropic Mythos 的访问权，尽管被列为供应链风险
+  - [aibase][其它科技资讯] 算力被“特工”耗尽？GitHub Copilot 紧急叫停个人账户注册
+  - [aibase][其它科技资讯] 腾讯 QClaw 海外版上线！一键安装独立客户端，支持全球主流模型，还能“领养”他人训练好的 AI 
+  - [aibase][国内AI资讯] 华为浏览器AI播客功能上线 联手《旅行家》打造精品专栏
+  - [aibase][智能硬件] 工信部：一季度机器人产量激增33.2%，AI硬科技点亮智慧生活
+  - [aibase][国外AI资讯] 突发福利！AI Studio 彻底免费开放，Pro/Ultra会员可畅玩Gemini Pro等顶级模
+
+[2026-04-21 23:08:09] llm_summary - INPUT: 25条
+============================================================
+  - [huxiu][国内AI资讯] 腾讯QClaw海外版内测，5天开发完毕，99%代码自编，内测每日赠送4000万token
+  - [huxiu][国外AI资讯] 谷歌扩展Chrome浏览器Gemini功能至更多亚太国家
+  - [huxiu][国外AI资讯] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][国外AI资讯] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [infoq][国外AI资讯] Yann LeCun 指出其新论文多数解读有误，强调 JEPA 架构取得关键进展
+  - [infoq][国内AI资讯] 阿里云发布Qwen3.6-Max-Preview预览版模型
+  - [infoq][国外AI资讯] xAI发布Grok 4.3 Beta，新增原生长视频理解与摘要功能
+  - [infoq][国外AI资讯] Hugging Face 推出自动化训练后工作流程的智能体 ml-intern
+  - [infoq][国内AI资讯] Kimi-K2.6 模型在 Qoder AI IDE 中发布
+  - [infoq][国内AI资讯] Kimu K2.6模型可连续运行超12小时，执行超4000次工具调用
+  - [infoq][国内AI资讯] Kimi K2.6 在 Claw-Eval 榜单上位列第四，成为领先开源智能体模型
+  - [infoq][国外AI资讯] Firecrawl 开源 Web-Agent 框架，支持构建自主网络交互 AI 智能体
+  - [infoq][国外AI资讯] OpenAI推出Chronicle功能，通过后台屏幕捕获为AI提供持续桌面上下文
+  - [infoq][国内AI资讯] 通义千问Qwen3.6 Plus在Code Arena与Text Arena排行榜得分提升
+  - [infoq][国内AI资讯] Moonshot AI 宣布 Fireworks AI 成为 Kimi K2.6 模型 Day 0 
+  - [量子位][国内AI资讯] 物理优先+VLA闭环进化：高德ABot-World世界模型，破解具身智能零样本泛化难题
+  - [量子位][其它科技资讯] ISC.AI 2026创新独角兽沙盒大赛在京启动 聚焦智能体 共筑AI创新生态
+  - [量子位][其它科技资讯] Agent正杀入软件研发一线！全球超60位技术专家拆解AI落地困局，2026奇点智能技术大会收官
+  - [量子位][其它科技资讯] 天立启鸣AI研究院院长刘志毅，入选2025福布斯中国科创人物
+  - [aibase][其它科技资讯] ​NSA 竟然获得 Anthropic Mythos 的访问权，尽管被列为供应链风险
+  - [aibase][其它科技资讯] 算力被“特工”耗尽？GitHub Copilot 紧急叫停个人账户注册
+  - [aibase][其它科技资讯] 腾讯 QClaw 海外版上线！一键安装独立客户端，支持全球主流模型，还能“领养”他人训练好的 AI 
+  - [aibase][国内AI资讯] 华为浏览器AI播客功能上线 联手《旅行家》打造精品专栏
+  - [aibase][智能硬件] 工信部：一季度机器人产量激增33.2%，AI硬科技点亮智慧生活
+  - [aibase][国外AI资讯] 突发福利！AI Studio 彻底免费开放，Pro/Ultra会员可畅玩Gemini Pro等顶级模
+
+[2026-04-21 23:09:12] llm_summary - OUTPUT: 25条 | 成功25条
+============================================================
+  - [huxiu][国内AI资讯] 腾讯QClaw海外版内测，5天开发完毕，99%代码自编，内测每日赠送4000万token
+  - [huxiu][国外AI资讯] 谷歌扩展Chrome浏览器Gemini功能至更多亚太国家
+  - [huxiu][国外AI资讯] Meta与CBRE合作启动美国数据中心建设计划LevelUp
+  - [huxiu][国外AI资讯] 谷歌瞄准推理芯片赛道，挑战行业领头羊英伟达
+  - [infoq][国外AI资讯] Yann LeCun 指出其新论文多数解读有误，强调 JEPA 架构取得关键进展
+  - [infoq][国内AI资讯] 阿里云发布Qwen3.6-Max-Preview预览版模型
+  - [infoq][国外AI资讯] xAI发布Grok 4.3 Beta，新增原生长视频理解与摘要功能
+  - [infoq][国外AI资讯] Hugging Face 推出自动化训练后工作流程的智能体 ml-intern
+  - [infoq][国内AI资讯] Kimi-K2.6 模型在 Qoder AI IDE 中发布
+  - [infoq][国内AI资讯] Kimu K2.6模型可连续运行超12小时，执行超4000次工具调用
+  - [infoq][国内AI资讯] Kimi K2.6 在 Claw-Eval 榜单上位列第四，成为领先开源智能体模型
+  - [infoq][国外AI资讯] Firecrawl 开源 Web-Agent 框架，支持构建自主网络交互 AI 智能体
+  - [infoq][国外AI资讯] OpenAI推出Chronicle功能，通过后台屏幕捕获为AI提供持续桌面上下文
+  - [infoq][国内AI资讯] 通义千问Qwen3.6 Plus在Code Arena与Text Arena排行榜得分提升
+  - [infoq][国内AI资讯] Moonshot AI 宣布 Fireworks AI 成为 Kimi K2.6 模型 Day 0 
+  - [量子位][国内AI资讯] 物理优先+VLA闭环进化：高德ABot-World世界模型，破解具身智能零样本泛化难题
+  - [量子位][其它科技资讯] ISC.AI 2026创新独角兽沙盒大赛在京启动 聚焦智能体 共筑AI创新生态
+  - [量子位][其它科技资讯] Agent正杀入软件研发一线！全球超60位技术专家拆解AI落地困局，2026奇点智能技术大会收官
+  - [量子位][其它科技资讯] 天立启鸣AI研究院院长刘志毅，入选2025福布斯中国科创人物
+  - [aibase][其它科技资讯] ​NSA 竟然获得 Anthropic Mythos 的访问权，尽管被列为供应链风险
+  - [aibase][其它科技资讯] 算力被“特工”耗尽？GitHub Copilot 紧急叫停个人账户注册
+  - [aibase][其它科技资讯] 腾讯 QClaw 海外版上线！一键安装独立客户端，支持全球主流模型，还能“领养”他人训练好的 AI 
+  - [aibase][国内AI资讯] 华为浏览器AI播客功能上线 联手《旅行家》打造精品专栏
+  - [aibase][智能硬件] 工信部：一季度机器人产量激增33.2%，AI硬科技点亮智慧生活
+  - [aibase][国外AI资讯] 突发福利！AI Studio 彻底免费开放，Pro/Ultra会员可畅玩Gemini Pro等顶级模

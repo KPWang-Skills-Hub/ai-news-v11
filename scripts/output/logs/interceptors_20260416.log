@@ -1,0 +1,1641 @@
+
+[2026-04-16 00:28:47] keyword_filter - INPUT: 23条
+============================================================
+  - [infoq][] SIM 研讨会征稿截止日期延长至2026年3月31日
+  - [infoq][] SocialLLM研讨会征稿，聚焦大语言模型的社会推理与模拟应用
+  - [infoq][] Gartner：数百个AI用例中仅少数能在客户服务领域驱动真正成果
+  - [infoq][] LangChain转发消息：deepagents deploy支持用户作用域内存
+  - [infoq][] LangChain转发消息：deepagents框架支持子代理结构化输出
+  - [infoq][] 阿里云发布AI开发工具Meoo，支持自然语言生成网站并一键部署
+  - [infoq][] OpenRouter平台新增“隐身”AI模型Elephant Alpha
+  - [infoq][] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][] 谷歌用户体验研究专家Dan Russell将于CHI2026会议进行AMA
+  - [infoq][] GoogleDeepMind发布空间感知基础图文编码器TIPSv2
+  - [infoq][] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][] Anthropic 据报将发布新一代模型 Claude Opus 4.7 及设计专用 AI 工具
+  - [infoq][] Hugging Face Hub 推出新仓库类型“kernel”
+  - [infoq][] Anthropic 彻底重新设计 Claude Code 桌面应用，提升开发速度
+  - [infoq][] Google Research 发布交互式 AI 写作工具 Fabula
+  - [infoq][] MiniMax AI 宣布 M2.7 模型参数规模为 230B
+  - [infoq][] Google DeepMind 升级机器人模型，提升物理世界推理能力
+  - [infoq][] ARC Prize 开源 ARC-AGI-3 人类基准数据集
+  - [infoq][] Anthropic为Claude Code推出Routines功能，支持自动化AI工作流
+  - [infoq][] Grok 4.20 Reasoning 在 BridgeBench 推理基准测试中排名第一
+  - [量子位][] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+
+[2026-04-16 00:28:47] keyword_filter - OUTPUT: 19条 | 移除4条
+============================================================
+  - [infoq][] Gartner：数百个AI用例中仅少数能在客户服务领域驱动真正成果
+  - [infoq][] LangChain转发消息：deepagents deploy支持用户作用域内存
+  - [infoq][] LangChain转发消息：deepagents框架支持子代理结构化输出
+  - [infoq][] 阿里云发布AI开发工具Meoo，支持自然语言生成网站并一键部署
+  - [infoq][] OpenRouter平台新增“隐身”AI模型Elephant Alpha
+  - [infoq][] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][] GoogleDeepMind发布空间感知基础图文编码器TIPSv2
+  - [infoq][] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][] Anthropic 据报将发布新一代模型 Claude Opus 4.7 及设计专用 AI 工具
+  - [infoq][] Hugging Face Hub 推出新仓库类型“kernel”
+  - [infoq][] Anthropic 彻底重新设计 Claude Code 桌面应用，提升开发速度
+  - [infoq][] MiniMax AI 宣布 M2.7 模型参数规模为 230B
+  - [infoq][] Google DeepMind 升级机器人模型，提升物理世界推理能力
+  - [infoq][] ARC Prize 开源 ARC-AGI-3 人类基准数据集
+  - [infoq][] Anthropic为Claude Code推出Routines功能，支持自动化AI工作流
+  - [infoq][] Grok 4.20 Reasoning 在 BridgeBench 推理基准测试中排名第一
+  - [量子位][] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+
+[2026-04-16 00:28:47] bge_dedup - INPUT: 19条
+============================================================
+  - [infoq][] Gartner：数百个AI用例中仅少数能在客户服务领域驱动真正成果
+  - [infoq][] LangChain转发消息：deepagents deploy支持用户作用域内存
+  - [infoq][] LangChain转发消息：deepagents框架支持子代理结构化输出
+  - [infoq][] 阿里云发布AI开发工具Meoo，支持自然语言生成网站并一键部署
+  - [infoq][] OpenRouter平台新增“隐身”AI模型Elephant Alpha
+  - [infoq][] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][] GoogleDeepMind发布空间感知基础图文编码器TIPSv2
+  - [infoq][] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][] Anthropic 据报将发布新一代模型 Claude Opus 4.7 及设计专用 AI 工具
+  - [infoq][] Hugging Face Hub 推出新仓库类型“kernel”
+  - [infoq][] Anthropic 彻底重新设计 Claude Code 桌面应用，提升开发速度
+  - [infoq][] MiniMax AI 宣布 M2.7 模型参数规模为 230B
+  - [infoq][] Google DeepMind 升级机器人模型，提升物理世界推理能力
+  - [infoq][] ARC Prize 开源 ARC-AGI-3 人类基准数据集
+  - [infoq][] Anthropic为Claude Code推出Routines功能，支持自动化AI工作流
+  - [infoq][] Grok 4.20 Reasoning 在 BridgeBench 推理基准测试中排名第一
+  - [量子位][] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+
+[2026-04-16 00:29:07] bge_dedup - OUTPUT: 16条 | 移除3条
+============================================================
+  - [infoq][] Gartner：数百个AI用例中仅少数能在客户服务领域驱动真正成果
+  - [infoq][] LangChain转发消息：deepagents deploy支持用户作用域内存
+  - [infoq][] 阿里云发布AI开发工具Meoo，支持自然语言生成网站并一键部署
+  - [infoq][] OpenRouter平台新增“隐身”AI模型Elephant Alpha
+  - [infoq][] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][] GoogleDeepMind发布空间感知基础图文编码器TIPSv2
+  - [infoq][] Anthropic 据报将发布新一代模型 Claude Opus 4.7 及设计专用 AI 工具
+  - [infoq][] Hugging Face Hub 推出新仓库类型“kernel”
+  - [infoq][] Anthropic 彻底重新设计 Claude Code 桌面应用，提升开发速度
+  - [infoq][] Google DeepMind 升级机器人模型，提升物理世界推理能力
+  - [infoq][] ARC Prize 开源 ARC-AGI-3 人类基准数据集
+  - [infoq][] Anthropic为Claude Code推出Routines功能，支持自动化AI工作流
+  - [infoq][] Grok 4.20 Reasoning 在 BridgeBench 推理基准测试中排名第一
+  - [量子位][] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+
+[2026-04-16 00:29:07] llm_classify - INPUT: 16条
+============================================================
+  - [infoq][] Gartner：数百个AI用例中仅少数能在客户服务领域驱动真正成果
+  - [infoq][] LangChain转发消息：deepagents deploy支持用户作用域内存
+  - [infoq][] 阿里云发布AI开发工具Meoo，支持自然语言生成网站并一键部署
+  - [infoq][] OpenRouter平台新增“隐身”AI模型Elephant Alpha
+  - [infoq][] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][] GoogleDeepMind发布空间感知基础图文编码器TIPSv2
+  - [infoq][] Anthropic 据报将发布新一代模型 Claude Opus 4.7 及设计专用 AI 工具
+  - [infoq][] Hugging Face Hub 推出新仓库类型“kernel”
+  - [infoq][] Anthropic 彻底重新设计 Claude Code 桌面应用，提升开发速度
+  - [infoq][] Google DeepMind 升级机器人模型，提升物理世界推理能力
+  - [infoq][] ARC Prize 开源 ARC-AGI-3 人类基准数据集
+  - [infoq][] Anthropic为Claude Code推出Routines功能，支持自动化AI工作流
+  - [infoq][] Grok 4.20 Reasoning 在 BridgeBench 推理基准测试中排名第一
+  - [量子位][] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+
+[2026-04-16 00:29:32] llm_classify - OUTPUT: 16条 | 保留16条
+============================================================
+  - [infoq][其它科技资讯] Gartner：数百个AI用例中仅少数能在客户服务领域驱动真正成果
+  - [infoq][国内AI资讯] LangChain转发消息：deepagents deploy支持用户作用域内存
+  - [infoq][国内AI资讯] 阿里云发布AI开发工具Meoo，支持自然语言生成网站并一键部署
+  - [infoq][国外AI资讯] OpenRouter平台新增“隐身”AI模型Elephant Alpha
+  - [infoq][国内AI资讯] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][国外AI资讯] GoogleDeepMind发布空间感知基础图文编码器TIPSv2
+  - [infoq][国外AI资讯] Anthropic 据报将发布新一代模型 Claude Opus 4.7 及设计专用 AI 工具
+  - [infoq][国外AI资讯] Hugging Face Hub 推出新仓库类型“kernel”
+  - [infoq][国外AI资讯] Anthropic 彻底重新设计 Claude Code 桌面应用，提升开发速度
+  - [infoq][智能硬件] Google DeepMind 升级机器人模型，提升物理世界推理能力
+  - [infoq][其它科技资讯] ARC Prize 开源 ARC-AGI-3 人类基准数据集
+  - [infoq][国外AI资讯] Anthropic为Claude Code推出Routines功能，支持自动化AI工作流
+  - [infoq][国外AI资讯] Grok 4.20 Reasoning 在 BridgeBench 推理基准测试中排名第一
+  - [量子位][其它科技资讯] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][国内AI资讯] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][国内AI资讯] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+
+[2026-04-16 00:29:32] llm_summary - INPUT: 16条
+============================================================
+  - [infoq][其它科技资讯] Gartner：数百个AI用例中仅少数能在客户服务领域驱动真正成果
+  - [infoq][国内AI资讯] LangChain转发消息：deepagents deploy支持用户作用域内存
+  - [infoq][国内AI资讯] 阿里云发布AI开发工具Meoo，支持自然语言生成网站并一键部署
+  - [infoq][国外AI资讯] OpenRouter平台新增“隐身”AI模型Elephant Alpha
+  - [infoq][国内AI资讯] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][国外AI资讯] GoogleDeepMind发布空间感知基础图文编码器TIPSv2
+  - [infoq][国外AI资讯] Anthropic 据报将发布新一代模型 Claude Opus 4.7 及设计专用 AI 工具
+  - [infoq][国外AI资讯] Hugging Face Hub 推出新仓库类型“kernel”
+  - [infoq][国外AI资讯] Anthropic 彻底重新设计 Claude Code 桌面应用，提升开发速度
+  - [infoq][智能硬件] Google DeepMind 升级机器人模型，提升物理世界推理能力
+  - [infoq][其它科技资讯] ARC Prize 开源 ARC-AGI-3 人类基准数据集
+  - [infoq][国外AI资讯] Anthropic为Claude Code推出Routines功能，支持自动化AI工作流
+  - [infoq][国外AI资讯] Grok 4.20 Reasoning 在 BridgeBench 推理基准测试中排名第一
+  - [量子位][其它科技资讯] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][国内AI资讯] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][国内AI资讯] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+
+[2026-04-16 00:29:40] llm_summary - OUTPUT: 16条 | 成功3条
+============================================================
+  - [infoq][其它科技资讯] Gartner：数百个AI用例中仅少数能在客户服务领域驱动真正成果
+  - [infoq][国内AI资讯] LangChain转发消息：deepagents deploy支持用户作用域内存
+  - [infoq][国内AI资讯] 阿里云发布AI开发工具Meoo，支持自然语言生成网站并一键部署
+  - [infoq][国外AI资讯] OpenRouter平台新增“隐身”AI模型Elephant Alpha
+  - [infoq][国内AI资讯] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][国外AI资讯] GoogleDeepMind发布空间感知基础图文编码器TIPSv2
+  - [infoq][国外AI资讯] Anthropic 据报将发布新一代模型 Claude Opus 4.7 及设计专用 AI 工具
+  - [infoq][国外AI资讯] Hugging Face Hub 推出新仓库类型“kernel”
+  - [infoq][国外AI资讯] Anthropic 彻底重新设计 Claude Code 桌面应用，提升开发速度
+  - [infoq][智能硬件] Google DeepMind 升级机器人模型，提升物理世界推理能力
+  - [infoq][其它科技资讯] ARC Prize 开源 ARC-AGI-3 人类基准数据集
+  - [infoq][国外AI资讯] Anthropic为Claude Code推出Routines功能，支持自动化AI工作流
+  - [infoq][国外AI资讯] Grok 4.20 Reasoning 在 BridgeBench 推理基准测试中排名第一
+  - [量子位][其它科技资讯] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][国内AI资讯] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][国内AI资讯] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+
+[2026-04-16 00:31:44] keyword_filter - INPUT: 23条
+============================================================
+  - [infoq][] SIM 研讨会征稿截止日期延长至2026年3月31日
+  - [infoq][] SocialLLM研讨会征稿，聚焦大语言模型的社会推理与模拟应用
+  - [infoq][] Gartner：数百个AI用例中仅少数能在客户服务领域驱动真正成果
+  - [infoq][] LangChain转发消息：deepagents deploy支持用户作用域内存
+  - [infoq][] LangChain转发消息：deepagents框架支持子代理结构化输出
+  - [infoq][] 阿里云发布AI开发工具Meoo，支持自然语言生成网站并一键部署
+  - [infoq][] OpenRouter平台新增“隐身”AI模型Elephant Alpha
+  - [infoq][] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][] 谷歌用户体验研究专家Dan Russell将于CHI2026会议进行AMA
+  - [infoq][] GoogleDeepMind发布空间感知基础图文编码器TIPSv2
+  - [infoq][] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][] Anthropic 据报将发布新一代模型 Claude Opus 4.7 及设计专用 AI 工具
+  - [infoq][] Hugging Face Hub 推出新仓库类型“kernel”
+  - [infoq][] Anthropic 彻底重新设计 Claude Code 桌面应用，提升开发速度
+  - [infoq][] Google Research 发布交互式 AI 写作工具 Fabula
+  - [infoq][] MiniMax AI 宣布 M2.7 模型参数规模为 230B
+  - [infoq][] Google DeepMind 升级机器人模型，提升物理世界推理能力
+  - [infoq][] ARC Prize 开源 ARC-AGI-3 人类基准数据集
+  - [infoq][] Anthropic为Claude Code推出Routines功能，支持自动化AI工作流
+  - [infoq][] Grok 4.20 Reasoning 在 BridgeBench 推理基准测试中排名第一
+  - [量子位][] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+
+[2026-04-16 00:31:44] keyword_filter - OUTPUT: 19条 | 移除4条
+============================================================
+  - [infoq][] Gartner：数百个AI用例中仅少数能在客户服务领域驱动真正成果
+  - [infoq][] LangChain转发消息：deepagents deploy支持用户作用域内存
+  - [infoq][] LangChain转发消息：deepagents框架支持子代理结构化输出
+  - [infoq][] 阿里云发布AI开发工具Meoo，支持自然语言生成网站并一键部署
+  - [infoq][] OpenRouter平台新增“隐身”AI模型Elephant Alpha
+  - [infoq][] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][] GoogleDeepMind发布空间感知基础图文编码器TIPSv2
+  - [infoq][] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][] Anthropic 据报将发布新一代模型 Claude Opus 4.7 及设计专用 AI 工具
+  - [infoq][] Hugging Face Hub 推出新仓库类型“kernel”
+  - [infoq][] Anthropic 彻底重新设计 Claude Code 桌面应用，提升开发速度
+  - [infoq][] MiniMax AI 宣布 M2.7 模型参数规模为 230B
+  - [infoq][] Google DeepMind 升级机器人模型，提升物理世界推理能力
+  - [infoq][] ARC Prize 开源 ARC-AGI-3 人类基准数据集
+  - [infoq][] Anthropic为Claude Code推出Routines功能，支持自动化AI工作流
+  - [infoq][] Grok 4.20 Reasoning 在 BridgeBench 推理基准测试中排名第一
+  - [量子位][] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+
+[2026-04-16 00:31:44] bge_dedup - INPUT: 19条
+============================================================
+  - [infoq][] Gartner：数百个AI用例中仅少数能在客户服务领域驱动真正成果
+  - [infoq][] LangChain转发消息：deepagents deploy支持用户作用域内存
+  - [infoq][] LangChain转发消息：deepagents框架支持子代理结构化输出
+  - [infoq][] 阿里云发布AI开发工具Meoo，支持自然语言生成网站并一键部署
+  - [infoq][] OpenRouter平台新增“隐身”AI模型Elephant Alpha
+  - [infoq][] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][] GoogleDeepMind发布空间感知基础图文编码器TIPSv2
+  - [infoq][] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][] Anthropic 据报将发布新一代模型 Claude Opus 4.7 及设计专用 AI 工具
+  - [infoq][] Hugging Face Hub 推出新仓库类型“kernel”
+  - [infoq][] Anthropic 彻底重新设计 Claude Code 桌面应用，提升开发速度
+  - [infoq][] MiniMax AI 宣布 M2.7 模型参数规模为 230B
+  - [infoq][] Google DeepMind 升级机器人模型，提升物理世界推理能力
+  - [infoq][] ARC Prize 开源 ARC-AGI-3 人类基准数据集
+  - [infoq][] Anthropic为Claude Code推出Routines功能，支持自动化AI工作流
+  - [infoq][] Grok 4.20 Reasoning 在 BridgeBench 推理基准测试中排名第一
+  - [量子位][] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+
+[2026-04-16 00:32:45] bge_dedup - OUTPUT: 16条 | 移除3条
+============================================================
+  - [infoq][] Gartner：数百个AI用例中仅少数能在客户服务领域驱动真正成果
+  - [infoq][] LangChain转发消息：deepagents deploy支持用户作用域内存
+  - [infoq][] 阿里云发布AI开发工具Meoo，支持自然语言生成网站并一键部署
+  - [infoq][] OpenRouter平台新增“隐身”AI模型Elephant Alpha
+  - [infoq][] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][] GoogleDeepMind发布空间感知基础图文编码器TIPSv2
+  - [infoq][] Anthropic 据报将发布新一代模型 Claude Opus 4.7 及设计专用 AI 工具
+  - [infoq][] Hugging Face Hub 推出新仓库类型“kernel”
+  - [infoq][] Anthropic 彻底重新设计 Claude Code 桌面应用，提升开发速度
+  - [infoq][] Google DeepMind 升级机器人模型，提升物理世界推理能力
+  - [infoq][] ARC Prize 开源 ARC-AGI-3 人类基准数据集
+  - [infoq][] Anthropic为Claude Code推出Routines功能，支持自动化AI工作流
+  - [infoq][] Grok 4.20 Reasoning 在 BridgeBench 推理基准测试中排名第一
+  - [量子位][] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+
+[2026-04-16 00:32:45] llm_classify - INPUT: 16条
+============================================================
+  - [infoq][] Gartner：数百个AI用例中仅少数能在客户服务领域驱动真正成果
+  - [infoq][] LangChain转发消息：deepagents deploy支持用户作用域内存
+  - [infoq][] 阿里云发布AI开发工具Meoo，支持自然语言生成网站并一键部署
+  - [infoq][] OpenRouter平台新增“隐身”AI模型Elephant Alpha
+  - [infoq][] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][] GoogleDeepMind发布空间感知基础图文编码器TIPSv2
+  - [infoq][] Anthropic 据报将发布新一代模型 Claude Opus 4.7 及设计专用 AI 工具
+  - [infoq][] Hugging Face Hub 推出新仓库类型“kernel”
+  - [infoq][] Anthropic 彻底重新设计 Claude Code 桌面应用，提升开发速度
+  - [infoq][] Google DeepMind 升级机器人模型，提升物理世界推理能力
+  - [infoq][] ARC Prize 开源 ARC-AGI-3 人类基准数据集
+  - [infoq][] Anthropic为Claude Code推出Routines功能，支持自动化AI工作流
+  - [infoq][] Grok 4.20 Reasoning 在 BridgeBench 推理基准测试中排名第一
+  - [量子位][] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+
+[2026-04-16 00:32:54] keyword_filter - INPUT: 23条
+============================================================
+  - [infoq][] SIM 研讨会征稿截止日期延长至2026年3月31日
+  - [infoq][] SocialLLM研讨会征稿，聚焦大语言模型的社会推理与模拟应用
+  - [infoq][] Gartner：数百个AI用例中仅少数能在客户服务领域驱动真正成果
+  - [infoq][] LangChain转发消息：deepagents deploy支持用户作用域内存
+  - [infoq][] LangChain转发消息：deepagents框架支持子代理结构化输出
+  - [infoq][] 阿里云发布AI开发工具Meoo，支持自然语言生成网站并一键部署
+  - [infoq][] OpenRouter平台新增“隐身”AI模型Elephant Alpha
+  - [infoq][] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][] 谷歌用户体验研究专家Dan Russell将于CHI2026会议进行AMA
+  - [infoq][] GoogleDeepMind发布空间感知基础图文编码器TIPSv2
+  - [infoq][] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][] Anthropic 据报将发布新一代模型 Claude Opus 4.7 及设计专用 AI 工具
+  - [infoq][] Hugging Face Hub 推出新仓库类型“kernel”
+  - [infoq][] Anthropic 彻底重新设计 Claude Code 桌面应用，提升开发速度
+  - [infoq][] Google Research 发布交互式 AI 写作工具 Fabula
+  - [infoq][] MiniMax AI 宣布 M2.7 模型参数规模为 230B
+  - [infoq][] Google DeepMind 升级机器人模型，提升物理世界推理能力
+  - [infoq][] ARC Prize 开源 ARC-AGI-3 人类基准数据集
+  - [infoq][] Anthropic为Claude Code推出Routines功能，支持自动化AI工作流
+  - [infoq][] Grok 4.20 Reasoning 在 BridgeBench 推理基准测试中排名第一
+  - [量子位][] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+
+[2026-04-16 00:32:54] keyword_filter - OUTPUT: 19条 | 移除4条
+============================================================
+  - [infoq][] Gartner：数百个AI用例中仅少数能在客户服务领域驱动真正成果
+  - [infoq][] LangChain转发消息：deepagents deploy支持用户作用域内存
+  - [infoq][] LangChain转发消息：deepagents框架支持子代理结构化输出
+  - [infoq][] 阿里云发布AI开发工具Meoo，支持自然语言生成网站并一键部署
+  - [infoq][] OpenRouter平台新增“隐身”AI模型Elephant Alpha
+  - [infoq][] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][] GoogleDeepMind发布空间感知基础图文编码器TIPSv2
+  - [infoq][] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][] Anthropic 据报将发布新一代模型 Claude Opus 4.7 及设计专用 AI 工具
+  - [infoq][] Hugging Face Hub 推出新仓库类型“kernel”
+  - [infoq][] Anthropic 彻底重新设计 Claude Code 桌面应用，提升开发速度
+  - [infoq][] MiniMax AI 宣布 M2.7 模型参数规模为 230B
+  - [infoq][] Google DeepMind 升级机器人模型，提升物理世界推理能力
+  - [infoq][] ARC Prize 开源 ARC-AGI-3 人类基准数据集
+  - [infoq][] Anthropic为Claude Code推出Routines功能，支持自动化AI工作流
+  - [infoq][] Grok 4.20 Reasoning 在 BridgeBench 推理基准测试中排名第一
+  - [量子位][] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+
+[2026-04-16 00:32:54] bge_dedup - INPUT: 19条
+============================================================
+  - [infoq][] Gartner：数百个AI用例中仅少数能在客户服务领域驱动真正成果
+  - [infoq][] LangChain转发消息：deepagents deploy支持用户作用域内存
+  - [infoq][] LangChain转发消息：deepagents框架支持子代理结构化输出
+  - [infoq][] 阿里云发布AI开发工具Meoo，支持自然语言生成网站并一键部署
+  - [infoq][] OpenRouter平台新增“隐身”AI模型Elephant Alpha
+  - [infoq][] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][] GoogleDeepMind发布空间感知基础图文编码器TIPSv2
+  - [infoq][] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][] Anthropic 据报将发布新一代模型 Claude Opus 4.7 及设计专用 AI 工具
+  - [infoq][] Hugging Face Hub 推出新仓库类型“kernel”
+  - [infoq][] Anthropic 彻底重新设计 Claude Code 桌面应用，提升开发速度
+  - [infoq][] MiniMax AI 宣布 M2.7 模型参数规模为 230B
+  - [infoq][] Google DeepMind 升级机器人模型，提升物理世界推理能力
+  - [infoq][] ARC Prize 开源 ARC-AGI-3 人类基准数据集
+  - [infoq][] Anthropic为Claude Code推出Routines功能，支持自动化AI工作流
+  - [infoq][] Grok 4.20 Reasoning 在 BridgeBench 推理基准测试中排名第一
+  - [量子位][] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+
+[2026-04-16 00:32:59] llm_classify - OUTPUT: 16条 | 保留16条
+============================================================
+  - [infoq][其它科技资讯] Gartner：数百个AI用例中仅少数能在客户服务领域驱动真正成果
+  - [infoq][国外AI资讯] LangChain转发消息：deepagents deploy支持用户作用域内存
+  - [infoq][国内AI资讯] 阿里云发布AI开发工具Meoo，支持自然语言生成网站并一键部署
+  - [infoq][国外AI资讯] OpenRouter平台新增“隐身”AI模型Elephant Alpha
+  - [infoq][国内AI资讯] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][国外AI资讯] GoogleDeepMind发布空间感知基础图文编码器TIPSv2
+  - [infoq][国外AI资讯] Anthropic 据报将发布新一代模型 Claude Opus 4.7 及设计专用 AI 工具
+  - [infoq][国外AI资讯] Hugging Face Hub 推出新仓库类型“kernel”
+  - [infoq][国外AI资讯] Anthropic 彻底重新设计 Claude Code 桌面应用，提升开发速度
+  - [infoq][智能硬件] Google DeepMind 升级机器人模型，提升物理世界推理能力
+  - [infoq][其它科技资讯] ARC Prize 开源 ARC-AGI-3 人类基准数据集
+  - [infoq][国外AI资讯] Anthropic为Claude Code推出Routines功能，支持自动化AI工作流
+  - [infoq][国外AI资讯] Grok 4.20 Reasoning 在 BridgeBench 推理基准测试中排名第一
+  - [量子位][国内AI资讯] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][国内AI资讯] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][国内AI资讯] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+
+[2026-04-16 00:32:59] llm_summary - INPUT: 16条
+============================================================
+  - [infoq][其它科技资讯] Gartner：数百个AI用例中仅少数能在客户服务领域驱动真正成果
+  - [infoq][国外AI资讯] LangChain转发消息：deepagents deploy支持用户作用域内存
+  - [infoq][国内AI资讯] 阿里云发布AI开发工具Meoo，支持自然语言生成网站并一键部署
+  - [infoq][国外AI资讯] OpenRouter平台新增“隐身”AI模型Elephant Alpha
+  - [infoq][国内AI资讯] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][国外AI资讯] GoogleDeepMind发布空间感知基础图文编码器TIPSv2
+  - [infoq][国外AI资讯] Anthropic 据报将发布新一代模型 Claude Opus 4.7 及设计专用 AI 工具
+  - [infoq][国外AI资讯] Hugging Face Hub 推出新仓库类型“kernel”
+  - [infoq][国外AI资讯] Anthropic 彻底重新设计 Claude Code 桌面应用，提升开发速度
+  - [infoq][智能硬件] Google DeepMind 升级机器人模型，提升物理世界推理能力
+  - [infoq][其它科技资讯] ARC Prize 开源 ARC-AGI-3 人类基准数据集
+  - [infoq][国外AI资讯] Anthropic为Claude Code推出Routines功能，支持自动化AI工作流
+  - [infoq][国外AI资讯] Grok 4.20 Reasoning 在 BridgeBench 推理基准测试中排名第一
+  - [量子位][国内AI资讯] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][国内AI资讯] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][国内AI资讯] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+
+[2026-04-16 00:33:04] llm_summary - OUTPUT: 16条 | 成功3条
+============================================================
+  - [infoq][其它科技资讯] Gartner：数百个AI用例中仅少数能在客户服务领域驱动真正成果
+  - [infoq][国外AI资讯] LangChain转发消息：deepagents deploy支持用户作用域内存
+  - [infoq][国内AI资讯] 阿里云发布AI开发工具Meoo，支持自然语言生成网站并一键部署
+  - [infoq][国外AI资讯] OpenRouter平台新增“隐身”AI模型Elephant Alpha
+  - [infoq][国内AI资讯] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][国外AI资讯] GoogleDeepMind发布空间感知基础图文编码器TIPSv2
+  - [infoq][国外AI资讯] Anthropic 据报将发布新一代模型 Claude Opus 4.7 及设计专用 AI 工具
+  - [infoq][国外AI资讯] Hugging Face Hub 推出新仓库类型“kernel”
+  - [infoq][国外AI资讯] Anthropic 彻底重新设计 Claude Code 桌面应用，提升开发速度
+  - [infoq][智能硬件] Google DeepMind 升级机器人模型，提升物理世界推理能力
+  - [infoq][其它科技资讯] ARC Prize 开源 ARC-AGI-3 人类基准数据集
+  - [infoq][国外AI资讯] Anthropic为Claude Code推出Routines功能，支持自动化AI工作流
+  - [infoq][国外AI资讯] Grok 4.20 Reasoning 在 BridgeBench 推理基准测试中排名第一
+  - [量子位][国内AI资讯] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][国内AI资讯] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][国内AI资讯] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+
+[2026-04-16 00:33:44] bge_dedup - OUTPUT: 16条 | 移除3条
+============================================================
+  - [infoq][] Gartner：数百个AI用例中仅少数能在客户服务领域驱动真正成果
+  - [infoq][] LangChain转发消息：deepagents deploy支持用户作用域内存
+  - [infoq][] 阿里云发布AI开发工具Meoo，支持自然语言生成网站并一键部署
+  - [infoq][] OpenRouter平台新增“隐身”AI模型Elephant Alpha
+  - [infoq][] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][] GoogleDeepMind发布空间感知基础图文编码器TIPSv2
+  - [infoq][] Anthropic 据报将发布新一代模型 Claude Opus 4.7 及设计专用 AI 工具
+  - [infoq][] Hugging Face Hub 推出新仓库类型“kernel”
+  - [infoq][] Anthropic 彻底重新设计 Claude Code 桌面应用，提升开发速度
+  - [infoq][] Google DeepMind 升级机器人模型，提升物理世界推理能力
+  - [infoq][] ARC Prize 开源 ARC-AGI-3 人类基准数据集
+  - [infoq][] Anthropic为Claude Code推出Routines功能，支持自动化AI工作流
+  - [infoq][] Grok 4.20 Reasoning 在 BridgeBench 推理基准测试中排名第一
+  - [量子位][] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+
+[2026-04-16 00:33:44] llm_classify - INPUT: 16条
+============================================================
+  - [infoq][] Gartner：数百个AI用例中仅少数能在客户服务领域驱动真正成果
+  - [infoq][] LangChain转发消息：deepagents deploy支持用户作用域内存
+  - [infoq][] 阿里云发布AI开发工具Meoo，支持自然语言生成网站并一键部署
+  - [infoq][] OpenRouter平台新增“隐身”AI模型Elephant Alpha
+  - [infoq][] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][] GoogleDeepMind发布空间感知基础图文编码器TIPSv2
+  - [infoq][] Anthropic 据报将发布新一代模型 Claude Opus 4.7 及设计专用 AI 工具
+  - [infoq][] Hugging Face Hub 推出新仓库类型“kernel”
+  - [infoq][] Anthropic 彻底重新设计 Claude Code 桌面应用，提升开发速度
+  - [infoq][] Google DeepMind 升级机器人模型，提升物理世界推理能力
+  - [infoq][] ARC Prize 开源 ARC-AGI-3 人类基准数据集
+  - [infoq][] Anthropic为Claude Code推出Routines功能，支持自动化AI工作流
+  - [infoq][] Grok 4.20 Reasoning 在 BridgeBench 推理基准测试中排名第一
+  - [量子位][] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+
+[2026-04-16 00:34:04] llm_classify - OUTPUT: 16条 | 保留16条
+============================================================
+  - [infoq][其它科技资讯] Gartner：数百个AI用例中仅少数能在客户服务领域驱动真正成果
+  - [infoq][国外AI资讯] LangChain转发消息：deepagents deploy支持用户作用域内存
+  - [infoq][国内AI资讯] 阿里云发布AI开发工具Meoo，支持自然语言生成网站并一键部署
+  - [infoq][国外AI资讯] OpenRouter平台新增“隐身”AI模型Elephant Alpha
+  - [infoq][国内AI资讯] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][国外AI资讯] GoogleDeepMind发布空间感知基础图文编码器TIPSv2
+  - [infoq][国外AI资讯] Anthropic 据报将发布新一代模型 Claude Opus 4.7 及设计专用 AI 工具
+  - [infoq][其它科技资讯] Hugging Face Hub 推出新仓库类型“kernel”
+  - [infoq][国外AI资讯] Anthropic 彻底重新设计 Claude Code 桌面应用，提升开发速度
+  - [infoq][国外AI资讯] Google DeepMind 升级机器人模型，提升物理世界推理能力
+  - [infoq][国外AI资讯] ARC Prize 开源 ARC-AGI-3 人类基准数据集
+  - [infoq][国外AI资讯] Anthropic为Claude Code推出Routines功能，支持自动化AI工作流
+  - [infoq][国外AI资讯] Grok 4.20 Reasoning 在 BridgeBench 推理基准测试中排名第一
+  - [量子位][国内AI资讯] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][国内AI资讯] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][国内AI资讯] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+
+[2026-04-16 00:34:04] llm_summary - INPUT: 16条
+============================================================
+  - [infoq][其它科技资讯] Gartner：数百个AI用例中仅少数能在客户服务领域驱动真正成果
+  - [infoq][国外AI资讯] LangChain转发消息：deepagents deploy支持用户作用域内存
+  - [infoq][国内AI资讯] 阿里云发布AI开发工具Meoo，支持自然语言生成网站并一键部署
+  - [infoq][国外AI资讯] OpenRouter平台新增“隐身”AI模型Elephant Alpha
+  - [infoq][国内AI资讯] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][国外AI资讯] GoogleDeepMind发布空间感知基础图文编码器TIPSv2
+  - [infoq][国外AI资讯] Anthropic 据报将发布新一代模型 Claude Opus 4.7 及设计专用 AI 工具
+  - [infoq][其它科技资讯] Hugging Face Hub 推出新仓库类型“kernel”
+  - [infoq][国外AI资讯] Anthropic 彻底重新设计 Claude Code 桌面应用，提升开发速度
+  - [infoq][国外AI资讯] Google DeepMind 升级机器人模型，提升物理世界推理能力
+  - [infoq][国外AI资讯] ARC Prize 开源 ARC-AGI-3 人类基准数据集
+  - [infoq][国外AI资讯] Anthropic为Claude Code推出Routines功能，支持自动化AI工作流
+  - [infoq][国外AI资讯] Grok 4.20 Reasoning 在 BridgeBench 推理基准测试中排名第一
+  - [量子位][国内AI资讯] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][国内AI资讯] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][国内AI资讯] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+
+[2026-04-16 00:34:10] llm_summary - OUTPUT: 16条 | 成功3条
+============================================================
+  - [infoq][其它科技资讯] Gartner：数百个AI用例中仅少数能在客户服务领域驱动真正成果
+  - [infoq][国外AI资讯] LangChain转发消息：deepagents deploy支持用户作用域内存
+  - [infoq][国内AI资讯] 阿里云发布AI开发工具Meoo，支持自然语言生成网站并一键部署
+  - [infoq][国外AI资讯] OpenRouter平台新增“隐身”AI模型Elephant Alpha
+  - [infoq][国内AI资讯] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][国外AI资讯] GoogleDeepMind发布空间感知基础图文编码器TIPSv2
+  - [infoq][国外AI资讯] Anthropic 据报将发布新一代模型 Claude Opus 4.7 及设计专用 AI 工具
+  - [infoq][其它科技资讯] Hugging Face Hub 推出新仓库类型“kernel”
+  - [infoq][国外AI资讯] Anthropic 彻底重新设计 Claude Code 桌面应用，提升开发速度
+  - [infoq][国外AI资讯] Google DeepMind 升级机器人模型，提升物理世界推理能力
+  - [infoq][国外AI资讯] ARC Prize 开源 ARC-AGI-3 人类基准数据集
+  - [infoq][国外AI资讯] Anthropic为Claude Code推出Routines功能，支持自动化AI工作流
+  - [infoq][国外AI资讯] Grok 4.20 Reasoning 在 BridgeBench 推理基准测试中排名第一
+  - [量子位][国内AI资讯] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][国内AI资讯] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][国内AI资讯] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+
+[2026-04-16 01:01:21] keyword_filter - INPUT: 61条
+============================================================
+  - [huxiu][] 欧盟拟令Meta修改WhatsApp AI政策，推进反垄断调查
+  - [huxiu][] Jane Street增资10亿美元，拟花60亿美元购CoreWeave芯片用于AI建设
+  - [huxiu][] 阿里云上调百炼部分MU模型单元服务价格
+  - [huxiu][] “智象未来”完成超5亿元新一轮融资
+  - [huxiu][] 我国首艘万吨级纯电动智能集装箱船正式投入商业运营
+  - [huxiu][] 腾讯客服回应电脑版微信能发语音了
+  - [huxiu][] 自动驾驶初创公司Glydways洽谈2.5亿美元融资
+  - [huxiu][] 一季度国内云厂商大模型中标金额累计约16.5亿元
+  - [huxiu][] 亚马逊全球智能枢纽仓深圳首仓正式开仓
+  - [huxiu][] 软银邀请银行参与400亿美元OpenAI贷款项目
+  - [huxiu][] Anthropic联合创始人强调人文学科的重要性，不容忽视
+  - [huxiu][] 千问AI眼镜S1今日开售
+  - [huxiu][] 光通信进入可持续景气周期，产业链多环节成长空间打开
+  - [huxiu][] 亚马逊将收购全球星，并为苹果iPhone提供卫星服务支持
+  - [huxiu][] Anthropic用AI加速弱到强监督对齐研究，弱模型指导强模型训练
+  - [huxiu][] 美国Credo收购以色列DustPhotonics，交易金额达13亿美元
+  - [huxiu][] OpenAI扩大网络安全项目访问，数千名验证网络防御人员可参与
+  - [huxiu][] 微软接管挪威Stargate数据中心，原为OpenAI准备
+  - [infoq][] SIM 研讨会征稿截止日期延长至2026年3月31日
+  - [infoq][] SocialLLM研讨会征稿，聚焦大语言模型的社会推理与模拟应用
+  - [infoq][] Gartner：数百个AI用例中仅少数能在客户服务领域驱动真正成果
+  - [infoq][] LangChain转发消息：deepagents deploy支持用户作用域内存
+  - [infoq][] LangChain转发消息：deepagents框架支持子代理结构化输出
+  - [infoq][] 阿里云发布AI开发工具Meoo，支持自然语言生成网站并一键部署
+  - [infoq][] OpenRouter平台新增“隐身”AI模型Elephant Alpha
+  - [infoq][] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][] 谷歌用户体验研究专家Dan Russell将于CHI2026会议进行AMA
+  - [infoq][] GoogleDeepMind发布空间感知基础图文编码器TIPSv2
+  - [infoq][] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][] Anthropic 据报将发布新一代模型 Claude Opus 4.7 及设计专用 AI 工具
+  - [infoq][] Hugging Face Hub 推出新仓库类型“kernel”
+  - [infoq][] Anthropic 彻底重新设计 Claude Code 桌面应用，提升开发速度
+  - [infoq][] Google Research 发布交互式 AI 写作工具 Fabula
+  - [infoq][] MiniMax AI 宣布 M2.7 模型参数规模为 230B
+  - [infoq][] Google DeepMind 升级机器人模型，提升物理世界推理能力
+  - [infoq][] ARC Prize 开源 ARC-AGI-3 人类基准数据集
+  - [infoq][] Anthropic为Claude Code推出Routines功能，支持自动化AI工作流
+  - [infoq][] Grok 4.20 Reasoning 在 BridgeBench 推理基准测试中排名第一
+  - [量子位][] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+  - [aibase][] Anthropic突然要查身份证了，用Claude还需要人脸识别？
+  - [aibase][] 阿里发布 AI 开发工具 Meoo，助力零门槛创意变现！
+  - [aibase][] 阿里“黑马”模型happyhorse-1.0斩获LM Arena视频编辑冠军
+  - [aibase][] Midjourney V8.1 重磅发布：原生 2K 高清渲染速度成本双降 3 倍，图像提示功能强势
+  - [aibase][] 耀客传媒首部AIGC短剧《秦岭青铜诡事录》今日上线，AI签约演员担纲主演
+  - [aibase][] 微软接手挪威数据中心，增购 3 万块英伟达芯片
+  - [aibase][] 苹果曾秘密警告马斯克：Grok再不整改就下架
+  - [aibase][] 100B 匿名模型 Elephant 冲上 OpenRouter 趋势榜第二
+  - [aibase][] 小红书突然开源了一个训练引擎Relax，AI圈又多了一个不容忽视的玩家
+  - [aibase][] OpenAI的"地盘"被微软接手，星门计划正在悄悄变形
+  - [aibase][] 李飞飞创业公司WorldLabs发布Spark2.0:首个集成Three.js的跨平台超大规模3DG
+  - [aibase][] 谷歌发布全新 Windows 桌面 AI 应用，轻松两键即可搜索！
+  - [aibase][] DeepSeek 在内蒙古乌兰察布设立数据中心，开启高薪招聘
+  - [aibase][] 谷歌DeepMind招了一位哲学家，这个信号比任何技术发布都值得关注
+  - [aibase][] 跨境电商杀入3. 0 时代，亚马逊押注AI这张牌，玩家们准备好了吗？
+  - [aibase][] ​天猫推出新规：规范 AI 软件及应用商品发布体验
+  - [aibase][] 美团发布AI产品“小团健康管家”与“健康卡”，正式入局AI家庭健康管理赛道
+  - [aibase][] 英伟达发布全球首个开源量子AI模型Ising，主力资金大幅加仓量子科技概念股
+  - [aibase][] OpenAI 投资者因 Anthropic 崛起而重新审视投资策略
+  - [aibase][] 菜鸟发布首款自研攀爬机器人ZeeBot：10秒登顶5层货架
+
+[2026-04-16 01:01:21] keyword_filter - OUTPUT: 46条 | 移除15条
+============================================================
+  - [huxiu][] 阿里云上调百炼部分MU模型单元服务价格
+  - [huxiu][] 我国首艘万吨级纯电动智能集装箱船正式投入商业运营
+  - [huxiu][] 腾讯客服回应电脑版微信能发语音了
+  - [huxiu][] 一季度国内云厂商大模型中标金额累计约16.5亿元
+  - [huxiu][] 亚马逊全球智能枢纽仓深圳首仓正式开仓
+  - [huxiu][] Anthropic联合创始人强调人文学科的重要性，不容忽视
+  - [huxiu][] 千问AI眼镜S1今日开售
+  - [huxiu][] Anthropic用AI加速弱到强监督对齐研究，弱模型指导强模型训练
+  - [huxiu][] OpenAI扩大网络安全项目访问，数千名验证网络防御人员可参与
+  - [huxiu][] 微软接管挪威Stargate数据中心，原为OpenAI准备
+  - [infoq][] Gartner：数百个AI用例中仅少数能在客户服务领域驱动真正成果
+  - [infoq][] LangChain转发消息：deepagents deploy支持用户作用域内存
+  - [infoq][] LangChain转发消息：deepagents框架支持子代理结构化输出
+  - [infoq][] 阿里云发布AI开发工具Meoo，支持自然语言生成网站并一键部署
+  - [infoq][] OpenRouter平台新增“隐身”AI模型Elephant Alpha
+  - [infoq][] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][] GoogleDeepMind发布空间感知基础图文编码器TIPSv2
+  - [infoq][] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][] Anthropic 据报将发布新一代模型 Claude Opus 4.7 及设计专用 AI 工具
+  - [infoq][] Hugging Face Hub 推出新仓库类型“kernel”
+  - [infoq][] Anthropic 彻底重新设计 Claude Code 桌面应用，提升开发速度
+  - [infoq][] MiniMax AI 宣布 M2.7 模型参数规模为 230B
+  - [infoq][] Google DeepMind 升级机器人模型，提升物理世界推理能力
+  - [infoq][] ARC Prize 开源 ARC-AGI-3 人类基准数据集
+  - [infoq][] Anthropic为Claude Code推出Routines功能，支持自动化AI工作流
+  - [infoq][] Grok 4.20 Reasoning 在 BridgeBench 推理基准测试中排名第一
+  - [量子位][] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+  - [aibase][] Anthropic突然要查身份证了，用Claude还需要人脸识别？
+  - [aibase][] 阿里发布 AI 开发工具 Meoo，助力零门槛创意变现！
+  - [aibase][] 阿里“黑马”模型happyhorse-1.0斩获LM Arena视频编辑冠军
+  - [aibase][] Midjourney V8.1 重磅发布：原生 2K 高清渲染速度成本双降 3 倍，图像提示功能强势
+  - [aibase][] 苹果曾秘密警告马斯克：Grok再不整改就下架
+  - [aibase][] 100B 匿名模型 Elephant 冲上 OpenRouter 趋势榜第二
+  - [aibase][] 小红书突然开源了一个训练引擎Relax，AI圈又多了一个不容忽视的玩家
+  - [aibase][] OpenAI的"地盘"被微软接手，星门计划正在悄悄变形
+  - [aibase][] 李飞飞创业公司WorldLabs发布Spark2.0:首个集成Three.js的跨平台超大规模3DG
+  - [aibase][] 谷歌发布全新 Windows 桌面 AI 应用，轻松两键即可搜索！
+  - [aibase][] DeepSeek 在内蒙古乌兰察布设立数据中心，开启高薪招聘
+  - [aibase][] 谷歌DeepMind招了一位哲学家，这个信号比任何技术发布都值得关注
+  - [aibase][] 跨境电商杀入3. 0 时代，亚马逊押注AI这张牌，玩家们准备好了吗？
+  - [aibase][] ​天猫推出新规：规范 AI 软件及应用商品发布体验
+  - [aibase][] 美团发布AI产品“小团健康管家”与“健康卡”，正式入局AI家庭健康管理赛道
+  - [aibase][] 英伟达发布全球首个开源量子AI模型Ising，主力资金大幅加仓量子科技概念股
+  - [aibase][] 菜鸟发布首款自研攀爬机器人ZeeBot：10秒登顶5层货架
+
+[2026-04-16 01:01:21] bge_dedup - INPUT: 46条
+============================================================
+  - [huxiu][] 阿里云上调百炼部分MU模型单元服务价格
+  - [huxiu][] 我国首艘万吨级纯电动智能集装箱船正式投入商业运营
+  - [huxiu][] 腾讯客服回应电脑版微信能发语音了
+  - [huxiu][] 一季度国内云厂商大模型中标金额累计约16.5亿元
+  - [huxiu][] 亚马逊全球智能枢纽仓深圳首仓正式开仓
+  - [huxiu][] Anthropic联合创始人强调人文学科的重要性，不容忽视
+  - [huxiu][] 千问AI眼镜S1今日开售
+  - [huxiu][] Anthropic用AI加速弱到强监督对齐研究，弱模型指导强模型训练
+  - [huxiu][] OpenAI扩大网络安全项目访问，数千名验证网络防御人员可参与
+  - [huxiu][] 微软接管挪威Stargate数据中心，原为OpenAI准备
+  - [infoq][] Gartner：数百个AI用例中仅少数能在客户服务领域驱动真正成果
+  - [infoq][] LangChain转发消息：deepagents deploy支持用户作用域内存
+  - [infoq][] LangChain转发消息：deepagents框架支持子代理结构化输出
+  - [infoq][] 阿里云发布AI开发工具Meoo，支持自然语言生成网站并一键部署
+  - [infoq][] OpenRouter平台新增“隐身”AI模型Elephant Alpha
+  - [infoq][] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][] GoogleDeepMind发布空间感知基础图文编码器TIPSv2
+  - [infoq][] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][] Anthropic 据报将发布新一代模型 Claude Opus 4.7 及设计专用 AI 工具
+  - [infoq][] Hugging Face Hub 推出新仓库类型“kernel”
+  - [infoq][] Anthropic 彻底重新设计 Claude Code 桌面应用，提升开发速度
+  - [infoq][] MiniMax AI 宣布 M2.7 模型参数规模为 230B
+  - [infoq][] Google DeepMind 升级机器人模型，提升物理世界推理能力
+  - [infoq][] ARC Prize 开源 ARC-AGI-3 人类基准数据集
+  - [infoq][] Anthropic为Claude Code推出Routines功能，支持自动化AI工作流
+  - [infoq][] Grok 4.20 Reasoning 在 BridgeBench 推理基准测试中排名第一
+  - [量子位][] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+  - [aibase][] Anthropic突然要查身份证了，用Claude还需要人脸识别？
+  - [aibase][] 阿里发布 AI 开发工具 Meoo，助力零门槛创意变现！
+  - [aibase][] 阿里“黑马”模型happyhorse-1.0斩获LM Arena视频编辑冠军
+  - [aibase][] Midjourney V8.1 重磅发布：原生 2K 高清渲染速度成本双降 3 倍，图像提示功能强势
+  - [aibase][] 苹果曾秘密警告马斯克：Grok再不整改就下架
+  - [aibase][] 100B 匿名模型 Elephant 冲上 OpenRouter 趋势榜第二
+  - [aibase][] 小红书突然开源了一个训练引擎Relax，AI圈又多了一个不容忽视的玩家
+  - [aibase][] OpenAI的"地盘"被微软接手，星门计划正在悄悄变形
+  - [aibase][] 李飞飞创业公司WorldLabs发布Spark2.0:首个集成Three.js的跨平台超大规模3DG
+  - [aibase][] 谷歌发布全新 Windows 桌面 AI 应用，轻松两键即可搜索！
+  - [aibase][] DeepSeek 在内蒙古乌兰察布设立数据中心，开启高薪招聘
+  - [aibase][] 谷歌DeepMind招了一位哲学家，这个信号比任何技术发布都值得关注
+  - [aibase][] 跨境电商杀入3. 0 时代，亚马逊押注AI这张牌，玩家们准备好了吗？
+  - [aibase][] ​天猫推出新规：规范 AI 软件及应用商品发布体验
+  - [aibase][] 美团发布AI产品“小团健康管家”与“健康卡”，正式入局AI家庭健康管理赛道
+  - [aibase][] 英伟达发布全球首个开源量子AI模型Ising，主力资金大幅加仓量子科技概念股
+  - [aibase][] 菜鸟发布首款自研攀爬机器人ZeeBot：10秒登顶5层货架
+
+[2026-04-16 01:01:36] bge_dedup - OUTPUT: 43条 | 移除3条
+============================================================
+  - [huxiu][] 阿里云上调百炼部分MU模型单元服务价格
+  - [huxiu][] 我国首艘万吨级纯电动智能集装箱船正式投入商业运营
+  - [huxiu][] 腾讯客服回应电脑版微信能发语音了
+  - [huxiu][] 一季度国内云厂商大模型中标金额累计约16.5亿元
+  - [huxiu][] 亚马逊全球智能枢纽仓深圳首仓正式开仓
+  - [huxiu][] Anthropic联合创始人强调人文学科的重要性，不容忽视
+  - [huxiu][] 千问AI眼镜S1今日开售
+  - [huxiu][] Anthropic用AI加速弱到强监督对齐研究，弱模型指导强模型训练
+  - [huxiu][] OpenAI扩大网络安全项目访问，数千名验证网络防御人员可参与
+  - [huxiu][] 微软接管挪威Stargate数据中心，原为OpenAI准备
+  - [infoq][] Gartner：数百个AI用例中仅少数能在客户服务领域驱动真正成果
+  - [infoq][] LangChain转发消息：deepagents deploy支持用户作用域内存
+  - [infoq][] 阿里云发布AI开发工具Meoo，支持自然语言生成网站并一键部署
+  - [infoq][] OpenRouter平台新增“隐身”AI模型Elephant Alpha
+  - [infoq][] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][] GoogleDeepMind发布空间感知基础图文编码器TIPSv2
+  - [infoq][] Anthropic 据报将发布新一代模型 Claude Opus 4.7 及设计专用 AI 工具
+  - [infoq][] Hugging Face Hub 推出新仓库类型“kernel”
+  - [infoq][] Anthropic 彻底重新设计 Claude Code 桌面应用，提升开发速度
+  - [infoq][] Google DeepMind 升级机器人模型，提升物理世界推理能力
+  - [infoq][] ARC Prize 开源 ARC-AGI-3 人类基准数据集
+  - [infoq][] Anthropic为Claude Code推出Routines功能，支持自动化AI工作流
+  - [infoq][] Grok 4.20 Reasoning 在 BridgeBench 推理基准测试中排名第一
+  - [量子位][] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+  - [aibase][] Anthropic突然要查身份证了，用Claude还需要人脸识别？
+  - [aibase][] 阿里发布 AI 开发工具 Meoo，助力零门槛创意变现！
+  - [aibase][] 阿里“黑马”模型happyhorse-1.0斩获LM Arena视频编辑冠军
+  - [aibase][] Midjourney V8.1 重磅发布：原生 2K 高清渲染速度成本双降 3 倍，图像提示功能强势
+  - [aibase][] 苹果曾秘密警告马斯克：Grok再不整改就下架
+  - [aibase][] 100B 匿名模型 Elephant 冲上 OpenRouter 趋势榜第二
+  - [aibase][] 小红书突然开源了一个训练引擎Relax，AI圈又多了一个不容忽视的玩家
+  - [aibase][] OpenAI的"地盘"被微软接手，星门计划正在悄悄变形
+  - [aibase][] 李飞飞创业公司WorldLabs发布Spark2.0:首个集成Three.js的跨平台超大规模3DG
+  - [aibase][] 谷歌发布全新 Windows 桌面 AI 应用，轻松两键即可搜索！
+  - [aibase][] DeepSeek 在内蒙古乌兰察布设立数据中心，开启高薪招聘
+  - [aibase][] 谷歌DeepMind招了一位哲学家，这个信号比任何技术发布都值得关注
+  - [aibase][] 跨境电商杀入3. 0 时代，亚马逊押注AI这张牌，玩家们准备好了吗？
+  - [aibase][] ​天猫推出新规：规范 AI 软件及应用商品发布体验
+  - [aibase][] 美团发布AI产品“小团健康管家”与“健康卡”，正式入局AI家庭健康管理赛道
+  - [aibase][] 英伟达发布全球首个开源量子AI模型Ising，主力资金大幅加仓量子科技概念股
+  - [aibase][] 菜鸟发布首款自研攀爬机器人ZeeBot：10秒登顶5层货架
+
+[2026-04-16 01:01:36] llm_classify - INPUT: 43条
+============================================================
+  - [huxiu][] 阿里云上调百炼部分MU模型单元服务价格
+  - [huxiu][] 我国首艘万吨级纯电动智能集装箱船正式投入商业运营
+  - [huxiu][] 腾讯客服回应电脑版微信能发语音了
+  - [huxiu][] 一季度国内云厂商大模型中标金额累计约16.5亿元
+  - [huxiu][] 亚马逊全球智能枢纽仓深圳首仓正式开仓
+  - [huxiu][] Anthropic联合创始人强调人文学科的重要性，不容忽视
+  - [huxiu][] 千问AI眼镜S1今日开售
+  - [huxiu][] Anthropic用AI加速弱到强监督对齐研究，弱模型指导强模型训练
+  - [huxiu][] OpenAI扩大网络安全项目访问，数千名验证网络防御人员可参与
+  - [huxiu][] 微软接管挪威Stargate数据中心，原为OpenAI准备
+  - [infoq][] Gartner：数百个AI用例中仅少数能在客户服务领域驱动真正成果
+  - [infoq][] LangChain转发消息：deepagents deploy支持用户作用域内存
+  - [infoq][] 阿里云发布AI开发工具Meoo，支持自然语言生成网站并一键部署
+  - [infoq][] OpenRouter平台新增“隐身”AI模型Elephant Alpha
+  - [infoq][] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][] GoogleDeepMind发布空间感知基础图文编码器TIPSv2
+  - [infoq][] Anthropic 据报将发布新一代模型 Claude Opus 4.7 及设计专用 AI 工具
+  - [infoq][] Hugging Face Hub 推出新仓库类型“kernel”
+  - [infoq][] Anthropic 彻底重新设计 Claude Code 桌面应用，提升开发速度
+  - [infoq][] Google DeepMind 升级机器人模型，提升物理世界推理能力
+  - [infoq][] ARC Prize 开源 ARC-AGI-3 人类基准数据集
+  - [infoq][] Anthropic为Claude Code推出Routines功能，支持自动化AI工作流
+  - [infoq][] Grok 4.20 Reasoning 在 BridgeBench 推理基准测试中排名第一
+  - [量子位][] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+  - [aibase][] Anthropic突然要查身份证了，用Claude还需要人脸识别？
+  - [aibase][] 阿里发布 AI 开发工具 Meoo，助力零门槛创意变现！
+  - [aibase][] 阿里“黑马”模型happyhorse-1.0斩获LM Arena视频编辑冠军
+  - [aibase][] Midjourney V8.1 重磅发布：原生 2K 高清渲染速度成本双降 3 倍，图像提示功能强势
+  - [aibase][] 苹果曾秘密警告马斯克：Grok再不整改就下架
+  - [aibase][] 100B 匿名模型 Elephant 冲上 OpenRouter 趋势榜第二
+  - [aibase][] 小红书突然开源了一个训练引擎Relax，AI圈又多了一个不容忽视的玩家
+  - [aibase][] OpenAI的"地盘"被微软接手，星门计划正在悄悄变形
+  - [aibase][] 李飞飞创业公司WorldLabs发布Spark2.0:首个集成Three.js的跨平台超大规模3DG
+  - [aibase][] 谷歌发布全新 Windows 桌面 AI 应用，轻松两键即可搜索！
+  - [aibase][] DeepSeek 在内蒙古乌兰察布设立数据中心，开启高薪招聘
+  - [aibase][] 谷歌DeepMind招了一位哲学家，这个信号比任何技术发布都值得关注
+  - [aibase][] 跨境电商杀入3. 0 时代，亚马逊押注AI这张牌，玩家们准备好了吗？
+  - [aibase][] ​天猫推出新规：规范 AI 软件及应用商品发布体验
+  - [aibase][] 美团发布AI产品“小团健康管家”与“健康卡”，正式入局AI家庭健康管理赛道
+  - [aibase][] 英伟达发布全球首个开源量子AI模型Ising，主力资金大幅加仓量子科技概念股
+  - [aibase][] 菜鸟发布首款自研攀爬机器人ZeeBot：10秒登顶5层货架
+
+[2026-04-16 01:02:19] llm_classify - OUTPUT: 43条 | 保留43条
+============================================================
+  - [huxiu][国内AI资讯] 阿里云上调百炼部分MU模型单元服务价格
+  - [huxiu][智能硬件] 我国首艘万吨级纯电动智能集装箱船正式投入商业运营
+  - [huxiu][国内AI资讯] 腾讯客服回应电脑版微信能发语音了
+  - [huxiu][其它科技资讯] 一季度国内云厂商大模型中标金额累计约16.5亿元
+  - [huxiu][国内AI资讯] 亚马逊全球智能枢纽仓深圳首仓正式开仓
+  - [huxiu][国外AI资讯] Anthropic联合创始人强调人文学科的重要性，不容忽视
+  - [huxiu][智能硬件] 千问AI眼镜S1今日开售
+  - [huxiu][国外AI资讯] Anthropic用AI加速弱到强监督对齐研究，弱模型指导强模型训练
+  - [huxiu][国外AI资讯] OpenAI扩大网络安全项目访问，数千名验证网络防御人员可参与
+  - [huxiu][国外AI资讯] 微软接管挪威Stargate数据中心，原为OpenAI准备
+  - [infoq][其它科技资讯] Gartner：数百个AI用例中仅少数能在客户服务领域驱动真正成果
+  - [infoq][国外AI资讯] LangChain转发消息：deepagents deploy支持用户作用域内存
+  - [infoq][国内AI资讯] 阿里云发布AI开发工具Meoo，支持自然语言生成网站并一键部署
+  - [infoq][国外AI资讯] OpenRouter平台新增“隐身”AI模型Elephant Alpha
+  - [infoq][国内AI资讯] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][国外AI资讯] GoogleDeepMind发布空间感知基础图文编码器TIPSv2
+  - [infoq][国外AI资讯] Anthropic 据报将发布新一代模型 Claude Opus 4.7 及设计专用 AI 工具
+  - [infoq][国外AI资讯] Hugging Face Hub 推出新仓库类型“kernel”
+  - [infoq][国外AI资讯] Anthropic 彻底重新设计 Claude Code 桌面应用，提升开发速度
+  - [infoq][国外AI资讯] Google DeepMind 升级机器人模型，提升物理世界推理能力
+  - [infoq][国外AI资讯] ARC Prize 开源 ARC-AGI-3 人类基准数据集
+  - [infoq][国外AI资讯] Anthropic为Claude Code推出Routines功能，支持自动化AI工作流
+  - [infoq][国外AI资讯] Grok 4.20 Reasoning 在 BridgeBench 推理基准测试中排名第一
+  - [量子位][国内AI资讯] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][国内AI资讯] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][国内AI资讯] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+  - [aibase][国外AI资讯] Anthropic突然要查身份证了，用Claude还需要人脸识别？
+  - [aibase][国内AI资讯] 阿里发布 AI 开发工具 Meoo，助力零门槛创意变现！
+  - [aibase][国内AI资讯] 阿里“黑马”模型happyhorse-1.0斩获LM Arena视频编辑冠军
+  - [aibase][国外AI资讯] Midjourney V8.1 重磅发布：原生 2K 高清渲染速度成本双降 3 倍，图像提示功能强势
+  - [aibase][国外AI资讯] 苹果曾秘密警告马斯克：Grok再不整改就下架
+  - [aibase][国外AI资讯] 100B 匿名模型 Elephant 冲上 OpenRouter 趋势榜第二
+  - [aibase][国内AI资讯] 小红书突然开源了一个训练引擎Relax，AI圈又多了一个不容忽视的玩家
+  - [aibase][国外AI资讯] OpenAI的"地盘"被微软接手，星门计划正在悄悄变形
+  - [aibase][智能硬件] 李飞飞创业公司WorldLabs发布Spark2.0:首个集成Three.js的跨平台超大规模3DG
+  - [aibase][国外AI资讯] 谷歌发布全新 Windows 桌面 AI 应用，轻松两键即可搜索！
+  - [aibase][国内AI资讯] DeepSeek 在内蒙古乌兰察布设立数据中心，开启高薪招聘
+  - [aibase][国外AI资讯] 谷歌DeepMind招了一位哲学家，这个信号比任何技术发布都值得关注
+  - [aibase][其它科技资讯] 跨境电商杀入3. 0 时代，亚马逊押注AI这张牌，玩家们准备好了吗？
+  - [aibase][国内AI资讯] ​天猫推出新规：规范 AI 软件及应用商品发布体验
+  - [aibase][国内AI资讯] 美团发布AI产品“小团健康管家”与“健康卡”，正式入局AI家庭健康管理赛道
+  - [aibase][其它科技资讯] 英伟达发布全球首个开源量子AI模型Ising，主力资金大幅加仓量子科技概念股
+  - [aibase][智能硬件] 菜鸟发布首款自研攀爬机器人ZeeBot：10秒登顶5层货架
+
+[2026-04-16 01:02:19] llm_summary - INPUT: 43条
+============================================================
+  - [huxiu][国内AI资讯] 阿里云上调百炼部分MU模型单元服务价格
+  - [huxiu][智能硬件] 我国首艘万吨级纯电动智能集装箱船正式投入商业运营
+  - [huxiu][国内AI资讯] 腾讯客服回应电脑版微信能发语音了
+  - [huxiu][其它科技资讯] 一季度国内云厂商大模型中标金额累计约16.5亿元
+  - [huxiu][国内AI资讯] 亚马逊全球智能枢纽仓深圳首仓正式开仓
+  - [huxiu][国外AI资讯] Anthropic联合创始人强调人文学科的重要性，不容忽视
+  - [huxiu][智能硬件] 千问AI眼镜S1今日开售
+  - [huxiu][国外AI资讯] Anthropic用AI加速弱到强监督对齐研究，弱模型指导强模型训练
+  - [huxiu][国外AI资讯] OpenAI扩大网络安全项目访问，数千名验证网络防御人员可参与
+  - [huxiu][国外AI资讯] 微软接管挪威Stargate数据中心，原为OpenAI准备
+  - [infoq][其它科技资讯] Gartner：数百个AI用例中仅少数能在客户服务领域驱动真正成果
+  - [infoq][国外AI资讯] LangChain转发消息：deepagents deploy支持用户作用域内存
+  - [infoq][国内AI资讯] 阿里云发布AI开发工具Meoo，支持自然语言生成网站并一键部署
+  - [infoq][国外AI资讯] OpenRouter平台新增“隐身”AI模型Elephant Alpha
+  - [infoq][国内AI资讯] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][国外AI资讯] GoogleDeepMind发布空间感知基础图文编码器TIPSv2
+  - [infoq][国外AI资讯] Anthropic 据报将发布新一代模型 Claude Opus 4.7 及设计专用 AI 工具
+  - [infoq][国外AI资讯] Hugging Face Hub 推出新仓库类型“kernel”
+  - [infoq][国外AI资讯] Anthropic 彻底重新设计 Claude Code 桌面应用，提升开发速度
+  - [infoq][国外AI资讯] Google DeepMind 升级机器人模型，提升物理世界推理能力
+  - [infoq][国外AI资讯] ARC Prize 开源 ARC-AGI-3 人类基准数据集
+  - [infoq][国外AI资讯] Anthropic为Claude Code推出Routines功能，支持自动化AI工作流
+  - [infoq][国外AI资讯] Grok 4.20 Reasoning 在 BridgeBench 推理基准测试中排名第一
+  - [量子位][国内AI资讯] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][国内AI资讯] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][国内AI资讯] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+  - [aibase][国外AI资讯] Anthropic突然要查身份证了，用Claude还需要人脸识别？
+  - [aibase][国内AI资讯] 阿里发布 AI 开发工具 Meoo，助力零门槛创意变现！
+  - [aibase][国内AI资讯] 阿里“黑马”模型happyhorse-1.0斩获LM Arena视频编辑冠军
+  - [aibase][国外AI资讯] Midjourney V8.1 重磅发布：原生 2K 高清渲染速度成本双降 3 倍，图像提示功能强势
+  - [aibase][国外AI资讯] 苹果曾秘密警告马斯克：Grok再不整改就下架
+  - [aibase][国外AI资讯] 100B 匿名模型 Elephant 冲上 OpenRouter 趋势榜第二
+  - [aibase][国内AI资讯] 小红书突然开源了一个训练引擎Relax，AI圈又多了一个不容忽视的玩家
+  - [aibase][国外AI资讯] OpenAI的"地盘"被微软接手，星门计划正在悄悄变形
+  - [aibase][智能硬件] 李飞飞创业公司WorldLabs发布Spark2.0:首个集成Three.js的跨平台超大规模3DG
+  - [aibase][国外AI资讯] 谷歌发布全新 Windows 桌面 AI 应用，轻松两键即可搜索！
+  - [aibase][国内AI资讯] DeepSeek 在内蒙古乌兰察布设立数据中心，开启高薪招聘
+  - [aibase][国外AI资讯] 谷歌DeepMind招了一位哲学家，这个信号比任何技术发布都值得关注
+  - [aibase][其它科技资讯] 跨境电商杀入3. 0 时代，亚马逊押注AI这张牌，玩家们准备好了吗？
+  - [aibase][国内AI资讯] ​天猫推出新规：规范 AI 软件及应用商品发布体验
+  - [aibase][国内AI资讯] 美团发布AI产品“小团健康管家”与“健康卡”，正式入局AI家庭健康管理赛道
+  - [aibase][其它科技资讯] 英伟达发布全球首个开源量子AI模型Ising，主力资金大幅加仓量子科技概念股
+  - [aibase][智能硬件] 菜鸟发布首款自研攀爬机器人ZeeBot：10秒登顶5层货架
+
+[2026-04-16 01:02:31] llm_summary - OUTPUT: 43条 | 成功3条
+============================================================
+  - [huxiu][国内AI资讯] 阿里云上调百炼部分MU模型单元服务价格
+  - [huxiu][智能硬件] 我国首艘万吨级纯电动智能集装箱船正式投入商业运营
+  - [huxiu][国内AI资讯] 腾讯客服回应电脑版微信能发语音了
+  - [huxiu][其它科技资讯] 一季度国内云厂商大模型中标金额累计约16.5亿元
+  - [huxiu][国内AI资讯] 亚马逊全球智能枢纽仓深圳首仓正式开仓
+  - [huxiu][国外AI资讯] Anthropic联合创始人强调人文学科的重要性，不容忽视
+  - [huxiu][智能硬件] 千问AI眼镜S1今日开售
+  - [huxiu][国外AI资讯] Anthropic用AI加速弱到强监督对齐研究，弱模型指导强模型训练
+  - [huxiu][国外AI资讯] OpenAI扩大网络安全项目访问，数千名验证网络防御人员可参与
+  - [huxiu][国外AI资讯] 微软接管挪威Stargate数据中心，原为OpenAI准备
+  - [infoq][其它科技资讯] Gartner：数百个AI用例中仅少数能在客户服务领域驱动真正成果
+  - [infoq][国外AI资讯] LangChain转发消息：deepagents deploy支持用户作用域内存
+  - [infoq][国内AI资讯] 阿里云发布AI开发工具Meoo，支持自然语言生成网站并一键部署
+  - [infoq][国外AI资讯] OpenRouter平台新增“隐身”AI模型Elephant Alpha
+  - [infoq][国内AI资讯] MiniMax发布M2.7模型，总参数量230B，激活参数量10B
+  - [infoq][国外AI资讯] GoogleDeepMind发布空间感知基础图文编码器TIPSv2
+  - [infoq][国外AI资讯] Anthropic 据报将发布新一代模型 Claude Opus 4.7 及设计专用 AI 工具
+  - [infoq][国外AI资讯] Hugging Face Hub 推出新仓库类型“kernel”
+  - [infoq][国外AI资讯] Anthropic 彻底重新设计 Claude Code 桌面应用，提升开发速度
+  - [infoq][国外AI资讯] Google DeepMind 升级机器人模型，提升物理世界推理能力
+  - [infoq][国外AI资讯] ARC Prize 开源 ARC-AGI-3 人类基准数据集
+  - [infoq][国外AI资讯] Anthropic为Claude Code推出Routines功能，支持自动化AI工作流
+  - [infoq][国外AI资讯] Grok 4.20 Reasoning 在 BridgeBench 推理基准测试中排名第一
+  - [量子位][国内AI资讯] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][国内AI资讯] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][国内AI资讯] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+  - [aibase][国外AI资讯] Anthropic突然要查身份证了，用Claude还需要人脸识别？
+  - [aibase][国内AI资讯] 阿里发布 AI 开发工具 Meoo，助力零门槛创意变现！
+  - [aibase][国内AI资讯] 阿里“黑马”模型happyhorse-1.0斩获LM Arena视频编辑冠军
+  - [aibase][国外AI资讯] Midjourney V8.1 重磅发布：原生 2K 高清渲染速度成本双降 3 倍，图像提示功能强势
+  - [aibase][国外AI资讯] 苹果曾秘密警告马斯克：Grok再不整改就下架
+  - [aibase][国外AI资讯] 100B 匿名模型 Elephant 冲上 OpenRouter 趋势榜第二
+  - [aibase][国内AI资讯] 小红书突然开源了一个训练引擎Relax，AI圈又多了一个不容忽视的玩家
+  - [aibase][国外AI资讯] OpenAI的"地盘"被微软接手，星门计划正在悄悄变形
+  - [aibase][智能硬件] 李飞飞创业公司WorldLabs发布Spark2.0:首个集成Three.js的跨平台超大规模3DG
+  - [aibase][国外AI资讯] 谷歌发布全新 Windows 桌面 AI 应用，轻松两键即可搜索！
+  - [aibase][国内AI资讯] DeepSeek 在内蒙古乌兰察布设立数据中心，开启高薪招聘
+  - [aibase][国外AI资讯] 谷歌DeepMind招了一位哲学家，这个信号比任何技术发布都值得关注
+  - [aibase][其它科技资讯] 跨境电商杀入3. 0 时代，亚马逊押注AI这张牌，玩家们准备好了吗？
+  - [aibase][国内AI资讯] ​天猫推出新规：规范 AI 软件及应用商品发布体验
+  - [aibase][国内AI资讯] 美团发布AI产品“小团健康管家”与“健康卡”，正式入局AI家庭健康管理赛道
+  - [aibase][其它科技资讯] 英伟达发布全球首个开源量子AI模型Ising，主力资金大幅加仓量子科技概念股
+  - [aibase][智能硬件] 菜鸟发布首款自研攀爬机器人ZeeBot：10秒登顶5层货架
+
+[2026-04-16 07:25:34] keyword_filter - INPUT: 58条
+============================================================
+  - [huxiu][] 谷歌关联公司拟发57亿美元垃圾债，助力数据中心建设
+  - [huxiu][] 欧盟拟令Meta修改WhatsApp AI政策，推进反垄断调查
+  - [huxiu][] Jane Street增资10亿美元，拟花60亿美元购CoreWeave芯片用于AI建设
+  - [huxiu][] 阿里云上调百炼部分MU模型单元服务价格
+  - [huxiu][] “智象未来”完成超5亿元新一轮融资
+  - [huxiu][] 我国首艘万吨级纯电动智能集装箱船正式投入商业运营
+  - [huxiu][] 腾讯客服回应电脑版微信能发语音了
+  - [huxiu][] 自动驾驶初创公司Glydways洽谈2.5亿美元融资
+  - [huxiu][] 一季度国内云厂商大模型中标金额累计约16.5亿元
+  - [huxiu][] 亚马逊全球智能枢纽仓深圳首仓正式开仓
+  - [huxiu][] 软银邀请银行参与400亿美元OpenAI贷款项目
+  - [huxiu][] Anthropic联合创始人强调人文学科的重要性，不容忽视
+  - [huxiu][] 千问AI眼镜S1今日开售
+  - [huxiu][] 光通信进入可持续景气周期，产业链多环节成长空间打开
+  - [huxiu][] 亚马逊将收购全球星，并为苹果iPhone提供卫星服务支持
+  - [infoq][] Google推出YouTube Premium年度订阅五折优惠
+  - [infoq][] 首届PyTorch Conference Europe在巴黎举行，吸引超600名与会者
+  - [infoq][] MistralAI 宣布 Connectors API 进入公开预览阶段
+  - [infoq][] NVIDIA 官方账号发布推文链接
+  - [infoq][] 微软发布 Microsoft Foundry ROI 计算器，研究报告称其可带来327%投资回报率
+  - [infoq][] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [infoq][] LangChain 预告 Google Cloud Next 大会活动，将展示 AI 智能体方案
+  - [infoq][] MIT CSAIL提出OSGym基础设施以提升计算机使用智能体能力
+  - [infoq][] Google AI Studio 发布推文链接，内容未披露
+  - [infoq][] Blaxel 成为新版 OpenAI Agents SDK 一级沙箱提供商
+  - [infoq][] AI初创公司Wafer获400万美元种子轮融资，致力于优化芯片代码
+  - [infoq][] Meta AI发布Muse Spark安全与准备报告
+  - [infoq][] 斯坦福HAI与布鲁金斯学会举办对话，探讨AI指数2026报告与数据挑战
+  - [infoq][] 亚马逊科学团队为NimbusTx定制化学训练LLM，统一分子特性预测任务
+  - [infoq][] a16z领投AI增长代理平台Hilbert的A轮融资
+  - [infoq][] AnthropicAI研究揭示LLM潜意识学习现象
+  - [infoq][] Smartbase推出AI驱动方案，为制造商自动化采购订单录入
+  - [infoq][] SchmidhuberAI发布新论文，提出基于好奇心的规划方法用于LLM测试生成
+  - [infoq][] MSL宣布发布模型准备报告，致力于前沿AI安全与准备
+  - [infoq][] 谷歌宣布推出桌面版 Gemini 应用，首站为 Mac 平台
+  - [量子位][] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+  - [aibase][] Anthropic突然要查身份证了，用Claude还需要人脸识别？
+  - [aibase][] 阿里发布 AI 开发工具 Meoo，助力零门槛创意变现！
+  - [aibase][] 阿里“黑马”模型happyhorse-1.0斩获LM Arena视频编辑冠军
+  - [aibase][] Midjourney V8.1 重磅发布：原生 2K 高清渲染速度成本双降 3 倍，图像提示功能强势
+  - [aibase][] 耀客传媒首部AIGC短剧《秦岭青铜诡事录》今日上线，AI签约演员担纲主演
+  - [aibase][] 微软接手挪威数据中心，增购 3 万块英伟达芯片
+  - [aibase][] 苹果曾秘密警告马斯克：Grok再不整改就下架
+  - [aibase][] 100B 匿名模型 Elephant 冲上 OpenRouter 趋势榜第二
+  - [aibase][] 小红书突然开源了一个训练引擎Relax，AI圈又多了一个不容忽视的玩家
+  - [aibase][] OpenAI的"地盘"被微软接手，星门计划正在悄悄变形
+  - [aibase][] 李飞飞创业公司WorldLabs发布Spark2.0:首个集成Three.js的跨平台超大规模3DG
+  - [aibase][] 谷歌发布全新 Windows 桌面 AI 应用，轻松两键即可搜索！
+  - [aibase][] DeepSeek 在内蒙古乌兰察布设立数据中心，开启高薪招聘
+  - [aibase][] 谷歌DeepMind招了一位哲学家，这个信号比任何技术发布都值得关注
+  - [aibase][] 跨境电商杀入3. 0 时代，亚马逊押注AI这张牌，玩家们准备好了吗？
+  - [aibase][] ​天猫推出新规：规范 AI 软件及应用商品发布体验
+  - [aibase][] 美团发布AI产品“小团健康管家”与“健康卡”，正式入局AI家庭健康管理赛道
+  - [aibase][] 英伟达发布全球首个开源量子AI模型Ising，主力资金大幅加仓量子科技概念股
+  - [aibase][] OpenAI 投资者因 Anthropic 崛起而重新审视投资策略
+  - [aibase][] 菜鸟发布首款自研攀爬机器人ZeeBot：10秒登顶5层货架
+
+[2026-04-16 07:25:34] keyword_filter - OUTPUT: 41条 | 移除17条
+============================================================
+  - [huxiu][] 阿里云上调百炼部分MU模型单元服务价格
+  - [huxiu][] 我国首艘万吨级纯电动智能集装箱船正式投入商业运营
+  - [huxiu][] 腾讯客服回应电脑版微信能发语音了
+  - [huxiu][] 一季度国内云厂商大模型中标金额累计约16.5亿元
+  - [huxiu][] 亚马逊全球智能枢纽仓深圳首仓正式开仓
+  - [huxiu][] Anthropic联合创始人强调人文学科的重要性，不容忽视
+  - [huxiu][] 千问AI眼镜S1今日开售
+  - [infoq][] Google推出YouTube Premium年度订阅五折优惠
+  - [infoq][] 首届PyTorch Conference Europe在巴黎举行，吸引超600名与会者
+  - [infoq][] MistralAI 宣布 Connectors API 进入公开预览阶段
+  - [infoq][] NVIDIA 官方账号发布推文链接
+  - [infoq][] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [infoq][] MIT CSAIL提出OSGym基础设施以提升计算机使用智能体能力
+  - [infoq][] Google AI Studio 发布推文链接，内容未披露
+  - [infoq][] Blaxel 成为新版 OpenAI Agents SDK 一级沙箱提供商
+  - [infoq][] Meta AI发布Muse Spark安全与准备报告
+  - [infoq][] AnthropicAI研究揭示LLM潜意识学习现象
+  - [infoq][] Smartbase推出AI驱动方案，为制造商自动化采购订单录入
+  - [infoq][] SchmidhuberAI发布新论文，提出基于好奇心的规划方法用于LLM测试生成
+  - [infoq][] MSL宣布发布模型准备报告，致力于前沿AI安全与准备
+  - [infoq][] 谷歌宣布推出桌面版 Gemini 应用，首站为 Mac 平台
+  - [量子位][] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+  - [aibase][] Anthropic突然要查身份证了，用Claude还需要人脸识别？
+  - [aibase][] 阿里发布 AI 开发工具 Meoo，助力零门槛创意变现！
+  - [aibase][] 阿里“黑马”模型happyhorse-1.0斩获LM Arena视频编辑冠军
+  - [aibase][] Midjourney V8.1 重磅发布：原生 2K 高清渲染速度成本双降 3 倍，图像提示功能强势
+  - [aibase][] 苹果曾秘密警告马斯克：Grok再不整改就下架
+  - [aibase][] 100B 匿名模型 Elephant 冲上 OpenRouter 趋势榜第二
+  - [aibase][] 小红书突然开源了一个训练引擎Relax，AI圈又多了一个不容忽视的玩家
+  - [aibase][] OpenAI的"地盘"被微软接手，星门计划正在悄悄变形
+  - [aibase][] 李飞飞创业公司WorldLabs发布Spark2.0:首个集成Three.js的跨平台超大规模3DG
+  - [aibase][] 谷歌发布全新 Windows 桌面 AI 应用，轻松两键即可搜索！
+  - [aibase][] DeepSeek 在内蒙古乌兰察布设立数据中心，开启高薪招聘
+  - [aibase][] 谷歌DeepMind招了一位哲学家，这个信号比任何技术发布都值得关注
+  - [aibase][] 跨境电商杀入3. 0 时代，亚马逊押注AI这张牌，玩家们准备好了吗？
+  - [aibase][] ​天猫推出新规：规范 AI 软件及应用商品发布体验
+  - [aibase][] 美团发布AI产品“小团健康管家”与“健康卡”，正式入局AI家庭健康管理赛道
+  - [aibase][] 英伟达发布全球首个开源量子AI模型Ising，主力资金大幅加仓量子科技概念股
+  - [aibase][] 菜鸟发布首款自研攀爬机器人ZeeBot：10秒登顶5层货架
+
+[2026-04-16 07:25:34] bge_dedup - INPUT: 41条
+============================================================
+  - [huxiu][] 阿里云上调百炼部分MU模型单元服务价格
+  - [huxiu][] 我国首艘万吨级纯电动智能集装箱船正式投入商业运营
+  - [huxiu][] 腾讯客服回应电脑版微信能发语音了
+  - [huxiu][] 一季度国内云厂商大模型中标金额累计约16.5亿元
+  - [huxiu][] 亚马逊全球智能枢纽仓深圳首仓正式开仓
+  - [huxiu][] Anthropic联合创始人强调人文学科的重要性，不容忽视
+  - [huxiu][] 千问AI眼镜S1今日开售
+  - [infoq][] Google推出YouTube Premium年度订阅五折优惠
+  - [infoq][] 首届PyTorch Conference Europe在巴黎举行，吸引超600名与会者
+  - [infoq][] MistralAI 宣布 Connectors API 进入公开预览阶段
+  - [infoq][] NVIDIA 官方账号发布推文链接
+  - [infoq][] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [infoq][] MIT CSAIL提出OSGym基础设施以提升计算机使用智能体能力
+  - [infoq][] Google AI Studio 发布推文链接，内容未披露
+  - [infoq][] Blaxel 成为新版 OpenAI Agents SDK 一级沙箱提供商
+  - [infoq][] Meta AI发布Muse Spark安全与准备报告
+  - [infoq][] AnthropicAI研究揭示LLM潜意识学习现象
+  - [infoq][] Smartbase推出AI驱动方案，为制造商自动化采购订单录入
+  - [infoq][] SchmidhuberAI发布新论文，提出基于好奇心的规划方法用于LLM测试生成
+  - [infoq][] MSL宣布发布模型准备报告，致力于前沿AI安全与准备
+  - [infoq][] 谷歌宣布推出桌面版 Gemini 应用，首站为 Mac 平台
+  - [量子位][] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+  - [aibase][] Anthropic突然要查身份证了，用Claude还需要人脸识别？
+  - [aibase][] 阿里发布 AI 开发工具 Meoo，助力零门槛创意变现！
+  - [aibase][] 阿里“黑马”模型happyhorse-1.0斩获LM Arena视频编辑冠军
+  - [aibase][] Midjourney V8.1 重磅发布：原生 2K 高清渲染速度成本双降 3 倍，图像提示功能强势
+  - [aibase][] 苹果曾秘密警告马斯克：Grok再不整改就下架
+  - [aibase][] 100B 匿名模型 Elephant 冲上 OpenRouter 趋势榜第二
+  - [aibase][] 小红书突然开源了一个训练引擎Relax，AI圈又多了一个不容忽视的玩家
+  - [aibase][] OpenAI的"地盘"被微软接手，星门计划正在悄悄变形
+  - [aibase][] 李飞飞创业公司WorldLabs发布Spark2.0:首个集成Three.js的跨平台超大规模3DG
+  - [aibase][] 谷歌发布全新 Windows 桌面 AI 应用，轻松两键即可搜索！
+  - [aibase][] DeepSeek 在内蒙古乌兰察布设立数据中心，开启高薪招聘
+  - [aibase][] 谷歌DeepMind招了一位哲学家，这个信号比任何技术发布都值得关注
+  - [aibase][] 跨境电商杀入3. 0 时代，亚马逊押注AI这张牌，玩家们准备好了吗？
+  - [aibase][] ​天猫推出新规：规范 AI 软件及应用商品发布体验
+  - [aibase][] 美团发布AI产品“小团健康管家”与“健康卡”，正式入局AI家庭健康管理赛道
+  - [aibase][] 英伟达发布全球首个开源量子AI模型Ising，主力资金大幅加仓量子科技概念股
+  - [aibase][] 菜鸟发布首款自研攀爬机器人ZeeBot：10秒登顶5层货架
+
+[2026-04-16 07:25:47] bge_dedup - OUTPUT: 40条 | 移除1条
+============================================================
+  - [huxiu][] 阿里云上调百炼部分MU模型单元服务价格
+  - [huxiu][] 我国首艘万吨级纯电动智能集装箱船正式投入商业运营
+  - [huxiu][] 腾讯客服回应电脑版微信能发语音了
+  - [huxiu][] 一季度国内云厂商大模型中标金额累计约16.5亿元
+  - [huxiu][] 亚马逊全球智能枢纽仓深圳首仓正式开仓
+  - [huxiu][] Anthropic联合创始人强调人文学科的重要性，不容忽视
+  - [huxiu][] 千问AI眼镜S1今日开售
+  - [infoq][] Google推出YouTube Premium年度订阅五折优惠
+  - [infoq][] 首届PyTorch Conference Europe在巴黎举行，吸引超600名与会者
+  - [infoq][] MistralAI 宣布 Connectors API 进入公开预览阶段
+  - [infoq][] NVIDIA 官方账号发布推文链接
+  - [infoq][] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [infoq][] MIT CSAIL提出OSGym基础设施以提升计算机使用智能体能力
+  - [infoq][] Google AI Studio 发布推文链接，内容未披露
+  - [infoq][] Blaxel 成为新版 OpenAI Agents SDK 一级沙箱提供商
+  - [infoq][] Meta AI发布Muse Spark安全与准备报告
+  - [infoq][] AnthropicAI研究揭示LLM潜意识学习现象
+  - [infoq][] Smartbase推出AI驱动方案，为制造商自动化采购订单录入
+  - [infoq][] SchmidhuberAI发布新论文，提出基于好奇心的规划方法用于LLM测试生成
+  - [infoq][] MSL宣布发布模型准备报告，致力于前沿AI安全与准备
+  - [infoq][] 谷歌宣布推出桌面版 Gemini 应用，首站为 Mac 平台
+  - [量子位][] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+  - [aibase][] Anthropic突然要查身份证了，用Claude还需要人脸识别？
+  - [aibase][] 阿里发布 AI 开发工具 Meoo，助力零门槛创意变现！
+  - [aibase][] 阿里“黑马”模型happyhorse-1.0斩获LM Arena视频编辑冠军
+  - [aibase][] 苹果曾秘密警告马斯克：Grok再不整改就下架
+  - [aibase][] 100B 匿名模型 Elephant 冲上 OpenRouter 趋势榜第二
+  - [aibase][] 小红书突然开源了一个训练引擎Relax，AI圈又多了一个不容忽视的玩家
+  - [aibase][] OpenAI的"地盘"被微软接手，星门计划正在悄悄变形
+  - [aibase][] 李飞飞创业公司WorldLabs发布Spark2.0:首个集成Three.js的跨平台超大规模3DG
+  - [aibase][] 谷歌发布全新 Windows 桌面 AI 应用，轻松两键即可搜索！
+  - [aibase][] DeepSeek 在内蒙古乌兰察布设立数据中心，开启高薪招聘
+  - [aibase][] 谷歌DeepMind招了一位哲学家，这个信号比任何技术发布都值得关注
+  - [aibase][] 跨境电商杀入3. 0 时代，亚马逊押注AI这张牌，玩家们准备好了吗？
+  - [aibase][] ​天猫推出新规：规范 AI 软件及应用商品发布体验
+  - [aibase][] 美团发布AI产品“小团健康管家”与“健康卡”，正式入局AI家庭健康管理赛道
+  - [aibase][] 英伟达发布全球首个开源量子AI模型Ising，主力资金大幅加仓量子科技概念股
+  - [aibase][] 菜鸟发布首款自研攀爬机器人ZeeBot：10秒登顶5层货架
+
+[2026-04-16 07:25:47] llm_classify - INPUT: 40条
+============================================================
+  - [huxiu][] 阿里云上调百炼部分MU模型单元服务价格
+  - [huxiu][] 我国首艘万吨级纯电动智能集装箱船正式投入商业运营
+  - [huxiu][] 腾讯客服回应电脑版微信能发语音了
+  - [huxiu][] 一季度国内云厂商大模型中标金额累计约16.5亿元
+  - [huxiu][] 亚马逊全球智能枢纽仓深圳首仓正式开仓
+  - [huxiu][] Anthropic联合创始人强调人文学科的重要性，不容忽视
+  - [huxiu][] 千问AI眼镜S1今日开售
+  - [infoq][] Google推出YouTube Premium年度订阅五折优惠
+  - [infoq][] 首届PyTorch Conference Europe在巴黎举行，吸引超600名与会者
+  - [infoq][] MistralAI 宣布 Connectors API 进入公开预览阶段
+  - [infoq][] NVIDIA 官方账号发布推文链接
+  - [infoq][] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [infoq][] MIT CSAIL提出OSGym基础设施以提升计算机使用智能体能力
+  - [infoq][] Google AI Studio 发布推文链接，内容未披露
+  - [infoq][] Blaxel 成为新版 OpenAI Agents SDK 一级沙箱提供商
+  - [infoq][] Meta AI发布Muse Spark安全与准备报告
+  - [infoq][] AnthropicAI研究揭示LLM潜意识学习现象
+  - [infoq][] Smartbase推出AI驱动方案，为制造商自动化采购订单录入
+  - [infoq][] SchmidhuberAI发布新论文，提出基于好奇心的规划方法用于LLM测试生成
+  - [infoq][] MSL宣布发布模型准备报告，致力于前沿AI安全与准备
+  - [infoq][] 谷歌宣布推出桌面版 Gemini 应用，首站为 Mac 平台
+  - [量子位][] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+  - [aibase][] Anthropic突然要查身份证了，用Claude还需要人脸识别？
+  - [aibase][] 阿里发布 AI 开发工具 Meoo，助力零门槛创意变现！
+  - [aibase][] 阿里“黑马”模型happyhorse-1.0斩获LM Arena视频编辑冠军
+  - [aibase][] 苹果曾秘密警告马斯克：Grok再不整改就下架
+  - [aibase][] 100B 匿名模型 Elephant 冲上 OpenRouter 趋势榜第二
+  - [aibase][] 小红书突然开源了一个训练引擎Relax，AI圈又多了一个不容忽视的玩家
+  - [aibase][] OpenAI的"地盘"被微软接手，星门计划正在悄悄变形
+  - [aibase][] 李飞飞创业公司WorldLabs发布Spark2.0:首个集成Three.js的跨平台超大规模3DG
+  - [aibase][] 谷歌发布全新 Windows 桌面 AI 应用，轻松两键即可搜索！
+  - [aibase][] DeepSeek 在内蒙古乌兰察布设立数据中心，开启高薪招聘
+  - [aibase][] 谷歌DeepMind招了一位哲学家，这个信号比任何技术发布都值得关注
+  - [aibase][] 跨境电商杀入3. 0 时代，亚马逊押注AI这张牌，玩家们准备好了吗？
+  - [aibase][] ​天猫推出新规：规范 AI 软件及应用商品发布体验
+  - [aibase][] 美团发布AI产品“小团健康管家”与“健康卡”，正式入局AI家庭健康管理赛道
+  - [aibase][] 英伟达发布全球首个开源量子AI模型Ising，主力资金大幅加仓量子科技概念股
+  - [aibase][] 菜鸟发布首款自研攀爬机器人ZeeBot：10秒登顶5层货架
+
+[2026-04-16 07:26:42] llm_classify - ERROR: 40条 | LLM调用失败
+============================================================
+  - [huxiu][] 阿里云上调百炼部分MU模型单元服务价格
+  - [huxiu][] 我国首艘万吨级纯电动智能集装箱船正式投入商业运营
+  - [huxiu][] 腾讯客服回应电脑版微信能发语音了
+  - [huxiu][] 一季度国内云厂商大模型中标金额累计约16.5亿元
+  - [huxiu][] 亚马逊全球智能枢纽仓深圳首仓正式开仓
+  - [huxiu][] Anthropic联合创始人强调人文学科的重要性，不容忽视
+  - [huxiu][] 千问AI眼镜S1今日开售
+  - [infoq][] Google推出YouTube Premium年度订阅五折优惠
+  - [infoq][] 首届PyTorch Conference Europe在巴黎举行，吸引超600名与会者
+  - [infoq][] MistralAI 宣布 Connectors API 进入公开预览阶段
+  - [infoq][] NVIDIA 官方账号发布推文链接
+  - [infoq][] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [infoq][] MIT CSAIL提出OSGym基础设施以提升计算机使用智能体能力
+  - [infoq][] Google AI Studio 发布推文链接，内容未披露
+  - [infoq][] Blaxel 成为新版 OpenAI Agents SDK 一级沙箱提供商
+  - [infoq][] Meta AI发布Muse Spark安全与准备报告
+  - [infoq][] AnthropicAI研究揭示LLM潜意识学习现象
+  - [infoq][] Smartbase推出AI驱动方案，为制造商自动化采购订单录入
+  - [infoq][] SchmidhuberAI发布新论文，提出基于好奇心的规划方法用于LLM测试生成
+  - [infoq][] MSL宣布发布模型准备报告，致力于前沿AI安全与准备
+  - [infoq][] 谷歌宣布推出桌面版 Gemini 应用，首站为 Mac 平台
+  - [量子位][] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+  - [aibase][] Anthropic突然要查身份证了，用Claude还需要人脸识别？
+  - [aibase][] 阿里发布 AI 开发工具 Meoo，助力零门槛创意变现！
+  - [aibase][] 阿里“黑马”模型happyhorse-1.0斩获LM Arena视频编辑冠军
+  - [aibase][] 苹果曾秘密警告马斯克：Grok再不整改就下架
+  - [aibase][] 100B 匿名模型 Elephant 冲上 OpenRouter 趋势榜第二
+  - [aibase][] 小红书突然开源了一个训练引擎Relax，AI圈又多了一个不容忽视的玩家
+  - [aibase][] OpenAI的"地盘"被微软接手，星门计划正在悄悄变形
+  - [aibase][] 李飞飞创业公司WorldLabs发布Spark2.0:首个集成Three.js的跨平台超大规模3DG
+  - [aibase][] 谷歌发布全新 Windows 桌面 AI 应用，轻松两键即可搜索！
+  - [aibase][] DeepSeek 在内蒙古乌兰察布设立数据中心，开启高薪招聘
+  - [aibase][] 谷歌DeepMind招了一位哲学家，这个信号比任何技术发布都值得关注
+  - [aibase][] 跨境电商杀入3. 0 时代，亚马逊押注AI这张牌，玩家们准备好了吗？
+  - [aibase][] ​天猫推出新规：规范 AI 软件及应用商品发布体验
+  - [aibase][] 美团发布AI产品“小团健康管家”与“健康卡”，正式入局AI家庭健康管理赛道
+  - [aibase][] 英伟达发布全球首个开源量子AI模型Ising，主力资金大幅加仓量子科技概念股
+  - [aibase][] 菜鸟发布首款自研攀爬机器人ZeeBot：10秒登顶5层货架
+
+[2026-04-16 07:26:42] llm_summary - INPUT: 40条
+============================================================
+  - [huxiu][] 阿里云上调百炼部分MU模型单元服务价格
+  - [huxiu][] 我国首艘万吨级纯电动智能集装箱船正式投入商业运营
+  - [huxiu][] 腾讯客服回应电脑版微信能发语音了
+  - [huxiu][] 一季度国内云厂商大模型中标金额累计约16.5亿元
+  - [huxiu][] 亚马逊全球智能枢纽仓深圳首仓正式开仓
+  - [huxiu][] Anthropic联合创始人强调人文学科的重要性，不容忽视
+  - [huxiu][] 千问AI眼镜S1今日开售
+  - [infoq][] Google推出YouTube Premium年度订阅五折优惠
+  - [infoq][] 首届PyTorch Conference Europe在巴黎举行，吸引超600名与会者
+  - [infoq][] MistralAI 宣布 Connectors API 进入公开预览阶段
+  - [infoq][] NVIDIA 官方账号发布推文链接
+  - [infoq][] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [infoq][] MIT CSAIL提出OSGym基础设施以提升计算机使用智能体能力
+  - [infoq][] Google AI Studio 发布推文链接，内容未披露
+  - [infoq][] Blaxel 成为新版 OpenAI Agents SDK 一级沙箱提供商
+  - [infoq][] Meta AI发布Muse Spark安全与准备报告
+  - [infoq][] AnthropicAI研究揭示LLM潜意识学习现象
+  - [infoq][] Smartbase推出AI驱动方案，为制造商自动化采购订单录入
+  - [infoq][] SchmidhuberAI发布新论文，提出基于好奇心的规划方法用于LLM测试生成
+  - [infoq][] MSL宣布发布模型准备报告，致力于前沿AI安全与准备
+  - [infoq][] 谷歌宣布推出桌面版 Gemini 应用，首站为 Mac 平台
+  - [量子位][] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+  - [aibase][] Anthropic突然要查身份证了，用Claude还需要人脸识别？
+  - [aibase][] 阿里发布 AI 开发工具 Meoo，助力零门槛创意变现！
+  - [aibase][] 阿里“黑马”模型happyhorse-1.0斩获LM Arena视频编辑冠军
+  - [aibase][] 苹果曾秘密警告马斯克：Grok再不整改就下架
+  - [aibase][] 100B 匿名模型 Elephant 冲上 OpenRouter 趋势榜第二
+  - [aibase][] 小红书突然开源了一个训练引擎Relax，AI圈又多了一个不容忽视的玩家
+  - [aibase][] OpenAI的"地盘"被微软接手，星门计划正在悄悄变形
+  - [aibase][] 李飞飞创业公司WorldLabs发布Spark2.0:首个集成Three.js的跨平台超大规模3DG
+  - [aibase][] 谷歌发布全新 Windows 桌面 AI 应用，轻松两键即可搜索！
+  - [aibase][] DeepSeek 在内蒙古乌兰察布设立数据中心，开启高薪招聘
+  - [aibase][] 谷歌DeepMind招了一位哲学家，这个信号比任何技术发布都值得关注
+  - [aibase][] 跨境电商杀入3. 0 时代，亚马逊押注AI这张牌，玩家们准备好了吗？
+  - [aibase][] ​天猫推出新规：规范 AI 软件及应用商品发布体验
+  - [aibase][] 美团发布AI产品“小团健康管家”与“健康卡”，正式入局AI家庭健康管理赛道
+  - [aibase][] 英伟达发布全球首个开源量子AI模型Ising，主力资金大幅加仓量子科技概念股
+  - [aibase][] 菜鸟发布首款自研攀爬机器人ZeeBot：10秒登顶5层货架
+
+[2026-04-16 07:26:46] llm_summary - OUTPUT: 40条 | 成功3条
+============================================================
+  - [huxiu][] 阿里云上调百炼部分MU模型单元服务价格
+  - [huxiu][] 我国首艘万吨级纯电动智能集装箱船正式投入商业运营
+  - [huxiu][] 腾讯客服回应电脑版微信能发语音了
+  - [huxiu][] 一季度国内云厂商大模型中标金额累计约16.5亿元
+  - [huxiu][] 亚马逊全球智能枢纽仓深圳首仓正式开仓
+  - [huxiu][] Anthropic联合创始人强调人文学科的重要性，不容忽视
+  - [huxiu][] 千问AI眼镜S1今日开售
+  - [infoq][] Google推出YouTube Premium年度订阅五折优惠
+  - [infoq][] 首届PyTorch Conference Europe在巴黎举行，吸引超600名与会者
+  - [infoq][] MistralAI 宣布 Connectors API 进入公开预览阶段
+  - [infoq][] NVIDIA 官方账号发布推文链接
+  - [infoq][] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [infoq][] MIT CSAIL提出OSGym基础设施以提升计算机使用智能体能力
+  - [infoq][] Google AI Studio 发布推文链接，内容未披露
+  - [infoq][] Blaxel 成为新版 OpenAI Agents SDK 一级沙箱提供商
+  - [infoq][] Meta AI发布Muse Spark安全与准备报告
+  - [infoq][] AnthropicAI研究揭示LLM潜意识学习现象
+  - [infoq][] Smartbase推出AI驱动方案，为制造商自动化采购订单录入
+  - [infoq][] SchmidhuberAI发布新论文，提出基于好奇心的规划方法用于LLM测试生成
+  - [infoq][] MSL宣布发布模型准备报告，致力于前沿AI安全与准备
+  - [infoq][] 谷歌宣布推出桌面版 Gemini 应用，首站为 Mac 平台
+  - [量子位][] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+  - [aibase][] Anthropic突然要查身份证了，用Claude还需要人脸识别？
+  - [aibase][] 阿里发布 AI 开发工具 Meoo，助力零门槛创意变现！
+  - [aibase][] 阿里“黑马”模型happyhorse-1.0斩获LM Arena视频编辑冠军
+  - [aibase][] 苹果曾秘密警告马斯克：Grok再不整改就下架
+  - [aibase][] 100B 匿名模型 Elephant 冲上 OpenRouter 趋势榜第二
+  - [aibase][] 小红书突然开源了一个训练引擎Relax，AI圈又多了一个不容忽视的玩家
+  - [aibase][] OpenAI的"地盘"被微软接手，星门计划正在悄悄变形
+  - [aibase][] 李飞飞创业公司WorldLabs发布Spark2.0:首个集成Three.js的跨平台超大规模3DG
+  - [aibase][] 谷歌发布全新 Windows 桌面 AI 应用，轻松两键即可搜索！
+  - [aibase][] DeepSeek 在内蒙古乌兰察布设立数据中心，开启高薪招聘
+  - [aibase][] 谷歌DeepMind招了一位哲学家，这个信号比任何技术发布都值得关注
+  - [aibase][] 跨境电商杀入3. 0 时代，亚马逊押注AI这张牌，玩家们准备好了吗？
+  - [aibase][] ​天猫推出新规：规范 AI 软件及应用商品发布体验
+  - [aibase][] 美团发布AI产品“小团健康管家”与“健康卡”，正式入局AI家庭健康管理赛道
+  - [aibase][] 英伟达发布全球首个开源量子AI模型Ising，主力资金大幅加仓量子科技概念股
+  - [aibase][] 菜鸟发布首款自研攀爬机器人ZeeBot：10秒登顶5层货架
+
+[2026-04-16 14:58:29] keyword_filter - INPUT: 59条
+============================================================
+  - [huxiu][] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [huxiu][] 5800亿顺德家电巨头猛攻机器人
+  - [huxiu][] 微软加倍押注AI，大胆下注采购3万块英伟达GPU
+  - [huxiu][] 谷歌关联公司拟发57亿美元垃圾债，助力数据中心建设
+  - [huxiu][] 欧盟拟令Meta修改WhatsApp AI政策，推进反垄断调查
+  - [huxiu][] Jane Street增资10亿美元，拟花60亿美元购CoreWeave芯片用于AI建设
+  - [huxiu][] 阿里云上调百炼部分MU模型单元服务价格
+  - [huxiu][] “智象未来”完成超5亿元新一轮融资
+  - [huxiu][] 我国首艘万吨级纯电动智能集装箱船正式投入商业运营
+  - [huxiu][] 腾讯客服回应电脑版微信能发语音了
+  - [huxiu][] 自动驾驶初创公司Glydways洽谈2.5亿美元融资
+  - [huxiu][] 一季度国内云厂商大模型中标金额累计约16.5亿元
+  - [infoq][] Google Research 宣布 YouTube AI Search 改变视频平台信息查找方式
+  - [infoq][] Google DeepMind 推出 Gemini Robotics-ER 1.6 模型架构
+  - [infoq][] GBrain 结合 Git 与 PostgreSQL 架构，支持多智能体协同运行
+  - [infoq][] MiniMax AI 与 Wati.io 合作，为 Astra Voice 2.0 提供语音技术支持
+  - [infoq][] 斯坦福AI实验室预告SimStep论文将在CHI2026会议展示
+  - [infoq][] 斯坦福大学AI实验室宣布推出医疗管理任务基准HealthAdminBench
+  - [infoq][] SchmidhuberAI发布新论文，提出好奇心驱动的大语言模型测试生成方法
+  - [infoq][] Google DeepMind发布Gemini 3.1 Flash TTS，主打精细可控音频生成
+  - [infoq][] Google 发布 Gemini 3.1 Flash TTS 文本转语音模型
+  - [infoq][] MiniMax AI 宣布其 M2.7 模型可用于设置 NVIDIA NeMoClaw
+  - [infoq][] Meta发布Muse Spark模型158页安全与准备报告
+  - [infoq][] Google Cloud Next 主题演讲后将进行终端直播
+  - [infoq][] 微软Azure发布AI云成本优化策略，强调持续监控与资源选择
+  - [infoq][] ARC Prize 开源 ARC-AGI-3 人类基准数据集
+  - [infoq][] Google推出YouTube Premium年度订阅五折优惠
+  - [infoq][] 首届PyTorch Conference Europe在巴黎举行，吸引超600名与会者
+  - [infoq][] MistralAI 宣布 Connectors API 进入公开预览阶段
+  - [infoq][] NVIDIA 官方账号发布推文链接
+  - [infoq][] 微软发布 Microsoft Foundry ROI 计算器，研究报告称其可带来327%投资回报率
+  - [infoq][] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [量子位][] 智象未来完成新一轮融资，全力打造下一代原生全模态世界模型
+  - [量子位][] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [量子位][] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+  - [aibase][] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][] 阿里巴巴 ATH 推出开放世界模型 Happy Oyster，开启实时交互体验申请
+  - [aibase][] Anthropic即将发布Claude Opus 4.7及全新AI设计工具 传闻本周内推出
+  - [aibase][] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+  - [aibase][] 美团杀入AI医疗，"小团健康管家"上线
+  - [aibase][] 全球首个云端沙箱MaxHermes上线，开启AI智能体“一键养马”模式
+  - [aibase][] 腾讯发布混元 3D 世界模型 2.0：无缝对接游戏工作流
+  - [aibase][] ​Anthropic 的 Project Glasswing：发现漏洞的成就仍是谜
+  - [aibase][] AI学习应用Gizmo用户破 1300 万，获 2200 万美元融资深耕高校市场
+  - [aibase][] “代码骨架完全一致”?Nous Research 强硬回应架构抄袭指控:从未听说
+  - [aibase][] Adobe发布Firefly AI助手 直接接管你的创作流程
+  - [aibase][] MiniMax 上线全球首个云端沙箱 MaxHermes，实现 AI 技能自主提炼与进化
+  - [aibase][] 中国洗衣机登上广交会，海尔AI之眼要打入欧洲市场
+  - [aibase][] 腾讯开源混元3D 世界模型2.0，支持一键生成可编辑3D 空间资产
+  - [aibase][] 就业市场遇冷AI不背锅？LinkedIn数据显示利率上升才是主因
+
+[2026-04-16 14:58:29] keyword_filter - OUTPUT: 46条 | 移除13条
+============================================================
+  - [huxiu][] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [huxiu][] 阿里云上调百炼部分MU模型单元服务价格
+  - [huxiu][] 我国首艘万吨级纯电动智能集装箱船正式投入商业运营
+  - [huxiu][] 腾讯客服回应电脑版微信能发语音了
+  - [huxiu][] 一季度国内云厂商大模型中标金额累计约16.5亿元
+  - [infoq][] Google DeepMind 推出 Gemini Robotics-ER 1.6 模型架构
+  - [infoq][] GBrain 结合 Git 与 PostgreSQL 架构，支持多智能体协同运行
+  - [infoq][] MiniMax AI 与 Wati.io 合作，为 Astra Voice 2.0 提供语音技术支持
+  - [infoq][] 斯坦福AI实验室预告SimStep论文将在CHI2026会议展示
+  - [infoq][] 斯坦福大学AI实验室宣布推出医疗管理任务基准HealthAdminBench
+  - [infoq][] SchmidhuberAI发布新论文，提出好奇心驱动的大语言模型测试生成方法
+  - [infoq][] Google DeepMind发布Gemini 3.1 Flash TTS，主打精细可控音频生成
+  - [infoq][] Google 发布 Gemini 3.1 Flash TTS 文本转语音模型
+  - [infoq][] MiniMax AI 宣布其 M2.7 模型可用于设置 NVIDIA NeMoClaw
+  - [infoq][] Meta发布Muse Spark模型158页安全与准备报告
+  - [infoq][] Google Cloud Next 主题演讲后将进行终端直播
+  - [infoq][] ARC Prize 开源 ARC-AGI-3 人类基准数据集
+  - [infoq][] Google推出YouTube Premium年度订阅五折优惠
+  - [infoq][] 首届PyTorch Conference Europe在巴黎举行，吸引超600名与会者
+  - [infoq][] MistralAI 宣布 Connectors API 进入公开预览阶段
+  - [infoq][] NVIDIA 官方账号发布推文链接
+  - [infoq][] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [量子位][] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [量子位][] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+  - [aibase][] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][] 阿里巴巴 ATH 推出开放世界模型 Happy Oyster，开启实时交互体验申请
+  - [aibase][] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+  - [aibase][] 美团杀入AI医疗，"小团健康管家"上线
+  - [aibase][] 全球首个云端沙箱MaxHermes上线，开启AI智能体“一键养马”模式
+  - [aibase][] 腾讯发布混元 3D 世界模型 2.0：无缝对接游戏工作流
+  - [aibase][] ​Anthropic 的 Project Glasswing：发现漏洞的成就仍是谜
+  - [aibase][] “代码骨架完全一致”?Nous Research 强硬回应架构抄袭指控:从未听说
+  - [aibase][] Adobe发布Firefly AI助手 直接接管你的创作流程
+  - [aibase][] MiniMax 上线全球首个云端沙箱 MaxHermes，实现 AI 技能自主提炼与进化
+  - [aibase][] 中国洗衣机登上广交会，海尔AI之眼要打入欧洲市场
+  - [aibase][] 腾讯开源混元3D 世界模型2.0，支持一键生成可编辑3D 空间资产
+  - [aibase][] 就业市场遇冷AI不背锅？LinkedIn数据显示利率上升才是主因
+
+[2026-04-16 14:58:29] bge_dedup - INPUT: 46条
+============================================================
+  - [huxiu][] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [huxiu][] 阿里云上调百炼部分MU模型单元服务价格
+  - [huxiu][] 我国首艘万吨级纯电动智能集装箱船正式投入商业运营
+  - [huxiu][] 腾讯客服回应电脑版微信能发语音了
+  - [huxiu][] 一季度国内云厂商大模型中标金额累计约16.5亿元
+  - [infoq][] Google DeepMind 推出 Gemini Robotics-ER 1.6 模型架构
+  - [infoq][] GBrain 结合 Git 与 PostgreSQL 架构，支持多智能体协同运行
+  - [infoq][] MiniMax AI 与 Wati.io 合作，为 Astra Voice 2.0 提供语音技术支持
+  - [infoq][] 斯坦福AI实验室预告SimStep论文将在CHI2026会议展示
+  - [infoq][] 斯坦福大学AI实验室宣布推出医疗管理任务基准HealthAdminBench
+  - [infoq][] SchmidhuberAI发布新论文，提出好奇心驱动的大语言模型测试生成方法
+  - [infoq][] Google DeepMind发布Gemini 3.1 Flash TTS，主打精细可控音频生成
+  - [infoq][] Google 发布 Gemini 3.1 Flash TTS 文本转语音模型
+  - [infoq][] MiniMax AI 宣布其 M2.7 模型可用于设置 NVIDIA NeMoClaw
+  - [infoq][] Meta发布Muse Spark模型158页安全与准备报告
+  - [infoq][] Google Cloud Next 主题演讲后将进行终端直播
+  - [infoq][] ARC Prize 开源 ARC-AGI-3 人类基准数据集
+  - [infoq][] Google推出YouTube Premium年度订阅五折优惠
+  - [infoq][] 首届PyTorch Conference Europe在巴黎举行，吸引超600名与会者
+  - [infoq][] MistralAI 宣布 Connectors API 进入公开预览阶段
+  - [infoq][] NVIDIA 官方账号发布推文链接
+  - [infoq][] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [量子位][] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [量子位][] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+  - [aibase][] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][] 阿里巴巴 ATH 推出开放世界模型 Happy Oyster，开启实时交互体验申请
+  - [aibase][] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+  - [aibase][] 美团杀入AI医疗，"小团健康管家"上线
+  - [aibase][] 全球首个云端沙箱MaxHermes上线，开启AI智能体“一键养马”模式
+  - [aibase][] 腾讯发布混元 3D 世界模型 2.0：无缝对接游戏工作流
+  - [aibase][] ​Anthropic 的 Project Glasswing：发现漏洞的成就仍是谜
+  - [aibase][] “代码骨架完全一致”?Nous Research 强硬回应架构抄袭指控:从未听说
+  - [aibase][] Adobe发布Firefly AI助手 直接接管你的创作流程
+  - [aibase][] MiniMax 上线全球首个云端沙箱 MaxHermes，实现 AI 技能自主提炼与进化
+  - [aibase][] 中国洗衣机登上广交会，海尔AI之眼要打入欧洲市场
+  - [aibase][] 腾讯开源混元3D 世界模型2.0，支持一键生成可编辑3D 空间资产
+  - [aibase][] 就业市场遇冷AI不背锅？LinkedIn数据显示利率上升才是主因
+
+[2026-04-16 14:58:44] bge_dedup - OUTPUT: 43条 | 移除3条
+============================================================
+  - [huxiu][] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [huxiu][] 阿里云上调百炼部分MU模型单元服务价格
+  - [huxiu][] 我国首艘万吨级纯电动智能集装箱船正式投入商业运营
+  - [huxiu][] 腾讯客服回应电脑版微信能发语音了
+  - [huxiu][] 一季度国内云厂商大模型中标金额累计约16.5亿元
+  - [infoq][] Google DeepMind 推出 Gemini Robotics-ER 1.6 模型架构
+  - [infoq][] GBrain 结合 Git 与 PostgreSQL 架构，支持多智能体协同运行
+  - [infoq][] MiniMax AI 与 Wati.io 合作，为 Astra Voice 2.0 提供语音技术支持
+  - [infoq][] 斯坦福AI实验室预告SimStep论文将在CHI2026会议展示
+  - [infoq][] 斯坦福大学AI实验室宣布推出医疗管理任务基准HealthAdminBench
+  - [infoq][] SchmidhuberAI发布新论文，提出好奇心驱动的大语言模型测试生成方法
+  - [infoq][] Google DeepMind发布Gemini 3.1 Flash TTS，主打精细可控音频生成
+  - [infoq][] MiniMax AI 宣布其 M2.7 模型可用于设置 NVIDIA NeMoClaw
+  - [infoq][] Meta发布Muse Spark模型158页安全与准备报告
+  - [infoq][] Google Cloud Next 主题演讲后将进行终端直播
+  - [infoq][] ARC Prize 开源 ARC-AGI-3 人类基准数据集
+  - [infoq][] Google推出YouTube Premium年度订阅五折优惠
+  - [infoq][] 首届PyTorch Conference Europe在巴黎举行，吸引超600名与会者
+  - [infoq][] MistralAI 宣布 Connectors API 进入公开预览阶段
+  - [infoq][] NVIDIA 官方账号发布推文链接
+  - [infoq][] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [量子位][] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [量子位][] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+  - [aibase][] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][] 阿里巴巴 ATH 推出开放世界模型 Happy Oyster，开启实时交互体验申请
+  - [aibase][] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+  - [aibase][] 美团杀入AI医疗，"小团健康管家"上线
+  - [aibase][] 全球首个云端沙箱MaxHermes上线，开启AI智能体“一键养马”模式
+  - [aibase][] 腾讯发布混元 3D 世界模型 2.0：无缝对接游戏工作流
+  - [aibase][] ​Anthropic 的 Project Glasswing：发现漏洞的成就仍是谜
+  - [aibase][] “代码骨架完全一致”?Nous Research 强硬回应架构抄袭指控:从未听说
+  - [aibase][] Adobe发布Firefly AI助手 直接接管你的创作流程
+  - [aibase][] 中国洗衣机登上广交会，海尔AI之眼要打入欧洲市场
+  - [aibase][] 就业市场遇冷AI不背锅？LinkedIn数据显示利率上升才是主因
+
+[2026-04-16 14:58:44] llm_classify - INPUT: 43条
+============================================================
+  - [huxiu][] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [huxiu][] 阿里云上调百炼部分MU模型单元服务价格
+  - [huxiu][] 我国首艘万吨级纯电动智能集装箱船正式投入商业运营
+  - [huxiu][] 腾讯客服回应电脑版微信能发语音了
+  - [huxiu][] 一季度国内云厂商大模型中标金额累计约16.5亿元
+  - [infoq][] Google DeepMind 推出 Gemini Robotics-ER 1.6 模型架构
+  - [infoq][] GBrain 结合 Git 与 PostgreSQL 架构，支持多智能体协同运行
+  - [infoq][] MiniMax AI 与 Wati.io 合作，为 Astra Voice 2.0 提供语音技术支持
+  - [infoq][] 斯坦福AI实验室预告SimStep论文将在CHI2026会议展示
+  - [infoq][] 斯坦福大学AI实验室宣布推出医疗管理任务基准HealthAdminBench
+  - [infoq][] SchmidhuberAI发布新论文，提出好奇心驱动的大语言模型测试生成方法
+  - [infoq][] Google DeepMind发布Gemini 3.1 Flash TTS，主打精细可控音频生成
+  - [infoq][] MiniMax AI 宣布其 M2.7 模型可用于设置 NVIDIA NeMoClaw
+  - [infoq][] Meta发布Muse Spark模型158页安全与准备报告
+  - [infoq][] Google Cloud Next 主题演讲后将进行终端直播
+  - [infoq][] ARC Prize 开源 ARC-AGI-3 人类基准数据集
+  - [infoq][] Google推出YouTube Premium年度订阅五折优惠
+  - [infoq][] 首届PyTorch Conference Europe在巴黎举行，吸引超600名与会者
+  - [infoq][] MistralAI 宣布 Connectors API 进入公开预览阶段
+  - [infoq][] NVIDIA 官方账号发布推文链接
+  - [infoq][] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [量子位][] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [量子位][] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+  - [aibase][] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][] 阿里巴巴 ATH 推出开放世界模型 Happy Oyster，开启实时交互体验申请
+  - [aibase][] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+  - [aibase][] 美团杀入AI医疗，"小团健康管家"上线
+  - [aibase][] 全球首个云端沙箱MaxHermes上线，开启AI智能体“一键养马”模式
+  - [aibase][] 腾讯发布混元 3D 世界模型 2.0：无缝对接游戏工作流
+  - [aibase][] ​Anthropic 的 Project Glasswing：发现漏洞的成就仍是谜
+  - [aibase][] “代码骨架完全一致”?Nous Research 强硬回应架构抄袭指控:从未听说
+  - [aibase][] Adobe发布Firefly AI助手 直接接管你的创作流程
+  - [aibase][] 中国洗衣机登上广交会，海尔AI之眼要打入欧洲市场
+  - [aibase][] 就业市场遇冷AI不背锅？LinkedIn数据显示利率上升才是主因
+
+[2026-04-16 14:58:50] llm_classify - ERROR: 43条 | LLM调用失败
+============================================================
+  - [huxiu][] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [huxiu][] 阿里云上调百炼部分MU模型单元服务价格
+  - [huxiu][] 我国首艘万吨级纯电动智能集装箱船正式投入商业运营
+  - [huxiu][] 腾讯客服回应电脑版微信能发语音了
+  - [huxiu][] 一季度国内云厂商大模型中标金额累计约16.5亿元
+  - [infoq][] Google DeepMind 推出 Gemini Robotics-ER 1.6 模型架构
+  - [infoq][] GBrain 结合 Git 与 PostgreSQL 架构，支持多智能体协同运行
+  - [infoq][] MiniMax AI 与 Wati.io 合作，为 Astra Voice 2.0 提供语音技术支持
+  - [infoq][] 斯坦福AI实验室预告SimStep论文将在CHI2026会议展示
+  - [infoq][] 斯坦福大学AI实验室宣布推出医疗管理任务基准HealthAdminBench
+  - [infoq][] SchmidhuberAI发布新论文，提出好奇心驱动的大语言模型测试生成方法
+  - [infoq][] Google DeepMind发布Gemini 3.1 Flash TTS，主打精细可控音频生成
+  - [infoq][] MiniMax AI 宣布其 M2.7 模型可用于设置 NVIDIA NeMoClaw
+  - [infoq][] Meta发布Muse Spark模型158页安全与准备报告
+  - [infoq][] Google Cloud Next 主题演讲后将进行终端直播
+  - [infoq][] ARC Prize 开源 ARC-AGI-3 人类基准数据集
+  - [infoq][] Google推出YouTube Premium年度订阅五折优惠
+  - [infoq][] 首届PyTorch Conference Europe在巴黎举行，吸引超600名与会者
+  - [infoq][] MistralAI 宣布 Connectors API 进入公开预览阶段
+  - [infoq][] NVIDIA 官方账号发布推文链接
+  - [infoq][] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [量子位][] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [量子位][] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+  - [aibase][] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][] 阿里巴巴 ATH 推出开放世界模型 Happy Oyster，开启实时交互体验申请
+  - [aibase][] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+  - [aibase][] 美团杀入AI医疗，"小团健康管家"上线
+  - [aibase][] 全球首个云端沙箱MaxHermes上线，开启AI智能体“一键养马”模式
+  - [aibase][] 腾讯发布混元 3D 世界模型 2.0：无缝对接游戏工作流
+  - [aibase][] ​Anthropic 的 Project Glasswing：发现漏洞的成就仍是谜
+  - [aibase][] “代码骨架完全一致”?Nous Research 强硬回应架构抄袭指控:从未听说
+  - [aibase][] Adobe发布Firefly AI助手 直接接管你的创作流程
+  - [aibase][] 中国洗衣机登上广交会，海尔AI之眼要打入欧洲市场
+  - [aibase][] 就业市场遇冷AI不背锅？LinkedIn数据显示利率上升才是主因
+
+[2026-04-16 14:58:50] llm_summary - INPUT: 43条
+============================================================
+  - [huxiu][] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [huxiu][] 阿里云上调百炼部分MU模型单元服务价格
+  - [huxiu][] 我国首艘万吨级纯电动智能集装箱船正式投入商业运营
+  - [huxiu][] 腾讯客服回应电脑版微信能发语音了
+  - [huxiu][] 一季度国内云厂商大模型中标金额累计约16.5亿元
+  - [infoq][] Google DeepMind 推出 Gemini Robotics-ER 1.6 模型架构
+  - [infoq][] GBrain 结合 Git 与 PostgreSQL 架构，支持多智能体协同运行
+  - [infoq][] MiniMax AI 与 Wati.io 合作，为 Astra Voice 2.0 提供语音技术支持
+  - [infoq][] 斯坦福AI实验室预告SimStep论文将在CHI2026会议展示
+  - [infoq][] 斯坦福大学AI实验室宣布推出医疗管理任务基准HealthAdminBench
+  - [infoq][] SchmidhuberAI发布新论文，提出好奇心驱动的大语言模型测试生成方法
+  - [infoq][] Google DeepMind发布Gemini 3.1 Flash TTS，主打精细可控音频生成
+  - [infoq][] MiniMax AI 宣布其 M2.7 模型可用于设置 NVIDIA NeMoClaw
+  - [infoq][] Meta发布Muse Spark模型158页安全与准备报告
+  - [infoq][] Google Cloud Next 主题演讲后将进行终端直播
+  - [infoq][] ARC Prize 开源 ARC-AGI-3 人类基准数据集
+  - [infoq][] Google推出YouTube Premium年度订阅五折优惠
+  - [infoq][] 首届PyTorch Conference Europe在巴黎举行，吸引超600名与会者
+  - [infoq][] MistralAI 宣布 Connectors API 进入公开预览阶段
+  - [infoq][] NVIDIA 官方账号发布推文链接
+  - [infoq][] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [量子位][] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [量子位][] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+  - [aibase][] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][] 阿里巴巴 ATH 推出开放世界模型 Happy Oyster，开启实时交互体验申请
+  - [aibase][] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+  - [aibase][] 美团杀入AI医疗，"小团健康管家"上线
+  - [aibase][] 全球首个云端沙箱MaxHermes上线，开启AI智能体“一键养马”模式
+  - [aibase][] 腾讯发布混元 3D 世界模型 2.0：无缝对接游戏工作流
+  - [aibase][] ​Anthropic 的 Project Glasswing：发现漏洞的成就仍是谜
+  - [aibase][] “代码骨架完全一致”?Nous Research 强硬回应架构抄袭指控:从未听说
+  - [aibase][] Adobe发布Firefly AI助手 直接接管你的创作流程
+  - [aibase][] 中国洗衣机登上广交会，海尔AI之眼要打入欧洲市场
+  - [aibase][] 就业市场遇冷AI不背锅？LinkedIn数据显示利率上升才是主因
+
+[2026-04-16 14:58:53] llm_summary - OUTPUT: 43条 | 成功0条
+============================================================
+  - [huxiu][] 为加速重塑Siri，苹果安排近200名工程师培训AI编程
+  - [huxiu][] 国家数据局首提“词元交易”， AI数据付费渐成行业共识
+  - [huxiu][] 阿里云上调百炼部分MU模型单元服务价格
+  - [huxiu][] 我国首艘万吨级纯电动智能集装箱船正式投入商业运营
+  - [huxiu][] 腾讯客服回应电脑版微信能发语音了
+  - [huxiu][] 一季度国内云厂商大模型中标金额累计约16.5亿元
+  - [infoq][] Google DeepMind 推出 Gemini Robotics-ER 1.6 模型架构
+  - [infoq][] GBrain 结合 Git 与 PostgreSQL 架构，支持多智能体协同运行
+  - [infoq][] MiniMax AI 与 Wati.io 合作，为 Astra Voice 2.0 提供语音技术支持
+  - [infoq][] 斯坦福AI实验室预告SimStep论文将在CHI2026会议展示
+  - [infoq][] 斯坦福大学AI实验室宣布推出医疗管理任务基准HealthAdminBench
+  - [infoq][] SchmidhuberAI发布新论文，提出好奇心驱动的大语言模型测试生成方法
+  - [infoq][] Google DeepMind发布Gemini 3.1 Flash TTS，主打精细可控音频生成
+  - [infoq][] MiniMax AI 宣布其 M2.7 模型可用于设置 NVIDIA NeMoClaw
+  - [infoq][] Meta发布Muse Spark模型158页安全与准备报告
+  - [infoq][] Google Cloud Next 主题演讲后将进行终端直播
+  - [infoq][] ARC Prize 开源 ARC-AGI-3 人类基准数据集
+  - [infoq][] Google推出YouTube Premium年度订阅五折优惠
+  - [infoq][] 首届PyTorch Conference Europe在巴黎举行，吸引超600名与会者
+  - [infoq][] MistralAI 宣布 Connectors API 进入公开预览阶段
+  - [infoq][] NVIDIA 官方账号发布推文链接
+  - [infoq][] Midjourney 发布 V8.1 版本，恢复美学质量并引入原生 2K HD 渲染
+  - [量子位][] 短短3个月，高德已拿下具身智能领域15项世界第一
+  - [量子位][] 继HappyHorse后，阿里又有一款模型登顶权威评测榜单
+  - [量子位][] 百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕
+  - [量子位][] 北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛
+  - [量子位][] CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划
+  - [aibase][] Hightouch 凭借 AI 驱动营销工具实现 1 亿美元年度经常性收入
+  - [aibase][] ​OpenAI 发布更新版 Agents SDK 助力企业构建更安全的智能代理
+  - [aibase][] 超 20 万台AI服务器暴露在攻击风险下，MCP被曝存在严重设计缺陷
+  - [aibase][] 芒果TV会员破 7560 万，自研大模型上岗 30 多档节目，湖南广电AI转型成绩单来了
+  - [aibase][] 蚂蚁灵波科技开源 LingBot-Map：支持单摄像头实时流式三维重建
+  - [aibase][] 阿里巴巴 ATH 推出开放世界模型 Happy Oyster，开启实时交互体验申请
+  - [aibase][] AI“爱马仕”  Hermes Agent崛起，GitHub 上斩获9W+ 颗星标
+  - [aibase][] 小米18 Pro首曝！新增专属AI按键，或能联动小米电动车
+  - [aibase][] 美团杀入AI医疗，"小团健康管家"上线
+  - [aibase][] 全球首个云端沙箱MaxHermes上线，开启AI智能体“一键养马”模式
+  - [aibase][] 腾讯发布混元 3D 世界模型 2.0：无缝对接游戏工作流
+  - [aibase][] ​Anthropic 的 Project Glasswing：发现漏洞的成就仍是谜
+  - [aibase][] “代码骨架完全一致”?Nous Research 强硬回应架构抄袭指控:从未听说
+  - [aibase][] Adobe发布Firefly AI助手 直接接管你的创作流程
+  - [aibase][] 中国洗衣机登上广交会，海尔AI之眼要打入欧洲市场
+  - [aibase][] 就业市场遇冷AI不背锅？LinkedIn数据显示利率上升才是主因

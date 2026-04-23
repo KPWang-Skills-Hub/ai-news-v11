@@ -1,0 +1,578 @@
+
+[2026-04-12 07:26:32] keyword_filter - INPUT: 21条
+============================================================
+  - [infoq][] 研究指出SWE-bench Verified与Terminal-Bench基准测试存在奖励破解漏洞
+  - [infoq][] 谷歌云发布面向广播公司的内容推荐系统构建方案
+  - [infoq][] 谷歌技能平台推出生成式AI入门微课程，完成可获技能徽章
+  - [infoq][] LangChain 发文探讨代理框架与记忆系统的绑定与开放性问题
+  - [infoq][] 日本科学家福岛邦彦1980年提出新认知机模型，启发卷积神经网络
+  - [infoq][] Google Cloud 推出 GKE Inference Gateway，统一管理实时与异步推理工
+  - [infoq][] Cursor AI 宣布本周末将提升新界面中 Composer 2 使用量
+  - [infoq][] OpenClaw 发布 2026.4.10 版本，新增主动记忆插件与本地语音功能
+  - [infoq][] Anthropic 为 Claude 平台引入“顾问策略”以优化模型组合
+  - [infoq][] 斯坦福团队提出数据集策略梯度方法，可精确优化合成训练数据
+  - [infoq][] YC总裁Garry Tan开源其个人使用的生产级AI Agent记忆系统
+  - [infoq][] Anthropic为Claude Code推出预览功能/ultraplan，将复杂开发规划移至云端
+  - [infoq][] GitHub Copilot CLI 引入多模型反思循环进行代码审查
+  - [infoq][] MiniMax AI 发布音乐生成模型 MiniMax Music 2.6
+  - [infoq][] 黄仁勋在GTC预热环节与OpenClaw创始人讨论AI未来
+  - [infoq][] AnthropicAI 与 CoreWeave 达成多年合作以扩展 Claude 规模
+  - [infoq][] Google Cloud 发布 Next '26 大会基础设施与 GKE 指南
+  - [infoq][] 微软 Azure 推出迁移与现代化技能提升计划
+  - [infoq][] Luma AI 发布 Media Transform 功能并介绍 Luma Agents
+  - [infoq][] MIT CSAIL研究人员开发CompreSSM方法，利用控制理论压缩大模型以降低训练成本
+  - [量子位][] 滴滴自动驾驶张博：聚焦安全和体验 推动自动驾驶全球化落地
+
+[2026-04-12 07:26:32] keyword_filter - OUTPUT: 20条 | 移除1条
+============================================================
+  - [infoq][] 研究指出SWE-bench Verified与Terminal-Bench基准测试存在奖励破解漏洞
+  - [infoq][] 谷歌云发布面向广播公司的内容推荐系统构建方案
+  - [infoq][] 谷歌技能平台推出生成式AI入门微课程，完成可获技能徽章
+  - [infoq][] LangChain 发文探讨代理框架与记忆系统的绑定与开放性问题
+  - [infoq][] 日本科学家福岛邦彦1980年提出新认知机模型，启发卷积神经网络
+  - [infoq][] Google Cloud 推出 GKE Inference Gateway，统一管理实时与异步推理工
+  - [infoq][] Cursor AI 宣布本周末将提升新界面中 Composer 2 使用量
+  - [infoq][] OpenClaw 发布 2026.4.10 版本，新增主动记忆插件与本地语音功能
+  - [infoq][] Anthropic 为 Claude 平台引入“顾问策略”以优化模型组合
+  - [infoq][] 斯坦福团队提出数据集策略梯度方法，可精确优化合成训练数据
+  - [infoq][] YC总裁Garry Tan开源其个人使用的生产级AI Agent记忆系统
+  - [infoq][] Anthropic为Claude Code推出预览功能/ultraplan，将复杂开发规划移至云端
+  - [infoq][] GitHub Copilot CLI 引入多模型反思循环进行代码审查
+  - [infoq][] MiniMax AI 发布音乐生成模型 MiniMax Music 2.6
+  - [infoq][] 黄仁勋在GTC预热环节与OpenClaw创始人讨论AI未来
+  - [infoq][] AnthropicAI 与 CoreWeave 达成多年合作以扩展 Claude 规模
+  - [infoq][] Google Cloud 发布 Next '26 大会基础设施与 GKE 指南
+  - [infoq][] 微软 Azure 推出迁移与现代化技能提升计划
+  - [infoq][] MIT CSAIL研究人员开发CompreSSM方法，利用控制理论压缩大模型以降低训练成本
+  - [量子位][] 滴滴自动驾驶张博：聚焦安全和体验 推动自动驾驶全球化落地
+
+[2026-04-12 07:26:32] bge_dedup - INPUT: 20条
+============================================================
+  - [infoq][] 研究指出SWE-bench Verified与Terminal-Bench基准测试存在奖励破解漏洞
+  - [infoq][] 谷歌云发布面向广播公司的内容推荐系统构建方案
+  - [infoq][] 谷歌技能平台推出生成式AI入门微课程，完成可获技能徽章
+  - [infoq][] LangChain 发文探讨代理框架与记忆系统的绑定与开放性问题
+  - [infoq][] 日本科学家福岛邦彦1980年提出新认知机模型，启发卷积神经网络
+  - [infoq][] Google Cloud 推出 GKE Inference Gateway，统一管理实时与异步推理工
+  - [infoq][] Cursor AI 宣布本周末将提升新界面中 Composer 2 使用量
+  - [infoq][] OpenClaw 发布 2026.4.10 版本，新增主动记忆插件与本地语音功能
+  - [infoq][] Anthropic 为 Claude 平台引入“顾问策略”以优化模型组合
+  - [infoq][] 斯坦福团队提出数据集策略梯度方法，可精确优化合成训练数据
+  - [infoq][] YC总裁Garry Tan开源其个人使用的生产级AI Agent记忆系统
+  - [infoq][] Anthropic为Claude Code推出预览功能/ultraplan，将复杂开发规划移至云端
+  - [infoq][] GitHub Copilot CLI 引入多模型反思循环进行代码审查
+  - [infoq][] MiniMax AI 发布音乐生成模型 MiniMax Music 2.6
+  - [infoq][] 黄仁勋在GTC预热环节与OpenClaw创始人讨论AI未来
+  - [infoq][] AnthropicAI 与 CoreWeave 达成多年合作以扩展 Claude 规模
+  - [infoq][] Google Cloud 发布 Next '26 大会基础设施与 GKE 指南
+  - [infoq][] 微软 Azure 推出迁移与现代化技能提升计划
+  - [infoq][] MIT CSAIL研究人员开发CompreSSM方法，利用控制理论压缩大模型以降低训练成本
+  - [量子位][] 滴滴自动驾驶张博：聚焦安全和体验 推动自动驾驶全球化落地
+
+[2026-04-12 07:58:45] bge_dedup - OUTPUT: 20条 | 移除0条
+============================================================
+  - [infoq][] 研究指出SWE-bench Verified与Terminal-Bench基准测试存在奖励破解漏洞
+  - [infoq][] 谷歌云发布面向广播公司的内容推荐系统构建方案
+  - [infoq][] 谷歌技能平台推出生成式AI入门微课程，完成可获技能徽章
+  - [infoq][] LangChain 发文探讨代理框架与记忆系统的绑定与开放性问题
+  - [infoq][] 日本科学家福岛邦彦1980年提出新认知机模型，启发卷积神经网络
+  - [infoq][] Google Cloud 推出 GKE Inference Gateway，统一管理实时与异步推理工
+  - [infoq][] Cursor AI 宣布本周末将提升新界面中 Composer 2 使用量
+  - [infoq][] OpenClaw 发布 2026.4.10 版本，新增主动记忆插件与本地语音功能
+  - [infoq][] Anthropic 为 Claude 平台引入“顾问策略”以优化模型组合
+  - [infoq][] 斯坦福团队提出数据集策略梯度方法，可精确优化合成训练数据
+  - [infoq][] YC总裁Garry Tan开源其个人使用的生产级AI Agent记忆系统
+  - [infoq][] Anthropic为Claude Code推出预览功能/ultraplan，将复杂开发规划移至云端
+  - [infoq][] GitHub Copilot CLI 引入多模型反思循环进行代码审查
+  - [infoq][] MiniMax AI 发布音乐生成模型 MiniMax Music 2.6
+  - [infoq][] 黄仁勋在GTC预热环节与OpenClaw创始人讨论AI未来
+  - [infoq][] AnthropicAI 与 CoreWeave 达成多年合作以扩展 Claude 规模
+  - [infoq][] Google Cloud 发布 Next '26 大会基础设施与 GKE 指南
+  - [infoq][] 微软 Azure 推出迁移与现代化技能提升计划
+  - [infoq][] MIT CSAIL研究人员开发CompreSSM方法，利用控制理论压缩大模型以降低训练成本
+  - [量子位][] 滴滴自动驾驶张博：聚焦安全和体验 推动自动驾驶全球化落地
+
+[2026-04-12 07:58:45] llm_classify - INPUT: 20条
+============================================================
+  - [infoq][] 研究指出SWE-bench Verified与Terminal-Bench基准测试存在奖励破解漏洞
+  - [infoq][] 谷歌云发布面向广播公司的内容推荐系统构建方案
+  - [infoq][] 谷歌技能平台推出生成式AI入门微课程，完成可获技能徽章
+  - [infoq][] LangChain 发文探讨代理框架与记忆系统的绑定与开放性问题
+  - [infoq][] 日本科学家福岛邦彦1980年提出新认知机模型，启发卷积神经网络
+  - [infoq][] Google Cloud 推出 GKE Inference Gateway，统一管理实时与异步推理工
+  - [infoq][] Cursor AI 宣布本周末将提升新界面中 Composer 2 使用量
+  - [infoq][] OpenClaw 发布 2026.4.10 版本，新增主动记忆插件与本地语音功能
+  - [infoq][] Anthropic 为 Claude 平台引入“顾问策略”以优化模型组合
+  - [infoq][] 斯坦福团队提出数据集策略梯度方法，可精确优化合成训练数据
+  - [infoq][] YC总裁Garry Tan开源其个人使用的生产级AI Agent记忆系统
+  - [infoq][] Anthropic为Claude Code推出预览功能/ultraplan，将复杂开发规划移至云端
+  - [infoq][] GitHub Copilot CLI 引入多模型反思循环进行代码审查
+  - [infoq][] MiniMax AI 发布音乐生成模型 MiniMax Music 2.6
+  - [infoq][] 黄仁勋在GTC预热环节与OpenClaw创始人讨论AI未来
+  - [infoq][] AnthropicAI 与 CoreWeave 达成多年合作以扩展 Claude 规模
+  - [infoq][] Google Cloud 发布 Next '26 大会基础设施与 GKE 指南
+  - [infoq][] 微软 Azure 推出迁移与现代化技能提升计划
+  - [infoq][] MIT CSAIL研究人员开发CompreSSM方法，利用控制理论压缩大模型以降低训练成本
+  - [量子位][] 滴滴自动驾驶张博：聚焦安全和体验 推动自动驾驶全球化落地
+
+[2026-04-12 07:59:02] llm_classify - OUTPUT: 20条 | 保留20条
+============================================================
+  - [infoq][国外AI资讯] 研究指出SWE-bench Verified与Terminal-Bench基准测试存在奖励破解漏洞
+  - [infoq][国外AI资讯] 谷歌云发布面向广播公司的内容推荐系统构建方案
+  - [infoq][其它科技资讯] 谷歌技能平台推出生成式AI入门微课程，完成可获技能徽章
+  - [infoq][国外AI资讯] LangChain 发文探讨代理框架与记忆系统的绑定与开放性问题
+  - [infoq][国外AI资讯] 日本科学家福岛邦彦1980年提出新认知机模型，启发卷积神经网络
+  - [infoq][国外AI资讯] Google Cloud 推出 GKE Inference Gateway，统一管理实时与异步推理工
+  - [infoq][国外AI资讯] Cursor AI 宣布本周末将提升新界面中 Composer 2 使用量
+  - [infoq][国外AI资讯] OpenClaw 发布 2026.4.10 版本，新增主动记忆插件与本地语音功能
+  - [infoq][国外AI资讯] Anthropic 为 Claude 平台引入“顾问策略”以优化模型组合
+  - [infoq][国外AI资讯] 斯坦福团队提出数据集策略梯度方法，可精确优化合成训练数据
+  - [infoq][国外AI资讯] YC总裁Garry Tan开源其个人使用的生产级AI Agent记忆系统
+  - [infoq][国外AI资讯] Anthropic为Claude Code推出预览功能/ultraplan，将复杂开发规划移至云端
+  - [infoq][国外AI资讯] GitHub Copilot CLI 引入多模型反思循环进行代码审查
+  - [infoq][国内AI资讯] MiniMax AI 发布音乐生成模型 MiniMax Music 2.6
+  - [infoq][国外AI资讯] 黄仁勋在GTC预热环节与OpenClaw创始人讨论AI未来
+  - [infoq][国外AI资讯] AnthropicAI 与 CoreWeave 达成多年合作以扩展 Claude 规模
+  - [infoq][其它科技资讯] Google Cloud 发布 Next '26 大会基础设施与 GKE 指南
+  - [infoq][其它科技资讯] 微软 Azure 推出迁移与现代化技能提升计划
+  - [infoq][国外AI资讯] MIT CSAIL研究人员开发CompreSSM方法，利用控制理论压缩大模型以降低训练成本
+  - [量子位][智能硬件] 滴滴自动驾驶张博：聚焦安全和体验 推动自动驾驶全球化落地
+
+[2026-04-12 07:59:02] llm_summary - INPUT: 20条
+============================================================
+  - [infoq][国外AI资讯] 研究指出SWE-bench Verified与Terminal-Bench基准测试存在奖励破解漏洞
+  - [infoq][国外AI资讯] 谷歌云发布面向广播公司的内容推荐系统构建方案
+  - [infoq][其它科技资讯] 谷歌技能平台推出生成式AI入门微课程，完成可获技能徽章
+  - [infoq][国外AI资讯] LangChain 发文探讨代理框架与记忆系统的绑定与开放性问题
+  - [infoq][国外AI资讯] 日本科学家福岛邦彦1980年提出新认知机模型，启发卷积神经网络
+  - [infoq][国外AI资讯] Google Cloud 推出 GKE Inference Gateway，统一管理实时与异步推理工
+  - [infoq][国外AI资讯] Cursor AI 宣布本周末将提升新界面中 Composer 2 使用量
+  - [infoq][国外AI资讯] OpenClaw 发布 2026.4.10 版本，新增主动记忆插件与本地语音功能
+  - [infoq][国外AI资讯] Anthropic 为 Claude 平台引入“顾问策略”以优化模型组合
+  - [infoq][国外AI资讯] 斯坦福团队提出数据集策略梯度方法，可精确优化合成训练数据
+  - [infoq][国外AI资讯] YC总裁Garry Tan开源其个人使用的生产级AI Agent记忆系统
+  - [infoq][国外AI资讯] Anthropic为Claude Code推出预览功能/ultraplan，将复杂开发规划移至云端
+  - [infoq][国外AI资讯] GitHub Copilot CLI 引入多模型反思循环进行代码审查
+  - [infoq][国内AI资讯] MiniMax AI 发布音乐生成模型 MiniMax Music 2.6
+  - [infoq][国外AI资讯] 黄仁勋在GTC预热环节与OpenClaw创始人讨论AI未来
+  - [infoq][国外AI资讯] AnthropicAI 与 CoreWeave 达成多年合作以扩展 Claude 规模
+  - [infoq][其它科技资讯] Google Cloud 发布 Next '26 大会基础设施与 GKE 指南
+  - [infoq][其它科技资讯] 微软 Azure 推出迁移与现代化技能提升计划
+  - [infoq][国外AI资讯] MIT CSAIL研究人员开发CompreSSM方法，利用控制理论压缩大模型以降低训练成本
+  - [量子位][智能硬件] 滴滴自动驾驶张博：聚焦安全和体验 推动自动驾驶全球化落地
+
+[2026-04-12 07:59:05] llm_summary - OUTPUT: 20条 | 成功1条
+============================================================
+  - [infoq][国外AI资讯] 研究指出SWE-bench Verified与Terminal-Bench基准测试存在奖励破解漏洞
+  - [infoq][国外AI资讯] 谷歌云发布面向广播公司的内容推荐系统构建方案
+  - [infoq][其它科技资讯] 谷歌技能平台推出生成式AI入门微课程，完成可获技能徽章
+  - [infoq][国外AI资讯] LangChain 发文探讨代理框架与记忆系统的绑定与开放性问题
+  - [infoq][国外AI资讯] 日本科学家福岛邦彦1980年提出新认知机模型，启发卷积神经网络
+  - [infoq][国外AI资讯] Google Cloud 推出 GKE Inference Gateway，统一管理实时与异步推理工
+  - [infoq][国外AI资讯] Cursor AI 宣布本周末将提升新界面中 Composer 2 使用量
+  - [infoq][国外AI资讯] OpenClaw 发布 2026.4.10 版本，新增主动记忆插件与本地语音功能
+  - [infoq][国外AI资讯] Anthropic 为 Claude 平台引入“顾问策略”以优化模型组合
+  - [infoq][国外AI资讯] 斯坦福团队提出数据集策略梯度方法，可精确优化合成训练数据
+  - [infoq][国外AI资讯] YC总裁Garry Tan开源其个人使用的生产级AI Agent记忆系统
+  - [infoq][国外AI资讯] Anthropic为Claude Code推出预览功能/ultraplan，将复杂开发规划移至云端
+  - [infoq][国外AI资讯] GitHub Copilot CLI 引入多模型反思循环进行代码审查
+  - [infoq][国内AI资讯] MiniMax AI 发布音乐生成模型 MiniMax Music 2.6
+  - [infoq][国外AI资讯] 黄仁勋在GTC预热环节与OpenClaw创始人讨论AI未来
+  - [infoq][国外AI资讯] AnthropicAI 与 CoreWeave 达成多年合作以扩展 Claude 规模
+  - [infoq][其它科技资讯] Google Cloud 发布 Next '26 大会基础设施与 GKE 指南
+  - [infoq][其它科技资讯] 微软 Azure 推出迁移与现代化技能提升计划
+  - [infoq][国外AI资讯] MIT CSAIL研究人员开发CompreSSM方法，利用控制理论压缩大模型以降低训练成本
+  - [量子位][智能硬件] 滴滴自动驾驶张博：聚焦安全和体验 推动自动驾驶全球化落地
+
+[2026-04-12 11:35:27] keyword_filter - INPUT: 24条
+============================================================
+  - [huxiu][] 智元分拆四足机器人业务
+  - [huxiu][] 我国重型地贫防治取得突破性研究成果
+  - [huxiu][] 三位启动OpenAI Stargate计划的高管将离职并加入Meta
+  - [infoq][] OpenClaw 发布 v2026.4.11 版本，聚焦稳定性与多平台修复
+  - [infoq][] MiniMax AI 开源 M2.7 模型，具备自我进化能力
+  - [infoq][] Vercel Sandboxes 成为基于 Compute SDK 基准测试的最快沙箱
+  - [infoq][] 研究指出SWE-bench Verified与Terminal-Bench基准测试存在奖励破解漏洞
+  - [infoq][] 谷歌云发布面向广播公司的内容推荐系统构建方案
+  - [infoq][] 谷歌技能平台推出生成式AI入门微课程，完成可获技能徽章
+  - [infoq][] LangChain 发文探讨代理框架与记忆系统的绑定与开放性问题
+  - [infoq][] 日本科学家福岛邦彦1980年提出新认知机模型，启发卷积神经网络
+  - [infoq][] Google Cloud 推出 GKE Inference Gateway，统一管理实时与异步推理工
+  - [infoq][] Cursor AI 宣布本周末将提升新界面中 Composer 2 使用量
+  - [infoq][] OpenClaw 发布 2026.4.10 版本，新增主动记忆插件与本地语音功能
+  - [infoq][] Anthropic 为 Claude 平台引入“顾问策略”以优化模型组合
+  - [infoq][] 斯坦福团队提出数据集策略梯度方法，可精确优化合成训练数据
+  - [infoq][] YC总裁Garry Tan开源其个人使用的生产级AI Agent记忆系统
+  - [infoq][] Anthropic为Claude Code推出预览功能/ultraplan，将复杂开发规划移至云端
+  - [infoq][] GitHub Copilot CLI 引入多模型反思循环进行代码审查
+  - [infoq][] MiniMax AI 发布音乐生成模型 MiniMax Music 2.6
+  - [infoq][] 黄仁勋在GTC预热环节与OpenClaw创始人讨论AI未来
+  - [infoq][] AnthropicAI 与 CoreWeave 达成多年合作以扩展 Claude 规模
+  - [infoq][] Google Cloud 发布 Next '26 大会基础设施与 GKE 指南
+  - [量子位][] 滴滴自动驾驶张博：聚焦安全和体验 推动自动驾驶全球化落地
+
+[2026-04-12 11:35:27] keyword_filter - OUTPUT: 23条 | 移除1条
+============================================================
+  - [huxiu][] 智元分拆四足机器人业务
+  - [huxiu][] 三位启动OpenAI Stargate计划的高管将离职并加入Meta
+  - [infoq][] OpenClaw 发布 v2026.4.11 版本，聚焦稳定性与多平台修复
+  - [infoq][] MiniMax AI 开源 M2.7 模型，具备自我进化能力
+  - [infoq][] Vercel Sandboxes 成为基于 Compute SDK 基准测试的最快沙箱
+  - [infoq][] 研究指出SWE-bench Verified与Terminal-Bench基准测试存在奖励破解漏洞
+  - [infoq][] 谷歌云发布面向广播公司的内容推荐系统构建方案
+  - [infoq][] 谷歌技能平台推出生成式AI入门微课程，完成可获技能徽章
+  - [infoq][] LangChain 发文探讨代理框架与记忆系统的绑定与开放性问题
+  - [infoq][] 日本科学家福岛邦彦1980年提出新认知机模型，启发卷积神经网络
+  - [infoq][] Google Cloud 推出 GKE Inference Gateway，统一管理实时与异步推理工
+  - [infoq][] Cursor AI 宣布本周末将提升新界面中 Composer 2 使用量
+  - [infoq][] OpenClaw 发布 2026.4.10 版本，新增主动记忆插件与本地语音功能
+  - [infoq][] Anthropic 为 Claude 平台引入“顾问策略”以优化模型组合
+  - [infoq][] 斯坦福团队提出数据集策略梯度方法，可精确优化合成训练数据
+  - [infoq][] YC总裁Garry Tan开源其个人使用的生产级AI Agent记忆系统
+  - [infoq][] Anthropic为Claude Code推出预览功能/ultraplan，将复杂开发规划移至云端
+  - [infoq][] GitHub Copilot CLI 引入多模型反思循环进行代码审查
+  - [infoq][] MiniMax AI 发布音乐生成模型 MiniMax Music 2.6
+  - [infoq][] 黄仁勋在GTC预热环节与OpenClaw创始人讨论AI未来
+  - [infoq][] AnthropicAI 与 CoreWeave 达成多年合作以扩展 Claude 规模
+  - [infoq][] Google Cloud 发布 Next '26 大会基础设施与 GKE 指南
+  - [量子位][] 滴滴自动驾驶张博：聚焦安全和体验 推动自动驾驶全球化落地
+
+[2026-04-12 11:35:27] bge_dedup - INPUT: 23条
+============================================================
+  - [huxiu][] 智元分拆四足机器人业务
+  - [huxiu][] 三位启动OpenAI Stargate计划的高管将离职并加入Meta
+  - [infoq][] OpenClaw 发布 v2026.4.11 版本，聚焦稳定性与多平台修复
+  - [infoq][] MiniMax AI 开源 M2.7 模型，具备自我进化能力
+  - [infoq][] Vercel Sandboxes 成为基于 Compute SDK 基准测试的最快沙箱
+  - [infoq][] 研究指出SWE-bench Verified与Terminal-Bench基准测试存在奖励破解漏洞
+  - [infoq][] 谷歌云发布面向广播公司的内容推荐系统构建方案
+  - [infoq][] 谷歌技能平台推出生成式AI入门微课程，完成可获技能徽章
+  - [infoq][] LangChain 发文探讨代理框架与记忆系统的绑定与开放性问题
+  - [infoq][] 日本科学家福岛邦彦1980年提出新认知机模型，启发卷积神经网络
+  - [infoq][] Google Cloud 推出 GKE Inference Gateway，统一管理实时与异步推理工
+  - [infoq][] Cursor AI 宣布本周末将提升新界面中 Composer 2 使用量
+  - [infoq][] OpenClaw 发布 2026.4.10 版本，新增主动记忆插件与本地语音功能
+  - [infoq][] Anthropic 为 Claude 平台引入“顾问策略”以优化模型组合
+  - [infoq][] 斯坦福团队提出数据集策略梯度方法，可精确优化合成训练数据
+  - [infoq][] YC总裁Garry Tan开源其个人使用的生产级AI Agent记忆系统
+  - [infoq][] Anthropic为Claude Code推出预览功能/ultraplan，将复杂开发规划移至云端
+  - [infoq][] GitHub Copilot CLI 引入多模型反思循环进行代码审查
+  - [infoq][] MiniMax AI 发布音乐生成模型 MiniMax Music 2.6
+  - [infoq][] 黄仁勋在GTC预热环节与OpenClaw创始人讨论AI未来
+  - [infoq][] AnthropicAI 与 CoreWeave 达成多年合作以扩展 Claude 规模
+  - [infoq][] Google Cloud 发布 Next '26 大会基础设施与 GKE 指南
+  - [量子位][] 滴滴自动驾驶张博：聚焦安全和体验 推动自动驾驶全球化落地
+
+[2026-04-12 11:35:42] bge_dedup - OUTPUT: 23条 | 移除0条
+============================================================
+  - [huxiu][] 智元分拆四足机器人业务
+  - [huxiu][] 三位启动OpenAI Stargate计划的高管将离职并加入Meta
+  - [infoq][] OpenClaw 发布 v2026.4.11 版本，聚焦稳定性与多平台修复
+  - [infoq][] MiniMax AI 开源 M2.7 模型，具备自我进化能力
+  - [infoq][] Vercel Sandboxes 成为基于 Compute SDK 基准测试的最快沙箱
+  - [infoq][] 研究指出SWE-bench Verified与Terminal-Bench基准测试存在奖励破解漏洞
+  - [infoq][] 谷歌云发布面向广播公司的内容推荐系统构建方案
+  - [infoq][] 谷歌技能平台推出生成式AI入门微课程，完成可获技能徽章
+  - [infoq][] LangChain 发文探讨代理框架与记忆系统的绑定与开放性问题
+  - [infoq][] 日本科学家福岛邦彦1980年提出新认知机模型，启发卷积神经网络
+  - [infoq][] Google Cloud 推出 GKE Inference Gateway，统一管理实时与异步推理工
+  - [infoq][] Cursor AI 宣布本周末将提升新界面中 Composer 2 使用量
+  - [infoq][] OpenClaw 发布 2026.4.10 版本，新增主动记忆插件与本地语音功能
+  - [infoq][] Anthropic 为 Claude 平台引入“顾问策略”以优化模型组合
+  - [infoq][] 斯坦福团队提出数据集策略梯度方法，可精确优化合成训练数据
+  - [infoq][] YC总裁Garry Tan开源其个人使用的生产级AI Agent记忆系统
+  - [infoq][] Anthropic为Claude Code推出预览功能/ultraplan，将复杂开发规划移至云端
+  - [infoq][] GitHub Copilot CLI 引入多模型反思循环进行代码审查
+  - [infoq][] MiniMax AI 发布音乐生成模型 MiniMax Music 2.6
+  - [infoq][] 黄仁勋在GTC预热环节与OpenClaw创始人讨论AI未来
+  - [infoq][] AnthropicAI 与 CoreWeave 达成多年合作以扩展 Claude 规模
+  - [infoq][] Google Cloud 发布 Next '26 大会基础设施与 GKE 指南
+  - [量子位][] 滴滴自动驾驶张博：聚焦安全和体验 推动自动驾驶全球化落地
+
+[2026-04-12 11:35:42] llm_classify - INPUT: 23条
+============================================================
+  - [huxiu][] 智元分拆四足机器人业务
+  - [huxiu][] 三位启动OpenAI Stargate计划的高管将离职并加入Meta
+  - [infoq][] OpenClaw 发布 v2026.4.11 版本，聚焦稳定性与多平台修复
+  - [infoq][] MiniMax AI 开源 M2.7 模型，具备自我进化能力
+  - [infoq][] Vercel Sandboxes 成为基于 Compute SDK 基准测试的最快沙箱
+  - [infoq][] 研究指出SWE-bench Verified与Terminal-Bench基准测试存在奖励破解漏洞
+  - [infoq][] 谷歌云发布面向广播公司的内容推荐系统构建方案
+  - [infoq][] 谷歌技能平台推出生成式AI入门微课程，完成可获技能徽章
+  - [infoq][] LangChain 发文探讨代理框架与记忆系统的绑定与开放性问题
+  - [infoq][] 日本科学家福岛邦彦1980年提出新认知机模型，启发卷积神经网络
+  - [infoq][] Google Cloud 推出 GKE Inference Gateway，统一管理实时与异步推理工
+  - [infoq][] Cursor AI 宣布本周末将提升新界面中 Composer 2 使用量
+  - [infoq][] OpenClaw 发布 2026.4.10 版本，新增主动记忆插件与本地语音功能
+  - [infoq][] Anthropic 为 Claude 平台引入“顾问策略”以优化模型组合
+  - [infoq][] 斯坦福团队提出数据集策略梯度方法，可精确优化合成训练数据
+  - [infoq][] YC总裁Garry Tan开源其个人使用的生产级AI Agent记忆系统
+  - [infoq][] Anthropic为Claude Code推出预览功能/ultraplan，将复杂开发规划移至云端
+  - [infoq][] GitHub Copilot CLI 引入多模型反思循环进行代码审查
+  - [infoq][] MiniMax AI 发布音乐生成模型 MiniMax Music 2.6
+  - [infoq][] 黄仁勋在GTC预热环节与OpenClaw创始人讨论AI未来
+  - [infoq][] AnthropicAI 与 CoreWeave 达成多年合作以扩展 Claude 规模
+  - [infoq][] Google Cloud 发布 Next '26 大会基础设施与 GKE 指南
+  - [量子位][] 滴滴自动驾驶张博：聚焦安全和体验 推动自动驾驶全球化落地
+
+[2026-04-12 11:36:01] llm_classify - OUTPUT: 23条 | 保留23条
+============================================================
+  - [huxiu][国内AI资讯] 智元分拆四足机器人业务
+  - [huxiu][国外AI资讯] 三位启动OpenAI Stargate计划的高管将离职并加入Meta
+  - [infoq][国外AI资讯] OpenClaw 发布 v2026.4.11 版本，聚焦稳定性与多平台修复
+  - [infoq][国外AI资讯] MiniMax AI 开源 M2.7 模型，具备自我进化能力
+  - [infoq][其它科技资讯] Vercel Sandboxes 成为基于 Compute SDK 基准测试的最快沙箱
+  - [infoq][其它科技资讯] 研究指出SWE-bench Verified与Terminal-Bench基准测试存在奖励破解漏洞
+  - [infoq][国外AI资讯] 谷歌云发布面向广播公司的内容推荐系统构建方案
+  - [infoq][国外AI资讯] 谷歌技能平台推出生成式AI入门微课程，完成可获技能徽章
+  - [infoq][国外AI资讯] LangChain 发文探讨代理框架与记忆系统的绑定与开放性问题
+  - [infoq][其它科技资讯] 日本科学家福岛邦彦1980年提出新认知机模型，启发卷积神经网络
+  - [infoq][国外AI资讯] Google Cloud 推出 GKE Inference Gateway，统一管理实时与异步推理工
+  - [infoq][国外AI资讯] Cursor AI 宣布本周末将提升新界面中 Composer 2 使用量
+  - [infoq][国外AI资讯] OpenClaw 发布 2026.4.10 版本，新增主动记忆插件与本地语音功能
+  - [infoq][国外AI资讯] Anthropic 为 Claude 平台引入“顾问策略”以优化模型组合
+  - [infoq][其它科技资讯] 斯坦福团队提出数据集策略梯度方法，可精确优化合成训练数据
+  - [infoq][国外AI资讯] YC总裁Garry Tan开源其个人使用的生产级AI Agent记忆系统
+  - [infoq][国外AI资讯] Anthropic为Claude Code推出预览功能/ultraplan，将复杂开发规划移至云端
+  - [infoq][国外AI资讯] GitHub Copilot CLI 引入多模型反思循环进行代码审查
+  - [infoq][国外AI资讯] MiniMax AI 发布音乐生成模型 MiniMax Music 2.6
+  - [infoq][国外AI资讯] 黄仁勋在GTC预热环节与OpenClaw创始人讨论AI未来
+  - [infoq][国外AI资讯] AnthropicAI 与 CoreWeave 达成多年合作以扩展 Claude 规模
+  - [infoq][国外AI资讯] Google Cloud 发布 Next '26 大会基础设施与 GKE 指南
+  - [量子位][智能硬件] 滴滴自动驾驶张博：聚焦安全和体验 推动自动驾驶全球化落地
+
+[2026-04-12 11:36:01] llm_summary - INPUT: 23条
+============================================================
+  - [huxiu][国内AI资讯] 智元分拆四足机器人业务
+  - [huxiu][国外AI资讯] 三位启动OpenAI Stargate计划的高管将离职并加入Meta
+  - [infoq][国外AI资讯] OpenClaw 发布 v2026.4.11 版本，聚焦稳定性与多平台修复
+  - [infoq][国外AI资讯] MiniMax AI 开源 M2.7 模型，具备自我进化能力
+  - [infoq][其它科技资讯] Vercel Sandboxes 成为基于 Compute SDK 基准测试的最快沙箱
+  - [infoq][其它科技资讯] 研究指出SWE-bench Verified与Terminal-Bench基准测试存在奖励破解漏洞
+  - [infoq][国外AI资讯] 谷歌云发布面向广播公司的内容推荐系统构建方案
+  - [infoq][国外AI资讯] 谷歌技能平台推出生成式AI入门微课程，完成可获技能徽章
+  - [infoq][国外AI资讯] LangChain 发文探讨代理框架与记忆系统的绑定与开放性问题
+  - [infoq][其它科技资讯] 日本科学家福岛邦彦1980年提出新认知机模型，启发卷积神经网络
+  - [infoq][国外AI资讯] Google Cloud 推出 GKE Inference Gateway，统一管理实时与异步推理工
+  - [infoq][国外AI资讯] Cursor AI 宣布本周末将提升新界面中 Composer 2 使用量
+  - [infoq][国外AI资讯] OpenClaw 发布 2026.4.10 版本，新增主动记忆插件与本地语音功能
+  - [infoq][国外AI资讯] Anthropic 为 Claude 平台引入“顾问策略”以优化模型组合
+  - [infoq][其它科技资讯] 斯坦福团队提出数据集策略梯度方法，可精确优化合成训练数据
+  - [infoq][国外AI资讯] YC总裁Garry Tan开源其个人使用的生产级AI Agent记忆系统
+  - [infoq][国外AI资讯] Anthropic为Claude Code推出预览功能/ultraplan，将复杂开发规划移至云端
+  - [infoq][国外AI资讯] GitHub Copilot CLI 引入多模型反思循环进行代码审查
+  - [infoq][国外AI资讯] MiniMax AI 发布音乐生成模型 MiniMax Music 2.6
+  - [infoq][国外AI资讯] 黄仁勋在GTC预热环节与OpenClaw创始人讨论AI未来
+  - [infoq][国外AI资讯] AnthropicAI 与 CoreWeave 达成多年合作以扩展 Claude 规模
+  - [infoq][国外AI资讯] Google Cloud 发布 Next '26 大会基础设施与 GKE 指南
+  - [量子位][智能硬件] 滴滴自动驾驶张博：聚焦安全和体验 推动自动驾驶全球化落地
+
+[2026-04-12 11:36:06] llm_summary - OUTPUT: 23条 | 成功3条
+============================================================
+  - [huxiu][国内AI资讯] 智元分拆四足机器人业务
+  - [huxiu][国外AI资讯] 三位启动OpenAI Stargate计划的高管将离职并加入Meta
+  - [infoq][国外AI资讯] OpenClaw 发布 v2026.4.11 版本，聚焦稳定性与多平台修复
+  - [infoq][国外AI资讯] MiniMax AI 开源 M2.7 模型，具备自我进化能力
+  - [infoq][其它科技资讯] Vercel Sandboxes 成为基于 Compute SDK 基准测试的最快沙箱
+  - [infoq][其它科技资讯] 研究指出SWE-bench Verified与Terminal-Bench基准测试存在奖励破解漏洞
+  - [infoq][国外AI资讯] 谷歌云发布面向广播公司的内容推荐系统构建方案
+  - [infoq][国外AI资讯] 谷歌技能平台推出生成式AI入门微课程，完成可获技能徽章
+  - [infoq][国外AI资讯] LangChain 发文探讨代理框架与记忆系统的绑定与开放性问题
+  - [infoq][其它科技资讯] 日本科学家福岛邦彦1980年提出新认知机模型，启发卷积神经网络
+  - [infoq][国外AI资讯] Google Cloud 推出 GKE Inference Gateway，统一管理实时与异步推理工
+  - [infoq][国外AI资讯] Cursor AI 宣布本周末将提升新界面中 Composer 2 使用量
+  - [infoq][国外AI资讯] OpenClaw 发布 2026.4.10 版本，新增主动记忆插件与本地语音功能
+  - [infoq][国外AI资讯] Anthropic 为 Claude 平台引入“顾问策略”以优化模型组合
+  - [infoq][其它科技资讯] 斯坦福团队提出数据集策略梯度方法，可精确优化合成训练数据
+  - [infoq][国外AI资讯] YC总裁Garry Tan开源其个人使用的生产级AI Agent记忆系统
+  - [infoq][国外AI资讯] Anthropic为Claude Code推出预览功能/ultraplan，将复杂开发规划移至云端
+  - [infoq][国外AI资讯] GitHub Copilot CLI 引入多模型反思循环进行代码审查
+  - [infoq][国外AI资讯] MiniMax AI 发布音乐生成模型 MiniMax Music 2.6
+  - [infoq][国外AI资讯] 黄仁勋在GTC预热环节与OpenClaw创始人讨论AI未来
+  - [infoq][国外AI资讯] AnthropicAI 与 CoreWeave 达成多年合作以扩展 Claude 规模
+  - [infoq][国外AI资讯] Google Cloud 发布 Next '26 大会基础设施与 GKE 指南
+  - [量子位][智能硬件] 滴滴自动驾驶张博：聚焦安全和体验 推动自动驾驶全球化落地
+
+[2026-04-12 23:00:39] keyword_filter - INPUT: 23条
+============================================================
+  - [huxiu][] 特斯拉受监督版全自动驾驶系统获准在荷兰使用
+  - [huxiu][] 谷歌TurboQuant算法或将扩大而非减少内存芯片需求
+  - [huxiu][] 智元分拆四足机器人业务
+  - [infoq][] Hugging Face 分享 NVFP4 与 MXFP8 在 B200 上加速图像视频生成模型的研
+  - [infoq][] Gartner精选IT新闻：AI代理组建近全自主软件工程团队
+  - [infoq][] OECD报告：政府研发预算收紧并转向国防，AI与清洁能源研发获关注
+  - [infoq][] Google Cloud 发布 Agent Starter Pack，助力快速部署生产就绪 AI 智
+  - [infoq][] Rerun 预告将支持 2D 网格地图，推出 GridMap 原型
+  - [infoq][] 联合国教科文组织发布新出版物《联合国教科文组织国家委员会网络：为人民服务》
+  - [infoq][] vLLM 推理框架在发布首日即支持 MiniMax M2.7 模型
+  - [infoq][] MiniMax 宣布开源 M2.7 模型，提及模型自我进化研究
+  - [infoq][] MiniMax M2.7 模型在 Ollama 云平台正式上线
+  - [infoq][] AWS CEO 透露 Anthropic 最新模型均在 Trainium 芯片上训练
+  - [infoq][] Sonnet与Opus顾问配对提升智能体任务成功率
+  - [infoq][] MiniMax M2.7模型登陆NVIDIA GPU加速端点，支持NemoClaw与OpenClaw
+  - [infoq][] MiniMax M2.7模型发布首日即获SGLang框架支持
+  - [infoq][] OpenClaw 发布 v2026.4.11 版本，聚焦稳定性与多平台修复
+  - [infoq][] MiniMax AI 开源 M2.7 模型，具备自我进化能力
+  - [infoq][] Vercel Sandboxes 成为基于 Compute SDK 基准测试的最快沙箱
+  - [infoq][] 研究指出SWE-bench Verified与Terminal-Bench基准测试存在奖励破解漏洞
+  - [infoq][] 谷歌云发布面向广播公司的内容推荐系统构建方案
+  - [infoq][] 谷歌技能平台推出生成式AI入门微课程，完成可获技能徽章
+  - [infoq][] LangChain 发文探讨代理框架与记忆系统的绑定与开放性问题
+
+[2026-04-12 23:00:39] keyword_filter - OUTPUT: 21条 | 移除2条
+============================================================
+  - [huxiu][] 特斯拉受监督版全自动驾驶系统获准在荷兰使用
+  - [huxiu][] 谷歌TurboQuant算法或将扩大而非减少内存芯片需求
+  - [huxiu][] 智元分拆四足机器人业务
+  - [infoq][] Hugging Face 分享 NVFP4 与 MXFP8 在 B200 上加速图像视频生成模型的研
+  - [infoq][] Gartner精选IT新闻：AI代理组建近全自主软件工程团队
+  - [infoq][] Google Cloud 发布 Agent Starter Pack，助力快速部署生产就绪 AI 智
+  - [infoq][] Rerun 预告将支持 2D 网格地图，推出 GridMap 原型
+  - [infoq][] 联合国教科文组织发布新出版物《联合国教科文组织国家委员会网络：为人民服务》
+  - [infoq][] vLLM 推理框架在发布首日即支持 MiniMax M2.7 模型
+  - [infoq][] MiniMax 宣布开源 M2.7 模型，提及模型自我进化研究
+  - [infoq][] MiniMax M2.7 模型在 Ollama 云平台正式上线
+  - [infoq][] Sonnet与Opus顾问配对提升智能体任务成功率
+  - [infoq][] MiniMax M2.7模型登陆NVIDIA GPU加速端点，支持NemoClaw与OpenClaw
+  - [infoq][] MiniMax M2.7模型发布首日即获SGLang框架支持
+  - [infoq][] OpenClaw 发布 v2026.4.11 版本，聚焦稳定性与多平台修复
+  - [infoq][] MiniMax AI 开源 M2.7 模型，具备自我进化能力
+  - [infoq][] Vercel Sandboxes 成为基于 Compute SDK 基准测试的最快沙箱
+  - [infoq][] 研究指出SWE-bench Verified与Terminal-Bench基准测试存在奖励破解漏洞
+  - [infoq][] 谷歌云发布面向广播公司的内容推荐系统构建方案
+  - [infoq][] 谷歌技能平台推出生成式AI入门微课程，完成可获技能徽章
+  - [infoq][] LangChain 发文探讨代理框架与记忆系统的绑定与开放性问题
+
+[2026-04-12 23:00:39] bge_dedup - INPUT: 21条
+============================================================
+  - [huxiu][] 特斯拉受监督版全自动驾驶系统获准在荷兰使用
+  - [huxiu][] 谷歌TurboQuant算法或将扩大而非减少内存芯片需求
+  - [huxiu][] 智元分拆四足机器人业务
+  - [infoq][] Hugging Face 分享 NVFP4 与 MXFP8 在 B200 上加速图像视频生成模型的研
+  - [infoq][] Gartner精选IT新闻：AI代理组建近全自主软件工程团队
+  - [infoq][] Google Cloud 发布 Agent Starter Pack，助力快速部署生产就绪 AI 智
+  - [infoq][] Rerun 预告将支持 2D 网格地图，推出 GridMap 原型
+  - [infoq][] 联合国教科文组织发布新出版物《联合国教科文组织国家委员会网络：为人民服务》
+  - [infoq][] vLLM 推理框架在发布首日即支持 MiniMax M2.7 模型
+  - [infoq][] MiniMax 宣布开源 M2.7 模型，提及模型自我进化研究
+  - [infoq][] MiniMax M2.7 模型在 Ollama 云平台正式上线
+  - [infoq][] Sonnet与Opus顾问配对提升智能体任务成功率
+  - [infoq][] MiniMax M2.7模型登陆NVIDIA GPU加速端点，支持NemoClaw与OpenClaw
+  - [infoq][] MiniMax M2.7模型发布首日即获SGLang框架支持
+  - [infoq][] OpenClaw 发布 v2026.4.11 版本，聚焦稳定性与多平台修复
+  - [infoq][] MiniMax AI 开源 M2.7 模型，具备自我进化能力
+  - [infoq][] Vercel Sandboxes 成为基于 Compute SDK 基准测试的最快沙箱
+  - [infoq][] 研究指出SWE-bench Verified与Terminal-Bench基准测试存在奖励破解漏洞
+  - [infoq][] 谷歌云发布面向广播公司的内容推荐系统构建方案
+  - [infoq][] 谷歌技能平台推出生成式AI入门微课程，完成可获技能徽章
+  - [infoq][] LangChain 发文探讨代理框架与记忆系统的绑定与开放性问题
+
+[2026-04-12 23:00:57] bge_dedup - OUTPUT: 19条 | 移除2条
+============================================================
+  - [huxiu][] 特斯拉受监督版全自动驾驶系统获准在荷兰使用
+  - [huxiu][] 谷歌TurboQuant算法或将扩大而非减少内存芯片需求
+  - [huxiu][] 智元分拆四足机器人业务
+  - [infoq][] Hugging Face 分享 NVFP4 与 MXFP8 在 B200 上加速图像视频生成模型的研
+  - [infoq][] Gartner精选IT新闻：AI代理组建近全自主软件工程团队
+  - [infoq][] Google Cloud 发布 Agent Starter Pack，助力快速部署生产就绪 AI 智
+  - [infoq][] Rerun 预告将支持 2D 网格地图，推出 GridMap 原型
+  - [infoq][] 联合国教科文组织发布新出版物《联合国教科文组织国家委员会网络：为人民服务》
+  - [infoq][] vLLM 推理框架在发布首日即支持 MiniMax M2.7 模型
+  - [infoq][] MiniMax 宣布开源 M2.7 模型，提及模型自我进化研究
+  - [infoq][] MiniMax M2.7 模型在 Ollama 云平台正式上线
+  - [infoq][] Sonnet与Opus顾问配对提升智能体任务成功率
+  - [infoq][] MiniMax M2.7模型登陆NVIDIA GPU加速端点，支持NemoClaw与OpenClaw
+  - [infoq][] OpenClaw 发布 v2026.4.11 版本，聚焦稳定性与多平台修复
+  - [infoq][] Vercel Sandboxes 成为基于 Compute SDK 基准测试的最快沙箱
+  - [infoq][] 研究指出SWE-bench Verified与Terminal-Bench基准测试存在奖励破解漏洞
+  - [infoq][] 谷歌云发布面向广播公司的内容推荐系统构建方案
+  - [infoq][] 谷歌技能平台推出生成式AI入门微课程，完成可获技能徽章
+  - [infoq][] LangChain 发文探讨代理框架与记忆系统的绑定与开放性问题
+
+[2026-04-12 23:00:57] llm_classify - INPUT: 19条
+============================================================
+  - [huxiu][] 特斯拉受监督版全自动驾驶系统获准在荷兰使用
+  - [huxiu][] 谷歌TurboQuant算法或将扩大而非减少内存芯片需求
+  - [huxiu][] 智元分拆四足机器人业务
+  - [infoq][] Hugging Face 分享 NVFP4 与 MXFP8 在 B200 上加速图像视频生成模型的研
+  - [infoq][] Gartner精选IT新闻：AI代理组建近全自主软件工程团队
+  - [infoq][] Google Cloud 发布 Agent Starter Pack，助力快速部署生产就绪 AI 智
+  - [infoq][] Rerun 预告将支持 2D 网格地图，推出 GridMap 原型
+  - [infoq][] 联合国教科文组织发布新出版物《联合国教科文组织国家委员会网络：为人民服务》
+  - [infoq][] vLLM 推理框架在发布首日即支持 MiniMax M2.7 模型
+  - [infoq][] MiniMax 宣布开源 M2.7 模型，提及模型自我进化研究
+  - [infoq][] MiniMax M2.7 模型在 Ollama 云平台正式上线
+  - [infoq][] Sonnet与Opus顾问配对提升智能体任务成功率
+  - [infoq][] MiniMax M2.7模型登陆NVIDIA GPU加速端点，支持NemoClaw与OpenClaw
+  - [infoq][] OpenClaw 发布 v2026.4.11 版本，聚焦稳定性与多平台修复
+  - [infoq][] Vercel Sandboxes 成为基于 Compute SDK 基准测试的最快沙箱
+  - [infoq][] 研究指出SWE-bench Verified与Terminal-Bench基准测试存在奖励破解漏洞
+  - [infoq][] 谷歌云发布面向广播公司的内容推荐系统构建方案
+  - [infoq][] 谷歌技能平台推出生成式AI入门微课程，完成可获技能徽章
+  - [infoq][] LangChain 发文探讨代理框架与记忆系统的绑定与开放性问题
+
+[2026-04-12 23:01:35] llm_classify - OUTPUT: 19条 | 保留19条
+============================================================
+  - [huxiu][智能硬件] 特斯拉受监督版全自动驾驶系统获准在荷兰使用
+  - [huxiu][国外AI资讯] 谷歌TurboQuant算法或将扩大而非减少内存芯片需求
+  - [huxiu][智能硬件] 智元分拆四足机器人业务
+  - [infoq][国外AI资讯] Hugging Face 分享 NVFP4 与 MXFP8 在 B200 上加速图像视频生成模型的研
+  - [infoq][其它科技资讯] Gartner精选IT新闻：AI代理组建近全自主软件工程团队
+  - [infoq][国外AI资讯] Google Cloud 发布 Agent Starter Pack，助力快速部署生产就绪 AI 智
+  - [infoq][国外AI资讯] Rerun 预告将支持 2D 网格地图，推出 GridMap 原型
+  - [infoq][其它科技资讯] 联合国教科文组织发布新出版物《联合国教科文组织国家委员会网络：为人民服务》
+  - [infoq][国内AI资讯] vLLM 推理框架在发布首日即支持 MiniMax M2.7 模型
+  - [infoq][国内AI资讯] MiniMax 宣布开源 M2.7 模型，提及模型自我进化研究
+  - [infoq][国内AI资讯] MiniMax M2.7 模型在 Ollama 云平台正式上线
+  - [infoq][国外AI资讯] Sonnet与Opus顾问配对提升智能体任务成功率
+  - [infoq][国内AI资讯] MiniMax M2.7模型登陆NVIDIA GPU加速端点，支持NemoClaw与OpenClaw
+  - [infoq][国外AI资讯] OpenClaw 发布 v2026.4.11 版本，聚焦稳定性与多平台修复
+  - [infoq][国外AI资讯] Vercel Sandboxes 成为基于 Compute SDK 基准测试的最快沙箱
+  - [infoq][国外AI资讯] 研究指出SWE-bench Verified与Terminal-Bench基准测试存在奖励破解漏洞
+  - [infoq][国外AI资讯] 谷歌云发布面向广播公司的内容推荐系统构建方案
+  - [infoq][国外AI资讯] 谷歌技能平台推出生成式AI入门微课程，完成可获技能徽章
+  - [infoq][国外AI资讯] LangChain 发文探讨代理框架与记忆系统的绑定与开放性问题
+
+[2026-04-12 23:01:35] llm_summary - INPUT: 19条
+============================================================
+  - [huxiu][智能硬件] 特斯拉受监督版全自动驾驶系统获准在荷兰使用
+  - [huxiu][国外AI资讯] 谷歌TurboQuant算法或将扩大而非减少内存芯片需求
+  - [huxiu][智能硬件] 智元分拆四足机器人业务
+  - [infoq][国外AI资讯] Hugging Face 分享 NVFP4 与 MXFP8 在 B200 上加速图像视频生成模型的研
+  - [infoq][其它科技资讯] Gartner精选IT新闻：AI代理组建近全自主软件工程团队
+  - [infoq][国外AI资讯] Google Cloud 发布 Agent Starter Pack，助力快速部署生产就绪 AI 智
+  - [infoq][国外AI资讯] Rerun 预告将支持 2D 网格地图，推出 GridMap 原型
+  - [infoq][其它科技资讯] 联合国教科文组织发布新出版物《联合国教科文组织国家委员会网络：为人民服务》
+  - [infoq][国内AI资讯] vLLM 推理框架在发布首日即支持 MiniMax M2.7 模型
+  - [infoq][国内AI资讯] MiniMax 宣布开源 M2.7 模型，提及模型自我进化研究
+  - [infoq][国内AI资讯] MiniMax M2.7 模型在 Ollama 云平台正式上线
+  - [infoq][国外AI资讯] Sonnet与Opus顾问配对提升智能体任务成功率
+  - [infoq][国内AI资讯] MiniMax M2.7模型登陆NVIDIA GPU加速端点，支持NemoClaw与OpenClaw
+  - [infoq][国外AI资讯] OpenClaw 发布 v2026.4.11 版本，聚焦稳定性与多平台修复
+  - [infoq][国外AI资讯] Vercel Sandboxes 成为基于 Compute SDK 基准测试的最快沙箱
+  - [infoq][国外AI资讯] 研究指出SWE-bench Verified与Terminal-Bench基准测试存在奖励破解漏洞
+  - [infoq][国外AI资讯] 谷歌云发布面向广播公司的内容推荐系统构建方案
+  - [infoq][国外AI资讯] 谷歌技能平台推出生成式AI入门微课程，完成可获技能徽章
+  - [infoq][国外AI资讯] LangChain 发文探讨代理框架与记忆系统的绑定与开放性问题
+
+[2026-04-12 23:01:42] llm_summary - OUTPUT: 19条 | 成功3条
+============================================================
+  - [huxiu][智能硬件] 特斯拉受监督版全自动驾驶系统获准在荷兰使用
+  - [huxiu][国外AI资讯] 谷歌TurboQuant算法或将扩大而非减少内存芯片需求
+  - [huxiu][智能硬件] 智元分拆四足机器人业务
+  - [infoq][国外AI资讯] Hugging Face 分享 NVFP4 与 MXFP8 在 B200 上加速图像视频生成模型的研
+  - [infoq][其它科技资讯] Gartner精选IT新闻：AI代理组建近全自主软件工程团队
+  - [infoq][国外AI资讯] Google Cloud 发布 Agent Starter Pack，助力快速部署生产就绪 AI 智
+  - [infoq][国外AI资讯] Rerun 预告将支持 2D 网格地图，推出 GridMap 原型
+  - [infoq][其它科技资讯] 联合国教科文组织发布新出版物《联合国教科文组织国家委员会网络：为人民服务》
+  - [infoq][国内AI资讯] vLLM 推理框架在发布首日即支持 MiniMax M2.7 模型
+  - [infoq][国内AI资讯] MiniMax 宣布开源 M2.7 模型，提及模型自我进化研究
+  - [infoq][国内AI资讯] MiniMax M2.7 模型在 Ollama 云平台正式上线
+  - [infoq][国外AI资讯] Sonnet与Opus顾问配对提升智能体任务成功率
+  - [infoq][国内AI资讯] MiniMax M2.7模型登陆NVIDIA GPU加速端点，支持NemoClaw与OpenClaw
+  - [infoq][国外AI资讯] OpenClaw 发布 v2026.4.11 版本，聚焦稳定性与多平台修复
+  - [infoq][国外AI资讯] Vercel Sandboxes 成为基于 Compute SDK 基准测试的最快沙箱
+  - [infoq][国外AI资讯] 研究指出SWE-bench Verified与Terminal-Bench基准测试存在奖励破解漏洞
+  - [infoq][国外AI资讯] 谷歌云发布面向广播公司的内容推荐系统构建方案
+  - [infoq][国外AI资讯] 谷歌技能平台推出生成式AI入门微课程，完成可获技能徽章
+  - [infoq][国外AI资讯] LangChain 发文探讨代理框架与记忆系统的绑定与开放性问题
