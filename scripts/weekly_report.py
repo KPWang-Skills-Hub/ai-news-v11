@@ -211,7 +211,7 @@ def run_bge_dedup(items, thresh=0.75):
 LLM_USER_PROMPT = (
     '你是一位资深的中国AI行业分析师，正在为国内读者制作一份AI领域每周重要资讯精选。\n\n'
     '# 任务目标\n'
-    '从提供的本周AI资讯列表中，精选出最重要的20条资讯，分为「国内AI资讯」和「国外AI资讯」两组，各10条。\n\n'
+    '从提供的本周AI资讯列表中，精选出最重要的12条资讯，分为「国内AI资讯」和「国外AI资讯」两组，各6条。\n\n'
     '# 核心概念严格定义\n\n'
     '## 什么是「国内AI资讯」\n'
     '满足以下任一条件即为国内资讯：\n'
@@ -261,16 +261,16 @@ LLM_USER_PROMPT = (
     '   - 错误做法：把两条互不相关的独立事件合并。\n\n'
     '3. 分级与初步排序：在合并后的资讯中，先按 S > A > B 排序，同级别内按影响力大小排序。\n\n'
     '4. 多样性调整：\n'
-    '   - 主体均衡：在最终的Top10列表中，同一个主体出现的独条资讯数，原则上不超过2条。\n'
+    '   - 主体均衡：在最终的Top6列表中，同一个主体出现的独条资讯数，原则上不超过2条。\n'
     '   - 例外条件：只有当同一主体的第3条资讯的重要性评级，明显高于被它挤掉的其他主体资讯，才允许例外。\n\n'
     '5. 配额分配：\n'
-    '   - 从国内资讯中选出最重要的10条。\n'
-    '   - 从国外资讯中选出最重要的10条。\n'
-    '   - 如果某区域高质量资讯不足10条，可补入C级资讯；仍不足则宁可少选。\n\n'
+    '   - 从国内资讯中选出最重要的6条。\n'
+    '   - 从国外资讯中选出最重要的6条。\n'
+    '   - 如果某区域高质量资讯不足6条，可补入C级资讯；仍不足则宁可少选。\n\n'
     '# 输出格式要求\n'
     '请只输出下面这个JSON结构，不要包含任何解释，开场白或结尾语：\n\n'
     '{\n'
-    '  "domestic_top10": [\n'
+    '  "domestic_top6": [\n'
     '    {\n'
     '      "rank": 1,\n'
     '      "title": "精炼后的中文标题（直击要点，不超过30字）",\n'
@@ -281,7 +281,7 @@ LLM_USER_PROMPT = (
     '      "source": "虎嗅"\n'
     '    }\n'
     '  ],\n'
-    '  "overseas_top10": [\n'
+    '  "overseas_top6": [\n'
     '    {\n'
     '      "rank": 1,\n'
     '      "title": "...",\n'
@@ -303,7 +303,7 @@ LLM_USER_PROMPT = (
     '- 所有输出文本使用简体中文\n'
     '- summary严格控制在150-200字之间，不允许超过200字\n'
     '- summary必须分段，每段不超过2-3句话，段落之间用空行分隔\n'
-    '- 确保国内和国外各10条，总数恰好20条\n'
+    '- 确保国内和国外各6条，总数恰好12条\n'
     '- 排序时，#1是最重要的\n'
     '- 不要输出任何JSON以外的内容\n\n'
     '# 本周资讯列表\n'
@@ -348,29 +348,29 @@ def call_llm_classify_and_filter(items, week_start, week_end):
                             break
                     else:
                         raise
-            domestic = result.get('domestic_top10', [])
-            overseas = result.get('overseas_top10', [])
+            domestic = result.get('domestic_top6', result.get('domestic_top10', []))
+            overseas = result.get('overseas_top6', result.get('overseas_top10', []))
             if not domestic:
                 domestic = result.get('国内', [])
             if not overseas:
                 overseas = result.get('国外', [])
             print(f'   [ok] 国内 {len(domestic)} 条 | 国外 {len(overseas)} 条')
-            return {'domestic_top10': domestic, 'overseas_top10': overseas, 'raw_remaining': len(items)}
+            return {'domestic_top6': domestic, 'overseas_top6': overseas, 'raw_remaining': len(items)}
         except Exception as e:
             if call_att < 2:
                 print(f'   [warn] 调用异常，{call_att+1}/3 重试: {e}')
                 continue
             print(f'   [error] LLM最终失败: {e}')
-            return {'domestic_top10': [], 'overseas_top10': [], 'raw_remaining': len(items)}
-    return {'domestic_top10': [], 'overseas_top10': [], 'raw_remaining': len(items)}
+            return {'domestic_top6': [], 'overseas_top6': [], 'raw_remaining': len(items)}
+    return {'domestic_top6': [], 'overseas_top6': [], 'raw_remaining': len(items)}
 
 # ========== Step 4: LLM 洞察 ==========
 def _insight(domestic, international):
-    def top(items, n=10):
+    def top(items, n=6):
         order = {'S': 0, 'A': 1, 'B': 2}
         return sorted(items, key=lambda x: order.get(x.get('importance', 'B'), 2))[:n]
-    dp = top(domestic, 10)
-    ip = top(international, 10)
+    dp = top(domestic, 6)
+    ip = top(international, 6)
     lines = []
     for d in dp:
         t = d.get('title', '')
@@ -392,7 +392,7 @@ def _insight(domestic, international):
 
     header = (
         '你是一位资深的中国AI行业分析师，正在为国内读者撰写本周AI洞察。\n'
-        '我会提供给你本周最重要的20条AI资讯（10条国内 + 10条国外），每条资讯包含标题和摘要。\n'
+        '我会提供给你本周最重要的12条AI资讯（6条国内 + 6条国外），每条资讯包含标题和摘要。\n'
         '请仔细阅读并消化这些资讯，然后起笔写一段有深度、有因果串联的洞察分析，直接输出正文，不要任何标题、前缀或结束语。\n\n'
         '写一段280-320字的洞察分析。直接输出正文，不要任何标题、前缀或结束语。\n\n'
         '【分段要求】输出必须分成3段，每段之间用空行分隔：\n'
@@ -722,7 +722,7 @@ def main():
     # Step 4: LLM 精选
     print('\n[4/7] LLM精选...')
     llm = call_llm_classify_and_filter(all_items, week_start, week_end)
-    domestic, international = llm.get('domestic_top10', []), llm.get('overseas_top10', [])
+    domestic, international = llm.get('domestic_top6', []), llm.get('overseas_top6', [])
     if not domestic and not international:
         print('[error] LLM无输出')
         sys.exit(1)
