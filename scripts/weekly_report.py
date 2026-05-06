@@ -1,780 +1,812 @@
 #!/usr/bin/env python3
-"""
-周报生成脚本
-读取过去7天的日报 JSON，合并后走评分+桶限制流程，生成周报
-
-用法：
-  python3 weekly_report.py                  # 生成过去7天周报
-  python3 weekly_report.py --days 14         # 生成过去14天周报
-  python3 weekly_report.py --dry-run        # 只跑流程不生成文件
-"""
-import sys
-import json
-import re
-import argparse
+# -*- coding: utf-8 -*-
+"AI资讯周报生成器 v3 - LLM一步精选（参照文档重建，含4项改动）"
+import sys, json, os, re, argparse
 from pathlib import Path
 from datetime import datetime, timedelta
-from typing import List, Dict, Tuple
 
-# ---- 路径 setup ----
 SKILL_DIR = Path(__file__).parent.parent
 SCRIPTS_DIR = Path(__file__).parent
+OUTPUT_DIR = SCRIPTS_DIR / 'output'
 
-# ---- 配置文件加载（直接读文件，不走 interceptors 导入链）----
-def _load_scoring_config() -> dict:
-    cfg_file = SCRIPTS_DIR / "interceptors" / "scoring_config.py"
-    ns = {}
-    exec(cfg_file.read_text(encoding="utf-8"), {}, ns)
-    return ns
+# 数据库路径（与 ai-news-monitor backend 保持一致）
+MONITOR_DB_PATH = os.environ.get(
+    "MONITOR_DB_PATH",
+    os.path.join(os.path.expanduser("~"), ".openclaw", "data", "ai-news-monitor", "monitor.db")
+)
 
+MINIMAX_API_KEY = 'sk-cp-wTF01lPxZSg5kglem92SZUPwYthfQoAwvNa74N8ZySxN4TxPD0gnlNRt-eAMjtng41w-AL1D59j2W9IbpBMVrJH0xHRw-XG0PYU3fXnAbqjjvnkNcQoSSGY'
+MINIMAX_MODEL = 'MiniMax-M2.5'
 
-def _load_company_patterns() -> list:
-    cp_file = SKILL_DIR / "company_patterns.py"
-    ns = {}
-    exec(cp_file.read_text(encoding="utf-8"), {}, ns)
-    return ns.get("COMPANY_PATTERNS", [])
+# ========== 配置 ==========
+DEFAULT_CONFIG = {
+    "filter_no_link": True,  # 是否过滤无链接的数据（True=过滤，False=保留）
+}
 
+def _call_minimax(prompt, model=MINIMAX_MODEL, temperature=0.1, max_tokens=8000, max_retries=5):
+    import urllib.request, time
+    api_url = 'https://api.minimax.chat/v1/text/chatcompletion_v2'
+    body = {'model': model, 'messages': [{'role': 'user', 'content': prompt}], 'temperature': temperature, 'max_tokens': max_tokens}
+    last_err = None
+    for attempt in range(max_retries):
+        try:
+            req = urllib.request.Request(api_url, data=json.dumps(body, ensure_ascii=False).encode('utf-8'), headers={'Content-Type': 'application/json', 'Authorization': 'Bearer ' + MINIMAX_API_KEY}, method='POST')
+            with urllib.request.urlopen(req, timeout=300) as resp:
+                rd = json.loads(resp.read().decode('utf-8'))
+                choices = rd.get('choices', [{}])
+                content = choices[0].get('message', {}).get('content', '')
+                if content: return content
+                last_err = 'empty response'
+        except Exception as e:
+            last_err = str(e)
+            if attempt < max_retries - 1:
+                wait = 2 ** attempt
+                print(f'      [warn] 调用失败({attempt+1}/{max_retries})，等{wait}s: {last_err}')
+                time.sleep(wait)
+    print(f'      [error] MiniMax调用最终失败: {last_err}')
+    return ''
 
-# ---- 数据结构 ----
 class DailyItem:
-    """兼容日报 JSON 格式的轻量数据结构"""
-    __slots__ = ("title", "desc", "link", "source", "time_ago", "category",
-                 "summary", "content", "extra")
+    __slots__ = ('title', 'desc', 'link', 'source', 'time_ago', 'category', 'summary', 'content', 'extra')
+    def __init__(self, d):
+        self.title = d.get('title', '').strip()
+        self.desc = d.get('desc', '')
+        self.link = d.get('link', '')
+        self.source = d.get('source', '')
+        self.time_ago = d.get('time_ago', '')
+        self.category = d.get('category', '')
+        self.summary = d.get('summary', '')
+        self.content = d.get('content', '')
+        self.extra = d.get('extra', {})
 
-    def __init__(self, d: dict):
-        self.title = d.get("title", "").strip()
-        self.desc = d.get("desc", "")
-        self.link = d.get("link", "")
-        self.source = d.get("source", "")
-        self.time_ago = d.get("time_ago", "")
-        self.category = d.get("category", "")
-        self.summary = d.get("summary", "")
-        self.content = d.get("content", "")
-        self.extra: dict = d.get("extra", {})
-
-    def to_dict(self) -> dict:
-        return {k: getattr(self, k) for k in self.__slots__}
-
-
-# ---- 数据加载 ----
-def load_week_data(days: int = 7) -> Tuple[List[DailyItem], List[str]]:
-    """加载过去 N 天的日报 JSON，返回 (items, loaded_date_strs)"""
+# ========== Step 1: 从数据库读取日报数据 ==========
+def load_week_data_from_db(days=7):
+    """从 MonitorDB 数据库读取本周日报数据。
+    数据来源：
+    - 每天选取所有 status=success 且 total_output>0 的 DailyRun
+    - 从 RawNews 表读取 filtered_by IS NULL 的记录
+    - 按原始标题精确去重，跨 run 跨天重复的只保留一条
+    """
+    try:
+        import sqlite3
+    except ImportError:
+        print('[error] sqlite3 未安装')
+        return [], []
+    
     today = datetime.now().date()
-    items_map: Dict[str, DailyItem] = {}
-    loaded_dates = []
-
+    seen_titles, all_items, loaded = set(), [], []
+    
+    db_dir = os.path.dirname(MONITOR_DB_PATH)
+    if db_dir:
+        os.makedirs(db_dir, exist_ok=True)
+    
+    try:
+        conn = sqlite3.connect(MONITOR_DB_PATH)
+        conn.row_factory = sqlite3.Row
+        cursor = conn.cursor()
+    except Exception as e:
+        print(f'[error] 无法连接数据库: {e}')
+        return [], []
+    
     for i in range(days):
         date = today - timedelta(days=i)
-        json_file = SCRIPTS_DIR / "output" / f"news_{date.strftime('%Y%m%d')}.json"
-        if not json_file.exists():
+        date_str = date.strftime('%Y%m%d')
+        
+        cursor.execute("""
+            SELECT id, total_output FROM daily_runs
+            WHERE date = ? AND status = 'success' AND total_output > 0
+            ORDER BY id DESC
+        """, (date_str,))
+        runs = cursor.fetchall()
+        
+        if not runs:
+            print(f'   [db] {date_str}: 无成功运行，跳过')
             continue
-        try:
-            data = json.loads(json_file.read_text(encoding="utf-8"))
-            loaded_dates.append(date.strftime("%m/%d"))
-            for d in data:
-                title = d.get("title", "").strip()
-                if title and title not in items_map:
-                    items_map[title] = DailyItem(d)
-        except Exception as e:
-            print(f"   ⚠️  读取 {json_file.name} 失败: {e}")
-
-    return list(items_map.values()), loaded_dates
-
-
-# ---- 评分引擎 ----
-def _extract_company(title: str, patterns: list) -> str:
-    for p, company in patterns:
-        try:
-            if re.search(p, title, re.I):
-                return company
-        except re.error:
+        
+        run_ids = [r['id'] for r in runs]
+        placeholders = ','.join(['?'] * len(run_ids))
+        
+        cursor.execute(f"""
+            SELECT title, link, source, time_ago, desc, raw_extra, run_id
+            FROM raw_news
+            WHERE run_id IN ({placeholders}) AND filtered_by IS NULL
+        """, run_ids)
+        
+        rows = cursor.fetchall()
+        if not rows:
+            print(f'   [db] {date_str}: {len(run_ids)}个run均无通过数据，跳过')
             continue
-    return "Other"
+        
+        date_added = 0
+        for r in rows:
+            title = (r['title'] or '').strip()
+            if not title or title in seen_titles:
+                continue
+            seen_titles.add(title)
+            extra = {}
+            try:
+                extra = json.loads(r['raw_extra'] or '{}')
+            except:
+                pass
+            item = DailyItem({
+                'title': title,
+                'desc': r['desc'] or '',
+                'link': r['link'] or '',
+                'source': r['source'] or '',
+                'time_ago': r['time_ago'] or '',
+                'category': '',
+                'summary': '',
+                'content': '',
+                'extra': extra,
+            })
+            all_items.append(item)
+            date_added += 1
+        
+        loaded.append(date.strftime('%Y-%m-%d'))
+        print(f'   [db] {date_str}: {len(run_ids)}个run, DB记录{len(rows)}条, 去重后新增{date_added}条')
+    
+    conn.close()
+    return all_items, loaded
 
 
-def _extract_domain(title: str) -> str:
-    t = title.lower()
-    if any(kw in t for kw in ["大模型","llm","gpt","claude","gemini","llama","qwen","通义","文心","混元","盘古","glm","deepseek","kimi"]):
-        return "大模型"
-    if any(kw in t for kw in ["芯片","算力","gpu","npu","tpu","h100","a100","cuda","ai芯片","推理芯片"]):
-        return "AI基础设施"
-    if any(kw in t for kw in ["手机","电脑","平板","穿戴","机器人","电动车","新能源","iphone"]):
-        return "智能硬件"
-    if any(kw in t for kw in ["arxiv","论文","顶会","学术","acl","cvpr","nips"]):
-        return "学术研究"
-    return "其他"
+def load_week_data(days=7):
+    """兼容接口：优先从数据库读取"""
+    items, loaded = load_week_data_from_db(days)
+    if loaded:
+        print(f'   [db] 从数据库加载 {len(items)} 条（日期: {loaded}）')
+        return items, loaded
+    print('   [warn] 数据库无数据')
+    return [], []
 
-
-def _calc_keyword(title: str, cfg: dict) -> Tuple[int, float]:
-    t = title.lower()
-    score = 0
-    for cat, kws in cfg["KEYWORD_WEIGHTS"].items():
-        w = cfg["KEYWORD_WEIGHT_SCORES"][cat]
-        if any(kw.lower() in t for kw in kws):
-            score += w
-    score = min(score, cfg["KEYWORD_SCORE_CAP"])
-    hv_mult = 2.0 if any(kw.lower() in t for kw in cfg["HIGH_VALUE_KEYWORDS"]) else 1.0
-    return score, hv_mult
-
-
-def _calc_summary(item: DailyItem, cfg: dict) -> int:
-    desc = (item.summary or item.desc or "").strip()
-    if len(desc) < cfg["SUMMARY_QUALITY_THRESHOLD"]:
-        return cfg["SUMMARY_QUALITY_SCORES"]["low"]
-    if any(p in desc.lower() for p in cfg["LOW_QUALITY_DESC_PATTERNS"]):
-        return cfg["SUMMARY_QUALITY_SCORES"]["low"]
-    if len(desc) < 50:
-        return cfg["SUMMARY_QUALITY_SCORES"]["medium"]
-    return cfg["SUMMARY_QUALITY_SCORES"]["high"]
-
-
-def _is_high_value(title: str, cfg: dict) -> bool:
-    t = title.lower()
-    return any(kw.lower() in t for kw in cfg["HIGH_VALUE_KEYWORDS"])
-
-
-def run_scoring(items: List[DailyItem], cfg: dict, patterns: list,
-                 skip_sources: set = None, *, skip_buckets: bool = False) -> Tuple[List[DailyItem], dict]:
-    """
-    在内存中对新闻评分、桶限制。
-    返回 (passed_items, demoted_record)
-    """
-    if skip_sources is None:
-        skip_sources = {"huggingface", "github", "openrouter"}
-
-    # 过滤 skip_sources
-    original = len(items)
-    items = [it for it in items if it.source not in skip_sources]
-    if original != len(items):
-        print(f"   ⏭️ 过滤 skip_sources={skip_sources}，{original}条 -> {len(items)}条")
-
-    # ---- BGE 语义去重 ----
-    demoted_by_dedup: List[dict] = []
+# ========== Step 2: BGE 去重 ==========
+def run_bge_dedup(items, thresh=0.75):
+    # 检查本地是否有缓存的模型
+    import os
+    cache_dir = os.path.expanduser('~/.cache/huggingface/hub/models--BAAI--bge-small-zh-v1.5')
+    if not os.path.exists(cache_dir):
+        print('[warn] BGE模型未缓存，跳过BGE去重')
+        return items
+    # 设置离线模式，只用本地缓存不联网验证
+    os.environ['HF_HUB_OFFLINE'] = '1'
     try:
-        import os
-        os.environ.setdefault("HF_ENDPOINT", "https://hf-mirror.com")
         from sentence_transformers import SentenceTransformer
-        import numpy as np
-
-        if len(items) > 1:
-            print(f"   🔄 BGE语义去重 ({len(items)}条)...", flush=True)
-            model = SentenceTransformer("BAAI/bge-small-zh-v1.5")
-            titles = [it.title for it in items]
-            embeddings = model.encode(titles, convert_to_numpy=True)
-            title_to_idx = {it.title: i for i, it in enumerate(items)}
-
-            unique_items: List[DailyItem] = []
-            for i, item in enumerate(items):
-                emb = embeddings[i]
-                is_dup = False
-                dup_simi = 0.0
-                dup_kept = ""
-                threshold = (cfg["HIGH_VALUE_DEDUP_THRESHOLD"] if _is_high_value(item.title, cfg)
-                             else cfg["DEDUP_THRESHOLD"])
-                for u_item in unique_items:
-                    u_emb = embeddings[title_to_idx[u_item.title]]
-                    sim = float(np.dot(emb, u_emb) / (np.linalg.norm(emb) * np.linalg.norm(u_emb)))
-                    if sim > threshold:
-                        is_dup = True
-                        dup_simi = sim
-                        dup_kept = u_item.title
-                        break
-                if is_dup:
-                    demoted_by_dedup.append({
-                        "title": item.title,
-                        "company": _extract_company(item.title, patterns),
-                        "similarity": round(dup_simi, 3),
-                        "kept_title": dup_kept,
-                        "reason": "bge_dedup_similarity_exceeded",
-                    })
-                else:
-                    unique_items.append(item)
-
-            removed = len(items) - len(unique_items)
-            print(f"   ✅ BGE去重: {len(items)}条 -> {len(unique_items)}条 (移除{removed}条)")
-            items = unique_items
+        import concurrent.futures
+        def load_model():
+            return SentenceTransformer('BAAI/bge-small-zh-v1.5')
+        with concurrent.futures.ThreadPoolExecutor(max_workers=1) as executor:
+            future = executor.submit(load_model)
+            try:
+                model = future.result(timeout=30)
+                print('[info] BGE模型加载成功')
+            except concurrent.futures.TimeoutError:
+                print('[warn] BGE模型加载超时，跳过BGE去重')
+                return items
     except Exception as e:
-        print(f"   ⚠️ BGE去重不可用: {e}，跳过")
+        print(f'[warn] BGE加载失败: {e}，跳过BGE去重')
+        return items
+    skip = {'github', 'huggingface', 'openrouter'}
+    to_emb, idx_map = [], []
+    for i, it in enumerate(items):
+        if (it.source or '').strip().lower() not in skip:
+            to_emb.append(it.title)
+            idx_map.append(i)
+    if not to_emb:
+        return items
+    print(f'[info] 向量化 {len(to_emb)} 条...')
+    vecs = model.encode(to_emb, normalize_embeddings=True, batch_size=64)
+    kept = set(range(len(items)))
+    for i in range(len(vecs)):
+        for j in range(i+1, len(vecs)):
+            if float(vecs[i] @ vecs[j]) > thresh:
+                rj = idx_map[j]
+                if rj in kept:
+                    kept.remove(rj)
+    result = [items[i] for i in sorted(kept)]
+    removed = len(items) - len(result)
+    if removed > 0:
+        print(f'[dedup] BGE移除 {removed} 条（剩 {len(result)} 条）')
+    return result
 
-    # ---- 评分 ----
-    scored: List[tuple] = []  # (item, score, company, domain)
-    for item in items:
-        kw_score, hv_mult = _calc_keyword(item.title, cfg)
-        summary_score = _calc_summary(item, cfg)
-        src_mult = cfg["SOURCE_MULTIPLIERS"].get(item.source, cfg["DEFAULT_SOURCE_MULTIPLIER"])
-        final = (kw_score * hv_mult + summary_score) * src_mult
-        company = _extract_company(item.title, patterns)
-        domain = _extract_domain(item.title)
-        scored.append((item, final, company, domain))
+# ========== LLM 精选 Prompt ==========
+LLM_USER_PROMPT = (
+    '你是一位资深的中国AI行业分析师，正在为国内读者制作一份AI领域每周重要资讯精选。\n\n'
+    '# 任务目标\n'
+    '从提供的本周AI资讯列表中，精选出最重要的20条资讯，分为「国内AI资讯」和「国外AI资讯」两组，各10条。\n\n'
+    '# 核心概念严格定义\n\n'
+    '## 什么是「国内AI资讯」\n'
+    '满足以下任一条件即为国内资讯：\n'
+    '1. 事件主体是中国大陆公司（包括其海外分支/团队的行为，如字节跳动、阿里巴巴、腾讯、百度、华为、DeepSeek、月之暗面、智谱AI、百川智能、零一万物、科大讯飞，商汤、旷视、第四范式等）\n'
+    '2. 事件发生在中国大陆境内（如中国政府的政策发布、中国举办的AI大会、中国学术机构的成果）\n'
+    '3. 事件主体是华人创业者创办的，主要面向中国市场的公司\n\n'
+    '特别说明：\n'
+    '- 苹果、特斯拉、微软等外企在中国设立AI研发中心所发布的中国专属成果，归为国内资讯。\n'
+    '- 中国公司在海外发布的产品/模型，仍算国内资讯。\n'
+    '- 外国公司在中国市场的动作（如OpenAI与国内企业合作），归为国内资讯。\n\n'
+    '## 什么是「国外AI资讯」\n'
+    '国内资讯以外的所有资讯，即为国外资讯。主要包括：\n'
+    '1. 事件主体是海外公司（OpenAI、Anthropic、Google DeepMind、Meta AI、Microsoft AI、Amazon、Apple、Mistral、Stability AI等）\n'
+    '2. 事件发生在海外的AI政策、学术成果、行业动态\n'
+    '3. 国际组织（如联合国、欧盟）发布的AI相关法规/报告\n\n'
+    '## 边界案例处理规则\n'
+    '遇到难以判断的，按以下优先级判定：\n'
+    '- 观察事件最直接影响的市场。如果主要影响中国市场，归国内；主要影响海外/全球，归国外。\n'
+    '- 如果事件同时涉及国内和国外主体，以主导方为准。若分不清主导方，则看谁对外发布了这个消息。\n'
+    '- 如果仍然无法判断，归入国内资讯（宁可国内多一条）。\n\n'
+    '# 重要性评估标准\n\n'
+    'S级（重大突发/里程碑）：\n'
+    '- 头部公司重大模型发布或能力质变（如GPT-5、Claude 4、Gemini 3、通义千问3.0等）\n'
+    '- 改变行业格局的并购/投资（金额超10亿美元级别）\n'
+    '- 国家级重大政策发布（如中国AI法出台、美国AI行政令）\n\n'
+    'A级（重要进展/显著影响）：\n'
+    '- 一线厂商的重要产品更新、开源、价格调整\n'
+    '- 核心技术突破（如芯片、对齐、多模态等方向）\n'
+    '- 知名AI公司重大人事变动、组织架构调整\n'
+    '- 亿级美元融资、IPO、关键财报\n'
+    '- 国家级政策征求意见稿、重要监管动作\n\n'
+    'B级（值得关注/局部影响）：\n'
+    '- 非头部但有一定影响力的公司发布新品\n'
+    '- 行业报告、重要论文、基准测试结果\n'
+    '- 新的应用落地案例、重要合作签约\n'
+    '- 千万级美元融资\n\n'
+    'C级（一般动态，不纳入精选）：\n'
+    '- 常规版本小更新、博客文章、观点评论\n'
+    '- 小型合作、一般性行业活动\n'
+    '- 规模较小的融资或常规人事变动\n\n'
+    '# 操作流程\n\n'
+    '1. 扫描与初筛：快速扫描全部资讯，剔除C级资讯，保留S/A/B级。\n\n'
+    '2. 合并与去重（关键步骤）：\n'
+    '   - 事件去重：对于多家媒体报道的同一个核心事件，必须合并为一条资讯。\n'
+    '   - 主题合并：识别出信息碎片中的逻辑关联，凡是围绕同一事件或同一主题的连续报道、进展、不同角度的解读，都应合并成一条综合资讯。\n'
+    '   - 正确做法：在合并后的摘要中，按时间线或逻辑顺序，概述核心进展。标题提炼出该事件最重要的结论。\n'
+    '   - 错误做法：把两条互不相关的独立事件合并。\n\n'
+    '3. 分级与初步排序：在合并后的资讯中，先按 S > A > B 排序，同级别内按影响力大小排序。\n\n'
+    '4. 多样性调整：\n'
+    '   - 主体均衡：在最终的Top10列表中，同一个主体出现的独条资讯数，原则上不超过2条。\n'
+    '   - 例外条件：只有当同一主体的第3条资讯的重要性评级，明显高于被它挤掉的其他主体资讯，才允许例外。\n\n'
+    '5. 配额分配：\n'
+    '   - 从国内资讯中选出最重要的10条。\n'
+    '   - 从国外资讯中选出最重要的10条。\n'
+    '   - 如果某区域高质量资讯不足10条，可补入C级资讯；仍不足则宁可少选。\n\n'
+    '# 输出格式要求\n'
+    '请只输出下面这个JSON结构，不要包含任何解释，开场白或结尾语：\n\n'
+    '{\n'
+    '  "domestic_top10": [\n'
+    '    {\n'
+    '      "rank": 1,\n'
+    '      "title": "精炼后的中文标题（直击要点，不超过30字）",\n'
+    '      "summary": "综合摘要，包含核心事实和数据，不超过200字。",\n'
+    '      "date": "2026-04-20",\n'
+    '      "importance": "S/A/B",\n'
+    '      "tags": ["大模型", "开源"],\n'
+    '      "source": "虎嗅"\n'
+    '    }\n'
+    '  ],\n'
+    '  "overseas_top10": [\n'
+    '    {\n'
+    '      "rank": 1,\n'
+    '      "title": "...",\n'
+    '      "summary": "...",\n'
+    '      "date": "2026-04-20",\n'
+    '      "importance": "S/A/B",\n'
+    '      "tags": ["..."],\n'
+    '      "source": "InfoQ"\n'
+    '    }\n'
+    '  ]\n'
+    '}\n\n'
+    '字段要求：\n'
+    '- title：重新提炼，突出核心新闻点，不要直接照抄原标题\n'
+    '- summary：用你自己的话重新组织，确保读者能快速获取关键信息\n'
+    '- date：使用资讯原始日期，格式YYYY-MM-DD\n'
+    '- importance：必须从S/A/B中选择\n'
+    '- tags：从以下列表中选择1-3个最贴切的：大模型，开源、算力、政策、融资、应用、学术、人才、其他\n\n'
+    '特别注意：\n'
+    '- 所有输出文本使用简体中文\n'
+    '- summary严格控制在150-200字之间，不允许超过200字\n'
+    '- summary必须分段，每段不超过2-3句话，段落之间用空行分隔\n'
+    '- 确保国内和国外各10条，总数恰好20条\n'
+    '- 排序时，#1是最重要的\n'
+    '- 不要输出任何JSON以外的内容\n\n'
+    '# 本周资讯列表\n'
+    '__NEWS_TEXT__'
+)
 
-    # 降序
-    scored.sort(key=lambda x: x[1], reverse=True)
-
-    if skip_buckets:
-        # 不做桶限制，返回所有通过去重的项目
-        demoted_record = {
-            "by_bucket_limit": [],
-            "by_dedup": demoted_by_dedup,
-        }
-        return [item for item, _, _, _ in scored], demoted_record
-
-    # ---- 桶限制 ----
-    company_limit = cfg["BUCKET_LIMITS"]["company"]
-    domain_limit = cfg["BUCKET_LIMITS"]["domain"]
-    company_counts: Dict[str, int] = {}
-    domain_counts: Dict[str, int] = {}
-    passed: List[tuple] = []
-    demoted_by_bucket: List[dict] = []
-
-    for item, score, company, domain in scored:
-        if company_counts.get(company, 0) >= company_limit:
-            demoted_by_bucket.append({
-                "title": item.title, "company": company, "domain": domain,
-                "score": round(score, 2), "reason": "company_limit_exceeded",
-            })
-            continue
-        if domain_counts.get(domain, 0) >= domain_limit:
-            demoted_by_bucket.append({
-                "title": item.title, "company": company, "domain": domain,
-                "score": round(score, 2), "reason": "domain_limit_exceeded",
-            })
-            continue
-        company_counts[company] = company_counts.get(company, 0) + 1
-        domain_counts[domain] = domain_counts.get(domain, 0) + 1
-        passed.append((item, score, company, domain))
-
-    total_demoted = len(demoted_by_bucket) + len(demoted_by_dedup)
-    print(f"   📊 桶限制: {len(scored)}条 -> {len(passed)}条 "
-          f"(桶限制{len(demoted_by_bucket)}条 / 去重{len(demoted_by_dedup)}条)")
-
-    demoted_record = {
-        "by_bucket_limit": demoted_by_bucket,
-        "by_dedup": demoted_by_dedup,
-    }
-    return [item for item, _, _, _ in passed], demoted_record
-
-
-# ---- 周报分类 ----
-def _apply_buckets_separate(domestic_items, international_items, cfg, patterns):
-    """
-    对国内/国际两组分别做评分 + 桶限制。
-    返回 (dom_passed, dom_demoted, int_passed, int_demoted, combined_demoted)
-    """
-    import re
-    KWW = cfg["KEYWORD_WEIGHTS"]
-    KWWS = cfg["KEYWORD_WEIGHT_SCORES"]
-    HV = cfg["HIGH_VALUE_KEYWORDS"]
-    cl = cfg["BUCKET_LIMITS"]["company"]
-    dl = cfg["BUCKET_LIMITS"]["domain"]
-
-    def score_item(title):
-        t = title.lower()
-        kw = sum(KWWS[cat] for cat, kws in KWW.items() if any(k.lower() in t for k in kws))
-        kw = min(kw, 40)
-        hv = 2.0 if any(k.lower() in t for k in HV) else 1.0
-        return kw * hv
-
-    def extract_domain(title):
-        t = title.lower()
-        if any(kw in t for kw in ["大模型","llm","gpt","claude","gemini","llama","qwen","通义","文心","混元","盘古","glm","deepseek","kimi"]): return "大模型"
-        if any(kw in t for kw in ["芯片","算力","gpu","npu","tpu","h100","a100","cuda","ai芯片","推理芯片"]): return "AI基础设施"
-        if any(kw in t for kw in ["手机","电脑","平板","穿戴","机器人","电动车","新能源","iphone"]): return "智能硬件"
-        if any(kw in t for kw in ["arxiv","论文","顶会","学术","acl","cvpr","nips"]): return "学术研究"
-        return "其他"
-
-    def apply_buckets(items):
-        scored = [(it, score_item(it.title), extract_domain(it.title)) for it in items]
-        scored.sort(key=lambda x: x[1], reverse=True)
-        cc = {}; dc = {}; passed = []; demoted = []
-        for it, score, domain in scored:
-            co = _extract_company_fast(it.title, patterns)
-            if cc.get(co, 0) >= cl:
-                demoted.append({"title": it.title, "company": co, "domain": domain, "score": round(score, 2), "reason": "company_limit_exceeded"})
-                continue
-            if dc.get(domain, 0) >= dl:
-                demoted.append({"title": it.title, "company": co, "domain": domain, "score": round(score, 2), "reason": "domain_limit_exceeded"})
-                continue
-            cc[co] = cc.get(co, 0) + 1
-            dc[domain] = dc.get(domain, 0) + 1
-            passed.append(it)
-        return passed, demoted
-
-    dom_passed, dom_demo = apply_buckets(domestic_items)
-    int_passed, int_demo = apply_buckets(international_items)
-    combined = dom_demo + int_demo
-    return dom_passed, dom_demo, int_passed, int_demo, combined
-
-
-def _extract_company_fast(title, patterns):
-    import re
-    for p, c in patterns:
+# ========== Step 3: LLM 精选 ==========
+def call_llm_classify_and_filter(items, week_start, week_end):
+    print('   [llm] 调用MiniMax-M2.5...')
+    news_lines = []
+    for it in items:
+        date = it.time_ago or ''
+        src = it.source or ''
+        body = (it.summary or it.desc or '').strip()
+        news_lines.append('[' + date + '] ' + src + ' | ' + it.title + ' | ' + body)
+    news_text = '\n'.join(news_lines)
+    prompt = LLM_USER_PROMPT.replace('__NEWS_TEXT__', news_text)
+    est = len(prompt) // 2
+    print(f'   [info] 输入约 {est} tokens')
+    if est > 180000:
+        print('   [warn] 输入超出，截断...')
+        prompt = prompt[: 270000]
+    for call_att in range(3):
         try:
-            if re.search(p, title, re.I): return c
-        except re.error: continue
-    return "Other"
-
-
-def split_domestic_international(items: List[DailyItem]) -> Tuple[List[DailyItem], List[DailyItem]]:
-    """按分类/来源拆分国内/国外（大小写不敏感）"""
-    domestic_keywords = ["阿里", "腾讯", "百度", "字节", "华为", "小米", "荣耀", "OPPO", "Vivo",
-                         "商汤", "旷视", "云从", "科大讯飞", "智谱", "月之暗面", "深度求索",
-                         "零一万物", "阶跃星辰", "面壁", "硅基流动", "海螺", "MiniMax",
-                         "中国移动", "中国电信", "联通", "国家电网", "清华", "北大", "中科院",
-                         "国产", "国内", "中国", "特斯拉", "小马智行", "美团", "京东", "腾讯云", "智元",
-                         "PPIO", "出门问问", "晓多科技", "百分点", "九章云极", "中科闻歌", "澜舟科技"]
-    international_keywords = ["Google", "OpenAI", "Anthropic", "Meta", "Microsoft", "Apple",
-                             "Amazon", "Nvidia", "Intel", "AMD", "Qualcomm", "TSMC", "xAI",
-                             "Mistral", "Stability AI", "Hugging Face", "Perplexity", "Midjourney",
-                             "Runway", "Cohere", "Character.AI", "ElevenLabs", "Canva", "Samsung",
-                             "Gemini", "GPT", "Claude", "Llama", "LLaMA", "ChatGPT", "Copilot",
-                             "A4X", "L40S", "CVPR", "NeurIPS", "ICML", "ACL", "Waymo",
-                             "CoreWeave", "Coinbase", "Cadence", "IDC", "Gartner", "Yann LeCun", "Garry"]
-    domestic_srcs = {"huxiu", "量子位", "机器之心", "虎嗅", "qbitai"}
-    international_srcs = {"infoq", "github", "huggingface", "openrouter"}
-
-    domestic, international = [], []
-    for item in items:
-        src = item.source or ""
-        title = item.title or ""
-        title_lower = title.lower()
-        cat = item.category or ""
-
-        # 英文来源 → 国际
-        if src in international_srcs:
-            international.append(item)
-            continue
-
-        # international 关键词优先（大小写不敏感）
-        if any(kw.lower() in title_lower for kw in international_keywords):
-            international.append(item)
-            continue
-
-        # domestic 关键词（大小写不敏感）
-        if any(kw.lower() in title_lower for kw in domestic_keywords):
-            domestic.append(item)
-            continue
-
-        # 中文来源 → 国内
-        if src in domestic_srcs:
-            domestic.append(item)
-            continue
-
-        # 都匹配不上：看分类
-        (domestic if "国内" in cat or "中国" in cat else international).append(item)
-
-    return domestic, international
-
-def _generate_weekly_insight(domestic, international) -> str:
-    """用 MiniMax 生成本周洞察（200-300字）"""
-    import requests
-
-    _MINIMAX_KEY = "sk-cp-wTF01lPxZSg5kglem92SZUPwYthfQoAwvNa74N8ZySxN4TxPD0gnlNRt-eAMjtng41w-AL1D59j2W9IbpBMVrJH0xHRw-XG0PYU3fXnAbqjjvnkNcQoSSGY"
-    _MINIMAX_URL = "https://api.minimax.chat/v1/chat/completions"
-
-    # 取最高分的国内3条 + 国际3条
-    all_items = domestic[:3] + international[:3]
-    news_text = ""
-    for i, item in enumerate(all_items, 1):
-        title = item.title.strip()
-        desc = (item.summary or item.desc or "").strip()
-        news_text += f"{i}. {title}\n"
-        if desc:
-            news_text += f"   {desc[:100]}\n"
-
-    prompt = f"""你是科技行业分析师。请根据以下本周重点新闻，写一段150字的精炼洞察（不超过150字）。
-
-## 本周重点新闻
-{news_text}
-
-要求：
-- 总结1-2个最值得关注的核心趋势
-- 结合国内外动态横向对比
-- 洞察要有观点，不要流水账
-- 控制在150字以内"""
-
-    headers = {
-        "Authorization": f"Bearer {_MINIMAX_KEY}",
-        "Content-Type": "application/json",
-    }
-    payload = {
-        "model": "MiniMax-M2.5",
-        "messages": [{"role": "user", "content": prompt}],
-        "max_tokens": 350,
-        "temperature": 0.7,
-    }
-
-    try:
-        resp = requests.post(_MINIMAX_URL, headers=headers, json=payload, timeout=60)
-        result = resp.json()
-        content = result.get("choices", [{}])[0].get("message", {}).get("content", "")
-        if content:
-            # 去掉思考痕迹（MiniMax 模型可能在输出中包含思考标记）
-            content = content.strip()
-            # 去掉思考痕迹
-            if content.startswith("<think>"):
-                content = content.split("</think>", 1)[-1].strip()
-            # 去掉 "洞察：" / "**洞察：**" 等前缀
-            for prefix in ["**洞察：**", "**洞察：**", "洞察：", "洞察:", "本周洞察：", "本周洞察:"]:
-                if content.startswith(prefix):
-                    content = content[len(prefix):].strip()
+            response = _call_minimax(prompt, model=MINIMAX_MODEL, temperature=0.1, max_tokens=16000)
+            if not response:
+                if call_att < 2:
+                    print(f'   [warn] 空响应，{call_att+1}/3 重试...')
+                    continue
+                break
+            for pa in range(3):
+                try:
+                    m = re.search(r'\{[\s\S]*\}', response)
+                    raw = m.group() if m else response
+                    result = json.loads(raw)
                     break
-            if content:
-                print(f"   ✅ 本周洞察生成成功 ({len(content)}字)")
-                return content
+                except json.JSONDecodeError:
+                    if pa < 2:
+                        print(f'   [warn] JSON截断，{pa+1}/3 重试...')
+                        response = _call_minimax(prompt, model=MINIMAX_MODEL, temperature=0.1, max_tokens=16000)
+                        if not response:
+                            break
+                    else:
+                        raise
+            domestic = result.get('domestic_top10', [])
+            overseas = result.get('overseas_top10', [])
+            if not domestic:
+                domestic = result.get('国内', [])
+            if not overseas:
+                overseas = result.get('国外', [])
+            print(f'   [ok] 国内 {len(domestic)} 条 | 国外 {len(overseas)} 条')
+            return {'domestic_top10': domestic, 'overseas_top10': overseas, 'raw_remaining': len(items)}
+        except Exception as e:
+            if call_att < 2:
+                print(f'   [warn] 调用异常，{call_att+1}/3 重试: {e}')
+                continue
+            print(f'   [error] LLM最终失败: {e}')
+            return {'domestic_top10': [], 'overseas_top10': [], 'raw_remaining': len(items)}
+    return {'domestic_top10': [], 'overseas_top10': [], 'raw_remaining': len(items)}
+
+# ========== Step 4: LLM 洞察 ==========
+def _insight(domestic, international):
+    def top(items, n=10):
+        order = {'S': 0, 'A': 1, 'B': 2}
+        return sorted(items, key=lambda x: order.get(x.get('importance', 'B'), 2))[:n]
+    dp = top(domestic, 10)
+    ip = top(international, 10)
+    lines = []
+    for d in dp:
+        t = d.get('title', '')
+        su = d.get('summary', d.get('desc', ''))
+        if su:
+            lines.append('[国内]' + t + '。' + su[:250])
         else:
-            print(f"   ⚠️ MiniMax返回为空: {result}")
-    except Exception as e:
-        print(f"   ❌ 洞察生成失败: {e}")
-    return "本周AI领域继续保持高速发展，更多详情见正文。"
+            lines.append('[国内]' + t)
+    for d in ip:
+        t = d.get('title', '')
+        su = d.get('summary', d.get('desc', ''))
+        if su:
+            lines.append('[国外]' + t + '。' + su[:250])
+        else:
+            lines.append('[国外]' + t)
+    if not lines:
+        return '本周AI领域继续保持高速发展，更多详情见正文。'
+    ctx = '\n'.join(lines)
 
+    header = (
+        '你是一位资深的中国AI行业分析师，正在为国内读者撰写本周AI洞察。\n'
+        '我会提供给你本周最重要的20条AI资讯（10条国内 + 10条国外），每条资讯包含标题和摘要。\n'
+        '请仔细阅读并消化这些资讯，然后起笔写一段有深度、有因果串联的洞察分析，直接输出正文，不要任何标题、前缀或结束语。\n\n'
+        '写一段280-320字的洞察分析。直接输出正文，不要任何标题、前缀或结束语。\n\n'
+        '【分段要求】输出必须分成3段，每段之间用空行分隔：\n'
+        '  - 第1段：【核心事件】点名1-2个本周最重要的具体事件，带上公司名、技术名或产品名\n'
+        '  - 第2段：【趋势观察】提炼1-2个跨公司的行业趋势或信号\n'
+        '  - 第3段：【深层思考】分析原因、预测影响、指出风险或机会\n\n'
+        '在撰写时，请严格遵循以下三个维度：\n\n'
+        '【核心事件】点名2-3个本周最重要的具体事件，必须带上具体的公司名、技术名或产品名。\n'
+        '不要只停留在"大模型竞争加剧"这种抽象描述。\n\n'
+        '【趋势观察】从事件中提炼出1-2个跨公司的、值得关注的行业趋势或信号。\n\n'
+        '【深层思考】分析事件背后的原因，预测可能的影响，或指出隐藏的风险和机会。\n\n'
+        '写作风格：像资深分析师和朋友聊天一样，自然平实，不写八股文。\n'
+        '要有因果串联，不能是新闻的机械拼接。\n'
+        '字数严格控制在280-320字之间，务必精简。段落之间必须用空行分隔。\n\n'
+        '以下是本周精选资讯：\n'
+    ) + ctx
 
-def generate_weekly_html(domestic, international, week_start, week_end,
-                              hot_topics=None, insight=None) -> str:
-    """
-    生成微信公众号 HTML（完全参照日报格式）。
-    hot_topics: 本周热点标题列表（Top N）
-    insight: 本周洞察文字
-    """
-    hot_topics = hot_topics or []
-    today_str = datetime.now().strftime("%Y年%m月%d日")
+    for attempt in range(3):
+        try:
+            r = _call_minimax(header, model='MiniMax-M2.5', temperature=0.3, max_tokens=750)
+            if r and r.strip():
+                result = r.strip()
+                print(f"   [insight] 尝试{attempt+1}输出 {len(result)} 字")
+                if len(result) >= 280:
+                    return result
+                if attempt == 2:
+                    return result
+        except Exception as e:
+            print(f"   [insight] 调用失败: {e}")
+            break
+    return '本周AI领域继续保持高速发展，更多详情见正文。'
 
-    sections = []
+# ========== 辅助函数 ==========
+def _get_title_unsafe(x):
+    if isinstance(x, dict):
+        return x.get('title', '') or ''
+    return getattr(x, 'title', '') or ''
 
-    # ===== 🔥 本周热点 =====（复用日报的今日热点样式）
-    if hot_topics:
-        sections.append(
-            '<h2 style="color:#ff4d4f;font-weight:bold;font-size:20px;margin-top:20px;margin-bottom:10px;">🔥 本周热点</h2>'
-        )
-        sections.append('<ul style="background:#fff5f5;padding:8px 20px;border-radius:8px;list-style:none;">')
-        for title in hot_topics:
-            sections.append(
-                f'<li style="font-size:15px;line-height:1.5;margin-bottom:5px;">• {title}</li>'
-            )
-        sections.append('</ul>')
+def _get_link_unsafe(x):
+    if isinstance(x, dict):
+        return x.get('link', '') or ''
+    return getattr(x, 'link', '') or ''
 
-    # ===== 🏷️ 国内AI资讯 =====
-    if domestic:
-        sections.append(
-            '<h2 style="color:#000000;font-weight:bold;font-size:19px;margin-top:20px;margin-bottom:10px;">🏷️ 国内AI资讯</h2>'
-        )
-        for item in domestic:
-            title = item.title.strip()
-            desc = (item.summary or item.desc or "").strip()
-            src = item.source or ""
-            link = item.link or ""
-            sections.append(
-                f'<h3 style="color:#1890ff;font-weight:bold;font-size:17px;margin-top:15px;margin-bottom:5px;">{title}</h3>'
-            )
-            if desc:
-                sections.append(
-                    f'<p style="color:#666;font-size:15px;margin-bottom:5px;">{desc}</p>'
-                )
-            meta_parts = []
-            if src:
-                meta_parts.append(f'来源：{src}')
-            if meta_parts:
-                sections.append(
-                    f'<p style="color:#666;font-size:13px;margin-top:0;">{" | ".join(meta_parts)}</p>'
-                )
-            if link:
-                sections.append(
-                    f'<p style="color:#666;font-size:13px;margin-top:0;">原文链接：<a href="{link}" target="_blank" style="color:#1890ff;text-decoration:underline;">{link}</a></p>'
-                )
+def _fuzzy_match_links(llm_items, original_items, threshold=0.3):
+    import difflib
+    result = []
+    for litem in llm_items:
+        lt = _get_title_unsafe(litem).lower()
+        best_sim, best_link = 0, ''
+        for oit in original_items:
+            ot = _get_title_unsafe(oit).lower()
+            sim = difflib.SequenceMatcher(None, lt, ot).ratio()
+            if sim > best_sim:
+                best_sim = sim
+                best_link = _get_link_unsafe(oit)
+        item = dict(litem)
+        item['link'] = best_link if best_sim >= threshold else ''
+        result.append(item)
+    return result
 
-    # ===== 🌍 国外AI资讯 =====
-    if international:
-        sections.append(
-            '<h2 style="color:#000000;font-weight:bold;font-size:19px;margin-top:20px;margin-bottom:10px;">🌍 国外AI资讯</h2>'
-        )
-        for item in international:
-            title = item.title.strip()
-            desc = (item.summary or item.desc or "").strip()
-            src = item.source or ""
-            link = item.link or ""
-            sections.append(
-                f'<h3 style="color:#1890ff;font-weight:bold;font-size:17px;margin-top:15px;margin-bottom:5px;">{title}</h3>'
-            )
-            if desc:
-                sections.append(
-                    f'<p style="color:#666;font-size:15px;margin-bottom:5px;">{desc}</p>'
-                )
-            meta_parts = []
-            if src:
-                meta_parts.append(f'来源：{src}')
-            if meta_parts:
-                sections.append(
-                    f'<p style="color:#666;font-size:13px;margin-top:0;">{" | ".join(meta_parts)}</p>'
-                )
-            if link:
-                sections.append(
-                    f'<p style="color:#666;font-size:13px;margin-top:0;">原文链接：<a href="{link}" target="_blank" style="color:#1890ff;text-decoration:underline;">{link}</a></p>'
-                )
-
-    # ===== 💡 本周洞察 =====
+# ========== 生成 HTML ==========
+def generate_html(domestic, intl, ws, we, hot, insight, github_img_url=None, hf_img_url=None):
+    s = []
+    if hot:
+        s.append('<h2 style="color:#ff4d4f;font-weight:bold;font-size:20px;margin:20px 0 10px;">🔥 本周热点</h2>')
+        s.append('<ul style="background:#fff5f5;padding:8px 20px;border-radius:8px;list-style:none;">')
+        for t in hot:
+            s.append('<li style="font-size:15px;margin-bottom:5px;">• ' + t + '</li>')
+        s.append('</ul>')
+    # 改动2：插入 GitHub + HuggingFace 趋势图
+    if github_img_url:
+        s.append('<h2 style="color:#000;font-weight:bold;font-size:19px;margin:20px 0 10px;">🔥 GitHub AI项目趋势榜</h2>')
+        s.append(f'<img src="{github_img_url}" style="width:100%;max-width:1400px;display:block;margin:10px 0;" />')
+    if hf_img_url:
+        s.append('<h2 style="color:#000;font-weight:bold;font-size:19px;margin:20px 0 10px;">🔥 HuggingFace 模型热度榜</h2>')
+        s.append(f'<img src="{hf_img_url}" style="width:100%;max-width:1400px;display:block;margin:10px 0;" />')
+    
+    def emit(items, label, emoji):
+        if not items:
+            return
+        s.append(f'<h2 style="color:#000;font-weight:bold;font-size:19px;margin:20px 0 10px;">{emoji} {label}</h2>')
+        for item in items:
+            ti = item.get('title', '')
+            su = item.get('summary', item.get('desc', ''))
+            sc = item.get('source', '')
+            da = item.get('date', item.get('time_ago', ''))
+            url = item.get('link', '')
+            s.append(f'<h3 style="color:#1890ff;font-weight:bold;font-size:17px;margin-top:15px;margin-bottom:5px;">{ti}</h3>')
+            if su:
+                s.append(f'<p style="color:#666;font-size:15px;margin-bottom:5px;">{su}</p>')
+            if da:
+                s.append(f'<p style="color:#666;font-size:13px;margin-top:0;">日期：{da}</p>')
+            if sc:
+                s.append(f'<p style="color:#666;font-size:13px;margin-top:0;">来源：{sc}</p>')
+            if url:
+                s.append(f'<p style="color:#666;font-size:13px;margin-top:0;">原文链接：<a href="{url}" target="_blank" style="color:#1890ff;text-decoration:underline;">{url}</a></p>')
+    
+    emit(domestic, '国内AI资讯', '🏷️')
+    emit(intl, '国外AI资讯', '🌍')
     if insight:
-        sections.append(
-            '<h2 style="color:#000000;font-weight:bold;font-size:19px;margin-top:20px;margin-bottom:10px;">💡 本周洞察</h2>'
+        s.append('<h2 style="color:#000;font-weight:bold;font-size:19px;margin:20px 0 10px;">💡 本周洞察</h2>')
+        s.append('<div style="background:#f6ffed;padding:15px;border-radius:8px;line-height:1.8;font-size:15px;">')
+        s.append(f'<p>{insight}</p></div>')
+    
+    srcs = sorted(set(item.get('source', '') for item in domestic + intl if item.get('source', ''))) or ['虎嗅', 'InfoQ', '量子位']
+    s.append(f'<p style="color:#999;margin-top:30px;text-align:center;font-size:13px;"><em>来源：{"、".join(srcs)} | 整理：Valkyrie</em><br>本文部分内容由AI整理生成</p>')
+    return '<!DOCTYPE html><html><body><div style="font-family:-apple-system,BlinkMacSystemFont,Roboto,sans-serif;padding:0 10px;">' + '\n'.join(s) + '</div></body></html>'
+
+# ========== 生成 Markdown ==========
+def generate_md(domestic, intl, ws, we, hot, insight):
+    today = datetime.now().strftime('%Y年%m月%d日')
+    lines = ['# AI 资讯周报', f'**{ws} - {we}** | 整理：Valkyrie', '']
+    if hot:
+        lines.extend(['## 🔥 本周热点', ''] + ['- ' + t for t in hot] + [''])
+    
+    def emit(items, label, emoji):
+        if not items:
+            return
+        lines.extend([f'## {emoji} {label}（共 {len(items)} 条）', ''])
+        for i, item in enumerate(items, 1):
+            ti = item.get('title', '')
+            su = item.get('summary', item.get('desc', ''))
+            sc = item.get('source', '')
+            da = item.get('date', item.get('time_ago', ''))
+            im = item.get('importance', '')
+            tg = item.get('tags', [])
+            lines.append(f'**{i}. {ti}**')
+            if su:
+                lines.append('   ' + su)
+            meta = []
+            if sc:
+                meta.append('来源：' + sc)
+            if da:
+                meta.append(da)
+            if im:
+                meta.append(im + '级')
+            if tg:
+                meta.append('、'.join(tg))
+            if meta:
+                lines.append('   *' + ' | '.join(meta) + '*')
+            lines.append('')
+    
+    emit(domestic, '国内AI资讯', '🏷️')
+    emit(intl, '国外AI资讯', '🌍')
+    if insight:
+        lines.extend(['## 💡 本周洞察', '', '_' + insight + '_', ''])
+    lines.extend(['', '---', f'*生成时间：{today}*'])
+    return '\n'.join(lines)
+
+# ========== 获取 GitHub/HuggingFace 数据并生成图片 ==========
+def fetch_github_and_hf_data():
+    """实时从 API 获取 GitHub 和 HuggingFace 数据，返回 items 和图片路径"""
+    sys.path.insert(0, str(Path(__file__).parent))
+    sys.path.insert(0, str(Path.home() / ".openclaw" / "workspace" / "skills" / "table-image-generator"))
+    
+    github_items = []
+    hf_items = []
+    github_img_path = None
+    hf_img_path = None
+    
+    # 获取 GitHub 数据
+    try:
+        from sources import get_source
+        github_src = get_source('github')
+        if github_src:
+            # 正确方法：collect() 不是 fetch()
+            raw = github_src.collect()
+            github_items = [item for item in raw if hasattr(item, 'source') and item.source == 'github']
+            print(f'   GitHub 获取到 {len(github_items)} 条')
+    except Exception as e:
+        print(f'   GitHub 获取失败: {e}')
+    
+    # 获取 HuggingFace 数据
+    try:
+        from sources import get_source
+        hf_src = get_source('huggingface')
+        if hf_src:
+            # 正确方法：collect() 不是 fetch()
+            raw = hf_src.collect()
+            hf_items = [item for item in raw if hasattr(item, 'source') and item.source == 'huggingface']
+            print(f'   HuggingFace 获取到 {len(hf_items)} 条')
+    except Exception as e:
+        print(f'   HuggingFace 获取失败: {e}')
+    
+    return github_items, hf_items
+
+def generate_github_table(github_items, output_dir):
+    """生成 GitHub 趋势图"""
+    sys.path.insert(0, str(Path(__file__).parent))
+    try:
+        from main import generate_github_html_table
+        if github_items:
+            img_path = generate_github_html_table(github_items, output_dir)
+            return img_path
+    except Exception as e:
+        print(f'   GitHub 图片生成失败: {e}')
+    return None
+
+def generate_hf_table(hf_items, output_dir):
+    """生成 HuggingFace 热度榜图片"""
+    try:
+        from table_image import generate_table
+        if not hf_items:
+            return None
+        
+        type_map = {
+            'text-generation': '文本生成', 'text2text-generation': '文本转换',
+            'image-text-to-text': '图文理解', 'visual-question-answering': '视觉问答',
+            'automatic-speech-recognition': '语音识别', 'text-to-speech': '语音合成',
+            'text-to-image': '文生图', 'image-classification': '图像分类',
+            'object-detection': '目标检测', 'feature-extraction': '特征提取',
+            'sentence-similarity': '句子相似度',
+        }
+        header = ['模型', '下载量', '点赞数', '类型', '更新时间']
+        rows = []
+        for i, item in enumerate(hf_items[:10], 1):
+            extra = getattr(item, 'extra', {}) or {}
+            downloads = extra.get('downloads', 0)
+            likes = extra.get('likes', 0)
+            downloads_str = f'{downloads/1000:.1f}K' if downloads >= 1000 else str(downloads)
+            likes_str = f'{likes/1000:.1f}K' if likes >= 1000 else str(likes)
+            pipeline = extra.get('pipeline_tag', '-')
+            type_cn = type_map.get(pipeline, pipeline)
+            last_modified = extra.get('last_modified', '-')
+            rows.append([getattr(item, 'title', '') or '', downloads_str, likes_str, type_cn, last_modified])
+        
+        hf_img_path = str(output_dir / 'huggingface_trending.png')
+        result = generate_table(
+            data=[header] + rows,
+            title='Hugging Face模型热度榜单',
+            width=1080, font_size=16, header_color='#1E40AF',
+            col_widths=[4, 1.5, 1.5, 1.5, 1.5], padding=15, output_path=hf_img_path
         )
-        sections.append(
-            '<div style="background:#f6ffed;padding:15px;border-radius:8px;line-height:1.8;font-size:15px;">'
-        )
-        sections.append(f'<p>{insight}</p>')
-        sections.append('</div>')
+        if result.get('success'):
+            print(f'   HuggingFace 热度榜: ✅')
+            return hf_img_path
+    except Exception as e:
+        print(f'   HuggingFace 图片生成失败: {e}')
+    return None
 
-    # ===== 来源 + footer =====
-    all_srcs = sorted(set(
-        item.source for item in domestic + international if item.source
-    ))
-    if not all_srcs:
-        all_srcs = ["虎嗅", "InfoQ", "量子位", "aibase"]
-    srcs_str = "、".join(all_srcs)
-    sections.append(
-        f'<p style="color:#999;margin-top:30px;text-align:center;font-size:13px;">'
-        f'<em>来源：{srcs_str} | 整理：Valkyrie</em></p>'
-    )
+def upload_img_to_wechat(img_path, name):
+    """上传图片到微信获取永久 URL"""
+    try:
+        import requests
+        token_resp = requests.get(
+            f"https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wxdef888862e3ecca1&secret=1483a2e68153e9cf6a5f1580e223e660",
+            timeout=10
+        ).json()
+        token = token_resp.get("access_token")
+        if not token:
+            return None
+        with open(img_path, 'rb') as f:
+            files = {'media': (f'{name}.png', f, 'image/png')}
+            r = requests.post(f"https://api.weixin.qq.com/cgi-bin/material/add_material?access_token={token}&type=image", files=files, timeout=30).json()
+        return r.get("url", "")
+    except Exception as e:
+        print(f'   {name} 图片上传失败: {e}')
+        return None
 
-    html = (
-        '<!DOCTYPE html><html><body><div style="'
-        'font-family:-apple-system,BlinkMacSystemFont,\'Segoe UI\',Roboto,sans-serif;'
-        'padding:0 10px;font-size:16px;line-height:1.6;color:#333;">'
-        + "\n".join(sections) +
-        '</div></body></html>'
-    )
-    return html
-
-
-def generate_weekly_markdown(domestic, international, demoted, week_start, week_end) -> str:
-    today = datetime.now().strftime("%Y年%m月%d日")
-    lines = [
-        f"# AI 资讯周报",
-        f"**{week_start} - {week_end}** | 整理：Valkyrie",
-        "",
-    ]
-
-    dom_display = domestic[:15]
-    intl_display = international[:15]
-
-    lines.append(f"## 🏠 国内 AI 动态（共筛选 {len(domestic)} 条，展示 Top{len(dom_display)}）")
-    lines.append("")
-    if dom_display:
-        for i, item in enumerate(dom_display, 1):
-            title = item.title.strip()
-            desc = (item.summary or item.desc or "").strip()
-            src = item.source or ""
-            link = item.link or ""
-            lines.append(f"**{i}. {title}**")
-            if desc:
-                lines.append(f"   {desc}")
-            meta_parts = []
-            if src:
-                meta_parts.append(f"来源：{src}")
-            if link:
-                meta_parts.append(f"[原文链接]({link})")
-            if meta_parts:
-                lines.append(f"   *{' | '.join(meta_parts)}*")
-            lines.append("")
-    else:
-        lines.append("_暂无数据_")
-        lines.append("")
-
-    lines.append(f"## 🌍 国际 AI 动态（共筛选 {len(international)} 条，展示 Top{len(intl_display)}）")
-    lines.append("")
-    if intl_display:
-        for i, item in enumerate(intl_display, 1):
-            title = item.title.strip()
-            desc = (item.summary or item.desc or "").strip()
-            src = item.source or ""
-            link = item.link or ""
-            lines.append(f"**{i}. {title}**")
-            if desc:
-                lines.append(f"   {desc}")
-            meta_parts = []
-            if src:
-                meta_parts.append(f"来源：{src}")
-            if link:
-                meta_parts.append(f"[原文链接]({link})")
-            if meta_parts:
-                lines.append(f"   *{' | '.join(meta_parts)}*")
-            lines.append("")
-    else:
-        lines.append("_暂无数据_")
-        lines.append("")
-
-    # 降级池摘要
-    total_demoted = len(demoted.get("by_bucket_limit", [])) + len(demoted.get("by_dedup", []))
-    if total_demoted > 0:
-        lines.append("---")
-        lines.append(f"**📦 降级池记录**（{total_demoted} 条不在正文中展示）")
-        lines.append("")
-        bl = demoted.get("by_bucket_limit", [])
-        dd = demoted.get("by_dedup", [])
-        if bl:
-            lines.append(f"- 桶限制过滤：{len(bl)} 条")
-            for d in bl[:5]:
-                lines.append(f"  - [{d['company']}] {d['title'][:40]} ({d['reason']})")
-        if dd:
-            lines.append(f"- 语义去重：{len(dd)} 条")
-            for d in dd[:3]:
-                lines.append(f"  - {d['title'][:40]} (与「{d['kept_title'][:20]}」相似度{d['similarity']})")
-
-    lines.extend(["", "---", f"*生成时间：{today}*"])
-    return "\n".join(lines)
-
-
-# ---- 主流程 ----
+# ========== Main ==========
 def main():
-    parser = argparse.ArgumentParser(description="AI资讯周报生成器")
-    parser.add_argument("--days", type=int, default=7, help="回溯天数（默认7天）")
-    parser.add_argument("--dry-run", action="store_true", help="只跑流程，不写文件")
-    parser.add_argument("--wechat", action="store_true", help="上传到微信公众号草稿箱")
-    args = parser.parse_args()
-
+    ap = argparse.ArgumentParser()
+    ap.add_argument('--days', type=int, default=7)
+    ap.add_argument('--dry-run', action='store_true')
+    ap.add_argument('--wechat', nargs='?', const='__all__', default=None,
+                        help='上传到微信公众号草稿箱。可指定账号名（逗号分隔），不指定则上传到所有已配置账号')
+    ap.add_argument('--no-filter-no-link', action='store_true', help='不过滤无链接的数据（默认会过滤）')
+    args = ap.parse_args()
+    
     today = datetime.now().date()
-    week_end = today.strftime("%Y年%m月%d日")
-    week_start = (today - timedelta(days=args.days - 1)).strftime("%Y年%m月%d日")
-
-    print("=" * 55)
-    print(f"  🤖 AI资讯周报生成器（回溯 {args.days} 天）")
-    print("=" * 55)
-    print(f"  📅 周期：{week_start} - {week_end}")
-    print()
-
-    # 加载配置
-    print("⚙️  加载评分配置...")
-    cfg = _load_scoring_config()
-    patterns = _load_company_patterns()
-    print(f"   ✅ 配置加载完成（{len(patterns)} 条公司识别规则）")
-
-    # 1. 加载数据
-    print("\n📥 加载日报数据...")
-    all_items, loaded_dates = load_week_data(days=args.days)
-    print(f"   📅 日期: {', '.join(loaded_dates) if loaded_dates else '无'}")
-    print(f"   📊 合并后: {len(all_items)} 条（按标题去重）")
-
+    week_end = today.strftime('%Y年%m月%d日')
+    week_start = (today - timedelta(days=args.days-1)).strftime('%Y年%m月%d日')
+    
+    print('=' * 60)
+    print('  [v3] AI资讯周报生成器')
+    print(f'  周期：{week_start} - {week_end}')
+    print('=' * 60)
+    
+    # Step 1: 加载日报数据
+    print('\n[1/7] 加载日报...')
+    all_items, loaded = load_week_data(days=args.days)
+    print(f'   日期: {", ".join(loaded) if loaded else "无"}')
+    print(f'   合并去重: {len(all_items)} 条')
     if not all_items:
-        print("❌ 没有找到任何日报数据，退出")
+        print('[error] 无数据')
         sys.exit(1)
-
-    # 2. 过滤无实质内容的新闻（没有 desc/summary 的条目对读者无价值）
-    contentful = []
-    for it in all_items:
-        desc = (it.summary or it.desc or "").strip()
-        if len(desc) < 10:  # 少于10字符的摘要认为是无效内容
-            continue
-        contentful.append(it)
-    removed_empty = len(all_items) - len(contentful)
-    if removed_empty > 0:
-        print(f"   ⏭️ 过滤无实质内容({removed_empty}条)，剩余{len(contentful)}条")
-    all_items = contentful
-
+    
+    # 改动1：过滤无链接数据（可配置开关）
+    filter_no_link = DEFAULT_CONFIG.get('filter_no_link', True)
+    if args.no_filter_no_link:
+        filter_no_link = False
+    if filter_no_link:
+        before_filter = len(all_items)
+        all_items = [it for it in all_items if (it.link or '').strip()]
+        filtered = before_filter - len(all_items)
+        print(f'   [filter] 无链接移除 {filtered} 条（剩 {len(all_items)} 条）')
+    else:
+        print(f'   [filter] 无链接过滤已关闭，保留 {len(all_items)} 条')
+    
+    # 过滤短内容
+    all_items = [it for it in all_items if len((it.summary or it.desc or '').strip()) >= 10]
     if not all_items:
-        print("❌ 过滤后无有效数据，退出")
+        print('[error] 过滤后无数据')
         sys.exit(1)
-
-    # 3. 评分（不做桶限制）
-    print("\n📊 评分与BGE去重...")
-    all_scored, dedup_record = run_scoring(all_items, cfg, patterns, skip_buckets=True)
-
-    if not all_scored:
-        print("❌ 评分后无有效数据，退出")
+    
+    # Step 2: 收集 GitHub + HuggingFace 数据（改动2）
+    print('\n[2/7] 收集 GitHub + HuggingFace 数据...')
+    github_items, hf_items = fetch_github_and_hf_data()
+    
+    github_img_path = None
+    hf_img_path = None
+    
+    if github_items:
+        print('   生成 GitHub 趋势图...')
+        github_img_path = generate_github_table(github_items, OUTPUT_DIR)
+        print(f'   GitHub 趋势图: {"✅" if github_img_path else "❌"}')
+    
+    if hf_items:
+        print('   生成 HuggingFace 热度榜...')
+        hf_img_path = generate_hf_table(hf_items, OUTPUT_DIR)
+    
+    # Step 3: BGE 去重
+    print('\n[3/7] BGE去重...')
+    all_items = run_bge_dedup(all_items)
+    print(f'   剩余: {len(all_items)} 条')
+    
+    # Step 4: LLM 精选
+    print('\n[4/7] LLM精选...')
+    llm = call_llm_classify_and_filter(all_items, week_start, week_end)
+    domestic, international = llm.get('domestic_top10', []), llm.get('overseas_top10', [])
+    if not domestic and not international:
+        print('[error] LLM无输出')
         sys.exit(1)
-
-    # 3. 分类（先分，再各自桶限制）
-    print("\n📂 分类 + 各自桶限制...")
-    domestic_raw, international_raw = split_domestic_international(all_scored)
-    print(f"   国内: {len(domestic_raw)} 条 | 国外: {len(international_raw)} 条")
-
-    # 各自应用桶限制
-    dom_passed, dom_demo, int_passed, int_demo, combined_demoted = \
-        _apply_buckets_separate(domestic_raw, international_raw, cfg, patterns)
-
-    print(f"   国内通过: {len(dom_passed)} 条（降级{len(dom_demo)}条）")
-    print(f"   国外通过: {len(int_passed)} 条（降级{len(int_demo)}条）")
-
-    # 合并降级记录
-    demoted_record = {
-        "by_bucket_limit": combined_demoted,
-        "by_dedup": dedup_record.get("by_dedup", []),
-    }
-
-    domestic = dom_passed
-    international = int_passed
-
-    # 4. 生成热点 + 洞察
-    print("\n🔥 生成本周热点...")
-    # 取国内+国际各最高分3条合成热点
-    hot_topics = [it.title.strip() for it in (domestic[:3] + international[:3])]
-    print(f"   热点：{hot_topics[:3]}...")
-
-    print("\n💡 生成本周洞察...")
-    insight = _generate_weekly_insight(domestic, international)
-
-    # 4. 生成周报
-    print("\n📝 生成周报...")
-    md_content = generate_weekly_markdown(domestic, international, demoted_record, week_start, week_end)
-
+    
+    # 通过标题相似度恢复原文链接
+    domestic = _fuzzy_match_links(domestic, all_items, threshold=0.3)
+    international = _fuzzy_match_links(international, all_items, threshold=0.3)
+    
+    # Step 5: 热点
+    print('\n[5/7] 热点...')
+    hot_all = sorted(domestic + international, key=lambda x: {'S':0,'A':1,'B':2}.get(x.get('importance','B'), 2))[:6]
+    hot = [it.get('title', '') for it in hot_all]
+    print(f'   {str(hot[:3])}...')
+    
+    # Step 6: 洞察
+    print('\n[6/7] 洞察...')
+    insight = _insight(domestic, international)
+    print(f'   {insight[:50]}...')
+    
+    # Step 7: 生成周报
+    print('\n[7/7] 生成周报...')
+    md = generate_md(domestic, international, week_start, week_end, hot, insight)
+    
     if args.dry_run:
-        # dry-run 也显示热点和洞察
-        print(f"   热点 Top6：")
-        for t in hot_topics:
-            print(f"     • {t}")
-        print(f"   洞察：{insight[:50]}...")
-        md_lines = md_content.split("\n")
-        print("\n📋 周报预览（前 60 行）：")
-        print("-" * 55)
-        for line in md_lines[:60]:
+        for line in md.split('\n')[:80]:
             print(line)
-        print("-" * 55)
-        print(f"\n✅ dry-run 完成（共 {len(md_lines)} 行）")
+        print('\n[ok] dry-run完成')
         return
-
-    # 5. 写文件
-    OUTPUT_DIR = SCRIPTS_DIR / "output"
+    
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    date_str = today.strftime("%Y%m%d")
-
-    md_file = OUTPUT_DIR / f"weekly_report_{date_str}.md"
-    md_file.write_text(md_content, encoding="utf-8")
-    print(f"   💾 已保存: {md_file.name}")
-
-    json_out = OUTPUT_DIR / f"weekly_scored_{date_str}.json"
-    json_content = {
-        "period": f"{week_start} - {week_end}",
-        "generated_at": datetime.now().isoformat(),
-        "domestic_count": len(domestic),
-        "international_count": len(international),
-        "domestic": [it.to_dict() for it in domestic[:15]],
-        "international": [it.to_dict() for it in international[:15]],
-        "demoted": demoted_record,
-    }
-    json_out.write_text(json.dumps(json_content, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"   💾 已保存: {json_out.name}")
-
-
-    # 6. 上传微信公众号（可选）
-    if args.wechat:
-        print("\n📤 上传微信公众号...")
+    ds = today.strftime('%Y%m%d')
+    
+    # 上传图片到微信获取永久URL
+    github_img_url = None
+    hf_img_url = None
+    if args.wechat is not None:
+        if github_img_path and Path(github_img_path).exists():
+            github_img_url = upload_img_to_wechat(github_img_path, 'github')
+            print(f'   GitHub图片: {"✅" if github_img_url else "❌"}')
+        if hf_img_path and Path(hf_img_path).exists():
+            hf_img_url = upload_img_to_wechat(hf_img_path, 'hf')
+            print(f'   HF图片: {"✅" if hf_img_url else "❌"}')
+    
+    mf = OUTPUT_DIR / ('weekly_report_' + ds + '.md')
+    mf.write_text(md, encoding='utf-8')
+    print(f'   保存: {mf.name}')
+    
+    jf = OUTPUT_DIR / ('weekly_llm_output_' + ds + '.json')
+    jf.write_text(json.dumps({
+        'period': week_start + ' - ' + week_end,
+        'generated_at': datetime.now().isoformat(),
+        'domestic_count': len(domestic),
+        'international_count': len(international),
+        'domestic': domestic,
+        'international': international
+    }, ensure_ascii=False, indent=2), encoding='utf-8')
+    print(f'   保存: {jf.name}')
+    
+    if args.wechat is not None:
         import subprocess
+        html = generate_html(domestic, international, week_start, week_end, hot, insight, github_img_url, hf_img_url)
+        hf = OUTPUT_DIR / ('weekly_report_' + ds + '.html')
+        hf.write_text(html, encoding='utf-8')
+        title = 'AI资讯周报 | ' + week_start + ' - ' + week_end
 
-        html_content = generate_weekly_html(domestic, international, week_start, week_end, hot_topics, insight)
-        title = f"AI资讯周报 | {week_start} - {week_end}"
+        # 构建 publish_weekly_wechat.py 的调用参数
+        cmd = [sys.executable, str(SCRIPTS_DIR / 'publish_weekly_wechat.py'), str(hf), title]
+        if insight:
+            cmd.extend(['--digest', insight])
 
-        # 先保存 HTML 临时文件
-        html_file = OUTPUT_DIR / f"weekly_report_{date_str}.html"
-        html_file.write_text(html_content, encoding="utf-8")
+        # 账号参数
+        if args.wechat != '__all__':
+            # 指定了具体账号
+            accounts = [a.strip() for a in args.wechat.split(',')]
+            for acct in accounts:
+                cmd.extend(['--account', acct])
 
-        # 调用独立上传脚本
-        result = subprocess.run(
-            ["/usr/bin/python3", str(SCRIPTS_DIR / "publish_wechat.py"),
-             str(html_file), title, insight or ""],
-            capture_output=True, text=True, timeout=60
-        )
-        print(result.stdout.strip())
-        if result.returncode != 0:
-            print(f"   ❌ 公众号上传失败: {result.stderr[:200]}")
+        print(f'   执行: {" ".join(cmd[:4])} ...')
+        r = subprocess.run(cmd, capture_output=True, text=True, timeout=120)
+        print(r.stdout.strip())
+        if r.returncode != 0:
+            print(f'   [error] {r.stderr[:200]}')
 
-    print(f"\n✅ 周报生成完成")
+    print('\n[ok] 完成')
 
-
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()
